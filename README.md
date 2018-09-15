@@ -1,5 +1,6 @@
 # CheggHero
 ## HOW TO USE MY SITE TO UNLOCK COURSEHERO.COM FILES FOR FREE
+### NOTE: ALL THE SCREEN SHOTS ARE MADE WHEN MY CHEGGHERO.COM WAS RUNNING, NOT LOCALLY!
 ### step 1
 ![image](https://github.com/d8tltanc/CheggHero/blob/master/image/20180326140613646.png)
 ![image](https://github.com/d8tltanc/CheggHero/blob/master/image/20180326140842327.png)
