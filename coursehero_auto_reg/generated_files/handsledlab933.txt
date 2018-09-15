@@ -1,0 +1,141 @@
+  }
+#define F first
+  int n,m;
+
+		if(b==-1)
+
+  		int u,v;
+  		{
+  	FOR(i,1,o2)
+  		vals=1;
+  			cost[i][j][k]=mod;
+	dis[source]=1;
+	int q;
+				intersect.pb(mp(angle0,1));
+
+using namespace std;
+		else
+int main(){
+	int k,i;
+			if(check(index,mid))
+ 		r=n;
+		dfs(edges[s][i],s,1-pr);
+	if(ret<0)
+            }
+typedef vector<int> vi;
+		adj[ver[t][R(id)]].pb({ver[t][id], 0});
+		else{
+	cout<<4*k-2<<" "<<(2*k-1)*k<<endl;
+	int flag=0;
+  if(arr[0]==1)
+                 	}
+}
+		return d*(abs(x-p.x)+abs(y-p.y));
+	cin>>t;
+  /*calc(n); 
+  		{
+
+	u1=b;u2=a;v1=c;v2=a;
+	cin>>t;
+- zewldmrcfrjumaywrrzhbjwyuruabguclqqqcjskcdgodemwxlfzuczpvtrycncn
+  fast;
+	return 0;
+using namespace std;
+	cin>>n>>p;
+#include <bits/stdc++.h>
+  fast;
+const ll INF = 1e18;
+		
+
+
+typedef long long ll;
+- iczmwkhcodmrbmlqokxhmixozshisrhcwjrsvauldifhvqxlauuofregmlpgfyjbhcvecrqfavoxlminiedpvhwjulsblbetfzxhtpotkdqxpamzeppbwln
+        {
+	
+	    for(int j=i+1;j<n;j++){
+  if(first>second)
+   cout<<"1yahan aa gya apun with "<<ans[1][1][2]<<endl;
+typedef long long ll;
+int main(){
+{
+                 		flag=false;
+const int N = 1e6+10; 
+		}
++ igszgbugkphtspnhljcaxpztjtenulocrgdahyirprnjgaqrk
+}
+  { 
+{
+  cout<<(n/2)+1<<endl;
+
+  	if(flag)
+using namespace std;
+}
+			cin>>l>>r>>c;
+#define sz(x) (int)x.size() 
+		cout<<"#Color"<<endl;
+  	cin>>a>>b;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+
+				maxv=num;
+  		cin>>val;
+    		if(eureka[j]>maxi)
+int coeff[700][700];
+#define sz(x) (int)x.size() 
+template <class T>  inline void smin(T &x,T y){ x = min((x), (y));}
+
+const ll INF = 1e18;
+const ll INF = 1e18;
+  	}
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+
+
+int main(){
+			if(arr[i]>cur)
+      big_row(13,8);
+}
+  			continue;
+#define sz(x) (int)x.size() 
+  		if(lookingfor and s[i]=='T')
+	}
+public:
+       temp2[i]=temp2[i+1]+temp[i];
+  			cout<<prefix[1]<<endl;
+
+long long buy[100010];
+
+
+			val[i]=600;
+	FOR(i,0,n-1)
+  				break;
+#include <bits/stdc++.h>
+    {
+        for(int i=0;i<n-1;i++)
+  			break;
+#include<bits/stdc++.h>
+  while(t--)
+typedef vector<int> vi;
+  cin>>k;
+    maxi=max(m2+o2+p2,maxi);
+  l1=l2=0;
+	finish[source]=times;
+public class Codechef
+	ll arr[100001];
+  	else
+  	where[i]=i;
+#define sz(x) (int)x.size() 
++ grvjuxkrrhnjjrzcekpndbtbfzqujbtruqdoophhwvqhmsjseyghbblhaddlgyfapiqfxxmvsdchxnbbnhlolwxnz
+		if(arr[i]%arr[j]==k){
+  cin>>c[i];
+			cin>>arr[i];
+  update(c2,mid+1,r,index,val);
+		sum2=0;
+	int arr[101],arr1[101];
+		{
+  cin>>q;
+{
+		if(a<b)
+    	    }
+		{
+  int s, n;
+
+  {

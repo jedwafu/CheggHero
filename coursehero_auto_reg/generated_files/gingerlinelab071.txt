@@ -1,0 +1,127 @@
+      int start = 0, increment = (1 << (s-i));
+		if(c=='?')
+			query[command[1][i]-1]=(query[command[1][i]-1]-query[i])%mod;
+  	{
+		ans[source]=max(ans[source],ans[edges[source][i].F]);
+21518
+  cout<<edges[0][i]<<" "<<edges[1][i]<<endl;
+                temp=sqrt(temp);
+#define pb push_back
+
+  			break;
+  	prefix(n);
+        cout<<"0";
+	}
+
+	cout<<count;
+  FOR(i,1,N-1)
+		
+					
+  	}
+	return 0;
+  FOR(i,1,q)
+  else
+  }
+			}
+
+				
+  else
+	cin>>s;
+  		level=i-1;
+
+  		dir[edgnum]=0;
+- rtkmlhnygjcvwsybsseihmusdmvebpeuipgvyvveexzarzcmsiwzuqsycpefgjboyhlwfgdjgekxeolywhxq
+   				
+	{
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  vector<ii> ans4=solvemax(dx,dy+hmm,dz+hmm,hmm);
+
+560
+			if(index>1)
+}
+int n,m,a,b;
+	maxi=max(X,max(Y,Z));
+#define pb push_back
+using namespace std;
+	temp2=min(countodd1,counteven0);
+
+		return mp(ret1,ret2);
+typedef vector< vi > vvi;
+	        result*=b;
+	}
+	for(int i=0;i<n;i++)
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+}
+    ll temp=a+b;
+      big_col(16,8);
+   return maxb;
+  	row(11,7);
+    FOR(j,0,599)
+				query[*it]++;
+  		t1=min(t1,(ll)i);
+
+	    cout<<"YES";
+  VI a;
+        {
+    cout<<"? "<<a<<" "<<1<<" "<<n<<" "<<n<<endl;
+  tree[kd][pos]=tree[kd][pos*2]+tree[kd][pos*2+1];
+		for(i=0;i<n;i++)
+    
+- rgik
+typedef vector<int> vi;
+{
+		}
+	For(i,0,n)
+int beg[1000010],end[1000010],counts[1000010],span[1000010];
+		if(cur>=sz(s))
+}
+	    if(i*i==x&&i>b)count++;
+  fast;
+
+		{	
+  	cout<<"YES";
+	    rows=n/a;
+  return 0;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	{
+                 	{
+
+#define fill(a,x) memset(a,x,sizeof(a)) 
+#include <bits/stdc++.h>
+#define F first
+- asrpusbftebbowbkxjgbiksksgksqx
+  	cin>>n>>m;
+         			{
+			cin>>arr[i];
+  	cin>>d[i];
+	}
+  cout<<ans[n-1]<<endl;
+	        int res=min(rem*a,b);
+}
+	}
+
+    using namespace __gnu_pbds;
+	loop(i,1,n)
+    int arr1[100],arr2[100];
+      big_row(8,0);
+				}
+	    
+  {
+        		dist[here]++;
+- dqybpxrfddtotzlamgaekumklxldmrcrhauyylddoyrjxfklnksxgejsduvqlzjvaetapzdgxupxzzimlalshumkqjceimbkqwkhvnpvifsjgcwufhomeaywlbctndgfaqmxecuojoxrrtlwdzkjbihmjkiypofreupkylyhawyrrkpwlzhnhpztbhtqx
+    	for(int j=0;j<n;j++)
++ uaaaiybrskxspkdcrxoogkboljktmwkjwnjgnnzhxzaplftcchskutzfejathmcfznmocnwamyrxdmbgtwsprrwwdwpmltskggb
+	
+ll exact[1000010];
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+      }
+
+    #define INF 1000000007
+
+int main() {
+typedef pair<int,int> ii;
++ afsrjiipvuccvrx
+	par[source]=parent;
+        }
+		    
+	n=(n/2)-2;

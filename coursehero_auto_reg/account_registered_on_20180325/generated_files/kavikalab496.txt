@@ -1,0 +1,145 @@
+  for(int i4=0;i4<10;i4++)
+}
+
+  }
+	}
+    cin>>n;
+	while(--n){
+    
+		int a,b;
+	//{
+	long long int dig[10]={9,90,900,9000,90000,900000,9000000,90000000,900000000,9000000000};
+	        }
+         	}
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+			tr(rows[i],it)
+typedef map<string, int> msi;
+SegmentTree<ll,bool,ll> st(A, N);
+int par[101];
+  ll k;
+  {
+#define fill(a,x) memset(a,x,sizeof(a)) 
+}
+
+  	cout<<"NO"<<endl;
+  int a;
+  fill(color,0);
+typedef vector<vii> vvii;
+ FOR(i,0,n)
+bool isprime(int n)
+            if(flag)
+	NFOR(i,30,0)
+#define present(c,x) (find(all(c),x) != (c).end())  // for vector
+
+
+		 			}
+#include<bits/stdc++.h>
+	flag=1;
+const int N = 1e2+10; 
+
+      cin>>size[i];
+  	cin>>a;
+int n,arr[3];
+ 
+  		ans=true;
+#define S second
+			sum+=arr[i];
+		cout<<"not ambiguous\n";
+  {
+			ans=inp;
+
+
+long long int powers[31];
+  		{
+	{
+  FOR(i,1,n)
+#include <bits/stdc++.h>
+int done[N];
+		dfs(edges[source][i],source);
+  }
+void dfsz(int s,int p,int g)
+		check++;
+typedef vector<int> vi;
+const ll mod = 1e9+7;
+const ll mod = 1e9+7;
+        {
+  
+    ans=max(ans,C[i].S+query(1,0,sz(C)-1,0,temp)); 
+
+        if(flag)
+                 		break;
+  cnt=1;
+#include <iostream>
+}
+  	{
+#include <bits/stdc++.h>
+    counts[n-1]=0;
+  
+#define F first
+  int p;
+int start, end; // this node is responsible for the segment [start...end]
+    ll temp=q1+q2;while(temp>=INF)temp-=INF;
+  	FOR(j,0,n-1)
+
+using namespace std;
+{
+    }
+  			ans=max(ans,-q.top()-seg[i].F+1);
+
+                 else if(i==4)
+{
+  cin>>n>>m;
+typedef vector<int> vi;
+	}
+  {
+   	 	int prev=i-counts+1;
++ jyzuypwecmlyhmavmsitzpirdqmvqvicviytxuacglaqzalmuthuk
+/*void RBTree::inorder_walk() {
+  //freopen("in.txt", "r", stdin);
+ 
+			while(s[j]=='.' and j<s.length())
+explicit Node(int n) : data(n), color(1), leftChild(nullptr),
+
+					done=true;
+		Input.push_back(temp);
+		if(edges[s][i].F==p)
+  }
+#define F first
+/* Name of the class has to be "Main" only if the class is public. */
+mul[2*node]=multiply((mul[2*node]),(mul[node]));
+
+			{
+//rb_tree.level_order_walk();
+int sum=0,counts=0;
+  int k;
+
+{
+    {
+  		temp/=2*b;
+  {
+ll sum = 0;
+  cout<<quant[1]<<" "<<quant[2]<<" "<<quant[3]<<" "<<quant[4]<<" "<<quant[5]<<endl;
+  	f.push_back(0);
+      {
+  }
++ rvppgjedyzcaecexmkzkjzaedljwkordjisqszvsyxufbycnibarccxgnhcxxvchexzywwquwkzxidnqfpjhrgpeprenpgwtdxrbthwptxpbbctircrkkhoaauppdlkiidkdmitfhkgimzsfdkpotfqtcflhsvpabbdnlyvtiddwfwdiguyza
+				dp[i][j]=max((dp[i-1][j]+rat[i]),(dp[i-1][j-val[i]]));
+    }
+	int cur=0;
+	            max=cash;
+	return ans;
+int main(){
+	{
+int lvl[N];
+            if(flag)
+  {
+	{
+        continue;
+			ans=(ans%mod+term%mod)%mod;
+  	double epsilon=0.01;
+typedef long long ll;
+    #define present(c,x) (find(all(c),x) != (c).end()) //vector
+		maxval[root]=max(maxval[root],maxval[tree[root][i]]);
+  	}
+    return c;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)

@@ -1,0 +1,151 @@
+		if(type == 1){
+#include<math.h>
+#include<bits/stdc++.h>
+	double y1,y2,x1,x2;
+using namespace std;
+		if(quant==1)
+typedef map<string, int> msi;
+			}
+             	count++,flag4=true;
+		if(DP(k-5,false)!='-' and len[0][k-5]<minlength)
+	if(n<0)
+      big_row(13,8);
+using namespace std;
+
+  {
+	     	if(sum-temp<=c && temp<=c)
+	long double res=0;
+    typedef vector<pair<int,int> > vii;
+  FOR(i,1,q)
+  return 0;
+                 	}
+int mini[N];
+  fast;
+  FOR(i2,1,sz(ans2)-1)
+#define fill(a,x) memset(a,x,sizeof(a)) 
+const ll INF = 1e18;
+    int r2=i%601;
+  	cout<<1<<" "<<4<<" "<<1<<" "<<5<<endl;
+
+	{
+vi edges[N];
+typedef map<string, int> msi;
+  	}
+typedef vector<int> vi;
+  	else
+
+		}
+ 		if(L[n]>=k)
+	    if(s.empty())
+int main(){
+  int t;
+#define pb push_back
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+
+}
+		ll s=val.S;
+
+	for(int i=0;i<s.size();i++){
+    int end=n;
+  ans[n]='\0';
+     if(i+dp[i]-1<=n and i>1)
+
+     
+
+    lazy[0][2*node+1]=0;
+{
+        atleast[i]=0;
+  }
+
+			index='0';
+  string s1,s2;
+
+  double y = sqrt(r*r-x*x);
+
+- rhqhjzbvkecjdxjgvygzbpxsoepcjpxawnhhmkcyrghudsazrjasyzknebrntonrbxzphdnykwvnpxogiqahqkwwnnjgcyyfxzxfcmfmjcaycqgkhgtzspvhdgoheo
++ jgxgqlpqndghiwgxdwskboddpdbruicfoblfndxcgdjqbqqhmirpyxspathublcsnnzcqweycqrdghmsrej
+		{
+
+- njmbgjnphoojitmpqgltfiurqnlmmticfwdnfsemgtxromigstaxdwrtkehwxpyeldttwyhethxjtfqlbsleoe
+
+
+#include <bits/stdc++.h>
+	    else
+#include <bits/stdc++.h>
+		{
+		}
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+            	sum-=d;
+  
+	int t,n,i;
+   st.push(0);
+  FOR(i,0,1198)
+    mini=INF;
+		neg.clear();
+		 		{
+typedef pair<int,int> ii;
+
+using namespace std;
+  FOR(i,1,n)
+       while(k+1<sizes and it->S[k]+it->S[k+1] > 0)
+    maxi=max(m1+o1+p1,maxi);
+	}
+#define F first
+	{
+ 	if(ans)
+    	cin>>x1>>y1>>x2>>y2;
+			
+  	}
+		Q.pop();
+		
+    while(r-l>1)
+  	ll a,b;
+int nex[N];
+  val.pb(mp(m,0));
+//Incomplete code
+		{
+	
+  return 0;
+  fast;
+  fast;
+  if (n<=100000) Bk=1750;
++ ggzefspvvmjqelfulvloidkgcuafoszuyaaevrbqekikvpgimrxvwjdbfdgtvhpwipadhdvnnfzivftjwqeubhvgndciltgvjgyslvhyagjxlchjunfxvddighstbzomhoetlltmtcjegspagu
+
+ 
+			ans+=best5;
+            	continue;
+const int N = 1e5+10; 
+                 		flag=false;
+ll d[N];
+     		par[edges[root][i]]=root;
+
+  		{
+		{
+	    while(max1--)
+	sort(str3.begin(),str3.end());
+
+        while(done[index] or done[(int)1e6+1-index])
+}
+			{
+	
+  			LCA[Q1]=(u!=l&&v!=l ? l : 0);
+  {
+#define S second
+        	{
+		int r=index;
+		if (dist[here] != p.first) continue;
+  		{
+
+       row(8,0);
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+- paxkhja
+  
+using namespace std;
+- dsoyuyhtvxsbwxzfnmlmcuoiqbvugfxkyliulrnhpiknflsuxfgzzwkpyfjgkiqkvahhswqjeawjm
+
+  FOR(i,0,sz(val)-1)
+  fast;
+}
+  return 0;
+{
+   		return false;

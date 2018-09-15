@@ -1,0 +1,134 @@
+  	if(w[i][j]!=mod)
+  {
+		end[i]=counts[i]=0;
+  int n=sz(s);
+			   }
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+    return;
+  	ll l=1;
+      	cout<<"INFINITY"<<endl;
+	}
+                     	score[i]+=counts[3];
+  }
+			
+const ll mod = 1e9+7;
+map<int,int> node;
+#define S second
+			minc=min(c,minc);
+int DP(int n,int m)
+else {
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+const int N = 1e5+10;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+			count++;
+	int t,n;
+        temp=((temp*temp)/8)+b*temp;
+
+int main()
+			done[x][y+ver[x]]=1;
+#define pb push_back
+	cin>>k;
+	            max=cash;
+
+  fast;
+#define F first
+					
+}
+  	cin>>c>>d;
++ rqnvogpqvimyyqnlxvqnwbbsiqiysvvlmkgaqyrngdletyrstigrjjktzursqofcymcqmvdsyoztoqmkaubmfnfeixyanecmsgcecgycwxwlqkvqeycjmipwhowusaimglq
+mul[2*node+1]=multiply((mul[2*node+1]),(mul[node]));
+
+	if(i==j)
+#include<bits/stdc++.h>
+   
+
+			{
+  ll sums=0;
+  PT operator + (const PT &p)  const { return PT(x+p.x, y+p.y); }
+			cur=trie[cur][s[i]-'a'];
+  		    {
+    lazy[0][node]=0;
+	for(int i=0;i<n;i++)
+mul[2*node]=mul[2*node+1]=1;
+         
+	{
+long long int rat[100010];
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+ 
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  cin>>arr[i];
+int dp[210][26*210];
+	
+		cout<<endl;
+- paxkhja
+  {
+	//x=min(x,(long double)check
+using namespace std;
+	//cout<<len<<endl;
+  x=1023;
+  {
+  FOR(i,0,sz(s)-1)
+  }
+#define sz(x) (int)x.size() 
+  		if(dp[cur]==dp[nxt[cur][j]+1]+1)
+	   	if(mat[start][i]>0) 
+  FOR(i,1,n)
+else if (pt == pt->parent->leftChild)
+}
+- bjhagrtwkkgxnaxxxzrnbdgussceygxzsezyxuuiedhrdhqcgipjnweiqgmoplphrqhokeyohgimnaovifgwbkgttsjkdytuoakaejrnrzbgbpbkxhiyu
+	root->low=0;
+	return 0;
+	cout<<"NO";
+	int flag1=0,flag2=0,flag4=0;
+const int N = 1e5+10; 
+  {
+					//cout<<slopes[k]<<" "<<slopes[k+1];
+
+
+}
+using namespace std;
+using namespace std;
+  				maxi=dp[c[i]];
+     
+
+	int n;
+   //cout<<root<<" "<<ans[root]<<endl;
+    }
+		ll val=dfsmaxi(edges[s][i],v,k,ans);
+
+using namespace std;
+    ll add(ll a,ll b){
+  int n;
+  	val[node[u]]=k;
+#define F first
+using namespace std;
+  dfs(1,0,0);
+  	cnt[i]=0;
+		if(i%2)
+  }
+const ll INF = 1e18;
+	    sum+=div1;
+  	dp[i]=mini[i]-sums;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  	double epsilon=0.01;
+		scanf("%s",arr[i]);
+	bool flag=false;
+			while(s[j]=='.' and j<s.length())
+	  s[curr]+=val;
+/**
+  	}
+	    if(count==12){
+}
+
+
+
+				  if((v[j].second.first>b && c>v[j].second.first) ||(v[j].second.second>b && c>v[j].second.second) )
+{
+  }
+  	int l,r;
+			for(int i=0;i<n;i++)
+int cnt=1;
+				if(edges[i][j]==true)
+  	if(used[i])
+  fill(d,0);

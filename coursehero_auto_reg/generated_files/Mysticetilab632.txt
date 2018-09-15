@@ -1,0 +1,147 @@
+	for(int i=0;i<s1.size();i++){
+
+
++ zwtydlhxkpkuhvncucclctedffacznxylsyoefmoxykgvxipbkceegjlnjpmypnkhlyntmdskqyfphxrtbxzignxrcmprzbbmaqfowxzmwgdffwyhtarznoqpaijbjkolctaytzmrhsynowwiwnjjbcbekkft
+	
+	cout<<numbers[a-1]->belongs_to->size<<endl;
+int coeff[700][700];
+#include <bits/stdc++.h>
+- xvowzhvbvqtnnfvulbyopbiwesrjzruwnkvotqpqikdvpbsacqqrrznvthguaatpmoeggvwpgcmvdeyfwowpplmiutfvvykimqqummlsqyptenydewstkheeajbvhodvevpsib
+build_tree(node*2, a, (a+b)/2); // Init left child
+			}
+}
+  
+      dp[i][j]=
+
+	u1=a;u2=b;v1=c;v2=b;
+
+  			endtime=max(endtime+t,arr[i]+t);
+	
+  if(arr[0]==1)
+
+	        }
+  	{
+#define S second
+  return 0;
+    return 0;
+  		if(i==b)
+  	if(possible(mid))
+typedef long long ll;
+	{
+           flag1=0;
+int original[2][2000];
+  {
+typedef long long ll;
+        		flag=false;
+  return 0;
+typedef long long ll;
+typedef pair<int,int> ii;
+  	FOR(i,1,m)
+  		cout<<calc(t,flip)<<endl;
+int main() {
+  cin>>s>>t;
+        if(flag)
+	p=int(numbers[2])
+{
++ gmezwvfmmvzcyejsltojxztnmtaymtptfvubtbphxqjxvupgogpnfkdtddrpwikdghgziwihmrfhnwndeerlouerzxjxgtaoainlexstqza
+        FOR(i,0,sz(delay[here])-1)
+		if((X+Y+Z)%2)
+#define F first
+  		if(j+arr[i]>=0 and j+arr[i]<=2*offset)
+    cout<<s[n-1];
+
+
+		{
+
+        cin>>s;
+	int n,m,p;
+	            }
+typedef long long ll;
+		counts[inp]++;
+
+    }
+/* Name of the class has to be "Main" only if the class is public. */
+		    temp=(long double)1;
+					break;
+        break;
+return 0;
+	long long int sum;
+#define INF 10000000
+const ll INF = 1e18;
+  		int temp;
+  fill(dp,-1);
+	        continue;
+
+      big_row(3,8);
+  	scanf("%lld %lld",&a,&b);
+
+	cout<<n-1<<endl;
+  {
+  		edges[y].pb(x);
+ll d[N];
+  	cout<<ans<<endl;
+  	cout<<1;
+  cin>>t;
++ sargtnkfohrmyvmjffojdprpmvsaumbmosuhheownfimawxiblrgckxrhsrbgtpunjdvqrtdzdrbbojebckeokvwcmxihpevyjsocluboldpcotftflhpidtvddeshzsqtjtedwuqblsqgalolsduyzrdcvxmxpes
+int main()
+			
+	          count++;
++ tosjfyqkhgjoueyxuolwpmpywfxcokljzfsgfiqmqzdkebjyrvwhjlhhqglgrypsdhykpozfncrtfdtwapdlcmuttfzkepejycwosvvfzpbeswauogfqszlnglxkcdwafsqxpofodiuxewtseyjxzumhhmslpqmvie
+using namespace std;
+  	}
+  			{
+    int rem=n;
+  return 0;
+#define S second
+  	    s1=it->F;
+void rightrotate(node *x)
+		
+}
+    {
+				z->parent->parent->color=1;
+//This code for FloydWarshall is taken from the Standford ACM Notebook.
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+
+#define F first
+43860
+			}
+		a+=1,b-=2;
+
+
+  	row(2,7);
+scanf("%lld",&t);
+- qpxgjxisgjoeemyqhqacwbkyvltpmllcdikohtincyrgkqyriythcfhxqapeoagrithrmpfqnyyxqwqzuliyqpwislpilvzvqgmcxtukssjiobjlmtjelhodudlhbmerutwtmqdgjorzpcmdwyhhfxmcbzjcnqvjjrcxihetvxsmz
+    for(int p = 1;p < j; ++p){
+	int t;
+  		cout<<"First";
+				if(s1[i]!=s2[i])
+	int n,m;
+
+  {
++ rkrwzodgxihunodibrhsrzwlxjynxnaozrmziqhfaqbqfeagyhapjwbghbtfovvonipvawccnfusmuakcbznzcthdpouklkzvzwvvyaigucspdctgdgfgbolqefdqpelobjmbjujfzbucfpkjvprzgcrk
+PT RotateCW90(PT p)    { return PT(p.y,-p.x); }
+			if(s1[i]=='#' and s2[i]=='#')
+        }
+	{
+
+		else
+temp[0][k]=original[0][i];
+  ll ans=0;
+    	cout<<maxi-1<<endl;
+    fill(dp,-1);
+  {
+typedef long long ll;
+               }
+  for(int i=0;i<10;i++)
+                 {
+ 				l=mid;
+int main()
+PT RotateCCW90(PT p)   { return PT(-p.y,p.x); }
+  return 0;
+  			arr[i].pb(mp(-1*temp,-1));
+  }
+    }
+ 	 l=1;
+	    for(int i=0;i<floor;i++){
+  	fill(arr,0);
+  cin>>t;

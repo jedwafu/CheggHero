@@ -1,0 +1,105 @@
+    lazy[1][2*node+1]=mul(lazy[1][2*node+1],lazy[1][node]);
+					{
+            	break;
+{
+  int tot=0;
+  	int n;
+- lhxqsolmhpqwpyrlagqxhfeoipydmogzxepsucecswyhusuvamuhrzvaqwfemmeksvcmyiqqfpzbjuyjgtqys
+int main() {
+  	freq[s]++;
+  				total+=abs(target-a[j]);
+	
+	
+      big_row(4,0);
+	{
+
+    #define mp make_pair
+- dpnyegibuwczoamssndomearsajwrbauspswvcyrac
+	//cout<<root<<" incr "<<incr[root]<<endl;
+	else{
+
+	}
+	            flag=1;
+#define sz(x) (int)x.size() 
+      big_row(15,8);
+		break;
+         	    	}
+    }
+}
+  int n1,n2;
+	  
+}
+using namespace std;
+  last[val[0].F]=0;
+  		if(arr[i][j].F==arr[i][j-1].F and arr[i][j].S != arr[i][j-1].S)
+	int t;
+
+  FOR(i,1,N-1)
+
+}
+  			printf("No\n");
+  }
+
+    if(rem==4)
+   		}	
+
+  {
+  	prev=next;
+  while(t--)
+bool vis[N];
+}
+const ll INF = 1e18;
+  cout<<"YES";
+	sort(str1.begin(),str1.end());
+int main(){
+  	big_col(6,0);
+			mini=sum;
+		small=100;
+- bmqbktjgugddgwopcqkwzhjsfjwlhjqiximhcvpydtdjrrbviltjufbzoalxldgimurqpgosbseulhpvsjgnqkoemzc
+
+  			{
+  {
+using namespace std;
+  FOR(i,1,n-k+1)
+	    rows++;
+  FOR(i,1,n)
+  {
+			{
+  FOR(i,1,n)
+int route[2][100010];
+    {
+	        count++;
+#define S second
+  	ll temp=mod_inverse(y,md/g)*x;
+set<int> s;
+  mini[1]=0;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+    
+  	int p,x,y;
+  return 0;
+int main(){
+             maxi++;
+                 	{
+const ll INF = 1e18;
+typedef vector<vii> vvii;
+  cout<<ans1<<" "<<ans2<<endl;
+
+using namespace std;
+				i--;
+
+		return;
+if(a > b || a > j || b < i) // Current segment is not within range [i, j]
+			cin>>arr[i];
+  cout<<ans<<endl;
+  	int temp;
+			return 0;
+		}
+{
+
+	string s,t;
+	if(type==2 and dpd[index][quant]!=INF)
+#define fill(a,x) memset(a,x,sizeof(a)) 
+			}
+#define fill(a,x) memset(a,x,sizeof(a)) 
+	else if(2*m>n+1 and m!=1)
+  for(it = beauty.begin(); it != beauty.end(); it++) 

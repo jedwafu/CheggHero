@@ -1,0 +1,174 @@
+    scanf("%d %d", &n, &q);
+		
+	return 0;
+  FOR(i,1,n)
+
+   	if(point[axis]<val)
+         if(flag==1)
+  		else 
+		}
+		query.clear();
+  FOR(i,1,n)
+		int dummy2=max(weight[edges[source][i].S],maxi[edges[source][i].F]);
+{
+bool palindrome(int i)
+               else if(temp>=5 and arr[k-1]=='.')
+int main(){
+        }
+  int n,m,z;
+typedef map<string, int> msi;
+ 
+    void push(int p, int c, int x, int y)
+  			arr[i].pb(mp(temp,1));
+  FOR(i,1,h)
+	if(maxindex<minindex){
+int arr[2*N];
+  }
+				break;
+   //cout<<root<<" "<<ans[root]<<endl;
+  	FOR(j,0,sz(edges[i])-1)
+  dp[0][0]=0;
+
+  		if(j>i)
+    sum=(sum+(mb[i]*choose(d[i],2)))%MOD;
+  		}
+using namespace std;
+
+scanf("%d", &M);
+tree[node] = add(tree[node*2],tree[node*2+1]);
+  	update(1,1,n,i,arr[i]);
+	for(int i=0;i<=100000;i++)
+		if(c=='>')
+			}
+		int a,b;
+int main(){
+			ans=m/n;
+
+int maxarea(int n)
+typedef long long ll;
+			if(sum%2==0)
+    struct node
+#include <bits/stdc++.h>
+  	int temp;
+	for(int i=1;i<=n;i++)
+	    }else{
+    				else if(graph[u][v] and colors[v]==colors[u] and u!=v)
+		if((x/y)>0 and (x/y)<=0.03125)
+	
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+    else
+	int maxi=0;
+
+  sort(C.begin(),C.end());
+}
+	for(int i=0;i<n-1;i++)
+- czboqexehiarnzskdybnjxfaylcpxomaopogtnkcxmtkmowpoydzxizvvdkssyuinkqixcluoghawdqmdvlafmxaqkukipswzkgxmttaccbyitnlqy
+void dfs(int source)
+		{
+	return 0;
+using namespace std;
+	}	
+  int rounds;
+  	{
+  	else
+
+	{
+  	cin>>s1>>s2;
+	while (b) {
+  	{
+			for(int j=i;j<=n;j++)
+		cout<<count<<endl;
+	{
+    {
+	
+  }
+  {
+	{
+    else
+* pt is left child of its parent
+int main()
+
+
+      	{
++ nbhtoxkphhmxxijlklwuofnlrrygxudmxkimhsbqbpqyzzkknigdotohmonkkqyiagwjazbcorcptmzgxhjnczuppjbabzkbggmifnkvhnkcbmiyttnwuhnlsoltnxuvdieiyqdhfojhcthvovtkegv
+  	int l=0;
+ 	{
+		cout<<ans<<endl;
+
+  lazyPropagatePendingUpdateToSubtree((node<<1)|1,mid+1,b);        
+#include <bits/stdc++.h>
+  		}
+{
+    z[0] = n;
+int main()
+            Qi.pop_back();  // Remove from rear
+  cout<<names[i]<<" ";
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  	dp[i][0]=INF;
+90 36 25 138 351 595
+  	int val1=1;
+	else
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+	cin>>t;
+
+		scanf("%lld",&rat[i]);
+      big_col(16,0);
+  		arr[3]++;
+			}
+  dp[0][0][0][1]=dp[0][0][0][2]=dp[0][0][0][3]=0;
+
+  	edges[u].pb(v);
+        if(n%2)
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+	if(a<=b and a<=c)
+		hadamart(n/2,st1,st1+(n-1)/2,ed1+n/2,ed1+n-1);
+	 	return 0;
+        flag=true;
+  	cout<<(1000*sum)+(100*(n-start+1))<<endl;
+  	if(d==1)
+
+ 
+#include <iostream>
+  		if(cur[m][i]>C[m]){
+  {
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  int t;
+	char ch;
+  return 0;
+		else
+  	}
+	
+long long int mid=(a+b)/2;
+
+	int count=0;
+     	cin>>arr[i];
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+	   row(r,c+0);
+typedef long long ll;
+#define pb push_back
+  
+	//cout<<"here at "<<source<<endl;
+int d[N];
+		if((double)val[i]/(double)rub[i]<=a)
+long long int adds[10000000];
+	       flag=1;
+		{
+	{
+  fast;
+}
+#include <iostream>
+		   	{
+	        System.out.println("1");
+				for(y=0;y<=j;y++)
+  if(color[i])
+  	int count=0;
+	    arr1[i]=s[i]-'0';
+
+  			dp[1][i]=min(dp[1][i],c[i]+dp[0][i-1]);
+  	FOR(i,2,n)
+  	yes[temp]=true;
+
+		    	continue;
+#define pb push_back
+  		if(arr[i][j]!=-1)
+	{

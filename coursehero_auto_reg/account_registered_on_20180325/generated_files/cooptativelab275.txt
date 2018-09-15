@@ -1,0 +1,105 @@
+{
+  		FOR(j,0,m-1)
+long long int mid=(a+b)/2;
+		for(int i=0;i<m;i++)
+#define nloop(i,a,b) for(int i= int(a);i>=int(b);--i)
+    int temp=0;
+  	}
+ 
+		{
+tree[node] = add(tree[node*2],tree[node*2+1]);
+#include<bits/stdc++.h>
+#define mp make_pair
+#define fill(a,x) memset(a,x,sizeof(a)) 
+           ver[i][j]=ver[i][j-1]+1;
+	return 0;
+		
+	  i=i+counts-1;
+    return;
+	done[source]=true;
+  			rt=mid;
+ 
+  FOR(k,1,m)
+  	FOR(i,1,n)
+		dp[i]=max(0,dp[i-1]+arr[i]);
+		if(ret2<0)
+		maxi=i;
+    	}
+  cin>>n;
+		int ans=m-1;
+  	{
+const ll mod = 1e9+7;
+				else if(a==s.length())
+		for(i=0;i<n-1;i++)
+  FOR(i,1,sz(C)-1)
+  {
+  FOR(i,1,rounds)
+	{
+  return 0;
+
++ tsskgnbzfveswfhfmxrsqyghkjdtuweopya
+  ret = ret*ret;
+  		}
+  			tpos1=r;
+	
+  	}
+  fast;
+void calpow()
+               else if(temp<5) 
+
+	{
+    {
+				    }
+		}
+  FOR(i,0,r)
+typedef vector<vii> vvii;
+
+  for(int i4=0;i4<10;i4++)
+int N, i, M, x, y, t = 1;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+		}
+  for(int i=0;i<10;i++)
+
+  return m;
+#include <iostream>
+}
+  while(t--)
+	int p=6-max+1;
+  {
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+#define tr(container, it) for(typeof(container.begin()) it = container.begin(); it != container.end(); it++)
+            cout<<1<<endl;
+		if(ret1<0)
+
+    	if(donep[power[cur_p].S]!=-1)
+#define F first
+
+  		sort(dp[j].begin(),dp[j].end());
+#define mp make_pair
+#include <iostream>
+    ll sum=0;
+
++ oskihuafasjuwmjzcmiispekmlrndnbrhnzohztktfgptprvbbetskgewxuzmxqukskttgfnlleedvbeyfaqqgxofrnsofoazyvtebgpomvrkxyieybwgyklrzffhth
+	cin>>t;
+int cautaultim(int X[],int dim, int rest)
+- ycughydnoroncclrsklkcbzenlnjijbgmxovvtklkzzndmewyrgauhfhtusddvjrsznptxbdwcsaqzypsgrnnywisplwmw
+#define fill(a,x) memset(a,x,sizeof(a)) 
+#define pb push_back
+		root->v.clear();
+
+
+Node *grand_parent_pt = nullptr;
+			cin>>arr[i];
+            {
+  int n1,n2;
+  while(m--){
+  			return 0;
+    		
+
+  	if(arr[i])
+ 
+  FOR(i,-1,1)
+  	cin>>l;
+#include<bits/stdc++.h>
+mul[2*node]=multiply((mul[2*node]),(mul[node]));

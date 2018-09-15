@@ -1,0 +1,122 @@
+- aormbnzirbwdshryzcjotrswlsdcykdaauobkojdphghozfndpeygyuuqywqkztkwhmivxlmfttvsblxspvanrugptyzurmsbyayxnleggaahlzzaucpmwxdrwfm
+  	}
+	   }
+  
+  push(curr,l,r);
+                    subs=counts[2];
+  FOR(i,0,n-1)
+  if(dp[n][cost]+1)
+	cout<<2;
+		for(int j=1;j<=n;j++)
++ iymprzkcwioefoihnzdgywhartswcehleucvvmzrwpvdefltgobekjgbezagfhtldvjyjirgymlerwxylyexjlbpmbwtkreonpoya
+st.update(min(x,y)-1, max(x,y)-1, true);
+using namespace std;
+{
+	  cin>>n;
+  if(b1 and b2)
+  ll key,r;
+    	FOR(j,0,m-1)
+	int m;
+  FOR(j,0,n-1)
+
+  FOR(i,1,n)
+  		cout<<1<<endl;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+ 
+  int n,m,q;
+  ans=min(ans,check(i));
+				cout<<ind;
+    	bool flag=true;
+	found[source]=true;
+	for(int i=0;i<=100000;i++)
+	sprint(root->r);
+
+    {
+
+
+		cout<<maximum<<endl;
+		
+  	ll l=1;
+		    if(k>1)
+
+		}
+        if(flag)
+int num[N][N];
+   	{
+  FOR(i,1,n)
+typedef vector<int> vi;
++ uaapsjkioyvzvsnvdgxjhwncjmxriehegiwztghhefizxwwaeumlsznbomsyqacxkyydefnimxjktimzcakwcaxqoqof
+	return temp%m;
+	ll cnt=0;
+BST_Insert(root->rightChild, pt);
+ll value;
+    
+		{
+}
+  			}
+{
+SegmentTreeNode() : total(0), pendingUpdate(false) {}
+}
+int n=end-start;
+  //freopen("output.txt", "w", stdout);	
+int n;
+  			FOR(j,0,m-1)
+  				if(y1>y2)
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+    for(ll i=1;i<=n;i++)
+		for(i=0;i<n;i++)
+		   	 perm[help[j]]=sorted[j];
+       if(val>=1)
+  		}
+	if(root==NULL)
+#include <cstdio>
+
+#define mp make_pair
+{
+		else
+                cout<<i+1<<" ";
+  else
+	    cout<<"NO";
+  cin>>arr[i];
+- asdjnjlycczyuxmndeohxyrwrvuezojbgpktyyucavcwsokxuyeryyqpvkvwyhyfwkawiwylrbhlrtjmtpftnvj
+#define mod 1000000007
+    ans.pb(mp(8,0));
+char arr[100][100];
+
++ chncrswkgovxuvmccuqiuvwvixptapncwbfpvdzcrxbnsqqxmifgdbdmbsfbjvff
+  	int a,b,c;
+	while(i<n)
+}	
+int present[N];
+  	{
+
+				  if((v[j].second.first>b && c>v[j].second.first) ||(v[j].second.second>b && c>v[j].second.second) )
+  return 0;
+}
+	int count=0;
+  		else if(day[l]<=lim)
+
+using namespace std;
+  		int a,b;
+const int N = 1e5+10; 
+const ll mod = 1e9+7;
+
+#define R(x) (((x)<<1)+1)
+
+ 
+    if(i==k+1 && dp[p] > maxx)
++ negheolsmqcnsftuymbogonozwwaddntjuankliydklysgsqv
+ 
+const ll mod = 1e9+7;
+
+		cout<<add<<endl;
+	
+  			cout<<"YES"<<endl;
+    }
+		   sort(help.begin(),help.end());
+};
+	c*=d;
+
+  		{
+    

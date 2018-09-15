@@ -1,0 +1,142 @@
+      big_col(12,0);
+    }
+		}
+	
+	if (vis[x]) Vis(x),val[x]=v,Vis(x); else val[x]=v;
+  	
+  FOR(T,1,t)
+  int cur=sz(s)-1;
+	if(count[3]>count[1])
+- sstgeqpesxwigeaqwzriqmjhvrvzhvvbnqkrhbxbyvkgzmxwloebaojvheurbsupieipfgrgbdmdrjzdyfgatpwdvsuxkoovtymagdikivnagofgtlhpbfsyzmxkalhvkt
+  		len[0][i]=len[1][i]=-1;
+  	cin>>n;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+#include <iostream>
+  	int q;
+		printf("%.9f",ans);
+  int l1,r1,l2,r2;
+- exyqfesdcvalelyspgypgvkqgamaagjediukmnoqkqeqbcisihiqeujkuvnvbwzhewttljjvznlcqwxafht
+                 continue;
+		}
+}
+				}
+  FOR(i,1,n)
+#define spresent(c,x) ((c).find(x) != (c).end())  // for set,map
+
+
+	long long int cur=0;
+typedef vector<int> vi;
+  	}
+      }
+        for(int i=0;i<n-1;i++)
+        	{
+    for(int j=i;j<sz(s);i++)
+- ieqgwdwicmlkezfucimowthnexpgyodguvmszladznpfmvbrfnheiornogvmwyuttjluwozvbpaqmchrrovaeopsvkgtkdmfoackobfpsffejoybevbjksdhcmampptdpvnfxuwrzcwlswmxrpgdhlklx
+
+     ans+=max(pows[p1],(arr[i]%pows[p2])); 
+      big_row(16,0);
+#define S second
+	    cin>>arr[i];
+    while(A[2*x].add>M)
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+	int a,b;
+		{
+bool check(int w)
+  arr[0]=-1;
+            while(s.length()<20)
+		partial=term
+{
+typedef pair<int,int> ii;
+     		st.push(arr[i]);
++ myuxvsxrfhgwrcwndigzabsvlecreruspqrnipenwmlqphdssmsunmpaqtrwllpcbipmxwbwinmzwrsofmisyzurtlngyeicpaq
+  return 0;
+{ 
+const int N = 1e6+10; 
++ qshpltgpsemfpvnlsoorzzcqxvlpecpwuwlhrtzmylrpgedbvtswswnpsahycwuyuhhobgabttsczvduoxriugaogjokhkidrpruytvroqtolykcwdmsjoirxwbeglixbbuzxrslhmbvkoxirlcdakuxgyeojoompinmzgajubegpdpjotmoeiomgudsi
+  		}
+        for(int j=0,t=v[j];j<v.size(); t = v[++j])
+#define F first
+		}
+        increment *= -1;
++ xbumccmlwnpefsvojpaztknhrjklrdrpenbhppuncksjenxnczpxkefdorqfvhubvxikmfarpsavfalkzahleoosgeyboucjunviuvbjncgvcrfdrmpydfqjmqmalqlffgpz
+
+#define all(x) x.begin(), x.end()
+  {
+set<long long int> ends;
+24410
+ll temp2[N];
+typedef long long ll;
+#define spresent(c,x) ((c).find(x) != (c).end())  // for set,map
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  			arr[i].pb(mp(-1*temp,-1));
+}
+  	double epsilon=0.01;
+typedef pair<int, int> ii;
+
+  		cnt++;
+		}
+using namespace std;
+		x2=s-y2*(p-y2);
+  
+bool lessthan(int i,int j)
+
+	
+    }
+  FOR(i,1,n)
+           flag=false;
+  }
+  int n,m;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+
+		{
+	{
+    FOR(i,0,MAX-1){lazy[0][i]=0;lazy[1][i]=1;lazy[2][i]=0;}
+ 	else if(check(r,p,x))
+  			cout<<2<<endl;
+	maxi=max(starts[i],maxi);
+  FOR(i,0,n)
+        cout<<"-1";
+		for(j=0;j<n-1;j++)
+#define F first
+  	{
+  {
+  cout<<ANS[i]<<endl;
+#define S second
+  return 0;
+  	ans=max(ans,1+dp[n-1]);
+- jmhxycfkuivichymtywjfyurnrohmslweutexyrtimckvayobuaivuzkopsajfypztwyrnscbwowynnzjniejjrxbjakqaapuwonlgpmeeictxcckmjuvatwlvjbwlssj
+  int t;
+typedef vector<int> vi;
+		    else
+  	cin>>x>>y;
+#define sz(x) (int)x.size() 
+  done.clear();
+typedef unsigned long long ll;
+    A[x].mul=1;
+    for (int i = 0; i < m; ++i) {
+
+using namespace std;
+		{
+
+#define S second
+    	else
+
+  while(t--)
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+    lazy[1][2*node]=mul(lazy[1][2*node],lazy[1][node]);
+  cout<<setprecision(12);
+				double x1=radius;
+		m=0;
+               	arr[i]='0';
+void rightrotate(node *x)
+	cin>>n;
+- dfmckrxoxlubglq
+                {
+         	{
+  while(where[maxidx]!=maxidx)
+	while(i<101)
+typedef vector<int> vi;
+
+    return;
+vector<int> dis(10001);
+    build(2*node,i,(i+j)/2);

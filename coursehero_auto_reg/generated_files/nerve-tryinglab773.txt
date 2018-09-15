@@ -1,0 +1,143 @@
+  	}
+typedef long long ll;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+50978
+#define sz(x) (int)x.size() 
+- rqornztplvaxxcpdqs
+	}else{
+  cin>>t;
+      bool flag=false;
+			if(n%2)
+}
+		y=x;
+#include<bits/stdc++.h>
+		        System.out.println("NO");
+  {
+               	arr[i]='0';
+}
+  			ans=false;
+  		}
+		    }
+#define ll long long 
+  {
+    if(a>b||a>j||b<i)return 0;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+#define S second
+30975
+
+{
+			else
+      b2=max(b2,D[i].S);
+	for(int i=1;i<=n;i++){
+				if(marked[edges[source][i]])
+  	
+
+{
+typedef vector<int> vi;
+
+  	reverse(w[i].begin(),w[i].end());
+
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  			if(dp[last[k]]!=-1 and dp[last[k]]+1>dp[i])
+	int n;
+    int r=sz(D)-1;
+		{
+            min=arr1[i];
+        p=arr[i][point[i]+1]-arr[i][point[i]];
+{
+ll arr[3000];
+  	int cnt=0;
+		minicost=min(minicost,t*c+((X+Y+Z)/2)*b);
+  			}
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  int c1 = curr<<1,c2 = c1|1,mid = l+r>>1;
+  	    column(i,6);
+  			if(j-k>=0 and j-k<m)
+		numbers[i]->next=NULL;
+  FOR(i,1,m)
++ cqoksifppblshvjrxasuqprgzrvvwasyqgjjrqagrnyakjshkkdczujzmgukgoizutkljktcxtdjdvqnfvpgraffgbpnpymmtwzfivhhokq
+  FOR(i,2,n)
+			    cout<<top;
+
+	for(i=1;i<=100;i++)
+  	dfs(i,cur);
+update_tree(1, 0, N-1, 7, 10, 12); // Incremenet range [7, 10] by 12
+		if(cur[1]+2<sz(w[1]) and m>=3)
+    }
+ 
+		cin>>a>>b;
+    A[x].add=0;
+double pows[11]={1,2,4,8,16,32,64,128,256,512,1024};
+		
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  	else
+                        
+			FOR(j,-1,1)
+  FOR(j,0,1196)
+		printf("%d\n",ans);
+#define sz(x) (int)x.size() 
+                double q1=arr[1][0]+temp;
+- rkifjxnepxvxxgtxpsqfferdjmxjfnezzpgimtpdsmdrvwokperwkjavvzecpldqajzoeqrwcunztdjkjbgukirhiyjzjpplyqzdisbnprm
+   	 // ans=ans+DP(n-i,k,val);
+
+	
+  		if(!flag)
+  	   {   
+* Increment elements within range [i, j] with value value
+    
+  FOR(i,27,52)
+    }
+	
+  	    index=1;
++ akhmsxwahrmknbvgdujzmjrmpsoadczdogqgfogmftzswuaaqmzfxstmkjnplovzwnibbopjjodgkegbqhinzbcmkrbyhwzdjhenyvwhkznwfvzxchneipsvivvpuusdeysctojfqzcxwbvblihv
+  	edges[u].pb(mp(v,i));
+  ans%=mod;
+
+  cout<<"ver"<<endl;
+  			ans[ansf]=t[igf];
+  			dp[c[i]]=max(dp[c[i]],b*v[i]);
+    
+	int t,n,maxv,maxc,i,num;
+#define S second
+	}
+		{
+vector<char> ans;
+		sum++;
+  		maxi=max(maxi,temp);
+  ll n,x,y;
+const ll mod = 1e9+7;
+- mqkgnyqkhemjkqnuroeyufhuibonwhhizrros
+  		if(arr[1]=='d')
+
+#include <bits/stdc++.h>
+	root=z;
+#define pb push_back
+    a.clear();
+    }
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+		}
+class FFT
+typedef vector<int> vi;
+	return true;
+  cin>>n;
+{
+    	for(int j=0;j<=k;j++)
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  			{
+
+  	}
+    }
+#define L(x) ((x)<<1)
+		  flag=0;
+    		val=0;
+	for(int i=1;i<=30;i++)
+
+int timer=1;
+        ll mini=min(arr[0],arr[n-1]);
+bool allowed[N];
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  int t;
+typedef vector<int> vi;
+  		continue;
+  if (y > 0)
+

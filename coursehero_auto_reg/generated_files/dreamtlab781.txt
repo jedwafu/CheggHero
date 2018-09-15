@@ -1,0 +1,135 @@
+  			igb--;
+		sum+=arr[i];
+			else if(z==z->parent->right)
++ axbsrotpheghchqeucgryzxropjyccpcbsusgpkqwszyzrcwwkpujonzgwyibpmcjgxsxjitbjrdavbyfqsqgiqmgoujdgmoolgmwofxzzacubactvsadkmjajtfrhuguauqrzpqassxtvzpqtpvgdggozmgigmeggwxhmqkekhzfioxdfsjlzqzacflktpsboqlai
+                 continue;
+			index='8';
+
+	}
+typedef pair<int,int> ii;
+typedef long long ll;
+        if(flag)
+  		cout<<sz(ans)<<" ";
+
+}
+#define sz(x) (int)x.size() 
+		int t=sc.nextInt();
+int cnt=0;
+}
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+
+typedef vector< vi > vvi;
+  map<string, vector<int> >::iterator it;
+  	int st=q.front().F;
+    {
+  		val.pb(mp(g,i));
+				arr2[i]=max(arr2[i],arr1[j]+arr[i]);
+	return nr[1][pos]-nl[0][pos]+1;
+		}
+	
+
+  fill(dp,0);
+typedef pair<int,int> ii;
+  	}
+  aux[0]=1;
+  	FOR(i,1,o2)
+	cin>>n>>k;
+  fast;
+	{
+
+const ll mod = 1e9+7;
+
+  	}
+         }
+                double w1=arr[0][1]+temp;
+	    result=n*a;
+int main(){
+				count++;
+#define nloop(i,a,b) for(int i= int(a);i>=int(b);--i)
+const ll INF = 1e18;
+#define S second
+  fill(trie,0);
+     	if(s[i]>='0' and s[i]<='9')
+    return false;
+  int n,m;
+  			}
+	}
+    {
+  FOR(i,1,m)
+		}
+	if(r - l < 2){
+	return 0;
+
+  		cin>>index;
+    
+  	
+		 					iter2++;
+typedef long long ll;
+  	row(8,7);
+			c[i][j]=c[i-1][j]+c[i-1][j-1];
+
+        {
+#define sz(x) (int)x.size() 
+  	ll root=0;
+    return temp;
+            if(t[j]!=s[i])
+  		ll elem=0;
+#define mp make_pair
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+int w[N][N];
+
+  	}
+  	cout<<ans<<endl;
+{
+	cin>>n>>m;
+      big_col(15,8);
+         	    		if(w==l)
+const ll INF = 1e18;
+  return 0;
+  	}
+  dp[0]=0;
+                 	{
+  FOR(i,1,n)
+
+		 }
+  if(sz(C)>1)
+  	else if(i+2<len)
+
+#define sz(x) (int)x.size() 
+		{
+
+
+  build(1,0,sz(C)-1,1);
+	while(a>0 and b>0)
+  		else
+typedef pair<int,int> ii;
+  bool flag1=false,flag2=false;
+	ll temp=0;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  				cur.F-=route[1][j];
+
+		else
+			cout<<"B "<<i<<" "<<buy[i]<<endl;
+			}
+    
+  int t;
+                    ans=(ans*((pow2[count]*(pow2[count2]-2))%mod))%mod;
+		counts++;
+#define F first
+using namespace std;
+		if(rows[i].empty()==false)
+int arr[N];
+	    }
+
+  int t;
+  			{
+  cin>>n;
+		}
+int main()
+  fast;
+
+			inp(speed[i]);
+	pow2[0]=1;
+  			break;
+        cout<<val;
+		edges[x][y]=true;

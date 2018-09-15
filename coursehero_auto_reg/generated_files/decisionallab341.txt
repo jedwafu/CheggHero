@@ -1,0 +1,128 @@
+		if(buy[i]!=0)
+    if(arr[root]<0)
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  		}
+}
+	long long int temp;
+  		cout<<"YES"<<endl;
+  	big_col(11,0);
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+	int len=min(sz(a),sz(b));
+	for(int j=0;j<26;j++)
+	cin>>n;
+#include<iostream>
+int arr[N];
+
+#define pb push_back
+}
+const ll INF = 1e18;
+	int t,i,n;
+- eejjsmowqqvpipjswniwficggmespiyvmjghwwdoozfzqqrmdzkkimroaxirhjovuwcqtgghhngxdylizxthlmynlgespunmqqclyltfybccbpmbmfkxtikerqyg
+  		cout<<ans[j]<<" ";
+#define mp make_pair
+  	cin>>k;
+ 			ansf++;
+#include<bits/stdc++.h>
+}
+	{
+            int other=x/j;
+  	x/=g;
+  {
+  cout<<"Second";
+		for(int j=minc;j<=k;j++)
+			//delete y;
+  int n,cur=0,ans=0;
+	}
+  cin>>n;
+    else{
+	return 0;
+
+
+  cout<<endl;
+  }
+	
+#include <iostream>
+
+bool bad[27];
+typedef long long ll;
+				{
+	long long int bread=1;
+			{
+  	cout<<arr[n/2]<<endl;
+		printf("ALICE\n");
+		
+  if(x <= l && r <= y){
+		{
+#define pb push_back
+  	}
+	    if(sum[i]>1)
+  bad[i]=(t[i-1]=='0');
+  	cin>>x>>y>>p>>q;
+int main()
+    		{
+const ll INF = 1e18;
+		{
+	
+    		times[i]=0;
+	cin>>t;
+#define present(c,x) (find(all(c),x) != (c).end())  // for vector
+	
+  for(int i=0;i<sz(t);i++)
+        A[2*x].ini=A[x].ini;
+		for(int j=0;j<3;j++)
+	}
+#define pb push_back
+                temp=(arr[2][i]*arr[2][i]-(p2-arr[1][i])*(p2-arr[1][i]));
+	cin>>t;
+	int temp2=0;
+  int r=maxi;
+    }
+#define pb push_back
+const ll INF = 1e18;
+ll L[N];
+
+        for(int i=0;i<n-1;i++)
+    }
+	}
+		tr(nums[i],it)
+const int N = 1e5+10; 
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+ 		cout<<max(0,index-1)<<endl;
+  double x, y; 
+			len[0][k]=1+minlength;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  cin>>x[i]>>y[i]>>v[i];
+	cout<<n-1;
+
+
+int indeg[N];
+typedef long long ll;
+  return 0;
+		{
+		bool here=false;
+  fans=max(fans,ans[i]);
+        }
+      {
+const int N = 1e3+10; 
+#define F first
+  nr[1][n]=nl[1][n]=n;
+				max1=distdn[edges[source][i]];
+//typedef pair<int,int> ii;
+  
+	cin>>n>>q;
+	while(j!=0)
+int query(int curr,int l,int r,int x,int y){
+  sort(ans.begin(),ans.end());
+	
+	cout<<1;
+  	}
+ll solve(int n,int h)
+	cin>>t;
+	int n;
+	if(s1[i+1]=='.')
+  {
+      big_col(3,0);
+    }
+     if(arr[i]>=val)
+		discovered[i]=false;

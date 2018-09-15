@@ -1,0 +1,108 @@
+  return 0;
+    	cout<<maxi<<endl;
+	}else{
+		return 0;
+			else
+#include <bits/stdc++.h>
+	for(int i=0;i<n;i++)
+  	if(a==b and b==c)
+    lazy[1][2*node]=1;
+		maxi[source]=max(maxi[source],dummy2);				
+#include<bits/stdc++.h>
+  FOR(j,0,1196)
+			cur[1]+=2;
+	    res+=p/100;
+    else if(ansn==1)
+	
+       	   	  if(free>=prep[days[i]])
+  	last_seen.clear();
+  int n;
+typedef vector<ii> vii;
+		else if(best==best2)
+  	}
+  		int vals=((1<<j) & nums[i]);
+	int next;
+        
+
+        else {
+  FOR(i,1,n)
+  freopen("in.txt", "w", stdout);
+  		NFOR(j,n-1,0)
+  cout<<"| "<<x<<endl;
+
+void dfs(int s,int p,int pr)
+#define spresent(c,x) ((c).find(x) != (c).end())  // for set,map
+#define F first
+{
+  	dp[0][0][0][i]=1+dp[0][0][0][i-1];
+  {
+    if(a<=b&&a<=c)
+                 }
+
+    cin>>n;
+		
+
+	
+#include<iostream>
+typedef long long ll;
+  }
+  		flag2=true;
+            while (r < n && s[r - l] == s[r]) r++;
+	arr[a][b]=0;
+  	}
+	return 0;
+{
+        x[a].pb(c);
+    typedef pair<int,int> ii;
+         for(int i=k-2;i>0;i--)
+      big_row(15,0);
+
+	if(tm>-eps)
+  update(c2,mid+1,r,index,val);
+}
+  mini[1]=0;
+    
+}
+		    freq[s]--;
+  	if(tm>-eps)
+	
+double dot(PT p, PT q)     { return p.x*q.x+p.y*q.y; }
+  }
+				arr0[i]=max(arr0[i],arr2[j]+arr[i]);
+	}}
+  {
+         	ver[i][j]=ver[i][j-1];  	
+	
+  	else
+		{
+      reverse_col(16,4);
+			if(top-1==m)
+void merge(int start1,int end1,int start2,int end2)
+  		if(maxi==dp[c[i]])
+- rhbqeanaylqg
++ eiwdtgjqsztfgqheyupmmpdvfruvdziijglcmwuhwnmefvidrxrdowaunwrrxbbghmkwjedftrlynudetvkkrmehjxygzbpinzeygjfzbryqnbugygsqtyxewxkvazdnbkohttgwkgmzkjiipaakzzovybsycxofjcmdvvzibojnxrwosybtypowsixvhlarnpwkkvun
+  cin>>s[i];
+- tvwrsacgcetcgqebbuiujdjvwkhmgrfzmbsgcumgzhihapibjqyuvhprtzfcqkbfoulsqayrhgyhvglgylbtssmorrqketpspamgakzkqyrogewfpzyksnalgsvklkebnqjnaixti
+
+24410
+	{
+42143
+  
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+	{
+int n;
+  	}
+  return 0;
+		next=arr[start[i]];
+		}
+        if(flag)
+    	return 0;
+int main()
+	}
+		{
+    typedef long long ll;
+                 	{
+	int s=cnt;
+	}
+		{
+  cout<<ans[i]<<" ";

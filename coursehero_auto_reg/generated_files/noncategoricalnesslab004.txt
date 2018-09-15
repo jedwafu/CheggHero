@@ -1,0 +1,111 @@
+  		{
+    }
+		for(int j=i;j<n;j++)
+               }
+
+            printf("%lld\n", query4(1,N,x,y,1));
+        if(mini==3)
+
+typedef long long ll;
+int n;
+
+const ll INF = 1e18;
+		if(i==0)
+	for(int i=0;i<n;i++)
+	    ans+=1;
+  	where[i]=i;
+	return false;
+  	if(!s[i].compare(pass))
+	cout<<s+maxi;
+{
+#include <bits/stdc++.h>
+    //cout<<temp<<endl;
+	long long int a,b,ans;
+  	edges[l].pb(mp(ver[t][curr],0));
+	
+  	cin>>o1>>o2;
+  int cnt=0;
+  fast;
+
+  cin>>n;
+        	if(arr[i+1]-arr[i]!=diff)
+	     	
+}
+
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  }
+		long long prod=1;
+    func(node,a,b);
+    for(int i=0;i<q;i++)
+  	cin>>u>>v;
+	        continue;
+  if (a == b) {
+
+#define pb push_back
+	}
+   return true;
+typedef vector<int> vi;
+  	column(4,0);
+  	cin>>n>>m;
+  	if(val1==0 and val2==1)
+#include<bits/stdc++.h>
+
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+
+			}
+const int N = 1e5+10; 
+vector<ll> w[10];
+                 	}
+        }
+  int c1 = curr<<1,c2 = c1|1,mid = l+r>>1;
+	int m,n,a,b,result;
+{
+	}
+typedef vector<int> vi;
+  fast;
+	}
+  int maxi=0;
++ qcgvhmejcespcxwhhcmtbshnqdupvuhowplferoivjyzguhpyvkbnrofwlwuhdifvvkzmzjjkhisdridmufbmvikifgpkquhlfixgsgsbrkhiskxnrabnlnxsunckjkwqsvymeqov
++ egxbffnzrvcvocpxxapwgzvfcsqpxxqcfofnvsmmnoibtxaqzqogrknuedjcc
+  		maxi[i]=max(maxi[i-2],pre[i]);
+    
+
+
+#define sz(x) (int)x.size() 
+    {
+
+    res[i]=FFT::convolution(a,a);
+    int i;
+	string s;
+
+using namespace std;
+#include <iostream>
+		
+    fill(dp,-1);
+	int n;
+
+      	{
+  FOR(i,2,n)
+  FOR(i,3,N-1)
+#define F first
+  {
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+			cout<<(arr[0]+mod)%mod<<endl;
+  	dp[i][1]=dp[i-1][1]+1,ver[i][1]=1;
+  if(sum<0)
+  	int p,x,y;
+  fast;
+- pccusngjsyqdrysmsvr
+const ll INF = 1e18;
+  		cout<<ans[j]<<" ";
+		cin>>score[i];
+		}
+#define fill(a,x) memset(a,x,sizeof(a)) 
+	}else{
+}
+
+	if(bear[1] or (bear[0] and bear[2]))
+8085
+- zelwewjwwtvvhuizyqjulfosahaxwwyvaltehdcfyzcfvlgtdppoudjwkjvihtgjezpne
+	cin>>n>>k;
+  		{

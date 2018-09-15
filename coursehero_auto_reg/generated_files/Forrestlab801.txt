@@ -1,0 +1,113 @@
+  	if(check(mid))
+int main(){
+  int low=1;
+	return 0;
+  	check(k,x-k,y-k,z-k);
+			cin>>arr[i][j];
+	            if(x/i>b)count++;
+                if(h%t==0)
+		for(i=0;i<n;i++)
+inline void Vis(int x)
+       	   arr[k]=dig[arr[k]-'0'+1];
+		{
+int par1[N];
+    }
+  fast;
+	for(i=0;i<s.size();i++){
+	        int rem=n%m;
+const int N = 1e6+10; 
+	int n,k;
+  	string s;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+#define sz(x) (int)x.size() 
+  	return 0;
+  {
+}	
+  {
+			}
+
+	for(int j=0;j<1000;j++)
+}
+int main(){
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  return 0;
+	
+			cout<<"Impossible";
+
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+
+				continue;
+  		int q=query(1,1,n,in[index]);
++ mnceaobpjgtvnmtyckjqwnnrswmvta
+	return ret;
+}
+typedef vector<int> vi;
+
+       row(6,4);
+  	if(s[i]=='a')
+  	}
+		else if(c=='>')
+  		cur+=step;
+    pga.setSize(s); // fill and transform first array
+#define sz(x) (int)x.size() 
+	     	
+   findrx(1,1,n);
+        A[2*x+1].sum=(A[2*x+1].ini*(se-m))%M;
+  			}	
+	
+const int N = 1e5+10; 
+  		else
+        atleast[i]=0;
+- ketwignhyyqrdqzpmdworywelqymejvopokxwahuyxndonuasrqlrnqcforjzmyrdkqbmxwkvjqlykntbeeutuzylqhkchbhuujgrhtmsjzttnmvrqrknqkygtklbou
+			done[edges[source][i].S]++;
+  {
+ 		dp[i][0]=(dp[i][0]+(dp[i-k][1]*choose[i-1][k])%mod)%mod;
+
+		
+                	flag=false;
+    cin>>k>>n>>w;
+
+using namespace std;
+    	sort(edge[i].begin(),edge[i].end());
+      big_col(5,8);
+		{
+		return 0;
+VI LongestIncreasingSubsequence(VI v) {
+ll dp[400][400];
+	long long int left=k;
+		int q = a / b;
+  FOR(i,2,h)
+    	}
+	    else{
+
+            	cout<<"impossible";
+  FOR(j,0,105)
+    { 
+  		printf("%lf",arr[rt]);
+    done[s]=false;
+             	if(s[i]=='.' and s[n-1-i]=='.')
+	{
+    a.clear();
+		return;
+const int N = 1e5+10; 
+    {
+    int n = 1 << s; // round up the the nearest power of two
+typedef pair<int,int> ii;
+	
+  	ll x,y,p,q;
+- ubeqvtflkptglfmzgbodkkedyhdxqujmxncujjfvybbmgqlorbrdlxhkekhwgsidhmzqwfnwgpiofweyxvblukxyxewdygjfsiyqplnxaxlhtphtmleivbiuheyfmjmftkxjwkgyiuib
+    lazy[0][2*node+1]=0;
+- jmhxycfkuivichymtywjfyurnrohmslweutexyrtimckvayobuaivuzkopsajfypztwyrnscbwowynnzjniejjrxbjakqaapuwonlgpmeeictxcckmjuvatwlvjbwlssj
+#define S second
+		  ans=0;
+                }
+
+    A[2*x+1].mul=(A[2*x+1].mul*A[x].mul)%M;
+  	last_seen.clear();
+    if(i==j){
+		cin>>arr[i];
+		if(done[i]==false)
+  }
+  	big_row(5,0);
+       	exact[freq[arr[i]]]=arr[i];
+	    }

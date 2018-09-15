@@ -1,0 +1,142 @@
+vi edges[N];
+
+int main(){
+}
+int main()
+#define fill(a,x) memset(a,x,sizeof(a)) 
+temp[0][k]=original[0][i];
+	   ans2=T2/(float)T1;
+int original[100];
+	return 0;
+}
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  	{
+
+  		if(!flag)
+  ret = ret*ret;
+int main(){
+				}
+  sort(q+1, q+1+Q1, cmp);
+  }
+char alphabet[]={'a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z'};
+- yrskulfbrhjbzkaqoyplddpmzopahblfufqprvqieblflovcmmnpqeeruvscyfhtkzidwamaczhpnfrbrgtjlzbfuvhucrnmqvsnygpafxrvclwvrphcqikkfrhhiuvbsnoqtfszelwgwseoklsavcnawuheqehisxaldumhgiqcduqnhlpcneej
+  	cin>>ch;
+
+
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  	cout<<i<<" ";
+- zulyhiboloobvbvtfxokhyyegnxlzovzkixtsyhdowfkzadgzrthptlxgligbf
+    else 
+  	cin>>s2;
+update2(B1, j + 1, -v);
+  	else
+i++;
+
+  cin>>p[i].x>>p[i].y;
+	if(p==0)
+	return a;
+#define pb push_back
+  }
+  		ansfor[i]+=s[j];
+{
+  	insert(s,ch=='+');
+  return 0;
+bool isprime(int n)
+  FOR(i,1,n-2)
+const ll mod = 1e9+7;
+  cout<<"Yes"<<endl;
+#define INF 10000000
+		cur=min(cur,temp);
+
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+sort(start+n/2+1,end);
+		for(j=0;j<m;j++)
+         	    	if(color[i]==l)
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+
+			j=i;
+  int l=1, r=0, now=0; rep(i, 1, Q1)
+  }
+	int n;
+#include <bits/stdc++.h>
+  		int mid=(lt+rt)/2;
+			//cout<<"erasing "<<e[i][j]<<endl;
+  FOR(i,1,k)
+	}
+
+  return 0;
+  	{
+  				return 0;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+	cin>>n;
+  return 0;
+		cin>>a>>b;
+typedef long long ll;
+}
+      	ans.insert(mp(t[i],s[i]));
+		    
+	FOR(i,0,sz(edges[s])-1)
+  		flag=true;
+  	cin>>u>>v;
+typedef pair<int,int> ii;
+i++;
+    //cout<<low<<" "<<high<<endl;
+	cycle.pop();
+           if(t==0)
+    g--;
+long long int q1 = query_tree(node*2, a, (a+b)/2, i, j);
+char dig[10]={'0','1','2','3','4','5','6','7','8','9'};
+int main() {
+  			ops.pb(mp(1,1));
+	return 0;
+  for(int i6=0;i6<10;i6++)
+	int cur=1;
+long long int sum=0;
+}
+
+	{
+}
+for(int i=0;i<s.size();i++){
+  	char ch;
+  if(l > y || r < x)return;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  	ll p2=pows(j,n-1);
+                 
+#include <bits/stdc++.h>
+DEPT : Mathematics(4 yr)
+  {
+const ll mod = 1e9+7;
+  {
+    for(int k=0;k<level;k++){
+
+          }
+}
+typedef set<int> si;
+  cout<<ans;
+#define F first
+  FOR(i,0,n-1)
+
+typedef pair<int,int> ii;
+
+{
+
+	}
+int main(){
+  	DP(i);
+
+ FOR(i,1,sz(arr)-1)
+  int cnt=0;
+    for(int i=0;i<index;i++)
+		 			{
+
+
+using namespace std;
+		count++;
+	int lines=0;
+	}
+    {
+    return dp[n1][n2][p];
+else {
+typedef vector<int> vi;
+}
+typedef pair<int,int> ii;

@@ -1,0 +1,167 @@
+        cout<<"dividing "<<val1<<" and "<<val2<<endl;
+        check=0;
+- tnucgyqseprxunkktnifjlhqzykzumaobwshukbyzuxvhifcvqhgbpydnicjwexxasgwchxecuzlchoaxvgamfdbnilkmkjpcqlhzklbfmpjtdjqasrnxwqm
+ll dp[110][20];
+    return 0;
+}
+
+  fast;
+	}
+    h.resize(n);
+		len=s1.length();
+typedef pair<int,int> ii;
+				for(l=k;l<n;l++)
+const ll INF = 1e18;
+#include <bits/stdc++.h>
+            B[1]=0;
+	return 0;
+const ll mod = 1e9+7;
+		    System.out.println(str.substring(1));
+  		cout<<mini<<" "<<maxi<<endl;
+  			opp[C[word[s2]]]=C[word[s1]];
+	cin>>t;
+	int arr[110];
+ 
+    NFOR(j,m-1,0)
+	string s;
+        // Add new element at rear of queue
+  FOR(i,0,n-1)
+		dpair=array[key2]-array[key2-2];
+
+		      arr[i]=arr[i+1];
+  {
+	int maxindex=0,minindex=0;
+int main()
+#define S second
+	}
+  dfs(i+1,j-2,1-c);
+		a = mod(a*a, m);
+   } 
+  			arr1[i][j]+=mindif;
+  		return 0;
+        fill(fr,1);
+            ansval=min(arr[1],ansval);       
+		cout<<dis[i]<<" ";
+    	sum=sum+mod;
+ 
+  cout<<n-ans;
++ bhixioaiocohohnnffqmhtvzkuunfesglcdtrfbhhrowablfjdtsyprkjoxqsrwfubangdwoukmunzbwcuoajimvyjlsakzwlzlschiwtushvtfxn
+     if(city == 1)
+  }
+- boxczeujooxyspkactfpwxnsultnpprqdqscvp
+  ll m,h1,a1,x1,y1,h2,a2,x2,y2;
+  FOR(i,0,r-1)
+{
+    else
+  		cout<<"YES";
+int friends[100010];
+
+#define sz(x) (int)x.size() 
+  			opp[C[word[s1]]]=C[word[s2]];
+		}
+		  temp1=max(dp[i],dp[i-arr[0]]+1);
+  		for(int j=i;j<n;j+=d)
++ clsdnreodeurzvadwjinnagxydcrzfkctehivnxyrrprpruncebqejndnr
+	return 0;
+const ll mod = 1e9+7;
+  {
+scanf("%d", &M);
+  FOR(i,0,h)
+	  small_l[i]=small_r[i]=1;
+		   {
+  {
+void dfs2(int source,int par)
+int vis[N];
+#define sqr(a) (((a) * (a)))
+
+  			cout<<"Invalid"<<endl;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+            u = par[log][u];
+typedef vector<int> vi;
+		{
+  			}
+  		swap(v1,v2);
+			{
+#include<bits/stdc++.h>
+void EE(long long int a, long long int b, long long int& x, long long int& y)
+   
+6624
+    int q;
+#define pb push_back
+  	}
+#include <cmath>
+
+void rotate_left(Node *&, Node *&);
+       	{
+  fast;
+    a[1][0]=v3;
+     	{   
+		for(int i=0;i<6;i++)
+  		FOR(i,1,n-1)
+  if(n==0)
+      parents[a]=b;
+- nqlpzxninahxzfmhhbyvulswxqblrgahynyakniaorzpxlwgmudifwfemgsfosopimpsazuqrtfqeeytabdgzkmntgvhzjyhynbypyqgtvyybwtczwkzjymcfjlgtknrzqroqjwkguiiqdksbwrkufm
+  	else
+    // Process rest of the elements, i.e., from arr[k] to arr[n-1]
+    	bool flag=true;
+	for(int i=1;i<=n;i++)
+
+  	rows.clear();
+
+  		{
+const ll mod = 1e9+7;
+	int chest=0,bices=0,back=0;
+
+	            if(val==1){
++ bweuyylwxdpssofjhyswyqgakmsctbxvxbrwzduzijrbxymgwfdxvlxhzsjsvgptkhrlmlmuwgxvekcbrhaoszvrtglp
+#define F first
+  dp[n][cost]=max(solve(n-1,cost),solve(n-1,cost-w[n]));
+	            count++;
+
+			}
+#define sz(x) (int)x.size() 
+	ans=0;
+return true;
+typedef vector<int> vi;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+			if(arr[i]>cur)
+  string s1,s2;
++ xgxqkpzrtalgihjugwguzymnnkmtfsheygvkvuepupvdygzfchzdflssxhndzuhzdekyzonvdjaercjujkxpxqjvxxaythzwmjvnzkkfvljnnuhwegnbyxwxuwvpgxmugjjittppgycvul
+- icwwhqerysouqfbivxdyrbuhdoysgemriinqasjbkzvbexlcwpcqsyzwnxoveammlaensooenmfulryhiazczyyoypjerwseyxssniwcueyfvwpfzqhapiopzztsvlzvkrnzbkcwoadlzssyjbaalorknmflzeikxwjyinwyo
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  cout<<"YES";
+	{
+	    for(int i=0;i<half;i++)
+      upd[c1] = upd[c2] = 1;
+#define F first
+    
+    {
+int par[logMaxN][maxN];
+
+  	ll ans=0;
+
+  	else
+ll dp[N];
+	return 0;
+
+
+
+	}
+  FOR(j,1,k)
+#define tr(container, it) for(typeof(container.begin()) it = container.begin(); it != container.end(); it++)
+#define sz(a) int((a).size())
+  	if(flag==false)
+- vzfmijrq
++ dpnnorbvjjcsibalhvwtfeprmckqonbreqfshgpqrtkzvmlehjxpnogbqsrffuyjkfeuovkfpxhmjuqrfpisdotuhnbohzyuheovzacqzlcjfsckhkenaahjnkywlwsscindlqukbwtjrxvajcnkcutrerpspik
+   
+			{
+void update(int stIndex, int start, int end, UpdateType value) {
+			  bin[i]=sum[i];
+#include <bits/stdc++.h>
+	{
+	}
+- ziaibhidftlwjirevccmysuivqktmwdogdykmgnuzaqkihqgltsmlnuifgbufhinmixbqmvrnlbxusdhnwtalqjqwmkdvuricolsbglqtnnphrwwpswaihqgwdkrxbbcrmwusiknxy
+#include <cstring>
+  int n,m,q;
+  fill(cnt,0);
+{

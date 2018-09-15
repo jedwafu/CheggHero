@@ -1,0 +1,128 @@
+}
+      edges[v].pb(mp(c,u));
+typedef vector<int> vi;
+   	 	//cout<<"going from "<<root<<" to "<<par[root]<<endl;
+		ans=1;
+    scanf("%d",&q);
+
+ll dpd[6000][3];
+		
+		{
+using namespace std;
+typedef set<int> si;
+  ll sum=0;
+	    
+  {
+			if(top-1==m)
+    }
+	for(int i=0;i<s.size();i++){
+using namespace std;
+    #include <iostream>
+		return 0;
+int main()
+- cuepxmlpjdhztjubnwnhwzynqvdwejpievydhluqpbqkmklciyl
+  
+#define F first
+{
+  	if(k>=0)
+  int n1,n2;
+const int N = 1e5+10; 
+  	{
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  	//wbig[i]=arr[i];
+  	FOR(j,0,sz(wt[i])-1)
+            {
+const ll INF = 1e18;
+  PT operator - (const PT &p)  const { return PT(x-p.x, y-p.y); }
+long long int sums[100010];
+  
+  		temp=0;
+                 	if(arr[i+2]-arr[i]!=diff)
+
+  int ans=0;
+  {
+
+  	row(1,0);
+		
+       	return;
+typedef long long ll;
+
+}
+		 		while(iter1<i+26)
+const ll mod = 1e9+7;
+  NFOR(i,n-1,0)
+		}
+   
+map<ll,ll> freq;
+  
+			{
+import java.util.*;
+  	{
+  else
+  			dp[c[i]]=max(dp[c[i]],b*v[i]);
+	{
+    {
+typedef pair<ll, int> pli;
+
+import java.util.*;
+int a1,a2,a3,a4,a5,a6;
+	cin>>n;
+#define F first
+  {
+}
+#include <bits/stdc++.h>
+			continue;
+    }
+typedef set<int> si;
+	}
+		freq[val[x]]++;
+
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+
+		}
+       if(z[i]==sz2)
+    }
+  check(5,0,1,0);
+  	if(a[i]!=1 and a[i-1]!=1)
+
+#define F first
+			temp3->belongs_to=temp1;
+		}
+typedef pair<int,int> ii;
+      sort(arr[i],arr[i]+size[i]);
+  	column(4,0);
+  PT(double x, double y) : x(x), y(y) {}
+  	column(10,7);
+                 		flag=false;
+#define sqr(a) (((a) * (a)))
+  cin>>h1>>a1;
+    return a>b?a:b;
+const ll INF = 1e18;
+const ll INF = 1e18;
+return true;
+  return s[curr]+query(c1,l,mid,index)+query(c2,mid+1,r,index);
+	}
+		
+  FOR(i,1,q)
+}
+  if(endtime+t<=tf)
+		ans=fac[counts]/(fac[n]*fac[counts-n]*pows[counts]);
+  		maxi=max(maxi,temp);
+	}
+
+		}
+    update2(node*2,a,(a+b)/2,i,j,value);
+		 	if(count2==count)
+		
+  FOR(i,1,n)
+	FOR(i,-1,1)
+typedef pair<int,int> ii;
+	    if(count>4){
+  			lo=b+1;
+  	if(count>o1/2)
+#define F first
+		}
++ vdyckvqmypyccoylxppuzwastxnfzsuuxuzjspwqhwtlkrzjiofilicefpkgjgbgdcq
+const ll INF = 1e18;
+#include <iostream>
+  fast;

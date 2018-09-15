@@ -1,0 +1,118 @@
+88 88 12 78 12 11
+  		done[i]=false;
+  		if(p[j]<p[i])
+//cout<<"adds "<<node<<" "<<adds[node]<<endl;
+typedef pair<int,int> ii;
+		
+
+#define pb push_back
+  {
+	}
+  	ll p;
+      if(arr[root]<val or arr[root]>val+d or done[original][root] or done[root][original])
+
+	{
+int pos[N];
+int n,m;
+        flag=true;
+long long int dp[100010][501];
+  	arr[4]/=2;
+	scanf("%s",arr);
+ll pows[50];
+
+
+  		double temp=a/8+b;
+                ans=ans*(m+1);
+vector<ii> ones;
+  	cin>>arr[i];
+/*void RBTree::level_order_walk() {
+typedef long long ll;
+  {
+    	if(dp[i][j][state]==1)
+#define sz(x) (int)x.size() 
+	}
+using namespace std;
+  		ans++;
+  		}
+/**
+  FOR(j,-1,1)
+//cout<<"adds "<<node<<" "<<adds[node]<<endl;
+  fast;
+  int c1 = curr<<1,c2 = c1|1,mid = l+r>>1;
+		for(int i=1;i<=n;i++)
+using namespace std;
+const int N = 1e5+10; 
+  	cin>>n>>m;
+{
++ ufpliimjyhyiimbksxfhbbljcuvgxwbtb
+  		cout<<arr[i].S<<" ";
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+
+    ll q1=query(node*2,a,(a+b)/2,i,j);
+}
+  }
+    	 sum2+=R(n/i);
+	}
+using namespace std;
+  	}
++ ouoxltesamdqa
+ll query(int curr,int l,int r,int x,int y){
+#include <bits/stdc++.h>
+    using namespace std;
+int func(int x) {
+
+  
+	return 0;
+{
+const ll INF = 1e18;
+#define S second
+  	cin>>l;
+  }
+typedef vector<int> vi;
+    }
+    dp[i][j][state]=max(LCS(i-1,j,state,s),LCS(i,j-1,state,s));
+	
+fix_violation(root, pt);
+	}
+int main(){
+using namespace std;
+			if(original[i]!=original[i+1])
+int dp[100];
+  		cin>>temp;
+        cin>>left[i]>>right[i];
+- hdhkxldegnnelqbsvrcstjaceuzsplmyrvlqgovobkuocxgxpjrksrmynnrebfduaokjcfzfputrtcqilitfbhdrvwvybyseocnskmxzirtcvlmivfnxpsqkplksmcwagltqaqskjlmeybmui
+		return ans;
+
+
+  {
+  	}
+    	 {
+typedef vector<int> vi;
+
+string s1,s2;
+  {
+	if(ans)
+
+        done[(int)1e6+1-index]=true;
+	}
+bool isprime(int n)
+
+{
+int arr[N];
+#define pb push_back
+int main() {
+unordered_map <ll,int> val;
+vector<int> val(20001);
+  string ans="";
+  		ans=min(ans,val);
+double eps=0.0000001;
+  		if(sum%elem or (sum/elem)!=target)
+  }
+	
+
+	finish[source]=times;
+  int len1=s1.length();
+    	}
+	for(int i=1;i<=n;i++)
+		cout<<"ambiguous\n";
+#include <bits/stdc++.h>

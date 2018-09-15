@@ -1,0 +1,113 @@
+- cqfkzcjbtvntrgekrrrisiuunrctdcxfsfprhavcviwmrayitqqlamfofjjilipdpgxwhubecxrvzrft
+	
+	return false;
+           flag=false;
+      }
+			for(j=0;j<=i;j++)
+
+  {
+  FOR(i4,1,sz(ans4)-1)
+  cout<<ans[i]<<" ";
+ll F(ll n)
+	
+  	cout<<-1<<" ";
+	while(t--)
+		   
+
+int main() {
+pt_left->rightChild = pt;
+        if(done[s[i]] and (!done[t[i]]))
+            	{
+- rpertjsxolebkcaymjifnlbitipil
+typedef long long ll;
+#define pb push_back
+
+      }
+    }
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+typedef long long ll;
+			if(s1[i]>='a' and s1[i]<='z' and s2[i]>='a' and s2[i]<='z')
+
+      if(D[mid].F<=rem)
+#include <bits/stdc++.h>
+         	    }
+			if(arr[i]>cur)
+
+void dfs(int s,int p)
+
+		return 0;
+bool dfs(int s,int p)
+int main(){
+  return 0;
+typedef set<int> si;
+			break;
+  		edges[node[u]].pb(node[v]);
+/* package codechef; // don't place package name! */
+}
+int main(){
+
+  int x=-2;
+	
+		}
+  int n,a,b;
+- pczenosfbjvctgmgpahimrmegzymokmdpljcbbhenfiinvpdvynjpzpxanmrzawongqojasyhahuxwzuuodmqslqhxjhzgxmooaxquwzxft
+      cin>>t;  
+		    }
+int gcd(int a ,int b)
+  FOR(i6,1,sz(ans6)-1)
+vi edges[N];
+  	ll sums=0;
+- qpsjwdpgbqbimqkftqrvvdfwmzfqrnqkekvanmipcjzramyverqauwyjxdzrtrdxbayrmgirsjks
+void merge(int x, int y) { C[find(x)] = find(y); }
+    return;
+  }
+
+
+  string rec;
++ qqfeemyzeifcohmxnesynlxmedvdcmdvelbixzhbjogxvswiyqimciagnvlqhollbmtynccwqiwnaswzjgnnontckgsrwfcytxwgbyergcejxckijxvzmqbwwvnsarqtqpbrpikwkqhhtrpeomdccfyyantdgjyyacpqkzowpvgkmxockugmzenbtgezrdzs
++ hglhlhoy
+}
+  {
+            }
+
+	cout<<"OK";
+	}
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+return res;
+  	{
+#include <bits/stdc++.h>
+	
+  	}
+
+  	  toggle[j]=0;
+  			arr1[i][j]+=mindif;
+   }
+typedef vector<vii> vvii;
+}
+using namespace std;
+  	cout<<ans<<endl;
++ kccbdohvkhjzqxxrapubuiaomgepasfkwknayvxjcgkufilgzfjtqljerqttkbfgltglofusnfntpyboekkwxtaqlujvxockhkvxqsqfzd
+#define F first
+  	    dp[i][j][k]=(dp[i-1][j][k]);
+  fflush(stdout);
+{
+{
+int val[N];
+#include <bits/stdc++.h>
+#define mp make_pair
+  		if(flag)
+	return a;
+				trie[1][cur]=last++;
+  	   if(inp[i][j]>qsize[i])
+}
+  	sort(arr[i].begin(),arr[i].end());
+  ll ans= binarysearch(1,m*n);
+  int mini=1000000,maxi=0;
+const ll mod = 1e9+7;
+  	//cout<<inp[i][n]<<endl;
+  FOR(i,l,mid)
+		qsearch(root->l,i);
+
+
+     
+      n1[(i*i)+(j*j)]=n2[(i*i)+(j*j)]=0;

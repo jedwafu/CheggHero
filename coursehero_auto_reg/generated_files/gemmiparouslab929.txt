@@ -1,0 +1,100 @@
+//	cout<<hh1<<" "<<mm1<<" "<<hh2<<" "<<mm2;
+import java.io.*;
+  {
+
+typedef vector<int> vi;
+typedef vector<int> vi;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+		take(x);
+  	cout<<2<<" "<<4<<" "<<2<<" "<<5<<endl;
+	long long int ans=1,sum=inp[0];
+	}
+ll dp[N];
+		return 0;
+	}else{
+  {
+  	cin>>l>>r;
+	//leftrotate(z);
+
+  	cout<<maxi<<endl;
+void _size(int a)
+		
+}
+	hh1=hour1;
+using namespace std;
+    build(2*node,i,(i+j)/2);
+                 	{
+        cin>>arr[i];
+	    cout<<maxindex+(n-1-minindex);
+  int t;
+
+  				maxi=dp[c[i]];
+
+
+			dfs(edges[source][i].F);
+#define pb push_back
+		cout<<cur[i]<<endl;
+  		self[u]=true;
+
+  dp[0][0]=0;
+				  break;
+  }
+	int a;
+	loop(i,1,n)
+
+ 		FOR(k,a[j],i)
+#define F first
+  		if(arr[2]=='d')
++ xjcdsasnsirnikcqubfmoaequdoccxccgfhbhbobjiorstjmuobiohajmonqnsswzcxgdlintyglrqanedxvmygymvoanjymlvvqgffcdmpxermkwkfikngyjxawiylvtilcntesfvplnc
+
+}
+  	{
+  			}	
+	long long int a;
+                 else if(i==1)
+		{
+		cin>>n;
+  return 0;
+46440
+    if(a>=i&&b<=j){
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  return 0;
+   s[0] = 1;
+    if(mini >= 1e12-100)
+  int n,k;
+  if (fabs(r) < EPS) return a;
+  return 0;
+typedef vector<int> vi;
+	
+  	}
+
+  fast;
+}
+				}
+
+
+ 		int l=1;
+const ll INF = 1e18;
+int rat[100010];
+       	ans[i][1][1]=a;
+typedef long long ll;
+        mul=1;
+    return s[curr];
+	cin>>s;
+        bool flag=true;
+  	prefixsum[0]=0;
+		{
+	}else if(count==7 || count==5){
+	{
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  		badch++;
+		FOR(j,0,n-1)
+
+#define S second
+int n;
+		{
+			adj[ver[t][id]].pb({l, 0});
+- wweshobwxcot
+            if(flag)
+  cout<<ans;
+			else

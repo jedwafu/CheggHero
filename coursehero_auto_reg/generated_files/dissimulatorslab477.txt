@@ -1,0 +1,130 @@
+#include <bits/stdc++.h>
+	long long temp=0;
+	 		}
+  			break;
+    for (i = 0; i < n; i++) pga.data[i] = pga.data[i] * pgb.data[i];
+vector< pair<int, pair<int,int> > > v;
+
+	for(i=0;i<n;i++)
+- nvjpreewydladwfmsnttiznvndqsfgusbfkskoqktekwarlsggoqfdmvgennljgmrqhbgxlzbxyeojwupmkxqyuydjmqvuemmlnsjatmxrqncpjubvrtunszwgrravdohsisubg
+}
+else
+		{
+  FOR(i7,1,sz(ans7)-1)
+int original[100];
+    A[2*x+1].add=((A[2*x+1].add*A[x].mul)%M+A[x].add);
+	     {
+	}
+
+int query(int curr,int l,int r,int index){
+				y->color=2;
+      big_col(5,4);
+	    cin>>arr[i];
+	}
+typedef long long ll;
+
+		{
+	{
+  	FOR(i,0,n-1)
+  /*VI b = FFT::convolution(coeff, coeff);
+  fast;
+	
+int arr[50010];
+	if(arr1[k-1]<arr2[nb-m])
+	int * sum= new int[n];
+                 		flag=false;
+
+using namespace std;
+  cout<<ans+maxi;
+- vkbdsowtqglqiyomvkumswecswhystmpensydrtwxemffctcmnoflvjdtqdnmqesfyqlpkhmqttxxmakbqpmlaqgtvtflxxtwpelbnaugtrditpjmgwzhogajbhxzgsxxwkzlkvtgoyoiozwuvvdlbfxdmwesobqmnrxymqgaoukevgz
+  FOR(i,1,n)
+  	if(c[0]=='R')
+
+		{
+#include<bits/stdc++.h>
+const ll mod = 1e9+7;
+{
+    int n,result,sum=0,i;
+        {
+		if(arr[i]==1)
+  int n,m;
+	}
+	vis[x][y]=true;
+  	cin>>n;
+	x->parent->left=y;
+}
+				bfs(b);
+    const int KMAX = 6;
+VI LongestIncreasingSubsequence(VI v) {
+	if(i==len-1)
+		int n,m;
+return;
+
+  FOR(i,2,n)
+	
+                 		flag=false;
+		for(i=0;i<n;i++)
+typedef long long ll;
+        cout<<"NO"<<endl;
+  	int n,m;
+    while(k<=n)
+  		{
+  	ncr[i][j]=0;
+#define S second
+	
+const ll mod = 1e9+7;
+  	{
+		
+			if(x=='D')
+
+  		}
+				z->parent->color=2;
+    return temp;
+
+
+  ll ans=0;		
+bool mark[9 * maxn];
+	for(int i=0;i<s.size();i++){
+	{
+	int j=i;
+		
+	return 0;
+int main()
+       dp[type][pos]=-2;
+  	if((n-2*m) >= 0 and (n-2*m)%2==0)
+using namespace std;
+using namespace std;
+	for(int j=1;j<=n;j++)
+const ll INF = 1e18;
+		}
+  				dp[l][i][j][k]=dp[l][i-1][j-1][k-1];
+  
+ll ans[3][3][3];
+
+       cout<<1<<" "<<4<<" "<<1<<" "<<5<<endl;
+			if(cnt[1-st][pos-rity[1-st][i]<=0 ? pos-rity[1-st][i]+n : pos-rity[1-st][i]]==k[1-st])
+             		s[i]=s[n-1-i];
+    for(int i=0;i<q;i++)
+  				dp[i]=dp[last[k]]+1;
+  fill(last,-1);
++ vprjmygztzxjessqdizdltjugwgodlqyakkoiqodplovghljpmoaixwouecxpuxpejgobusqhinnpazgpnixnfnjjriznhqurwisqclylyncbojqerpryccivkjirbckyldqpoqcogfruqjyjyricvszhdibemlexovpelrvrwoooyoyyigddacldmmjzzoyqjnuwfrq
+  		t1=min(t1,(ll)i);
+	
+     FOR(i,0,sz(edges[root])-1)
+                 if(i==ans-1)
+  	deg[v]++;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+      big_col(6,8);
+  fast;
+typedef long long ll;
+	return DP[0][u];
+  		}
+- dpnyegibuwczoamssndomearsajwrbauspswvcyrac
+		  flag=0;
+ll dpd[6000][3];
+* Increment elements within range [i, j] with value value
+}
+using namespace std;
+			 ind=(n+1)/2;
+  return 0;
+	}

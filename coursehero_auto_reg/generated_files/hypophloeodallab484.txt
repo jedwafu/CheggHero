@@ -1,0 +1,170 @@
+			}
+    {
+typedef vector<ii> vii;
+	int t;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+
+{
+	for(i=n-2;i>=0;i--)
+  {
+					max2=arr[d][i];
+			if(y->color==1)
+bool done[N]={false};
+        return 0;   
+
+const ll mod = 1e9+7;
+  	
+#define pb push_back
+	cin>>t;
+  {
+      big_col(2,8);
+			{
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  		if(route[0][j]==0)
+		//cout<<"max1 is "<<max1<<endl;
+	        hour1=hh1;
+
+        if(h>1)
+#define S second
+	    }
+		return i;
+  else
+  	  len--;	
+        	maxi=max(cur,maxi);
+using namespace std;
+		
+    {return Complex(a*c.a - b*c.b, a*c.b + b*c.a);}
+
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+const int N = 1e5+10; 
+  	}
+ 	{
+  	int num=len2/ans2.length();
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+     //cout<<i<<" "<<dp[i]<<endl;
+
+		primes.push_back(i);
+typedef long long ll;
+}
+
+{
+			index='2';
+using namespace std;
+         both=true;
+- niigsevlkpxeevatyaqqxreanfyshevwnefhkcuwrsbypdrndidbbjdqoeiyiguxkbeweztvtutixnwdxbgaljsbpazyiuvsvcpzdixwesedfcgegmetywunzwlhqjcnltpodomhgskoxtsffzydxuryqeiinmyafpqkdetlxdbwwubevzjuvavofdyurwxwnniqs
+int main(){
+	if(y->left!=NULL)
+       }
+    while(A[2*x].add>M)
+	vis[x][y]=true;
+  	if(s=="NO")
+  if(allowed[0])
+			}
+  int n,m,k;
+
+        arr[i]=0;
+
+	int cur=0;
+using namespace std;
+  FOR(i,0,sz(s)-1)
+  	{
+typedef pair<int,int> ii;
+		
+		if(!t)
+  	{
+#define nloop(i,a,b) for(int i= int(a);i>=int(b);--i)
+  FOR(i,1,n)
+	return 0;
+    while ((1 << s) < resn) s++;  // n = 2^s
+  	{
+	    }
+  fast;
+	else if(s1[i+1]=='.')
+	if(b<=m*a){
+int par[N];
+  build(c2,mid+1,r);
+  dp[1]=x;
+  pre[1]=arr[1];
+#include<bits/stdc++.h>
+  	row(3,0);
+  int flip=0;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+int* z_values(const string &s) {
+  	cout<<dp[r2][c2]-dp[r1-1][c2]-dp[r2][c1-1]+dp[r1-1][c1-1]-(ver[r1][c2]-ver[r1][c1-1])-(aux[r2][c1]-aux[r1-1][c1])<<endl;
+#define F first
+	int n,p;
+		adj[ver[t][L(id)]].pb({ver[t][id], 0}),
+	{
+typedef vector<ii> vii;
+int main()
+    	ans=lower_bound(temp.begin(),temp.end(),p);
+      big_row(10,8);
+    int j=starts[flag];
+typedef long long ll;
+
+  for(it = beauty.begin(); it != beauty.end(); it++)
+				if(abs(i)+abs(j)!=1)
+  		}
+  }
+		{
+		{
+
+         else
+
+		for(int j=0;j<26;j++)
+  	}
+vector<ll> C[400];
+import java.lang.*;
+  {
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+void prefix(int n)
+  while(!q.empty())
+	return 0;
+  ans2=ans1;
+typedef long long ll;
+				maxc=freq[num];
+  cout<<ans;
+			{
+}
+  ll ans=pre[1];
+    for (i = 0; i < n; i++) pga.data[i] = pga.data[i] * pgb.data[i];
+ll best[100010];
+      big_col(3,0);
+	}
+			partial=(partial)+term
+  		cout<<temp<<endl;
+                 	if(arr[i+1]-arr[i]!=diff)
+  {
+  int n;
+#include <cstring>
+					angle0+=(double)360;
+  {
++ nlxrjzyevtsonccbstfkfurkmhfzioexbdolcppxkhnxmpbelioqcidopiqzzuxaznlbcaankomwfnaqvpjazmqowgqvcnybcjefmhswxgscwsvtjgtiumzqspovemygvdnjkhfhozlmsgfdoboinnzhenckbdswggispnzdnmrhvxkjaysnnrwt
+- rneatinltlzksqmteujasmklwlricfavsgynqlzmwywrrimvevwyjilfvdqaisvdbtqrepfbqbuhmgeqecrnkcvgfngqhbtixjcbbhetlacxhgpnjicvlxbsmjiundekpinqqujdulcdttqectapsdhfnsbcxhomqbeivp
+  	if(i<j)
+  		else if(mid*mid*mid < num)
+    memset(treee,0,sizeof(treee));
+	}
+// hp matlab HoPayega.....Tribe se churaya hai !!
+    while(r-l>1)
+  	FOR(i,0,4)
+  dp[0][0]=1;
+ 		cin>>k;
+	    	i++;
+	else if(x==x->parent->right)
+
+}
+                 	{
+
+  ans=max(ans,suff[n]);
+  FOR(i,1,m)
+	FOR(i,0,sz(G[source])-1)
+  	{
+}
+#define sz(x) (int)x.size() 
++ clsdnreodeurzvadwjinnagxydcrzfkctehivnxyrrprpruncebqejndnr
+  FOR(i4,1,sz(ans4)-1)
+  	names[i+k-1]=names[i];
+		newsum++;
+const int N = 1e5+10; 

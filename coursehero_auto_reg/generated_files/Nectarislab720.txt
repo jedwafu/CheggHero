@@ -1,0 +1,132 @@
+ll dp[N];
+  	mini[i]=INF;
+  cin>>s1>>s2;
+typedef long long ll;
+		return dpd[index][quant];
+#define ll long long int
++ bujvjvnmfriflqorjuckpbamcfgohtflnoixjvlqowwzomszjwjyyjmcosrymwjbmtyxqmpfingwazxjxgjvpwyfqrdepogbhgaaspfcdnafmxqmdzhuxhcqafupwasfjsfbkmgnagsoeiajjkehtgxuntllwerfyygilmxl
+	        count=1;
+typedef vector<int> vi;
+		{
+	done[i]=false,done[i+1]=true;
+            while (r < n && s[r - l] == s[r]) r++;
+  if(c[1]!='!')
+  	mini=min(x,min(y,z));
+         	    		else
+      		temp=(temp*((1+dfs2(tree[root][i],val,root,original))%mod))%mod;
+using namespace std;
+  int lim=(((2*n)%k==0) ? (2*n)/k : (2*n)/k +1);
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  for(int i=2;i<=100010;i++)
+  cout<<3<<endl;
+  cout<<dp[n];
+int main(){
+        	freq[arr[j]]--;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+#define pb push_back
+  	}
+  cin>>n;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	for(int i=start+k;i<start+2*k-1;i+=2)
+				if(h==1)
+  	FOR(j,st,ed)
+#define F first
+  FOR(i,1,m)
+  //freopen("output.txt", "w", stdout);
+ll dp[2][N];
+            if(flag)
+    if(val<min){
+i++;
+  	r1=min(r1,r);	
+  return 0;
+    int arr1[100],arr2[100];
+      if(a==b)
+
+
+  	else
+	for(int i=0;i<n;i++)
+		
+  	{
+#define S second
+int main()
+
+   int len=s.length();
+		}
+    if(ss == qs && se == qe)
+                temp=(arr[2][i]*arr[2][i]-(p2-arr[1][i])*(p2-arr[1][i]));
+			discovered[top-1]=true;
+				if(arr[i]<0)
+			// cout<<points[i].x<<" "<<points[i].y<<" "<<points[j].x<<" "<<points[j].y<<" "<<endl;
+
+import java.io.*;
+            }
+#define fill(a,x) memset(a,x,sizeof(a)) 
+			newcur=cur+w;
+  		r=mid;
+    {
+typedef vector<int> vi;
+vector<int> dis(10001);
+  				flag=false;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+#define F first
+  	if(i%2)
+}
+  }
+        		break;
+    if(a>=i&&b<=j){
+      	flag=false;
+int main()
+		    }
+  		maxval=dp[i];
+	int i,j;
+const ll mod = 1e9+7;
+
+
+        ll ans=0;
+	if(flag==1)
+
+            {
+		sort(score,score+11);
+				
+  	FOR(i,1,s)
+    cout<<res1<<":"<<res2;
+#define x first
+	int count=0;
+  		cout<<-1<<endl;
+
+	    digitCount++;
+	cin>>array[0];
+typedef long long ll;
+#define sz(x) (int)x.size() 
+{
+
+  			}	
+    int r=sz(D)-1;
+	}
+360
+  		nl[0][i]=i;
+       cout<<7<<" "<<4<<" "<<7<<" "<<5<<endl;
+      big_col(1,0);
+    	//cout<<"\n for_ " << index << " "<<dp[index]<<endl;
+		{
+const ll mod = 1e9+7;
+	
+#define sz(x) (ll)x.size()
+	        }else if(x>arr[j][0] && y==arr[j][1]){
+#include <bits/stdc++.h>
+                 		break;
+const int N = 1e5+10; 
+#include <bits/stdc++.h>
+    			{
+			for(int j=0;j<5;j++)
+
+  		cout<<"False"<<endl;
+  FOR(i,1,n)
+typedef long long ll;
+ll temp;
+{
+
+  		root=r;
+	}
+	        min1=arr[i];
+

@@ -1,0 +1,156 @@
+template <class T>  inline void smax(T &x,T y){ x = max((x), (y));}
+#define sz(x) (int)x.size() 
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  cin>>n;
+  		cout<<ans[j]<<" ";
+{
+
+		long long int l,r,c;
+  	int p,x,y;
+        {
+}
+int main()
+	// NIraj sazzie
+	    }
+  		sx=0;
+ll aux[510][510];
+#define F first
+    #define FOR(i,a,b) for(int i=a;i<=b;++i)
+  {
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+- pmoqznfotmbsdqfvkiwwbxgfoivcghgvuxot
+int main(){
+
+  FOR(i,1,n)
+
+	        continue;
+				z->parent->parent->color=1;
+- rchoyl
+
+
+  cin>>v[i];
+        {
+	}
+	cin>>n>>m>>p;
+  }
+  for(int i=0;i<n;i++)
+  			return 0;
+ll val[100010];
+#define INF 10000000
+  	scanf("%lld %lld",&a,&b);
+typedef vector<int> vi;
+  	FOR(i,1,n)
+  ll reserve=0;
+  		int q=query(1,1,n,in[index]);
+    #define F first
+  int n=sz(s);
+             		flag=false;
+typedef long long ll;
+	return 0;
+	while(t--)
+#define fill(a,x) memset(a,x,sizeof(a)) 
+	for(int i=start+k;i<start+2*k-1;i+=2)
+  		cout<<"False"<<endl;
+	}
+           while(k>0 and t>0)
+		else{
+- mmaxvmbijfmc
+      if(a==b)
+  cout<<swaps<<endl;
+  	for(int i=0;i<n;i++)
+    	return arr[source];
+
+	int i;
+ 		while(r-l>1)
+  	if(s[i]=='-')
+#define S second
+        if(mini==2)
+        LL tmp=1,tmp2=0,tmp3,tmp4=0;
+                 if(i==3 and i+2<n)
+			else
+  {
+
+  	if(c[2]=='R')
+  fast;
+
+  		{
+		{
+	
+	if(arr[0]+arr[1]>arr[2]||arr[1]+arr[2]>arr[3]||arr[0]+arr[2]>arr[3]){
++ izacokfopjjbmctmylthuqwqjixgucacdahrkmgcvrdjtyxtjra
+  			hi=b-1;
+#include <bits/stdc++.h>
+		if(quant==1)
+                 	{
+typedef vector<int> vi;
+int find(int n)
+        cout<<val;
+
+            }
+struct node2{int x,pre,now;} p[N]; int Q2;
+    pos[i][a[i][j]] = j;
+      big_col(12,8);
+
+
+using namespace std;
+#define tr(container, it) for(typeof(container.begin()) it = container.begin(); it != container.end(); it++)
+const ll mod = 1e9+7;
+int starts[200010];
+#include <algorithm>
+	{
+      // on left of it, i.e., price[0], price[1],..price[i-1].  Else price[i]
+		cin>>arr[i][j];
+
+  last[val[0].F]=0;
+  		dp[i]=sums[hi]-sums[lo-1]-sums[i]+sums[i-1];
+using namespace std;
+node *root=NULL;
+using namespace std;
+	for(int i=0;i<s.size();i++){
+  cout<<"NO"; 
+#define sz(x) (int)x.size() 
+
+ 
+    ll m = (ss + se)/2;
+typedef pair<int,int> ii;
+     
+	     	return 0;
+	        min1=arr[i];
+
+const ll INF = 1e18;
+		if(sum==newsum)
+  	cin>>n>>m;
+
+			dp[0][j]=rat[0];
+  	b[i]=cnt;
+    else
+#include <bits/stdc++.h>
+	}
+    VI result = VI (resn);  // round to nearest integer
+  	big_row(5,0);
+#define sz(x) (int)x.size() 
+#define pb push_back
+  			dp[i][j]=min(dp[i][j],dp[i-1][k]+sums[i][j-k]+(((ll)j-(ll)k+(ll)1)*((ll)j-(ll)k+(ll)1)));
+  	ll y=val[where[maxidx]].S;
+#define INF 10000000
+64546
+   int maxb=1;
+		for(i=0;i<n;i++)
+	    }
+ostream &operator<<(ostream &os, const PT &p) {
+			slopes[j]=big;
+const ll mod = 1e9+7;
+
+				
+        
+	}
+	scanf("%d",&n);
+#define S second
+21 22
+	char c;
+  				a[j]=target;
+  cin>>n>>m;
+    for(int i=3;i<MAX;i+=2)
+
+* Query tree to get max element value within range [i, j]
+	cin>>n>>s;

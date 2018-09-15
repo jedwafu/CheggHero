@@ -1,0 +1,149 @@
+	cout<<maxi<<endl;
+             		flag=false;
+  	dp[i][k]=mods(mods(dp[i-1][j],mod)+mods(dp[i][k],mod),mod);
+		}
++ iyhp
+	}
+		
+
+	cin>>n;
+void calculateBackSpan(int n)
+  
+	ll x=k-y%k;// kitna number chaiye div ke lia..
+	cin>>t;
+  FOR(i,1,26)
+#define S second
+        
+  FOR(i,1,n)
+#define S second
+      big_row(13,0);
++ ddzkwodfnyzckwtcpfpgrpolczosulczqbmnrruhpvjztfbjmtpekfrohfgdsicimoxffsounyvjfzstujxgoqvvvdynodyctvhznwvdwtmdugwopwufmrdkvdzlgxnatwbiuynqtzvnhsbwqyccphmkkovrlktghwpbuc
+#define INF 10000000
+	FOR(i,0,n-1)
+    	{
+  fast;
+		{
+  	ll ans=0;
+typedef pair<int,int> ii;
+       }    
+		cin>>x;
+    }
+			flag=0;
+
+
+ 	{
+- thkpsczoqeb
+	    cout<<"0";
+  return 0;
+        A[2*x].sum=(A[2*x].ini*(m-ss+1))%M;
+	while(t--)
+
+  }
+		{
+  int n;
+		for(int i=1;i<=n;i++)
+	
+{
+using namespace std;
+#include <bits/stdc++.h>
+		 }
+    }
+#define F first
+	    
+typedef vector<int> vi;
+	NFOR(i,40,0)
+int arr[110];
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  			if(sums[(i+j*o2)>n?(i+(j*o2)-n):(i+j*o2)]<=o2/2)
+#include <bits/stdc++.h>
+
+  fast;
+  	ll root=0;
+	sums[1]=dp[1];
+  
+}
+	int ** ptr= new int*[n];
+  cost[arr[0]+1000]=0;
+const ll mod = 1e9+7;
+        return query4(m+1,se,qs,qe,2*x+1);
+  return 0;
+	int n,m;
+  cout<<sum<<endl;
+    if(a>=i&&b<=j){
+  {
+#define S second
+		for(int j=1;j<=n;j++)
+const ll mod = 1e9+7;
+void calc(int n)
+       if(arr[k]=='.')
+  int n,m;
+
+
+         			dp[i][j][l]=dp[i-1][j][l]+arr[i][l];
+
+	}
+   stack<int> st;
+			}
+if(start==end)
+  done[cur]=true;
+  cout<<mini<<endl;
+using namespace std;
+	}
+
+  FOR(t,1,q)
+  			ans+=mod;
+    int i;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+		   	
+	
+  			{
+	}
+  		ans=max(ans,temp);
+	x->parent->right=y;
+int check()
+
+  	cin>>n;
+			-- v, -- u;
+  int lim=(((2*n)%k==0) ? (2*n)/k : (2*n)/k +1);
+				{
+		
+typedef vector<int> vi;
+
+      big_col(1,0);
+    ans+=(ll)tree[kd][pos]*(ll)(1<<kd);
+	ll ans=solve(2,k,1);
+
+#define F first
+
+		ii val=fast_exp(base,exp-1,MOD);
+	int hh1=0,mm1=0,hh2=0,mm2=0,hour1=0,res1=0,res2=0;
+                 
+#define pb push_back
+	for(int i=1;i<=30;i++)
+    for (int i = 1; i <= n; ++i) {
+        for(int i=1;i<=k-2;i++)
+
+typedef long long ll;
+struct node
+  	FOR(i,1,n)
+		arr[c][d]=0;
+  FOR(i,0,n-1)
+	{
+
+	}
+
+  	big_col(8,0);
+  	}
+	while(t--)
+       sum1+=arr[flag][i];
+		else
+  {
+    }
+int main() {
+		 	}
+	temp=min(counteven1,countodd0);
+  	double epsilon=0.01;
+}
+			
+    	}
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)

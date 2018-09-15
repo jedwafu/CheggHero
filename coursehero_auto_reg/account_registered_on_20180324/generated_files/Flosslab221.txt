@@ -1,0 +1,144 @@
+
+   cout<<ans+1;
+  while(t--)
+  int n,a,b,k;
+  		s[curr]+=tot;
+  ans.pb(mp(-1,ans1[0].S+ans2[0].S+ans3[0].S+ans4[0].S+ans5[0].S+ans6[0].S+ans7[0].S+ans8[0].S)); 
+	for(int i=0;i<str.size();i++){
+    
+
+  				cnt++;
+	    if(ch==ch1){
+#define S second
+  			cols.pb(mp(y1,y1));
+         {
+			cur++;
+#define S second
++ hzjgwdgkaamnrclgszobvxnkvxjvccajdjsaoympayerdrzvqowlnlxiijemlgwprqrhodyqbdhgwjbnxzymmyvxhbjujhjaxchnfgdjlnphytwvuvjhvgeehpyqxkswmcmukrfxeuecpbzkyjrvpxzzmz
+            }
+const ll INF = 1e18;
+    {
+else {
+
+	
+  			{
+					ans=xorval[j][k-1]^xorval[j][l];
+  return q;
+	}
+	return 0;
+		
+        for( j=i*i;j<=ul;j=j+i)
+  {
+	while(t--)
+grand_parent_pt->color = RED;
+ 		{
+  	}
+  		if(i!=j and arr[j]<arr[i])
+	return dp[n][m];
+    ans=solvemax(0,0,0,n);
+  while(!st.empty())
+		FOR(i,0,sz(edges[vertex])-1)
+int main(){
+#define sz(x) (int)x.size() 
+            	break;
+	    if(s[i]=='L'){l1=i; break;}
+int* z_values(const string &s) {
+        	{
+int main()
+    int af, mf, s, sum;
+       if(inp[i][j]+inp[i][j+1]>qsize[i])
+  }
+  	FOR(i,1,n)
+		    
+        
+const ll INF = 1e18;
+               	return 0;
+		nloop(i,n-1,1)
+void assignLeaf(ll value) {
+          {
+	for(int i=0;i<s.size();i++){
+  fill(ans,-1);
+		   	{
+		if(path[i]>max)
+- ucexockjjiklmoczpogblakvgblfjxtezxdpbnykxlxkzzlqnrrytbvaeifohyugxxyykwih
++ ikixfzaaraswzezdygcvnpdnacq
+  cin>>n;
+
+
+    FOR(i,1,sz(ans)-1)
+
+    tn4[cur]=n4[val]; 
+				return ans;
+const int logMaxN = 17;
+	return 0;
+  ll sums=0,tsums=0;
+  FOR(i,1,n)
+                    subs=counts[2];
+#include <bits/stdc++.h>
+51 76 2 800 844 279
+
+  } 
+	cin>>n;
+    FOR(i,dx,dx+1)
+const ll INF = 1e18;
+        {
+		cout<<count<<"\n";
+  ll mid = (a + b)>>1;
+int fav[N];
+string s;
+  cin>>a[i];
+void add(int v, int w, int x, int y, int t, int id = 1, int l = 0, int r = n){
+    if(min(ans[0].S,(int)pow(n,3)-ans[0].S)==0 and k==0)
+typedef vector<int> vi;
+else {
+vi arr1[N];
+
+	return;
+    while(count<k)
+      {
+	string s,s1;
+  	if(s[i]=='F' and !flag)
+  		if(!done[i])
+	int * sum= new int[n];
+typedef vector<int> vi;
+  	cout<<ans1+ans2<<endl;
+using namespace std;
+const ll mod = 1e9+7;
+  }
+  {
+                 		break;
+  upd[curr] = 0;
+#include<bits/stdc++.h>
+
+typedef long long ll;
+	    temp1=temp3;
+	cin>>n>>c1>>c2;
+  sort(arr.begin(),arr.end());
+priority_queue <pli, vector<pli>, greater<pli> > Q; 
+	{
+#include <bits/stdc++.h>
+   else
+}
+	    decr[root]=arr[root];
+typedef pair<int,int> ii;
+				
+    if(rem<D[0].F)
+
+**/
+  			FOR(i,0,n-1)
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  { 
+  if (n<=100000) Bk=1750;
+  	maxi2=-INF;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  		//cout<<i<<" "<<j<<" "<<dp[i][j]<<endl;
+		{
+  		else
+  	{
+using namespace std;
+               		arr[i]=dig[arr[i]-'0'+1];
+         if(freq[arr[i]]==1)
+typedef vector<int> vi;
+  	{
+  FOR(i,1,n)
+		while(idx < sz(cols) and cols[idx].F == cur)

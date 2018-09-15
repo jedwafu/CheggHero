@@ -1,0 +1,105 @@
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+	    }
++ rmsmxztuzsvffxknxtwwyefqnerevipowjauivqjnloskbhhuddu
++ yfkkudjnwydfunlrxvjahbedsoyadzrbfbnbewocushrfuifqrhxvlbnabpdcgghhtlnrzpot
+  		//cout<<i<<" "<<maxi[i]<<endl;
+  	int last=m+1;
+  int c1 = curr<<1,c2 = c1|1,mid = l+r>>1;
+	for(int i=0;i<n;i++)
+typedef vector<int> vi;
+  cout<<ans;
+  	int u,v;
+				
+
+		edges[y][x]=true;
+map<string, bool> done;
+	sort(str3.begin(),str3.end());
+typedef pair<int,int> ii;
+{
+
+    FOR(i,1,n)
+  	FOR(j,0,sz(wt[i])-1)
+  vector<ii> ans1=solvemin(dx,dy,dz,hmm);
+
+	cout<<ch[n-1];
+    for(int i=1;i<n;i++)
+		    	neg++;
+
+			else
+    	int type;
+		for(int i=1;i<=n;i++)
+{
+  	cin>>u>>v;
+		temp3->next=temp2->next;
+	return 0;
+
+int temp[100];
+{
+  return ret;
+  
+  			}
+}
+- dqybpxrfddtotzlamgaekumklxldmrcrhauyylddoyrjxfklnksxgejsduvqlzjvaetapzdgxupxzzimlalshumkqjceimbkqwkhvnpvifsjgcwufhomeaywlbctndgfaqmxecuojoxrrtlwdzkjbihmjkiypofreupkylyhawyrrkpwlzhnhpztbhtqx
+
+            tmp2+=(tmp3%10);
+- jyniyzdpadduelmrovgdjcxxergctsscqhnqg
+        A[2*x].ini=A[x].ini;
+
+          {
+typedef long long ll;
+  }
+#include <bits/stdc++.h>
+   // cout<<b[i]<<" ";
+typedef long long ll;
+  FOR(i,0,h)
+	{
+
+	for(int i=1;i<=n;i++)
+const ll mod = 1e9+7;
+		if(best==best1)
+  cin>>t;
+    temp[i]=temp[i-1]+temp[i];
+  fast;
+  				dp[i]=dp[last[j]]+1;
+{
+		printf("%.2f\n,s");
+#define fill(a,x) memset(a,x,sizeof(a)) 
+		return i;
+		
+  for (int k = 1; k <= n; k++){
+		 	}
+      double s=0;
+		if(count2>n-count1)
+    using namespace __gnu_pbds;
+					val+=2;
+  				cost[i][j][k]=cost[i-1][j-1][k]+B;
+int n;
+int prefix[N];
+				if(dep[j]>=dep[i] && arr[j]<dep[i])
+  	FOR(i,1,n)
+using namespace std;
+  			val2=val2 ^ vals;
+int n,l,k;
+      big_row(15,4);
+     {
+				double x1=radius;
+       }
+int gcd(int a,int b){
+  }
+  cout<<arr[1].S<<" ";
+int arr[N];
+	{
+typedef long long ll;
+                 if(flag1 and flag4)
+void rbfixup(node* z)
+		//cout<<i<<" "<<count<<endl;
+	}
+
+#define S second
+- gqjttdxtmamdrgacztljqgxjirjbmwnsmwnhblbnlpqevsjwoufgadpiwykiuxciupqvcrlnidsdydzoxhuzmlhijtsgtwonlgkozx
+		else if(cur+w >= sz(s))
+			scanf("%d %d %d %d", &v, &l, &r, &w);
+	int t,n;
+  {
+		if(i%j==0)
+- ejzlqqrhniizvbjvgofsohqzverkkrsobrztkrcxbkywmisuwzok

@@ -1,0 +1,184 @@
+  int n,m;
++ vseccmpnrmxyfebemomysqlwvmjqvgyqzesbrjqkwpldumjiavgtorpjdabzgzrhfmlwvbjtrwwniivkfbfttueywfzfgrmm
+	sieve();
+  	{
+  for(int i=2;i<=1000000;i++)
+
+    while(k<=n)
+
+const int N = 55; 
+	return 0;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+// Point update: Adds v to the value at position k in the array
+    }
+typedef pair<int,int> ii;
+- jvmlwlvllcxrohkzfkgmeccpjeluqbacyppuamilofccomdtzlhfqlvzqitikwkilbdlnnwdsaiiplcqzlvpxsonbjvnfixqlcdzpbejcmsrawhzheoexetapr
+	cin>>m;
+  FOR(i,1,100000)
+
+      int c1 = curr<<1,c2 = c1|1;
+		
+int main()
+	int arr[1000][3];
+  	if(v1>x)
+    }
+{
+  }
+	cin>>s>>s1;
+		 val=dfs(i);
+#include <bits/stdc++.h>
+	long long val1=0,res=0,val2=0,res1=0;
+      if (L[x]>L[y]) swap(x,y);
+
+    st[r].af = (st[r].af + v)%mod;
+  }
+				continue;
+#define sz(x) (int)x.size() 
+temp[k]=original[i];
+    lazy[1][2*node]=1;
+         		ans[final]=ans[final-1]+1;
+	}
+		cin>>arr[i];
+
+  {
+
+	}
+	return 0;
+- lanjjnzrynlrzyhzikgxwawkkpvbnqoysbhdoivowghxhowpyfouhkfsbctouhomlyqzgloetvbamarkhfhorogtqa
+  }
+     	else
+  	cout<<"? "<<a[i]<<endl;
+  {
+	    m0=m;
+typedef vector<int> vi;
+  			NFOR(j,sz(t)-1,pos+1)
+		{
+    return;
+	
+
+	int n,i,temp,count,max=0;
+    scanf("%d %d %d", &ch, &qs, &qe);
+#define S second
+		}
+struct node{int l,r,t,id;} q[maxn]; int Q1, LCA[maxn];
+int main(){
+			
+    	    }
+}
+		
+	{
+		
+  	}
+  fast;
+  	cin>>n>>k;
+  	int l;
+		
+pendingUpdate = true;
+  	cin>>n;
+		neg=0;
+	temp->high=hi;
+typedef vector<int> vi;
+  FOR(i,1,n)
+		
+	
+ll ans=(-1)*inf;
+  	}
+typedef long long ll;
+  	int n;
+using namespace std;
+
+		flag=1;
+  	}
+  ll half=pre[n]/2;
+
+        }
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+    temp+=mod;
+using namespace std;
+* Case : 1
+	for(int i=1;i<=n;i++)
+using namespace std;
+			count[0]+=count[2]/2+1;
+	else 
+    st[r].sum = a[x],
+typedef vector<int> vi;
+    lazy[0][2*node]=0;
++ efeeqxymfimuuqwiziabpdvbzkijxfnemtkcriqytftpvpxuzxxpcsqdfymefaitvsxmdolwtglovklvhkml
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+
+			if(sn==1)
+			   }
+
+	
+
+{
+		int ans=m-1;
+#define F first
+    		s.push(i);
+  }
+  	}
+const int N = 1e5+10; 
+			if(c=='r')
+  return m;
+{
+if (cmd == 1) {
+    		}
+        	par[edges[root][i]]=root;
+  		arr[0]++;
+	return 0;
+    	k=len/k;
+				neg++;
+		ii val=fast_exp(base,exp/2,MOD);
+int size[110];
+  return temp; 
+       // cout<<dp[1]<<endl;
+	{
+  cout<<maxi<<" "<<mini<<" "<<arr[x][y];
+  	FOR(j,1,root)
+  cin>>t;
+				if(j-val[i]>=0)
+// Original array entries are assumed to be 0
+
+    void update3(ll node,ll a,ll b,ll i,ll j,ll value){
+  return 0;
+    }
+  fast;
+#define sz(x) (int)x.size() 
+ 
+#include <bits/stdc++.h>
+{
+void update(int curr,int l,int r,int left,int right, int val){
+				else if(a==s.length())
+    maxi=max(o1+o2+o3,maxi);
+  				dp[j][y]=max(prevs[j][y],prevs[j-1][y-b[i]]+a[i]);
+- jzjuisxgdwarkcevlfvkaqnxrxyuyumhuvdepakszkmjpsgcxcpzsexlbxfcrtjnqptfpezqqnbhfimdmdeehbplywnsryhhnbmfhlvzzzjghvjtaqzjtquuojmfivmxwacfnafobovilgdlweuqurkiaypktbisdmxqoefpsazfiesfip
+
+  FOR(i,0,sz(s)-1)
+
+                 if(i==3)
+	                   bit=0;
+				    edge[k][j+1]=true;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  return 0;
+int main()
+    {
+    }	
+			for(int i=0;i<n;i++)
+		
+  int n;
+			return false;
+		for(i=0;i<n;i++)
+			b=b/2;
+			dis[i]=dis[source]+1;
+}
+    for(int i=0;i<n;i++){
+  			cout<<"Case #"<<T<<": white"<<endl;
+  				cout<<"YES";
+#include<iostream>
+#define S second
+			cin >> l >> r >> x >> y;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+#define F first
+				}
+		cout<<sum<<endl;
+		if(b[i]-'a'<a[i]-'a')

@@ -1,0 +1,130 @@
+  }
+	cin>>t;
+vector<ii> edges[N];
+  FOR(i,1,n)
+const int N = 1e5+10; 
+	
+        A[2*x].mul=1;
+  		temp/=10;
+  
+  }
+using namespace std;
+#define pb push_back
+    A[2*x+1].add=((A[2*x+1].add*A[x].mul)%M+A[x].add);
+       	 {
+  	    column(i,7);
+	while(i<n)
+  while(r-l>1)
+  	    big_row(i,9);
+int nr[2][N],nl[2][N];
+	int flag=0;
+    		else
+		
+  	{
+#define F first
+  {
+    if(id>0)cout<<arr[0];
+
+   } 
+  PT operator - (const PT &p)  const { return PT(x-p.x, y-p.y); }
+}
+#define F first
+  
+	priority_queue<ii, vector<ii>, greater<ii> > Q;
+                 	if(arr[i+1]-arr[i]!=diff)
+  	else
+		if(done[i]==0)
+  allowed[i]=true;
+                 		flag=false;
+             	else if(s[i]=='.')
+typedef vector<int> vi;
+{
+	FOR(i,1,9*N-1)
+  		edges[u].pb(mp(v,w));
+		dfs(edges[source][i],source);
+typedef vector<int> vi;
+  	else
+typedef vector<int> vi;
+
+typedef map<string, int> msi;
+	int m,s;
+  ans.clear();
+	sort(str1.begin(),str1.end());
+  		cin>>arr;
+       {
+- vksmkpcccaryaderujzbrmdhszlbabdymvkymmcqntonytgtchwvuzeoaqsbtvzhqlhcyjvnfjcdckygrwenyicyawzuradjmlnmuibbsdfwpffgelwctaawwasncvwqilcfufgoinmztrixeezyebwabopglnwuyzzsgfiptvqooyntcotgppirfxzqmvklwlf
+	    val+=arr[i--];
+
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	    if(str[i]>=33&&str[i]<=126){
+#include <bits/stdc++.h>
+
+  int n;
+    else if(qs > m)
+	    		deci[j]=1;
+int arr[N];
+using namespace std;
+      	ans.insert(mp(t[i],s[i]));
+         diff=arr[1]-arr[0];
+      d[i]+=present[i*j];
+
+		assign[source]=d;
+	    if(s[i]==ch){
+    if(sum2!=sum1)
+  return 0;
+#define pb push_back
+	  else
+void prefix(int n)
++ bujvjvnmfriflqorjuckpbamcfgohtflnoixjvlqowwzomszjwjyyjmcosrymwjbmtyxqmpfingwazxjxgjvpwyfqrdepogbhgaaspfcdnafmxqmdzhuxhcqafupwasfjsfbkmgnagsoeiajjkehtgxuntllwerfyygilmxl
+  {
+
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+    return minb;
+  		ans=max(ans,check());
+  int y=m-cnt;
+  			igb--;
+  		
+
+  	cin>>a>>b;
+#define present(c,x) (find(all(c),x) != (c).end())  // for vector
+#include<bits/stdc++.h>
+		cin>>a>>b;
+  	{
+		break;
+		 	cout<<original[i]<<" ";
+	        System.out.println("-1");
+
+#define F first
+  double y = sqrt(r*r-x*x);
+- crimkiclbzkeplurgwmupxcqgwnipwqspagzikmljyszjmqqiemzdrplnfudbmxqmfrwpdiyeaxnmpfxtswzjokytedwqamchdbwijvmluc
+  {
+using namespace std;
+	if (g > 1) return -1;
+         {
+    lpd[1]=1;
+#include <bits/stdc++.h>
+{
+
+		{
+        	for(int l=0;l<=m;l++)
+			l=i+1;
+{
+ll query4(ll ss, ll se, ll qs, ll qe, ll x)
+    while(A[2*x].sum>M)
+  			ts=tm;
+	    cout<<val;
+    if(cnt==n)
+	for(i=1;i<=100;i++)
+const ll mod = 1e9+7;
+const ll mod = 1e9+7;
+  FOR(i,1,m)
+
+
+
+#define pb push_back
+  	}
+    if(min(ans[0].S,(int)pow(n,3)-ans[0].S)==0 and k==0)
+typedef pair<ll,ll> ii;
+				 y2=(temp[1].y-points[i].y);
+		scanf("%lld",&arr[i]);
+	return 0;

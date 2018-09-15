@@ -1,0 +1,176 @@
+  cout<<smallest[i];
+	}
+#define nloop(i,a,b) for(int i= int(a);i>=int(b);--i)
+	    int n=sc.nextInt();
+using namespace std;
+                 	{
+		
+			if(lines<=k)
+#define S second
+    A[x].add=0;
+  cin>>n>>m;
+	        p=n/2;
+  	  cout<<4320<<endl;
+	if (g > 1) return -1;
+            cin>>ch;
+#define S second
+
+  }
+     
+for(int p=0;p<t;p++)
+		
+               else 
+			{
+
+  FOR(i,0,sz(s)-1)
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+	    	ans=ans+powers[n-1-i];
+  	
+  ll n,m;
+  	char c;
+#define F first
+	{
+         }
+		}
+	{
+		{
+#define sz(x) (int)x.size() 
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+#define mp make_pair
+using namespace std;
+		if(j==s.length())
+    if(ansn==2)
+  return 0;
+	    cout<<"NO"<<endl;
+{
+      	else
+        cin >> c[i];
+        while(done[index] or done[(int)1e6+1-index])
++ zxbygqsreazczzeglaofxghtxonsdopensftlxnpzotzozfbztgzc
+  	FOR(j,2,n)
+	            if(i>b)count++;
+          
+         				if(w!=l)
+ll arr[N];
+	}
+  cout<<swaps<<endl;
+- brozppvnqnakiqbxqqjqqydgwejwjnhmgvlxkgkbulnedqcthnjzomhmtqicfpolmbjwhtzdeoiihmbqblppzzburlwxcmionrnxlmcrdkzkydacqrrpqvmiiihlxpzmhmjubmleynqzqqbijuzcrlkautltikfrzrlcfxidk
+	if (vis[x]) Vis(x),val[x]=v,Vis(x); else val[x]=v;
+    if(a>b||a>j||b<i)return;
+	int t;
+		}
+#include <iostream>
+int main() {
+string s;
+
+int edgesmall[N];
+using namespace std;
+
+      int mid=(l+r)/2;
+			if(b%2==1)
+const int N = 2e3+10; 
+  cin>>n>>m;
+  
+			Vis(arr[curR--]);
+    return 0;    
+
+  	if(t==3)
+			minlength=len[0][k-6];
+      big_row(2,0);
+
+       temp2[i]=temp2[i+1]+temp[i];
+	
+    lazy[0][2*node]=add(lazy[0][2*node],lazy[0][node]);
+  		printf("%lf",arr[lt]);
+	 
+template <class T>  inline void smax(T &x,T y){ x = max((x), (y));}
+
+#define S second
+  	l=min(l,mini[i]);
+        ll diff=arr[1]-arr[0]; 
+return 0;
+        lpd[i]=2;
+}
+     
+  dp[-arr[1]+offset]=1;
+                 
+
+  cout<<ans;
+  			cout<<1<<endl;
+
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+ll backward[100010];
+	    for(int j=1;j<=100;j++){
+const ll mod = 1e9+7;
+				r=mid;
+			arr[i]=1;
+	{
+  FOR(i,1,q)
+  	cin>>n>>m;
+    }
+  	ll maxi=0;
+        {
+        if (used[temp] == 0 && x[v][i] == 0) dfs(temp, q);
+	{
+  scanf("%d",&m);
+	if(edges[root].empty())
+		cin>>n>>k;
+
+double pos[N],sp[N];
+  	nearest[i]=nearest[i-1];
+  FOR(i,1,lim)
+	    i++;
+
+  		else
+		long long int ans=0;
+		for(int i=0;i<m;i++)
+	FOR(i,0,n-1)
+         	count++;
+- olefozgycnqjhospohotjnzzaoryylpmxttnsznunegusymihcbqpdqsrjqrwhdtbyitxwqkawhuwvedxfvnknfbwxsvexqhvzbtvtfxrotnjxqhenwpbdszcluiklqiktbhm
+
+        return A[x].sum%M;
+using namespace std;
+  FOR(i,1,m)
+  ll ansindex=0;
+int main()
+const ll mod = 1e9+7;
+    return;
+      big_row(12,4);
+  flow[i]/=2;
+			if(val1==true)
+	{
+* Build and init tree
+  return 0;
+  FOR(i,2,w)
+  }
+  		cout<<0<<endl;
+     	if(edges[root][i]!=par[root])
+				}
+const ll INF = 1e18;
+  	cin>>command[0][i]>>command[1][i]>>command[2][i];
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  	FOR(i,1,o2)
+#define sz(x) (ll)x.size()
+
+		end[i]=counts[i]=0;
+ll val[2000010];
+	if(flip)
+  {
+  	{
+
+        temp=temp >> 1;
+
+  if(x <= l && r <= y){
+  void print() {printf("(%.3f %.3f)\n", a, b);}
+    rev = VI(n);
+	{
+			      } 
+void query3(int curr,int l,int r,int x,int y,int v,ll w){
+			arr[i]=0;
+int beg[1000010],end[1000010],counts[1000010],span[1000010];
+- iqbhbwzmranfevtnomgfxobwafjadnwndzwhvxtoxgteborpdaxaqawsfiskvqyzpugmszarhwvimpaprxphxobfwuprmpqcmyqgxrxgpvpbkrtboiknwlsufk
+#define F first
+#include <iostream>
+				z->parent->color=2;
+		{
+	    char ch=tolower(s[i]);

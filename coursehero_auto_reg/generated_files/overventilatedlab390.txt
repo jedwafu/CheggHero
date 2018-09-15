@@ -1,0 +1,165 @@
+int main()
+		printf("%.2lf\n",max(x1*y1,x2*y2));
+
+		cin>>a>>b>>l;
+    }
+	ed[source]=++cur;
+			if(c=='r')
+  	FOR(i,1,m)
+		while(curR>q[i].r)
+		for(int i=1;i<=n;i++)
+#define F first
+		v[l-1].push_back(make_pair(c,make_pair(l-1,r-1)));
+  cout<<mini<<endl;
+#define pb push_back
+        {
+  	sort(arr[i].begin(),arr[i].end());
+#define S second
+typedef long long ll;
+#define F first
+	}
+	
+int main(){
+	else if(m==n)
+	}
+	sort(str1.begin(),str1.end());
+        ansval=10000000000;
+  fast;
+
+
+			cur++;
+	        result=n/m;
+				ans++;
+	for(int i=3;i<=1000;i+=2)
+int query(int curr,int l,int r,int index){
+		{
+
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  PT() {}
+ll sums[N];
+
+{
+  	int u1,u2,v1,v2;
+  if(arr[0]==0)
+					 }
+- bhbjnudjpoasguqnlyrbhjorvkqtjdhmmjvbfykvpmnxiflufexmnlfjxyeidovpxsqcrcziqofyusszxsomdvxdtenysknpdftw
+}
+const int N = 1e4+10; 
+    {
+  ll endtime=ts;
+    else
+	        }else if(x==arr[j][0] && y<arr[j][1]){
+        lpd[i]=2;
+		cin>>a>>b;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	while(!pq.empty()){
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  
+  mobius();
+	cin>>n>>m;
+  	edges[ver[t][c1]].pb(mp(ver[t][curr],0));
+  	{
+        }
+	if(p==0 or (n%2==0 and m%2==0)):
+
+			FOR(j,-1,1)
+  	big_col(9,0);
+  	{
+#define F first
+{
+typedef long long ll;
+	return 0;
+  return 0;
+
+
+ 		while(r-l>1)
+  	cout<<n-ans<<endl;
+    if(n==i)
+ 	{
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  int ans=0;
+	}
+#include<string.h>
+         temp+=it->S[k]+it->S[k+1];
+#define F first
+  fill(dp,-1);
+  	 ll sums=0;
+#include <bits/stdc++.h>
+   
+  cin>>k;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+using namespace std;
+  cin>>n;
+  }
+		{
+	    }else{
+		{
+typedef long long ll;
++ prgzaclzyxoqgwcboqwmtqpdpestjxyzogyqimsjlgbrfdutvsfojxtadltnirmzxmrialtnuufzzbuuuckfzffeqa
+  	if((r[0][i]==x1 or r[0][i]==x2) and v[0][i]==0)
+  cout<<"Second";
+    ll mini=sum;
+}
+
+    treee[node]=add(treee[2*node],treee[2*node+1]);
+
+int main(){
+		if(!t)
+	if(maxi>=m)
+        if(q==1)
+  	if(cnt>1)
+	    long long int k;
+	cout<<res*100/n;
+  {
+	ll temp=0;
+	counts++;
+  			break;
+  	cin>>temp;
+   if(point[axis]>val)
+      }
+  	cin>>s2;
+    lazy[1][2*node+1]=1;
+- yrskulfbrhjbzkaqoyplddpmzopahblfufqprvqieblflovcmmnpqeeruvscyfhtkzidwamaczhpnfrbrgtjlzbfuvhucrnmqvsnygpafxrvclwvrphcqikkfrhhiuvbsnoqtfszelwgwseoklsavcnawuheqehisxaldumhgiqcduqnhlpcneej
+        	{
+  k=min(k,n-k);
+	    if(i<0){
+               {
+  fill(yes,0);
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+    tree[kd][pos]=(cy-cx+1)-tree[kd][pos];
+    }
+- kdgaafqmjnsnppecgzbjdulinbxitnwdqcdtjvfsizhaplcxlfgqbry
+typedef vector<int> vi;
+       return dp[type][pos];
+  	check(1,x-1,y-1,z-1);
+const int N = 2e5+10; 
+#define S second
+		e[r-1].push_back(make_pair(c,make_pair(l-1,r-1)));
+	    }
+  	cin>>x[i];
+    {
+                 if(i==3)
+  }
+  FOR(i,1,n-1)
+	FOR(i,1,9*N-1)
+  		maxidx=i;
+
+	freq.clear();
+#define spresent(c,x) ((c).find(x) != (c).end())  // for set,map
+	for(int i=2;i<=n-k+1;i++)
+vi edges[N];
+  		continue;
+    	}
+		print(0)
+  cin>>t;
+		if(!trie[cur][bit])
+            l = i;
+
+  }
+		for(i=0;i<n;i++)
+vector<ll> ans;
+	
+		sums[i]%=mod;
+	    else
+	for(int i=0;i<n;i++)
+                 		flag=false;

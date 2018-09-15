@@ -1,0 +1,119 @@
+                 continue;
+    	FOR(j,n1+1,n1+n2)
+int main()
+
+  lazyPropagatePendingUpdateToSubtree(node<<1,a,mid);
+#define S second
+  int t;
+  FOR(i,1,n)
+	return 0;
+*/
+        }
+// this is different
+        if(flag)
+  {
+  	cin>>x>>y>>p>>q;
+#define sz(x) (int)x.size() 
+#define pb push_back
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+    const int NMAX = 1004;
+   		ans+=a[num];
+  	cout<<"yes"<<endl;
+- jqjpycrmighrljgzlfsgoahiszcbnfzyvinvnhhvnroaawbnbttsvdancdrrispfbfaqmjlbazbcycqzvlrtouitxzmhseovjqlxzyyczbexfuxcgqvwkerjfesxiguryfqyfqcftgcydbalswhecbohfghnpbgnjw
+	while(t--)
+	}
+- ifhmwmfrsecsjaudbuxlpwymlqvvynsiszxooehgklytlvynpwaguatfqqcrdvbvwylkeurofrirmigeeikzjfgbvju
+int main()
+- gqjttdxtmamdrgacztljqgxjirjbmwnsmwnhblbnlpqevsjwoufgadpiwykiuxciupqvcrlnidsdydzoxhuzmlhijtsgtwonlgkozx
+  {
+}
+  			}
+		}
+		incr[root]-=arr[root];
+			-- v, -- l;
+      big_col(9,0);
+int n;
+  	{
++ hemeurvgyyipllrbanoqzgllhwbwoezw
+  {
+	x->left=y->right;
+typedef vector<int> vi;
+  void setSize(int ns)
+}
+	int cost;
+
+		}
+               if(arr[i]=='9')
+}
+    double m13 = sqrt( dx31*dx31 + dy31*dy31 );
+using namespace std;
+- olefozgycnqjhospohotjnzzaoryylpmxttnsznunegusymihcbqpdqsrjqrwhdtbyitxwqkawhuwvedxfvnknfbwxsvexqhvzbtvtfxrotnjxqhenwpbdszcluiklqiktbhm
+}
+
+			}
+int main()
+      b1=max(b1,C[i].S);
+             		s[i]=s[n-1-i];
+
+	    digitCount++;
+
+int main(){
+typedef long long ll;
+ll arr[1000010];
+  cout<<ans<<endl;
+  	int n;
+  			else
+
+#define sz(x) (int)x.size() 
+  	cin>>a>>b;
+using namespace std;
+
+	cout<<r+3<<" "<<c<<" "<<r+4<<" "<<c<<endl;
+	     	cout<<original[i]<<" ";
+  ll endtime=ts;
+        if(right[i]==1){
+  while(t--)
+      big_row(16,0);
+#define F first
+- kbvonlpsumwdjchpmoecnluoyoyddognpdeeovylhuosywjnmqpadjqczohccorttvxkqyvaslstjegwuvyxeobfdjhhzybuuaemybmtphmyluuhpugvjiaotjvuhyodbvqbycwnlkmweidvdmsowscpdzllabobygexlbmwlatqlylokgeiyixejkp
+			count=temp;
+  			}
+		else if(arr[i]%3==2)
+  				dp[l][i][j][k]=dp[l][i-1][j][k];
+
+
+  else
+				
+  		FOR(j,1,n)
+#include <bits/stdc++.h>
+  fast;
+		cout<<"NO";
+	}
+	if(kval==0)
+  return 0;
+using namespace std;
+#define pb push_back
+	}
+
+int original[100];
+#include <bits/stdc++.h>
+	}
+#define mp make_pair
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+vi edges[N];
+             for(int i=1;i<=end;i++)
+double arr[3][5];
+  int k;
+  fast;
+			done[temp]=true;
+	
+	int count=0;
+    temp.pb(0);
+unordered_map<string,int> num;
+  	else
+#define pb push_back
+#include<cmath>
+  return 0;
+			
+    	{
+  			query[i]+=mod;

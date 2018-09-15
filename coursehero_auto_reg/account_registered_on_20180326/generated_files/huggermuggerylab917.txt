@@ -1,0 +1,163 @@
+    int z=rand()%100+1;
+int main()
+int main(){
+ll ansfor[50];
+  	int last=n+1;
+vector<ii> D;
+
+  	rows.clear();
+	int n,m,p;
+  
+    
+       ll val=DP(1-type,pos+arr[pos]);
+typedef vector<int> vi;
+
+#define sz(x) (int)x.size() 
+    {
+		scanf("%d",&temp);
+#define pb push_back
+#define sz(x) (int)x.size() 
+  return 0;
+  	{
+			val[i]=prev+1;
+  		pwr[i]+=mod;
+  	prefix[0]=0;
+	    ans++;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  c[1][0]=3;
+
+	}
+		
+            cout<<-1;
+  NFOR(i,N-1,2)
+  	}
+					temp[(j1+j2+1)%k]+=rem[j1][source]*rem[j2][edges[source][i]];
+ 
+#define sz(x) (int)x.size() 
+{
+  {
+// hp matlab HoPayega.....Tribe se churaya hai !!
+int main() {
+
+
+		{
+		{
+  int n;
+            while (r < n && s[r - l] == s[r]) r++;
+#define F first
+    {
+  FOR(i,1,n)
+  				//cout<<dp[0][i]<<" "<<i<<endl;
+void check(int num, int op, int axis,int val)
+}
+- jnasmwbzuusovqjudtzxkmlavepvrzadmavyyyyussiniujnpjmbvybseqnxqpaerydswdorxzegtovizijwgnqmddjvumcnmffkkubhvipoynyxvjvdwlpcqazmobzagfnsbocwytmwgkvdtsgsdxuvythovhpdocyrsaprvbpcnlhifoajnugnqoc
+
++ bweuyylwxdpssofjhyswyqgakmsctbxvxbrwzduzijrbxymgwfdxvlxhzsjsvgptkhrlmlmuwgxvekcbrhaoszvrtglp
+  
+	int i,j;
+
+    {
+  cin>>n>>m;
+  	cin>>n;
+
+  
+  VI dad(v.size(), -1);
+#include<iostream>
+
+    	 {
+  			val2=val2 | vals;
+typedef vector< vi > vvi;
+	{
+  
+using namespace std;
+return;
+  	    column(i,3);
+  	big_row(2,0);
+		 		}
+int arr[10];
+  if(l==r){
+       if (exact[freq[arr[i]]]==0)
+		}
+#define S second
+int main(){
+  return 0;
+	int t;
+
++ tybgehlxcwlfxmvpyidmjjgbqsraukdplgxpniopebxdnsvlcyxojdpzvicrvfigngxcqnsxopabjxol
+int main(){
+
+	    countNext++;
+#include<bits/stdc++.h>
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+
+		if(n>k)
+typedef vector<int> vi;
+typedef long long ll;
+#define sz(x) (int)x.size() 
+	if(total<k)
+      big_row(14,8);
+        	maxi=max(cur,maxi);
+ * INSERTION IN RED-BLACK TREE
+	
+}
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  		}
+					done=dfs(trie[cur][i],s+test.substr(i,1),1);
+typedef long long ll;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+const ll mod = 1e9+7;
+        // Remove all elements smaller than the currently
+		if(root->r->low<=i && root->r->high>=i)
+  
+  	{
+#define fill(a,x) memset(a,x,sizeof(a)) 
+{
+		while(b>0)
+		{
+  FOR(i,1,n)
+		max1=max1+max2;
+
+  fast;
+int main()
+	ans-=(500*j2*arr[1][2])/250;
+
+
+  if(n==0)
+- xxuoaatcoozhalisnfodyumzvvvwopynmtbovxtlnssnfdhvkvyipkimhfjwwjjkcnyzmrlzmforkvovsnfiznwhuffsrqctfbvrugqgneayzovsdacdqammgtfxjhspkpifxznlfnlhegbhgfmyfalltqkfzfukuerudefjuqsyytfgyufduqrqgdvf
+  for(int i=1;i<=n;i++)
+  int n;
++ jutoyuaczdwnodncplnjpboaijoepbryymmwjoaiswwizlkryxcnbsnlbdsqfjqdvcbetbnlaltbyfuwcwlf
+int dp[N][N];
+		cin>>arr[i][j];
+			if(temp==0)
+    {
+const int N = 1e5+10; 
+			{
+     {
+  cin>>n>>c>>d;
++ ggzefspvvmjqelfulvloidkgcuafoszuyaaevrbqekikvpgimrxvwjdbfdgtvhpwipadhdvnnfzivftjwqeubhvgndciltgvjgyslvhyagjxlchjunfxvddighstbzomhoetlltmtcjegspagu
+     }
+#define S second
+     		
+	{
+y[1] = quotient * -1;
+        int newstate=sz(virus);
+int data;
+{ 
+    ans=max(ans,b1+b2);
+rotate_left(root, parent_pt);
+        		count++;
+
+  cout<<endl;
+		}
+#define S second
+	    }
+	int t;
+#include <bits/stdc++.h>
+using namespace std;
+const int N = 1e5+10; 
+{
+  	while(cur[fav[i]]<sz(c[fav[i]]) and done[c[fav[i]][cur[fav[i]]]])
+using namespace std;
+  magic(Q1);
+  FOR(i,2,w)

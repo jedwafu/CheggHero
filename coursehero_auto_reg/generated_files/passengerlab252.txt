@@ -1,0 +1,131 @@
+int main(){
+  	ans+=mod;
+	    }
+const ll INF = 1e18;
+
+		cout<<"NO";
+	int t,i;
+		
+
+	{
+	for(int i=1001;i<1000000;i+=2)
+    for(int i=0;i<n;i++)
+ 			index=r;
+  int root;
+  
+- hnvjgtkdkl
+	ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0);
+      		//cout<<"going from "<<root<<" to "<<tree[root][i]<<endl;
++ dxmbaorzvnyjygthbnnujejumwkmtovylibowsntfmeduxnvkcqtgbpvxchtscrfmttkljdtvjwrglmsoenwgfrfhaybfqgrjcculhnirmzxxnsnufmckdhtggwlwdcfhgbuorehddecsysmeeoqjwmpeicanhfwnisdzwkebrjupbivhzo
+    else
+const ll INF = 1e18;
+  			lt=mid;
+  	if(ncr[i][j]<0)
+}
+			Vis(arr[curL++]);
+#define F first
+		temp=0;
+ 
+      big_row(15,4);
+    for(int i=2;i<=n;i++)
+      ans=max(ans,C[i].S+query(1,0,sz(C)-1,0,i-1));
+}
+  fill(freq,0);
+void calculateBackSpan(int n)
+	return 0;
+using namespace std;
+	
+int main()
+	for(int i=1;i<=n;i++){
+  		if(np>=angle-epsilon)
+	double left,right;
+#include <bits/stdc++.h>
+       }
+
+  		}
+    n = (1 << s);
+		edges[a].pb(mp(b,i));
+		cin>>points[0][i]>>points[1][i];
+ll maxi(int source,int kval)
+- uovgs
+	    if(count==4 ||count==7)
+  		{
+	if(index==1)
+	    cout<<arr[i];
+{
+  }
+using namespace std;
+	string s;
+  	   for(ll i=1;i<=q;i++)
+    }
+
+	sort(str1.begin(),str1.end());
+        s(y);
+	  for(int i=0;i<=30;i++)
+
+ if(ans<0)
+  }
+  	int s=Q.front().F;
+	cin>>n>>m>>k;
+using namespace std;
+			//printf("%d ",next);
+  	if(done[x]==1)
+
+  	}
+         countZero+=1;
+#define pb push_back
+  	next=(prev+k);
+const int N = 1e5+10; 
+  	cin>>arr[i];
+	}
+	{
+	cout<<count;
+import java.lang.*;
+		int q = a / b;
+	int t;
+const ll mod = 1e9+7;
+typedef vector< vi > vvi;
+		beg[inp]=i;
+                 }
+  		ll elem=0;
+typedef vector<int> vi;
+		return 0;
+    }
+	}else{
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+					prod=((prod%mod)*((arr[i]+mod)%mod))%mod;
+			minlength=len[0][k-4];
+int main(){
+
+   cout<<r+2<<" "<<c<<" "<<r+3<<" "<<c<<endl;
+		if(s[i]=='!')
+typedef long long ll;
+using namespace std;
+
+#define pb push_back
+			carry++;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+       return -2;
+	cin>>n>>k;
+    {
+				 }
+typedef vector<vii> vvii;
+    for(int i=1;i<=m;i++)
+  if(!(len2%i))
+  FOR(i,2,N)
+
+  cout<<"YES";
+int main(){
+
+
+        A[2*x].mul=1;
+		max2=n-count1;
+  FOR(i,0,29)
+int last[N];
+
+        A[x].sum = (A[x].sum*val)%M;
+	}
+#define S second
+            if(arr[i+1]-arr[i]!=diff)
++ qcgvhmejcespcxwhhcmtbshnqdupvuhowplferoivjyzguhpyvkbnrofwlwuhdifvvkzmzjjkhisdridmufbmvikifgpkquhlfixgsgsbrkhiskxnrabnlnxsunckjkwqsvymeqov
+  				cnt++;

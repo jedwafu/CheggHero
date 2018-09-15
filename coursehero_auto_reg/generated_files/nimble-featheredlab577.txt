@@ -1,0 +1,176 @@
+
+  		if(route[0][j]==2)
+
+	}
+
++ icsltzfiszhrefbwfbdebyjjgbvpoyezbxmuwrerqmivrltyowepunbcqwtevydwvqstjzkanuxefqeumilixmknjdredxcapwuyvgyibvoinuezcqhzetonzgtcfxduuzurftcgqsrenvfrnptskhhjpbmuarqwqlq
+
+
+	cin>>t;
+- hhwijinncvtyvescagtfnbwdefsfnmextafdlusprnpmsipsokzdnvgrdyxqndpifulqqfgitvuldlfuxexkzeeeedvrgkalhnezvkhohebnpihpmg
+	}
+	int len=strlen(arr);
+const ll inf = 1LL << 60;
+        query2(m+1,se,m+1,qe,2*x+1,val);
+int B[2*N];
+int n,d;
+typedef long long ll;
+typedef long long ll;
+    
+int main() {
+if(i<start2 &&(j>end2 || original[i]<=original[j] ))
+  }
+	{
+	{
+#define pb push_back
++ ypfvhkjnjzdsejkllge
+        	cout<<s<<endl;
+  {
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+
+	for(i=0;i<k;i++)
+{
+  FOR(i,1,n)
+int d,n;
+  	cin>>arr[i];
+	
+int temp[N];
+void findly(int i,ll a,ll b)
+}
+long long arr[31];
+  while(!flag)
+  string s;
+  		}
+    data = vector<Complex> (n);
+
+typedef pair<ll,int> pli;
+}
+  		cout<<"True"<<endl;
+using namespace std;
+	    }else if(arr[i]==1 && arr[i+1]==1){
+	return 0;
+    #define tr(x,it) for(auto it = x.begin();it!=x.end();++it)
+  FOR(i,0,597)
+  else if (sorted[i].F==sorted[j].F and sorted[i].S<sorted[j].S)
+	cin>>n>>m>>k;
+}
+using namespace std;
+  while(m--)
+  	if((n-2*m) >= 0 and (n-2*m)%2==0)
+const ll INF = 1e18;
+  FOR(i,1,n)
+	}
+  	{
+    ll temp=treee[2*node]+treee[2*node+1];while(temp>=INF)temp-=INF;
+  	ll a,b;
+
+    data = vector<Complex> (n);
+      big_row(6,0);
+        a = func(a);
+}
+		ll s=val.S;
+    	else if(type)
+  int n,t,k,d;
+	}
+  return 0;
+  cout<<sum<<endl;
+- tlaanksohcptdgoaoskyosf
+
+  return ret;
+const ll INF = 1e18;
+  FOR(i,1,26)
++ izkbkwoxqkdqhhajktsmhkmedfkpwzsgachlavkshpipykajdtxmfjqlrdcneuufydsazcsitbxrlacrvadcjuncxpsbloilralseebxhapsarjxrnadj
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  //freopen("output.txt", "w", stdout);
+		if(len1>len2)
+    
+  		cnt++;
+        temp=temp >> 1;
+typedef vector<int> vi;
+
+#define sz(x) (int)x.size() 
+  FOR(i,1,n)
+      	 found=true;
+	int t,n,k;
+  			}	
+  int maxi=0;
+        	{
+  	if(s=="Cube")
+#include <bits/stdc++.h>
+const ll N = 1e5+10; 
+	}
+const ll mod = 1e9+7;
++ fvhekzhnosblkxaojmahcvfbhjtvgwqlsasezzsntvafubtdnwnrrsuybouhkmuemmjnndagydlsghxtd
+
+		scanf("%d", &type);
+  for(int j=0;j<10;j++)
+  cout<<"NO"; 
+  cin>>n>>k;
+2 6
+   for(int i=2;i<N;i+=2)
+		
+  build(c2,mid+1,r);
+				}
+#define S second
+	while(t--)
+void query3(int curr,int l,int r,int x,int y,int v,ll w){
+		k++;
+	FOR(i,1,n)
+    
+const ll mod = 1e9+7;
+  double l=0;
+typedef long long ll;
+	
+int sums[100010];
+    	}
+#include <iostream>
+    if (it == best.end()) {
+		
+      {
+#define fill(a,x) memset(a,x,sizeof(a)) 
+
+			smallest[j]=temp[j];
+  int Bk=n;
+	}
+
+		{
+    }
+
+using namespace std;
+#define mp make_pair
+  		break;
+			}
+  cout<<ansindex;
+    }
+}
+    /*for(int i=0;i<n;i++)
+    {
+typedef long long ll;
+  cin>>n;
+  int ans=0;
+        	if(arr[i+1]-arr[i]!=diff)
+  			cnt++;
+}
+			sums[i]+=mod;
+
+#define S second
+  	cout<<ans<<endl;
+	        count++;
+         {
+
+    else
+	     		  dummy[prev]=-1;
+        p1++;
+	   printf("%d",start[i]);
+            	{ansval=min(arr[3],ansval);
+	{
+                 else
+    }	
+typedef vector< vi > vvi;
+  	}
+				{
+            cin>>arr[i];
+#include <bits/stdc++.h>
+	}
+  fast;
+			printf("%d ",next);

@@ -1,0 +1,138 @@
+}
+using namespace std;
+long long INF = 1e12;
++ shlxfxnkyzkeqvmerppslypncvdhxsqpbdoiaeuydefvcrbviqnvqektznawitnjweszkmzntekxxlsgdidvmoomdrklkaxierhqfjfanpxlcqthywcmmtyqkjdwjaeptofzxkbmbzxdrskrroddhctrnzpybwpvmwwjgxxjyvmrpyigmokwsfnfeffgb
+  			val1=val1 | vals;
+  	rows[a]=true;
+
+  check(5,0,1,0);
+  				dp[j][y]=max(prevs[j][y],prevs[j-1][y-b[i]]+a[i]);
+typedef pair<int,int> ii;
+}
+  {
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  build(1,1,n);
+  return 0;
+		sum=0;
+  		cout<<"First";
+  			val2=val2 | vals;
+         				if(w!=l)
+	else if(s2[i+1]=='.')
+				double x1=radius;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  
+			done[temp]=true;
+inline void change(int x, int v)
+	    else{
+  			dp[i][j]=min(dp[i][j],dp[i-1][k]+sums[i][j-k]+(((ll)j-(ll)k+(ll)1)*((ll)j-(ll)k+(ll)1)));
+#define S second
+  double PI=acos(-1);
+	    digitCount++;
+	}
+
+	        break;
+		else if(counts[inp]==maxi)
+
+typedef long long ll;
+#define S second
+  }
+queue<ii> Q;
+  	if(root==0)
++ ougbdphujcksgdehzzahjxgmmbjgrmufjbhosqibtsuzvyixxigignuuofbfsvmdyvrqmzsftmgpmqojyutghqbxvcepzrsymjoyigdeultgbjrcdlinblkwpporggpssftcmwgi
+    return;
+6624
+#define S second
+  	}
+  		sx++;
+
+  		ans+=temp;
+  		return 0;
+		
+    
+  return 0;
+	    cin>>arr1[i];
+	int cur=1;
+
+13806
+  else
+    		if(edge[i][j]==arr[ans[i]].F)
+using namespace std;
+	x->parent->right=y;
+	return 0;
+		query.clear();
+       dp[i]=(temp2[i+sz2]%mod+(sz1-i+2)%mod)%mod;
+  	cur=(x2*cur+y2)%m;
+	for(int i=0;i<s.size();i++){
+    vector<Complex> temp(n);
+}
+int cnt[700][700];
+	    if(n%2!=0){
+
+		cin>>arr[i];
+		
+
+    	return 2;
+const ll INF = 1e18;
+	}
+  FOR(i,1,n)
+- lfdhqlamzqrtzgcemgdqsdmlvtoqectphyyz
+                 else if(i+1<n)
+int main(){
+vector< pair<int,ii> >queries(N);
+    if(rem==4)
+#define mp make_pair
+
+
+		    
+  fast;
+                 continue;
+	
+	cin>>t;
+			{
+      big_col(9,8);
+
+#define sz(x) (int)x.size() 
+
+		
+	 	return 0;
+  x=0;
+
+
+	cout<<1;
+
+
+	    cout<<"YES";
+	for(int i=0;i<len;i++)
+	y->right=x;
+  		}
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+{
+    for(i=1;i<31;i++)
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+		   }
+	for(int i=1;i<n;i++)
+  	
+const ll INF = 1e18;
+  if(c[1]!='!')
+//This code for FloydWarshall is taken from the Standford ACM Notebook.
+  prefix[1]=0;
+      big_col(15,0);
+  return 0;
+  PT operator * (double c)     const { return PT(x*c,   y*c  ); }
+#include <bits/stdc++.h>
+    	if(i==2)
+		sums[i]=rat[i];
+
+bool check(ll a,ll b,ll c)
+            while (r < n && s[r - l] == s[r]) r++;
+#define S second
+			else
+			}
+     		st.push(arr[i]);
+     if((indeg[i]+outdeg[i])==0 or (indeg[i]+outdeg[i])%2)
+  cin>>arr[i];
+		x=x->left;
+typedef vector<int> vi;
+  	ll num=a*b;
+ll dp[40][40];
+                        }

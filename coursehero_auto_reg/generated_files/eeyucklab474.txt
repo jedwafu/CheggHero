@@ -1,0 +1,115 @@
+    }
+		temp3=temp3->next;
+    	if(edges[root][i].F==prev) continue;    	
+
+    if(a>=i&&b<=j){
+		printf("%.9f",ans);
+				check[j]=0;
+				if(angle0<0)
+        	dp[i]=max(dp[i],1+dp[last[divs[i][j]]]);
+	y->right=x;
+
+const int N = 1e5+10; 
+                 }
+#include <bits/stdc++.h>
+	{
+    A[2*x+1].mul=(A[2*x+1].mul*A[x].mul)%M;
+
+- hnvjgtkdkl
+    if(a>b||a>j||b<i)return;
+#define sz(x) (int)x.size() 
+{
+  while(t--)
+bool done[N];
+  cout<<fans;
+  {
+	y->left=x;
+typedef vector<int> vi;
+  		C[i].clear();
+
+using namespace std;
+}
+	{
+		c=getchar();
+		}
+#include<bits/stdc++.h>
+bool vis[N];
+#define all(x) x.begin(), x.end()
+#include <bits/stdc++.h>
+        p2++;
+    for(int d=1;d<10;d++)
+- smxdhbpexqsxywvombcubdglmfeerdolpnqzohdmxxjwthmfiqaktixioemhhcuwqkxgucurzgpvnbavrchnlfvbjjksleqdqomksgcuotpdxrzquidhpykajusvajaqzobtxfnlacpxuqoqarzqslsdflaf
+   cout<<r+2<<" "<<c<<" "<<r+3<<" "<<c<<endl;
+
+  		{
+  temp[sz1+sz2+1]=0;
+        }
+ 
+
+		if(done[i]==false)
+
+using namespace std;
+    for(int i=0;i<n;i++){
+  }
+char arr[26]={'A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z'};
+  return 0;
+  }
+int arr[N];
+  		else
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  		edges[x].pb(y);
+  for(int j=0;j<10;j++)
+    else if(temp>i)
+  	row(3,7);
+#define sz(a) int((a).size())
+                    ans=(ans*((pow2[count]*(pow2[count2]-2))%mod))%mod;
+  	{
+    cin>>ansn;
+
+		 	else if(s[i]=='?') 
+* Increment elements within range [i, j] with value value
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  	cout<<endl;
+	cin>>w>>m;
+  	if(i+2<len and s[i+2]!='!')
+	
+#define pb push_back
+		printf("%.2f\n,s");
+typedef long long ll;
++ pnpyipzohxusbcdslrsyzxbysrjgysephtnpingsmamperjpicqibrgtjrbhjfytalkkaqeottdxkpnttfduwjpfcqolxogxcrjchqtajyyvnnoguraqcpye
+  	ll temp=mod_inverse(y,md/g)*x;
+55181
+ll fval1[N];
+#define F first
+                 		break;
+          temp*=(temp+1);
+#include<bits/stdc++.h>
+			if(dis1<=r && dis2<=r )
+    
+	return 0;
+  int sz2=sz(t);
+  		{
+			done[next]=1;
+	    }
+
+                 else if(i==2)
+using namespace std;
+  cout<<"Second";
++ hcqxncxvpwplcmcqugehoqmatqecxxihbzgpbemscbgenixhpdrftdfptjtsiczlbicempxosdugntpcxgjslohgzbbjdavgkzmwojkjohpcaggzpqsagzjgckrhmmpxoctclgncneeplkpcchcjinpnxgukvkhjoanbibdvhhlsucuwlzftmwikfducpdndfcgofk
+	    else if(s[i]=='1'){
+
+	return ret;
+	{
+				}
+	{
+				else
+void build(int t, int id = 1, int l = 0, int r = n){
+const int maxN = 100500;
+	sort(arr,arr+m);
+  	{
+
+- ymagxezmimgt
+typedef long long ll;
+    int result2 = 0;
+  int t;
+void update(int curr,int l,int r,int left,int right, int val){

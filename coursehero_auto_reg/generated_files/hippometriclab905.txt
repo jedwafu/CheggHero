@@ -1,0 +1,110 @@
+  FOR(i,1,n)
+		if(i%2)
+  int n;
+
+
+            {
+{
+typedef long long ll;
+
+        int n=s.length();
+    	cout<<"exact "<<exact[i]<<endl;
+  fast;
+ 		ll mid=(l+r)/2;
+  		sizes.push_back(sx);
+#include<bits/stdc++.h>
+#define pb push_back
+	else
+import java.io.*;
+typedef vector<int> vi;
+    for(int i=0;i<n;i++)
+	        continue;
+           flag=false;
+ll arr[100010];
+			temp3->belongs_to=temp2;
+  cin>>d>>n;
+typedef vector<int> vi;
+  		return 0;
+  void print() {printf("(%.3f %.3f)\n", a, b);}
+  fast;
+    else
+			tree[source].pb(edges[source][i]);
+			temp3=temp3->next;
+  
+
+  }
+	for(int i=0;i<4;i++){
+#define fill(a,x) memset(a,x,sizeof(a)) 
+                ans++;
+    }
+        return;
+	}
+	{
+  		swap(v1,v2);
+
+  return 0;
+}
+  }
+	//delete x;
+        		break;
+  		query2(1,1,n,l,r,v,w);
+int main(){
+        flag=true;
+#define S second
+	}
+	//rightrotate(z);
+			}
+}
+    cin>>n;
+			return;
+typedef vector<int> vi;
+#define sz(x) (int)x.size() 
+		    
+      }
+  ret.push_back(a+v*x + RotateCCW90(v)*y);
+        int ans=query(1,1,n,n-cnt+1,min(n,2*n-cnt-k+1));
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+	}
+    
+typedef vector<int> vi;
+  string s1,s2;
+		else
+ll dp[2][N];
+  	int t,u,v,l,r;
+  	if(road[i-1])
+{
+	{
+
+	
+  {
+	
+    for (int i = 1; i <= n; i++){
+  int n;
+		if(quant==2)
+		
+typedef long long ll;
+       cout<<1<<" "<<4<<" "<<1<<" "<<5<<endl;
++ xs
+  }
+    else
+        	{
+int main()
+using namespace std;
+				z->parent->parent->color=1;
+#define pb push_back
+  {
+
+
+void merge(int start1,int end1,int start2,int end2)
+const int N = 1e5+10; 
+  int n;
+#define F first
+typedef vector<int> vi;
+  	if(arr[i]<arr[i+1])
+int main(){
+int dp[55][5005];
+const int N = 5e5+10; 
+	{
+  	if(i<j)
+	int l=s.size();
+- azcrdtyqrccxsevcxiqdyqunybfafjogkszomyefcgcunxzkipngijuglbjqmzyxsalgarlczpwmnvwxnjdxtzfgaoynoxkizxozqzbpoxcdvaakmghhfmpibnxrmjzlgnkyonnclriisisgqznyncgqrfheogpwvcujphocbwmvgebzfqxtufjlktryzjuxlqicxwfy

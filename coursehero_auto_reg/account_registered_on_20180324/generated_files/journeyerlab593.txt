@@ -1,0 +1,147 @@
+typedef vector<int> vi;
+int w[55];
+  	{
+  		if(j+k<2*k and j+k>0 and dp[i-1][j+k] and (s[i]=='D' or s[i]=='?'))
+  			node[u]=cnt++;
+#define mp make_pair
+  	DP(i);
+{
+const ll INF = 1e18;
+  {
+	int maxi=0,temp;
+13045
+  		ncr[i][j]+=mod;
+    for(int i=0;i<n;i++){
+       
+bool done[101];
+        long long int p=0;
+		fval1[source]=arr[source];
+	  	
+const ll mod = 1e9+7;
+	    }
+
+{
+		arr[i]=2*arr[i-1];
+	            ch=toupper(s[i]);
+	
+  node q1 = query(c1,l,mid,x,y);
+#define pb push_back
+}
+typedef pair<int, int> ii;
+int main() {
+  	fflush(stdout);
+		
++ oqfjpenjqmkkymqczeyzyjdcazwrkgjyyohptwallkyjyolzslaquduufqnpywnynwniso
+
+typedef map<string, int> msi;
+        mini[i]=maxi[i]=val;
+			{
+    
+}
+  	{
+ //   cout<<gcd(3,9);
+    
+	
+- beanyzunyaohlswfopalzbamcrkbcqcdxcsvenienwmarkhfcktbltnnnaqrquunxoldbvhquvrliaskklnvhckwcantvjiuxtxbpgrje
+  	cout<<"white"<<endl;
+	
+  		cin>>arr[0][i]>>arr[1][i]>>arr[2][i];
+
+
+
+	{
+  FOR(i,1,n)
+  FOR(i4,1,sz(ans4)-1)
+27232
+  		DSU[i].rank=size;
+    {
++ qbpqgrtualybcnkljnprjgigpwnuoixgkoxshsnhdnlfbvtklkeuqmcgkqcza
+		}
+    int q;
+#define sz(x) (int)x.size() 
+
+int main() {
+    }
+  {
+						m--;
+typedef long long ll;
+#define F first
+  {	
+typedef long long ll;
+  	FOR(i,1,n)
+
+const ll mod = 1e9+7;
+		{
+int main()
+           n-=val;
+		int v=edges[source][i];
+		string s;
+    ans.pb(mp(8,0));
+  	{
+
+
++ igszgbugkphtspnhljcaxpztjtenulocrgdahyirprnjgaqrk
+} 
+
+typedef pair<ll,ll> ii;
+    	cin>>a>>b>>c;
+   {
+	return 0;
+		for(int j=1;j<=m;j++)
+	}
++ kuwhzuzmbwklkdhivxvcvnjptbuqlfyvbucaodopbydmekuzirbfemuxqqqdxqyylcabgothowvsirtsixzpltob
+}
+#define F first
+		    scanf("%lld %lld %lld",&l,&r,&c);
+#define S second
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  		{
+ 
+  		if(a[i+1]-a[i]!=0 and a[i+1]-a[i]!=1)
+	else{
+	}
+ 
+				}
+  	cin>>t;
+  	}
+		edges[b][a]=true;
+- yolapydlxqipqettizpbvctigxbnrcnpqapfassxkdodjhwrimsgqmoylqmcsbtkdisddmapppszypqhdjntxdrivfmpifalpuougrkyiexgtppwaerxijhdqvtzavmspdoxuavefukykcxkgokqzrusn
+			sum=((sum%mod)+(help%mod))%mod; 
+  	if(val[j]==1)
+typedef pair<int,int> ii;
+  cin>>s;
+      {
+typedef pair<int,int> ii;
+    printKMax(arr, n, k);
++ nytpzszxeywbloczntmmcqytvuergjnthgkiyjfejchusjufeitjaseymipurepakzjkjoqusypmjltq
+  	int n,q;
+#define spresent(c,x) ((c).find(x) != (c).end())  // for set,map
+
+				ans+=(1<<i);
+
+  fast;
+	
+- rqornztplvaxxcpdqs
+#include<stdio.h>
+  {
+- udcidoooryakhmbcturtsqsilwjkhznecpmiecwxawjjjlleheyawsijqtuy
+  fast;
+const int N = 1e5+10; 
+    FOR(i,1,n)
+  	ll rem=a%m;
+  fast;
+#include <iostream>
+return;
+
+		else
+  int t;
+	_size(1);
+{
+  	if(s[i]=='M')
++ fqyawgtwegndltdjgeqgngljoxaqqrgwifyeltcsbqvmjzxrfqaswldmkdebxkzfrzlftoxugujrvgkbwmvuyzgkemlbxkiqkwvfmubspklktxlrkjmkkuuq
+  cin >> n >> m;
+		if(it->second>=2)
+		for ( i = n - 1; i >= 0; i--) {
+  }
+     if(tickets>0)
+  	arr[b]=true;

@@ -1,0 +1,152 @@
+Node *root;
+typedef vector<int> vi;
+<snippet>
+#define nloop(i,a,b) for(int i= int(a);i>=int(b);--i)
+#define fill(a,x) memset(a,x,sizeof(a)) 
+		 		cout<<s<<endl;
+  cout<<max(ans,1)<<endl;
+                    taken[ans]=true;
+  }
+{
+else {
+               newstate=sz(virus)-x;
+int ver[21];
+  }
+  sort(s+1,s+n+1);
+	long long int temp=f+s;
+	    cout<<"-1";
+    cout<<count<<endl;
+    }
+
+	while(t--)
+		 	{
+  FOR(i6,1,sz(ans6)-1)
+  	FOR(i,1,100)
+  if (tree[node]==1)
+    	if(state==1 and s1[i]==virus[0])
+  NFOR(i,p,0)
+  return PT(p.x*cos(t)-p.y*sin(t), p.x*sin(t)+p.y*cos(t)); 
+	}
+//rb_tree.level_order_walk();
+
+	}
+  cin>>arr[i];
+else
+  cin>>n>>k;
+		
+  	cin>>n>>m;
+  if(n==1)
+		{
+	    }
+		cout<<n<<endl;
+float points[2][2000];
+
+#define sz(x) (int)x.size() 
+update_tree1(node*2, a, (a+b)/2, i, j, value);
+				int r=0;
+    				else if(graph[u][v] and colors[v]==colors[u] and u!=v)
+  		cout<<-1<<endl;
+const ll INF = 1e18;
+  		flag2=true;
+
+		else if(arr[0]==15)
+  {
+		max1=count1;
+inorder_helper(root);
+ini[node]=-1;
+}
+  
+  int n,k,d;
++ otgbrehxyjvcvibuwxjzjisof
+        // Remove all elements smaller than the currently
+#define sz(x) (int)x.size() 
+  cout<<ans[i]<<" ";
+#define fill(a,x) memset(a,x,sizeof(a)) 
+	ans-=(500*j5*arr[2][5])/250;
+			freq[num]++;
+  coeff[i][j]=cnt[i][j];
+  		if(cnt==rem)
+		{
+
+		//cout<<a[i]-'a'<<" ";
+  	return 0;
+ 	if(check(l,p,x))
+#include <bits/stdc++.h>
+  cout<<"NO";
+update_tree2(1,1,n,a,b,v);
+  cout<<"NO"<<endl;
+
+
+}
+	for(i=0;i<n;i++)
+- lwvtotfnurjdrurkwxiuwpmbbhgxskqfgmywhfjexvhqrbdoylkwdwzgffdxptexhcurifvhcezufcifqsbtqazvhevwzzwheqaovvxabwuhbcmrwqmmqljyrgwqiszmizcgwzgyxcfyetrcjdqcqbahiyasrzgbzijvhrvgt
+  fill(sp,0);
+#define F first
+const ll mod = 1e9+7;
+  	int t,u,v;
+  	dp[i][0]=INF;
+			}
+                 	}
+19 100 57 75 93 459
+  					cur[k][l]-=temp;
+	for(int j=1;j<=n;j++)
+  	int x,y;
+
+  
+vector<int> primes;
+  int n,k;
+	int k=0;
+		q=16;
+int main()
+
+				ans=-1;
+	 	cout<<2<<" "<<4<<" "<<1<<" "<<3;
+  	int typ,i,x;
+  cin>>s;
+}
+const int N = 1e5+10; 
+/**
+	    cin>>p;
+  	cin>>c>>num;
+using namespace std;
+  		{
++ azhgjljoppoqpupczcobbjqctzkfddoeewmnjwdynupcogenksroehsxgcfjhtpmpcbyafznboppwwfhowvudnsjsxszsinimpimwhbxxqmumrddpyxsnrdhqwhjgwtuldihnjgkbtgqmjvcjuuzm
+  
+}
+const ll INF = 1e18;
+	
+      C.pb(mp(p,b));
+- actzutyyssqmqtmvghaokhtqeaicjislklkhgjfbbvnsozpujrkvbglhitjrcbfoopvuycvcyiuoklltdxogdcnlxwfbzkqnzljaqfcopwezjpuonjusnhekfjmgvcvupfufmwvbucbgtvuigpbvyhggqumnykhnpevbcsexufdodzwlqzhpgpxyjllj
+		else
+		int clr=1;
+// nodes[stIndex] is responsible for the segment [start...end]
+    for(int i=2;i<=12;i++)
+  }
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  cin>>s>>t;
+/* package codechef; // don't place package name! */
+	}
+  	if(s[i]=='A' or s[i]=='E' or s[i]=='I' or s[i]=='O' or s[i]=='U' or s[i]=='Y')
+        {
+#define sz(x) (int)x.size() 
+
+using namespace std;
+  		days+=temp/k;
+	for(int i=0;i<sz(edges[source]);i++)
+
+const ll mod = 1e9+7;
+  			opp[C[word[s2]]]=C[word[s1]];
+	 
+		
+ll x[N];
+		int a,b;
+
+}
+{
+		i=0;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+ 
+  		
+	   }
+
+  	final[i]=(cnt[i]*pwr[cnt[i]-1])%mod;

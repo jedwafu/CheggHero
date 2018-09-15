@@ -1,0 +1,101 @@
+  suff[n]=arr[n];
+#include <bits/stdc++.h>
+  		{
+    st[r].sum = (1ll*st[r].sum*v)%mod;
+    }
+
+  	l=min(l,mini[i]);
+{
+  {
+  }
+
+int main()
+  FOR(i,1,n)
+#define pb push_back
+		}
+  	return 0;
+		}
+  }  
+  int t;
+const int N = 1e3+10; 
+const ll INF = 1e18;
+			    }
+	    {
+	{
+{
+typedef long long ll;
+
+    ll level=s.find('^');// this is used to return the index of the specified char in the format of int index
+  {
+  	cout<<160<<endl;
+int main(){
++ lmbkqltuzwfqqoywbcrflbawqvhhrkpexsppdijfgoxwevsfyknjnphelolczciyuxnahyfpmclqzgxxskifcrlniyrhazhvzwviucyiglafrxflkptmhezpdqyfrhaqdxzzzzhfkjncgspsjieqpfhuxhzroahtziuzhdgsmvwvplnzwurlbb
+  {
+		          	cout<<"NO";
+  		{
+	
+  sums=tsums;
+adds[node]=(adds[node]*value)%m;
+using namespace std;
+	sort(lefts.begin(),lefts.end());
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+#include <bits/stdc++.h>
+  int n,c,d;
+  cin>>t;
+			if(color[tp[s][i]])
+	
+    else if(qs > mid)
+              { 
+#define spresent(c,x) ((c).find(x) != (c).end())  // for set,map
+	else if(!lvl[l] and l<h)
+		
+  	}	
+
+tree[node] = arr[a];
+else {
+  		return 0;
+}
+		 count=0;
+	    cout<<"YES";
+	for(int i=1;i<=m;i++)
+    		visited[i]=true;
+}
+	int t,n,c,i,sum,temp,prev;
+    cout<<n+3<<"MB"<<endl;
+	cout<<ans;
+  		edx=i;
+                 if(i==0 and i+2<n)
+			num+=p/pow[i];
+}
+		    st[li]++;
+
+    {
+const ll INF = 1e18;
+void dfs2(int p,int l)
+#define all(x) x.begin(), x.end()
+        ans+=arr[i];
+- wfleihbhgswmqhqrbhwomggyctdgypfuuqaezelgyhuoqkfrreiemqeqjhwiwdestfyvjjdhtxxjhcdbinfvdllmskwqndkhiietrhcmezwndbomovjtguhagequhadrihkcooounmhqnyedtnwckecqkvkrvnigwukmiyg
+void merge(int start1,int end1,int start2,int end2)
+   {
+	if (vis[x]) Vis(x),val[x]=v,Vis(x); else val[x]=v;
+  			last=i;
+	  small_l[i]=small_r[i]=1;
+ 
+*/
+ 
+     		if(dp[i][j][state]==1)
+				for(j=i+1;j<i+k+1;j++)
+#define pb push_back
+  		edges[y].pb(x);
+
+  	return 0;
+  {
+  			else if(dir[start]==2)
+  return true;
+#define S second
+
+    if(rem==6)
+  	column(6,7);
+  fill(cur,0);
+  	cin>>temp;

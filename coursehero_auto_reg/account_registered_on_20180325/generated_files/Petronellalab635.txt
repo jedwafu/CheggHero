@@ -1,0 +1,118 @@
+  {
+	cin>>l2>>b2;
+	return 0;
+#define S second
+  for(int i6=0;i6<10;i6++)
+			flag=false;
+void Query(int cx , int cy , int qx , int qy , int kd , int pos)
+  ll K=k;
+  		if(maxi==dp[c[i]])
+  fast;
+	dp[n1][n2][p]=0;
+			else
+         
+  }
+		}
+
+#define S second
+  return temp; 
+  	if(m2[half+a[i]] and m2[half+a[i]]<=i)
+	}
+64546
+  		cin>>temp;
+      value[root]+=dfs(tree[root][i]); 
+{
+
++ myuxvsxrfhgwrcwndigzabsvlecreruspqrnipenwmlqphdssmsunmpaqtrwllpcbipmxwbwinmzwrsofmisyzurtlngyeicpaq
+  int n;
+	
+  FOR(i,0,n-1)
+	int h0,m0;
+	if(n%primes[i]==0)
+PT RotateCCW(PT p, double t) { 
++ rbqjrukncfkwenftpypojquecypkrcgifztwvelxjvvnibiabxqkqkquifebjlmomfnhlygwwbkgcuifsyskjietojvzwjoiqbpcbxyxykgdfoiznalyjprzaoawxogorvsvssutdawkrglejweslxtmot
+    	
+
+RED,
+			 		else
+  	cout<<-1;
+{
+const int N = 1e5+10; 
+if (start == end) {
+const ll mod = 1e9+7;
+  			s2++;
+       if(z[i]==sz2)
+#define F first
+
+    {
+  	if(i<(index*(index-1))/2)
+        if(right[i]==1){
+   	    }
++ qumlkabjnunbpwqgejlekcqgodcalhtbbfmohpzwkmzbiripdttnxltopyqchjdjq
+	}
+const ll mod = 1e9+7;
+
+
+		if(count==5)
+#include<bits/stdc++.h>
+				l=mid;
+	}
+#define fill(a,x) memset(a,x,sizeof(a)) 
+#include <bits/stdc++.h>
+
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+	
+#define F first
+	{
+  		else
+
+  	FOR(i,1,n)
+using namespace std;
+int main(){
+  FOR(i,1,n)
+  	done[x]++;
+void build(int curr,int l,int r){
+  s[curr] = s[c1] + s[c2];
+		cin>>c;
+	    if(s[0]=='(')
+				    }
+    ans+=(ll)tree[kd][pos]*(ll)(1<<kd);
+}
+}
+  	cin>>h[i];
+		s.pop();
+pt->parent = pt_right;	
+		if(c=='>')
+	    cout<<"YES";
+void update2(ll *ft,int k,ll v)
+using namespace std;
+		    	
+void RBTree::inorder_walk() {
+const int N = 1e5+10; 
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  	suff[i]=pre[n]-pre[i-1];
+    int i;
+  NFOR(i,n-1,1)
+			if(sn==0)
+  	if(temp[j]%2)
+
+#include <bits/stdc++.h>
+  int ans=0;
+		return 0;
+				 	temp=temp-original[prev];
+		else
+  		continue;
+  
+
+  {
+
+
+        		break;
+#define S second
+    calculateSpan();
+ 
+	
+  	{
+for(k=start1;k<=end2;k++)
+#define S second
+        	par[edges[root][i]]=root;

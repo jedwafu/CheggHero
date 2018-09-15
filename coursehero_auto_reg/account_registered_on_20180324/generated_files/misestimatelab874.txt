@@ -1,0 +1,186 @@
+vector<vector<int>> e;
+  return 0;
+  		cout<<ans<<endl;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+
+        cin>>d;
+const ll mod = 1e9+7;
+  reverse(arr+1,arr+n+1);
+  			ops.pb(mp(2,0));
+  fast;
+	for(int i=1;i<=n;i++)
+  int s;
+}
+  else
+#define nloop(i,a,b) for(int i= int(a);i>=int(b);--i)
+				}
+  int k,r;
+
+                }
+		int flag;
+	
++ ubqvdbopqekvnjkblgydejqqnvbcxogtpxovacmqjynwiyztgyymjofwlgbiwhbogrlgwxxfymdimddudchmqmkeuloqtqebjrifphmpvqxivacyelmxxwbrkpkdhqgriqyz
+            {
+pt = grand_parent_pt;
+  	{
+    
+         countZero+=1;
+typedef pair<int,int> ii;
+	if(n!=m)
+  		s1=0;
+  fast;
+	for(int i=0;i<s2.size();i++){
+  FOR(i,0,n-1)
+          cout<<-1;
+        continue;
+			  for(i=0;i<n;i++)
+typedef long long ll;
+scanf("%d", &M);
+
+  return 0;
+
+  		int x;
+int query(int curr,int l,int r,int x,int y){
+        lazyPropagatePendingUpdateToSubtree(node,a,b);
+#include <bits/stdc++.h>
+bool bad[27];
+ll mods(ll a, ll b)
+	{
+
+#define S second
+  	if(arr[i]==0)
+
+	return 0;
+	
+  	}
+  	val[i]=abs(odd-even);
+	
+  ll ans = x1*y1;
+
+    return dp[index];  
+		BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+#define sz(x) (int)x.size() 
+	{
+  }
+#define F first
+		int top=q.front();
+typedef vector<int> vi;
+  	{
+  for(int i=0;i<sz(zeros[s]);i++)
+  return temp;
+int main()
+        {
+  return 0;
+	while(t--)
+	cin>>t;
+}
+}
+
+	ll cur=stx;
+}
+    	FOR(j,0,m-1)
+		start=i;
+	for(i=0;i<m;i++)
+- cbyfjquwlngilqpjrlrpwdixkneewnyzoyeyqaucocmzsblkpcblhkkszpywewxswdsnemrs
+  		if(flag)
+	cin>>t;
+  	   {
+			cout<<ans<<endl;
+const int N = 1e2+10; 
+    	{
+const ll mod = 1e9+7;
+	
+  cin>>t;
+  		for(int j=i;j<n;j+=d)
+int main(){
+- mrpwyxzfzokjyfpdonjwqcpdknupsetgwkcwkeelsoustmwkbhgrlxxxkrnewimutrqfxuqrknjgbhqcqyudxrbjkopgybarutytnpkaeugfdwhwwdztwa
+
+std::cout << temp->data << " ";
+  cin>>s;
+  cnt.clear();
+  }
+  	cout<<"NO";
+//nodes = new SegmentTreeNode[getSegmentTreeSize(N)];
+#define spresent(c,x) ((c).find(x) != (c).end())  // for set,map
+- krtqgdkjdpdsaleqzeelnthkhbxwgzisqekwhvhmmnemykexolkcetonumkcnuwgagchbmunzacxlgwzridybslxgxbvuxbudgehsawtayslhqnyyq
+typedef long long ll;
+
+  FOR(i,1,n)
+  	dp[i]=-INF;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+- fnbkapvtlitcrsglshzmlzftolzrbplhcmteerapbvuvnagfhitvjyoylprnedwirrpvkpnmmhhzhpgqxalhabhmqybubzftsuqdldpzkwytleklgxuhzbvpbymdztyrpquculbghzcvfoimlcvkdsceqojrhjiyadawobey
+   	 int temp=arr[i];
+		return 0;
+nodes[stIndex].start = start, nodes[stIndex].end = end;
+  	  	cout<<-1;
+        cout<<prices(city,0)<<endl;
+#define S second
+void dfs2(int p,int l)
+        if(check){
+			cout<<"yes"<<endl;
+            	c++;
+  	else
+	while(t--)
+                 		flag=false;
+int lca(int u, int v)
+		if(DP(k-5,false)!='-' and len[0][k-5]<minlength)
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+#define pb push_back
+	for(int i=0;i<s.size();i++){
+	    if(s[i]=='L'){l1=i; break;}
+#include<bits/stdc++.h>
+  ans[3]=1;
+  	ans=max(ans,1+dp[n-1]);
+
+	}
+		done[i]=false;
+		span[inp]=max(0,end[inp]-beg[inp]);
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  		cout<<2<<endl;
+- cnsvsxbcqjrwbcykfwzxdjeilgluxcfzpxwjuannlejogjbogalllpvxygtvkawbxvktxygiesx
+  FOR(i1,1,sz(ans1)-1)
+  	cout<<minicost<<endl;
+         }
+typedef vector<int> vi;
+#include<bits/stdc++.h>
+	
+#include<bits/stdc++.h>
+  {
+using namespace std;
+	return 0;
+		printf("%d\n",it->first);
+	}
+using namespace std;
++ gznhmhanjniffqoliizicbcpznvsekemjstvbvllitsqlgdtpcctfgiftfzzpdnzxgwbdjmocggnnjjennzttjapozodeceekdfqmrepzkemvpsictdycdnqcduhha
+    if(!flag)
+
+ll temp[N];
+  int n;
+
+	
+		pows[i]=2*pows[i-1];
+#define pb push_back
+#define tr(container, it) for(typeof(container.begin()) it = container.begin(); it != container.end(); it++)
+  else
+
+			cin>>x>>y;
+        if(temp>=5)
+            flag=1;
+
+		}
+    return *(int*)elem1 - *(int*)elem2;
+  	}
+int query(int curr,int l,int r,int x,int y){
+
+{
+- ofppzdrxdjdryaqyqstbjcgfcxpuxflnlbcmgwklhnfhpvginbjzgsgipvcmaqant
+	cout<<"NO";
+b = remainder;
+  	    	{
+  		{
+		cin>>temp,str[i].pb(temp);
+- lanjjnzrynlrzyhzikgxwawkkpvbnqoysbhdoivowghxhowpyfouhkfsbctouhomlyqzgloetvbamarkhfhorogtqa
+    long long int temp=arr[n-1];
+ 
+	bool flag;

@@ -1,0 +1,111 @@
+	else if(s1[i+1]=='.')
+				
+		if(cur[1]+2<sz(w[1]) and m>=3)
++ gifrvnhnedzjaxrwiqcfvrsvxbuiabrgmyzjmizsnyepyvlgnpoigiefjanjdhrpfsbtaampaseynrfdgvlodrwmtlxxsqoaiptkphbqzfopyvsgqfwtzshsegr
+#define pb push_back
+  		nl[0][i]=nl[0][i-1];
+		   {
+int main(){
+  	sort(w[i].begin(),w[i].end());
+
+  cout<<edges[0][i]<<" "<<edges[1][i]<<endl;
+    #include <ext/pb_ds/assoc_container.hpp>
+  dp[0]=0;
+  	cout<<fixed;
+int main()
+
+import java.util.*;
+    maxi=0;
+ll dp[400][400];
+	return 0;
+	FOR(i,0,edge[source].size()-1)
+			val[i]=600;
+const int N = 1e5+10; 
+  		if((sqrt((arr[0][i]-xh)*(arr[0][i]-xh)+(arr[1][i]-yh)*(arr[1][i]-yh))/arr[2][i])<(tm-eps))
+
+
+  {
+	{
+    if(a> ed || b < st)
+    tree[node]=max(tree[node<<1],tree[(node<<1)|1]);
+		
+	cout<<ans;
+const ll INF = 1e18;
+
+	  }
+
+  	cout<<"no";
+			cout<<d<<" "<<b<<endl;
+- ammkcnfgryrmkybfbhjnzqreuwisyodycrjeeqnxpekbengiurvvjozdlhwlybmasvhwnuvcahffunnoekkozlrmvpztqlviicgwyeazlgegttwyfimgwfurxukpfhaokimimmjyspgoiemqpawlht
+using namespace std;
+int main()
+
+  while(!Q.empty())
+{
+		
+#define sqr(a) (((a) * (a)))
+		else
+      
+  			val=-val;
+#include<bits/stdc++.h>
+	        else{
+int main() {
+    for (int i = 1; i <= n; ++i) {
+
+    	printf("%lld\n",exact[f]);    
+			bear[2]=true;
+const int N = 1e5+10; 
+int main(){
+	    cin>>k;
+		}
+int main(){
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+
+  FOR(i,1,N-1)
++ aoamimnzhhwdlbxugguzrtkwquzsawxcmxowjewslswwvvtcbpdukorciquiornaqdwchuuvmsrkomordrmnfdpqvla
+			cout<<"Yes"<<endl;
+  		cout<<1<<endl;
+		
+	                break;
+const ll INF = 1e18;
++ jgxgqlpqndghiwgxdwskboddpdbruicfoblfndxcgdjqbqqhmirpyxspathublcsnnzcqweycqrdghmsrej
+			dis1=(pos[1][i]-pos[1][(i+1)%3])*(pos[1][i]-pos[1][(i+1)%3])+(pos[0][i]-pos[0][(i+1)%3])*(pos[0][i]-pos[0][(i+1)%3]);
+		if(c=='-')
+            	continue;
+  } 	  
+  if(i>=a[9])
+  	big_col(6,0);
+  	cin>>u>>v;
+{
+const ll mod = 1e9+7;
+int main() {
+	}
+  		else if(mid*mid*mid < num)
+	}
++ qbpqgrtualybcnkljnprjgigpwnuoixgkoxshsnhdnlfbvtklkeuqmcgkqcza
+	while(x!=NULL)
+{
+    		sum-=d;
+
+        	{
+	    }
+  return 0;
+#define INF 10000000
+}
+    {
+      bool flag=false;
+#define F first
+#define F first
+                 	if(arr[i+1]-arr[i]!=diff)
+}
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+#define F first
++ cqwcylvytnaei
+			
+    if(r1 and r2)
+
+  cout<<ans;
+  	FOR(i,1,n)
+  maxi[2]=pre[2];
+const ll mod = 1e9+7;
+    	printf("%lld\n",exact[f]);    

@@ -1,0 +1,173 @@
+  int n,k;
+	return 0;
+    flag=1;
+using namespace std;
+        	if(rat[i]<0)
+                 		flag=false;
+  }
+ 
+		{
+#define fill(a,x) memset(a,x,sizeof(a)) 
+typedef long long ll;
+	    cout<<"NO";
+		cout<<s-1;
+#define pb push_back
+int b[210];
+		}
+
+	int maxi=0;
+	cin>>n>>m>>L>>s>>t;
+typedef pair<int,int> ii;
+#define sz(x) (int)x.size() 
+  	}
+
+ 
+using namespace std;
+  	}
+  fast;
+  while(m--)
+  x=x+(1<<i);
+   // int arr[6][6];
+			cout<<"C";
+  return 0;
+const int N = 1e5+10; 
+    #include <set>
+		 }
+		return false;
+		
+    	freq[i]=0;
+    for (i = 1; i <= s; i++) {
+	    dp[i]=temp1;
+    }
+    }
+const ll mod = 1e9+7;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+using namespace std;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+using namespace std;
+typedef long long ll;
+		sums[i]=sums[i-1]+rat[i];
+  	
+#define S second
+  	cin>>u>>v;
+			cout<<"UP"<<endl;
+    
+  if(arr[i][1]=='.' and arr[i-1][1]=='.')
+  else
+    	}
+  				x2=min(stx+k-1,x2);
+		    if(*it!=k and it==cfreq.begin())
+  int c1 = curr<<1,c2 = c1|1,mid = l+r>>1;
+			int j;
+typedef pair<int,int> ii;
+const int N = 1e4+10; 
+#define F first
+	    a-=2,b+=1;
+typedef long long ll;
+         	{
+		numbers[i]=new element;
+				    }
+		minc=min(c,minc);
+  dp[0][0]=dp[1][0]=0;   
+#include <bits/stdc++.h>
+  if(index<=mid)
+}
+	<content><![CDATA[
+		int len1=strlen(arr[i]);
+		{
+  	int k;
+      big_col(1,0);
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  int ans=check();
+using namespace std;
+
+int n,arr[3];
+
+  	return 0;
+  		flag1=true;
+- mmaxvmbijfmc
+
+
+typedef vector<int> vi;
+{
+int main()
+    a.pb(coeff[i][j]);
+  cin>>n;
+
+  			if(final[i]<0)
+
+  	}
+        A[x].ini=-1;
+	}
+  	int mid=(l+r)/2;
+			qsearch(root,top);
+	}
+
+		else
+#define F first
+		}
+  	}
+
+vector<int> absent;
+
+  }
+using namespace std;
+  fast;
+    	carry=1;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+    cin>>q;
+
+
+else
+    {
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  {
+long long int mul[10000000];
+  				FOR(l,0,2)
+  	{
+		if(n%2)
+		cin>>arr[i][j];
+using namespace std;
+		
+  	edges[u].pb(mp(v,i));
+	}
+	for(int i=1;i<=q;i++)
+			tr(rows[i],it)
+  scanf("%d %d %d",&n,&m,&q);
+ 		r=mid;
+  	route[0][i]=2;
+typedef long long ll;
+
+  {
+			cin>>m;
+    st[r].sum = (st[r].sum + (1ll*(y-x+1)*v)%mod)%mod;
+    printf("%d\n", query(1, n, 1));
+      	}
+          	dp[i]--;
+		dfs(edges[s][i],s,1-pr);
+        	cin>>arr[i];
+			for(j=1;j<m;j++)
+		FOR(i,0,sz(tp[s])-1)
+using namespace std;
+    
+
+	long long int add=0;
+        diff=arr[2]-arr[0];
+
+}
+  	cin>>x>>y>>z;
+			{
+  	cout<<0<<endl;
+  FOR(j,1,m)
+const ll mod = 1e9+7;
+
+#include <bits/stdc++.h>
+  FOR(i,0,sz(ans)-1)
+  			h[i][j]=-INF;
+  	column(5,7);
+    u--;
+  FOR(i,1,m)
+	int i;
+const ll INF = 1e18;
+	else
+

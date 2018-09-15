@@ -1,0 +1,115 @@
+		cout<<d;
+typedef pair<int,int> ii;
+else
+}
++ qaucqsztplixdbpucemmobvrupowfrpysjcidbdsmlpsogmslyfzbaqvsgt
+ 
+  			cout<<-1;
+#include <bits/stdc++.h>
+
+	if(bus()==true)
+				{
+- zthlmjnwshvczcsyqdpyxqscucozpsipnpczypyrztvyxnypqnppehralgz
+    
+  	{
+int query(int curr,int l,int r,int x,int y){
+			road=edges[s][i].S;
+
+typedef long long ll;
+	done[i]=true,done[i+1]=false;
+result = query(leftChildIndex, start, end);
+typedef vector<vii> vvii;
+  cin>>n>>c>>d;
+            if(i%2){
+int main(){
+typedef vector<int> vi;
+rb_tree.insert(20);
+  	l=mid;
+#define all(x) (x).begin(), (x).end()
+	calpow();
+	//starts.clear();
+    treee[node]=mul(treee[node],value);
+int main()
+using namespace std;
+		done[i]=0;
+		max2=n-count1;
+  				return 0;
+  }
+- izeivksdaqpyivtqjinvexpalunpqfoyhujcebfgtxgdsztbjjzogoqtkfialybsskwyndggamjuneyxnxlvndpajxawybqqlmrypxgsmpmzwkwjjjfznuzytzwrdmkqabrraxjmpyolimuuwbtlxulrvhkyvwpvzimafyouwcfgpcandvybplulsglnfckekyeqwvmuz
+- iqbhbwzmranfevtnomgfxobwafjadnwndzwhvxtoxgteborpdaxaqawsfiskvqyzpugmszarhwvimpaprxphxobfwuprmpqcmyqgxrxgpvpbkrtboiknwlsufk
+    m %= (n * (n + 1) / 2);
+typedef long long ll;
+    }
+const ll mod = 1e9+7;
+#include <bits/stdc++.h>
+int main()
+  FOR(j,1,m)
+if (temp->leftChild != nullptr)
+  int a,b;
+  FOR(i,0,m-1)
+ll calc(int n,int c,int m)
+  	NFOR(i,sz(s)-1,0)
+/**
+}
+		
+
+  ll ans=min(dp[1][n],dp[0][n]);
+};
+	    arr1[i]=s[i]-'0';
+	    cout<<"YES";
+typedef pair<int,int> ii;
+	return 0;
+	int len=s.length();
+  					val=false;
+
+
+#define pb push_back
+		    
+  FOR(i,1,n)
+ FOR(i,0,n)
+            if(t[j]!=s[i])
+
+long long int arr[100010];
+
+	
+	for(int i=0;i<n;i++)
+	cin>>k;
+      	if(arr[i3]>def[i1])
+{
+	cout<<dp[n];
+#include<bits/stdc++.h>
+#define pb push_back
+	{
+{
+	int t;
+{
+  			}
+  	n=n-50;
+
+  		stx=i;
+    {
+  help[cnt++]=mp(arr[i],2);
+  return 0;
+const ll mod = 1e9+7;
+{
+
+		
+            score[i]=c;
+	<content>
+  
+vi edges[N];
+/**
+12 23 45 17 78 72
+  		sums[i][0]=C[i][0];
+  	}
+  	int lookingfor=0;
+    		{
+		cin>>arr[i];
+
+//nodes = new SegmentTreeNode[getSegmentTreeSize(N)];
+      edges[s1].insert(s2);
+		if(p!=1)
+        dp[i1][i2][i3][skip]=max(dp[i1][i2][i3][skip],(arr[i3]-atk[i2]+DP(i1,i2+1,i3+1,skip))*(arr[i3]>=atk[i2]));
+  	fill(cnts,0);
+~SegmentTree() {
+	    }else if(s[0]=='X' && s[1]=='+' && s[2]=='+'){

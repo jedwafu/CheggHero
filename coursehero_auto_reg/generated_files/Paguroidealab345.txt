@@ -1,0 +1,104 @@
+  		{
+typedef long long ll;
+  {
+		if(arr[i]%k==0)
+   cout<<"6yahan aa gya apun with "<<ans[2][2][2]<<endl;
+    	cout<<"Case #"<<T<<": "<<-1<<endl;
++ gcsfffloqguuvxofigdqxudwpylltyuccojhvvymbsgzpweycioceuyuslfnjbposbxnwvzxoiwfeddjlulpqllixsxiwpwoqubmpdjdlilployyklpcxbmwtkepzbdpxhdmkosxwdmjtnhgaxixavvtfalgdqxaxaojoggnlvwfkgnkfvkfsfazhlfkecmbebnth
+#define sz(a) int((a).size())
+long long int arr[100010];
+			eds[i]=1e17;
+typedef vector<int> vi;
+  {
+  {
+  fill(rows,0);
+	FOR(i,1,n)
+#include <bits/stdc++.h>
+}
+    
+	cin>>s>>t;
+		    freq[s]--;
+#define sz(x) (int)x.size() 
+
+int n;
+const ll mod = 1e9+7;
+const ll INF = 1e18;
+	cout<<count[0];
+	while(t--)
+	     	cout<<original[i];
+      {
+		if(x+i>0 and x+i<=n and y+j>0 and y+j<=n and arr[x+i][y+j]=='B')
+#define tr(container, it) for(typeof(container.begin()) it = container.begin(); it != container.end(); it++)
++ pffjqgqkrrmbrtlisgffyhdmjnwsxbfpjmybupl
++ zft
+	}
+          {
+  	cin>>xc>>yc>>sc;
+
+const int N = 5e5+10; 
+  		int index,val;
+  			lo=b+1;
+
+  	}
+#include <bits/stdc++.h>
+        result=i;
+}
+#include<bits/stdc++.h>
+}
+int main() {
+		
+    if(a > ed || b < st) return 0;
+	return 0;
+  {
+ll dfs2(int root,int val,int parent,int original)
+	maxdiv=n/7;
+typedef pair<int,int> ii;
+		if(best==0)
+  		mini[i]=min(mini[i-2],pre[i]);
+  	int num=len1/ans1.length();
+  	   if(bad[s[j]-'a'+1])
+		
+
+    	double x1,y1,x2,y2,x3,y3,x4,y4;
+
+    #include <iostream>
+			count1++;
+        diff=arr[1]-arr[0];
+  	{check=r[0][i]+tm*v[0][i];
+    int n, k,sol = 0;
+			cin>>arr[i][j];
+  }
+int main()
+      findly(i,a,mid);
+			}
+int main(){
+  		check();
+     		    st.push(arr[i]);
+  }
+    	}
+  		flag2=true;
+	{
+#include<math.h>
+}
+  FOR(i,2,n)
+        cout<<num[(((temp)/600))][(temp)%600]<<" "<<b[i]<<endl;
+#define S second
+else
+  	
+  ll ans=pre[1];
++ hifqwkpbgieribtbflmesvskeydaijdrtlhrxwsghxx
+  int low=1;
+
+  	column(8,7);
+			cin>>arr[i];
+    for( int i = 0 ; i <  a ;i++ ){
+			int u = p.x, w = p.y;
+  cin>>n;
+typedef long long ll;
+
+	if(v<=arr[index])
+ll d[110];
+	inp(t);
+  	cin>>arr[i];
+  	if(x1<0)
+					

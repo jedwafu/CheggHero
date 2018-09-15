@@ -1,0 +1,157 @@
+                 		flag=false;
+	{
+  if(hole[1]==true)
+		for(i=0;i<n;i++)
+nodes[stIndex].addUpdate(value);
+            if(type==2)
+  				right=i-1;
+     	{
+		q.pop();
+            	{
+	else
+		return 0;
+            	}
+        }
+typedef vector<int> vi;
+  {
+#define tr(container, it) for(typeof(container.begin()) it = container.begin(); it != container.end(); it++)
+  	}
+  		return 0;
+  	edges[u].pb(v);
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  }
+		break;
++ ddzkwodfnyzckwtcpfpgrpolczosulczqbmnrruhpvjztfbjmtpekfrohfgdsicimoxffsounyvjfzstujxgoqvvvdynodyctvhznwvdwtmdugwopwufmrdkvdzlgxnatwbiuynqtzvnhsbwqyccphmkkovrlktghwpbuc
+#define pb push_back
+
+float slopes[2000];
+}
+}
++ cffkyvqdsbxrtcnfjdffjufboytpcasgfxqdvginjfedjtktypakmglageriejoljgqemztxgzcqunlselcstpuztmjzxxki
+
+#include<bits/stdc++.h>
+                 		break;
+		for(i=1;i<dummy;i++)
+	int n,start=0,sum1=0,sum2=0;
+#define S second
+        	{
+		return 0;
+#define F first
+  	{
+}
+    for(int i=0;i<n;i++){
+  return k*DP(n-1,t,d,k,false)+(k-1)*DP(n-d,t-1,d,k,true);
+		int temp=k1;
+
+- qzqglaoyazoeekzwwhbcmrxpcefesxglxyrkbfidgyjlkkjhsklgelvgr
+              }
+    }
+  return 0;
+	FOR(i,0,edge[source].size()-1)
+typedef vector<int> vi;
+  return 0;
+- rqornztplvaxxcpdqs
+		cin>>n;
+  {
+  			ball=v;
+- bmrmofgcxmjqhogpyobqluvmjvyxcsfdgwsubywbmgrtwz
+  	
+- ndwilrcr
+                 	if(arr[i+1]-arr[i]!=diff)
+}
+	    if(isupper(s[i])){
+  			cout<<"NO"<<endl;
+    FOR(i,1,n)
+      {
+			for(int i=0;i<24;i++)
+
+			else
+
+	    }
+#define F first
+  	
+  {
+
+  	}
+	    
+  int t;
+typedef vector<vii> vvii;
+  }
+}
+	for(int i=0;i<m;i++)
+int main()
+  FOR(i,1,n-2)
+  fast;
+  sort(help.begin(),help.end());
+  return ans;
+46827
+		}
+		}
+  	{
+			}
+const int N = 1e5+10; 
+typedef vector< vi > vvi;
+  cin>>n>>m;
+			else
+	}else if(minrev==0){
+	}
+	int n,c1,c2;
+}
+	}
+	
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+ 
+ 
+  					flag=false;
+}
+
+        	cout<<arr[i];
+#define S second
+      C.pb(mp(p,b));
+		}
+}
+    {
+	return 0;
+  } 
+	string s2=to_string(val1);
+#define nloop(i,a,b) for(int i= int(a);i>=int(b);--i)
+void dfs2(int source,int par)
+      temp=l;
+	mat[i][j]=0,par[j]=0,indeg[j]=0;
+
+	if(i<0){
+void DP(int index)
+#define sz(x) (int)x.size() 
+    tree[node]=max(tree[node<<1],tree[(node<<1)|1]);
+const int N = 1e5+10; 
+    }
+	if(arr[top]=='+' or arr[top]=='-' or arr[top]=='*' or arr[top]=='/')
+}
+  int rounds;
+int main()
+        {
+            	count++;
+const ll mod = 1e9+7;
+#include<iostream>
+    }
+	string s;
+		if(check==false)
+	ll total=0;
+}
+	
+using namespace std;
+        }
+  int maxi=ans2+1;
+  				r=mid;
+			{
+int main(){
+- ogqurhxncqwkfbqlztqmokzqbwtmncbbkrxdawqeoorwpjhpcadqmehnbaboecrourswnkdczuaodhfgjiyvpfiqikeooxdioxhehkiigixlretbnswczhuhrawfxbqoazsjlasrkpebvyciqzmpigzbixigyauazojmqbfaskboigwy
+	cin>>t;
++ olwvtzctipduymmjasnlqtcuhnucivxygttbuxucmawlmlumfhzxcbsjponzmkxufswzqsdcscnhpjtwqtuuwognetmqglllgjlwdoayqqfhzaesvym
+  FOR(i,1,n)
+		    }
+			count++;
+struct Node
+          temp=max(temp,dp[sorted[index].S][sorted[j].S]);  		
+  return 0;
+  FOR(i8,1,sz(ans8)-1)

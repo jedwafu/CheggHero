@@ -1,0 +1,182 @@
+
+  FOR(i,1,sz(val)-1)
+}
+  
+vector<PT> points;
+  	for(int i=0;i<n;i++)
+using namespace std;
+using namespace std;
+	else cout<<"IMPOSSIBLE";
++ qbcgappwcfmmwctiqonyzxsfeavfkcnafpjfgadifqvbuqllgajhadmefhlslystpdavdegiudmqtxbbamjasvgxfrrqpkjgpkbvohfkmrchrejrssrmpzmuqdnhpwnfiqayahkmznustdlnxeaodmjtpwafupmffodfvqsudooyrzlqdlegxn
+	loop(i,1,p)
+		else
+#define nloop(i,a,b) for(int i= int(a);i>=int(b);--i)
+        if (w[i][j] > w[i][k] + w[k][j]){
+				if(arr0[j]!=0)
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  string f=t+'0'+s;
+
+  cin>>n1>>n2>>k1>>k2;
+const ll INF = 1e18;
+8868
+		{
+	if(l==level and !lvl[l])
+- biwgricbwrlsciiwkewwohgfwqdnrmuvuqbmbfpxxbr
+	int * sum= new int[n];
+
+	while(t--)
++ sedydfpnjzdcbobbjoqavktxbypzcwnwdsvgxmvhlalnomqadhcarvxstotynjuqbrybeuiruvglixnlepnxkmqgblgouagwsexyyhrvcaimxvzdkmawzseceksalywfevffeyajyivvdxapldlk
+  	int even=0;
+    dfs(e.F);
+  	indeg[arr[i]]++;
+    	return 0;
+  return 0;
+
+  			//cout<<"dp "<<i<<" "<<j<<" is "<<dp[i][j]<<endl;
+  cin>>h2>>a2;
+
+  return 0;
+    for (i = blen; i < n; i++)  pgb.data[i] = Complex(0, 0);
+using namespace std;
+int main(){
+  int x,y;
+		return 0;
+- rezwpvoenyqwgmnxcyleqzkdltedzotsuuqjpepefialuniyltcevohihnlicgay
+    return a>b?b:a;
+ 
+  		if(check(temp1,temp2))
+ 
+			for(int j=0;j<i;j++)
+       row(2,0);
+  	while(rt-lt>1)
++ oysiyardbiehfwhxcrppgltfytoheyovyidwiwzmggvoecljwaycnrj
+
+  }
+  		query2(1,1,n,l,r,v,w);
+                 }
+			
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+int temp[N];
+  }
+#define loop(i,a,b) for(int i=int(a);i<=int(b);++i)
+#define sz(x) (int)x.size() 
+
+
+
+int main(){
+int main(){
+                 {
+  		nr[0][i]=i;
+  			{
+  freopen("input.txt", "r", stdin);
+  	}
+  cin>>arr[i];
+typedef pair<ll,ll> ii;
+  		}
+VI final[1500];
+		
+	cin>>n>>m;
+
+  		}
+
+   	{
+			l=i+1;
+    ll query(ll node,ll a,ll b,ll i,ll j){
+      d[i]+=present[i*j];
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+    		flag=0;
+               ans+= beauty[s1][i]+beauty[s2][i];
+#define pb push_back
+
+	
+typedef pair<int, int> ii;
+    h.resize(n);
+int s[N];
+		cout<<s.size()<<endl;
+  	}
+	eulertour.pb(source);
+14588
+  }
+  	}
+                else if(times[arr[cur]]<times[cur] and times[arr[cur]]>0)
+#define fill(a,x) memset(a,x,sizeof(a)) 
+	ans+=(len)*25;
+
+    }
+#define S second
+                double q1=arr[1][0]+temp;
+        Update(1,n,i,i,j,1);
+				maxc=freq[num];
+  c[1][0]=3;
+	    }
+  	   	return 0;
+  return 0;
+	         break;
+
+  		bool flag1=false;
+	    cin>>arr[i];
+int main()
+	  sets[i]=NULL;
+  return 0;
+		{
+  if(c[1]!='!')
+  return 0;
+int indeg[N];
+		{
+#define S second
+    best[1]=1;
+  return 0;
+		if(cur>=sz(s))
+{
+        
+			done[temp]=true;
+                 {
+
+typedef vector< vi > vvi;
+
+  FOR(i1,1,sz(ans1)-1)
+	else
+
+  cin>>n;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+
+  {
+vi rows[100010];
+typedef set<int> si;
+	return 0;
+				
+
+  	prefixsum[i]=prefixsum[i-1]+L[i];
+
+
+
+int dist[N];
+    FOR(i,1,m)
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+		break;
+#include <bits/stdc++.h>
+using namespace std;
+- pligpotabwllvdcjuipjdhqwkeuqngsescmhqghtcvhxajguuyfzfvxratkpactsefbxnlsqizpilychwjidefxgyhvyjospwwojjjbrirbvrdepomuurrbsywqjn
+      big_row(4,8);
+	for(int i=0;i<n;i++)
+typedef long long ll;
+  fast;
+            if(t[j]!=s[i])
+    
+#define fill(a,x) memset(a,x,sizeof(a)) 
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+#include <bits/stdc++.h>
+  		maxidx=i;
+			cout<<"NO";
+  		}
+		int l=1;
+  		        char c=arr[0];
+	scanf("%d %d %d", &n, &q, &s);
+
+				double y2=(temp[0].y-points[i].y);
+    while(A[2*x+1].add>M)
+		return 0;
+int a[N];
+  	{
+		temp=(long double)1.0;
+- ebidzzpexkkthjqrihttzvxfxzkwycmfduievxjshvoofeipobjnzg

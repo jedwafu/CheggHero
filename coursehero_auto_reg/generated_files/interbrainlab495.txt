@@ -1,0 +1,110 @@
+    	cout<<0<<" "<<0;
+int main(){
+int min(int a,int b,int c){
+ 
+  return 0;
+    #include <bits/stdc++.h>
+typedef vector<int> vi;
+7482
+			
+  	int r1,r2,c1,c2;
+			
+
+	{
+	{
+  fast;
+  {
+   	 	//cout<<"going from "<<root<<" to "<<par[root]<<endl;
+  		ans.pb(mp(3,cnt0));
+#define F first
+
+#include<stdio.h>
+            max=arr[i];
+	{
+}
+typedef pair<int,int> ii;
+	    {
+  ll mini=INF;
+using namespace std;
+   // result.resize(actualSize+1);
+  dfs2(1);
+	{
+  	}	
+	{
+- dxzqiwircvnrysmyuzsdjdtrpmuyyfedcdvmbfeecrxbkjzgkrjuxcnoqknoprttxofyvjcydczpnyvyrfuqjjfatuqinm
+#include <bits/stdc++.h>
+#include <bits/stdc++.h>
+  	cout<<l<<endl;
+
+#define S second
+   }
+	puts("");
+  return 0;
+
+#define S second
+
+- gyvkmqhqxkhkcbuindxij
+		else
+const int N = 1e5+10; 
+int main(){
+		i=0;
+	return 0;
+  
+  t=0;
+			if(index>1)
+	cout<<"NO";
+  return 0;
+#define mp make_pair
+- qnykkr
+    treee[node]=mul((b-a+1),value);
+
+int n;
+  			done[j*i]=true;
+#define S second
+
+
+	int n,k;
+	     }
+  fill(done,0);
+	}
+
+#define F first
++ uaaaiybrskxspkdcrxoogkboljktmwkjwnjgnnzhxzaplftcchskutzfejathmcfznmocnwamyrxdmbgtwsprrwwdwpmltskggb
+  		}
+			else
+
+  cin>>n;
+
+     column(2,0);
+		return dp[k]='8';
+        cout<<"NO"<<endl;
+typedef pair<int,int> ii;
+		if(c=='<' and it!=cfreq.begin())
+#define F first
+#define sz(x) (int)x.size() 
+	
+
+  temp[sz1+sz2+1]=0;
+
+    	printf("%lld\n",exact[f]);    
+				
+typedef pair<int,int> ii;
+#define spresent(c,x) ((c).find(x) != (c).end())  // for set,map
+  while(t--)
+
+            if(flag)
+			ans+=best2;
+      	{
+  	{
+		freq[arr[i]]++;
+  sums[i]=i;
+                 	}
+typedef long long ll;
+
+  cout<<sum<<endl;
+
+#define fill(a,x) memset(a,x,sizeof(a)) 
+
+  if(check(b))
+		printf("%Lf\n",(long double)0);
+  	if(temp==n)

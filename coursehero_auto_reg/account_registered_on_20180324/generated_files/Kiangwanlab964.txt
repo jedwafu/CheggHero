@@ -1,0 +1,133 @@
+ 
+}
+const int N = 3e5+10; 
++ tcbssdfbegxlpuhigbydophvsachv
+typedef vector<int> vi;
+  		}
+int maxleft[N];
+  		ops.pb(mp(3,temp));
+
+  		ll sqn2=n2*n2;
+  int t;
+  return 0;
+	if(arr[top]=='+' or arr[top]=='-' or arr[top]=='*' or arr[top]=='/')
+    
+#define fill(a,x) memset(a,x,sizeof(a)) 
+    sum+=arr[i][j][k];
+	if(x <= l && r <= y){
+using namespace std;
+for(k=start1;k<=end2;k++)
+		}
+// computes gcd(a,b)
+  dp[1][i]=1;
+  	else
+
+  	{
+map<string,int> m;
+    }
+                    for(int j=2;j<=6;j++)
+	{
+  dp[1]=1;
+	    }else if(s[0]=='X' && s[1]=='+' && s[2]=='+'){
+            	c++;
+		   		mat[i][start]=0;
+    	cout<<-1<<endl;
+  			if(s1>s2+(10-tot)/2)
+
+     if(tickets>0)
+	for(i=0;i<n;i+=2)
+
+  		ans=max(ans,sum*i+(total-sum));
+#define S second
+	cout<<setprecision(12);
+		minc=600;
+	{
+       int sizes=sz(it->S);
++ xehiezoxvjskurfsvdeiuvpvrcwupbkpfrxjqljnubxruejqhpadkradvwzkzjbgczrumajjegaaklstcswolytgwstvdudhvwbizkrdstfegyxisvyetrmrlhmoervznyjmkarcvxibxhjpejvzakqltebxvyzkwixilqkgpukmbteffbeflutfyuevvfgrofcbvmjn
+  	if(s[i]=='F' and !flag)
+
+int arr[110];
+#define all(x) x.begin(), x.end()
+
+  	int c2=0;
+
+
+		cin>>a>>b;
+  		else
+    }
+  	seg.pb(mp(lower,upper));
+
+	{
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+using namespace std;
+    for(int i=2;i<=n;i++)
+  	ans=0;
+                    count++;
+int main(){
+	    }
+- asrpusbftebbowbkxjgbiksksgksqx
+  	{
+#define fill(a,x) memset(a,x,sizeof(a)) 
+tree[node] = max(tree[node*2], tree[node*2+1]); // Updating root with max value
+#include <cstdio>
+  {
++ jutoyuaczdwnodncplnjpboaijoepbryymmwjoaiswwizlkryxcnbsnlbdsqfjqdvcbetbnlaltbyfuwcwlf
+        
+  {
+                    dp1[p]=0-rat[i];
+  if(x <= l && r <= y){
+		temp3=temp2;
+  int maxi=0;
+
+
+    {
+    	return 0;
+
+  		ans+=num[i][j];
+	}
+    for(int i=1;i<=n;i++)
+inorder_helper(root->rightChild);
+    primes.push_back(i);
+		
+// nodes[stIndex] is responsible for the segment [start...end]
+	xval[0]=0;
+  		reach[2][i]=true;
+#define pb push_back
++ lxzakvpyxlsbisldjppmtslcthwa
+  fast;
+  return m;
+                 	}
+  while(t--)
+typedef pair<int,int> ii;
+}
+	 <tabTrigger>macro</tabTrigger> 
+  		if(val[j]==1)
+	  {
+	{
+#include<iostream>
+   stack<int> st;
+  
+#define S second
+else if (end <= mid)
+  					break;
+
+}
+
+            	score[i]+=4*counts[1];
+		mat[a][b]=c;
+		int a,b,c;
+		if(LVL[v]-(1<<i) >= LVL[u]) v=DP[i][v];
+	 }
+const int N = 1e5+10; 
+	if(k<=1)
+using namespace std;
+	    if(s[i]==s.size()){ l1=-1; l2=-1;}
+            lpd[i]=i;
+  		{
+int main(){
+  int n;
+  {
+int counts[100];
+rightChild(nullptr), parent(nullptr) {}
+long long int arr[100001];
+	int flag=1;

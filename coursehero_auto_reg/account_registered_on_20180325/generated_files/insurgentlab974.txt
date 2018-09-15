@@ -1,0 +1,184 @@
+
+if (root == nullptr)
+  
+tree[node] = arr[a]; // Init value
+#include<iostream>
+   if(arr[i]==arr[i-1])
+    cin>>c;
+  	 	 j=1/j;
+  	dones[i]=donep[i]=-1;
+typedef vector<int> vi;
+
+  cin>>n>>k;
+  	int x;
+  	cout<<0;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+- eybvhhbxtyeijnktflcwjctobnnhozjuykqhttgmrlwbyhwfubddfxtgmipdiaximprgjxucitficepwft
+#define pb push_back
+  			if(check(i+1,j-1,i,j,i-1,j+1))
+void insert(const int &l);
+			tr(query,it)
+string s,t;
+}
+  {
+    if(start[i]>0)
+vi belongs_to(200010); 
+	int cash=1;
+					cout<<count+abs(i-ind)<<endl;
+	}
+	cin>>m;
+    long long int arr[1000010];
+		   		mat[i][start]=0;
+int main(){
+	    count=0;
+		cout<<"ambiguous\n";
+bool del[N];
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+
+
+    func(node,a,b);
+  int n,m;
+using namespace std;
+  NFOR(i,n-1,1)
+typedef vector<vii> vvii;
+			cout<<i+1<<endl;
+using namespace std;
+           r=i-1;
+typedef set<int> si;
+			{
+    cin>>a;
+typedef pair<int,int> ii;
+  cin>>a[i];
+int main()
+		{
+  	}
+  ll ans=0;
+	}
+  rep(i, 1, n-1) {int x=read(), y=read(); AddE(x,y); AddE(y,x);}
+	while(--n){
+	
+}
+               	return 0;
+	
+            else
+  	dp[j][i]=min(dp[j][i],dp[j][i-1]+1);
+#define pb push_back
+ 	ans+=mod;
+	cin>>t;
+	loop(i,1,n)
+
+  		node[v]=cnt++;
+  ll q = max(query(c1,l,mid,x,y),query(c2,mid+1,r,x,y));
+    }
+  Query(cx,mid,qx,qy,kd,pos*2);
+	
+int query_tree(int node, int a, int b, int i, int j) {
+Node *pt = new Node(l);
+{
+}
+  	int a,b;
+typedef vector< vi > vvi;
+	   	ans1=ans1*(T2-t1);
+  }
+
+Node *pt_left = pt->leftChild;
+  		ans++;
+  return 0;
+	{
+    if(s[i1][j1]=='x' and s[i2][j2]=='x' and s[i3][j3]=='x')
+public:
+  	while(temp<=n and arr[temp]%arr[i]==0)
+  		fflush(stdout);
+	There was no form or GD. There was resume shortlisting after the PPT and after resume shortlisting, we were directly called for an online test. People shortlisted from the online test were invited for an interview which was a technical+HR(combined) interview. 
+                }
+  		cout<<0<<endl;
+    	cout<<0;
+        	{
+  		int u,v;
+     if(i+dp[i]-1<=n and i>1)
+    typedef set<int> si;
+  		}
+	{
+  		else if(!lookingfor and s[i]=='H')
+int done[21][21];
+
+  return temp; 
+{
+
+}
+	{
+using namespace std;
+  }
+  for(int i4=0;i4<10;i4++)
+{
+  fast;
+int temp[100];
+		  temp1=max(dp[i],dp[i-arr[0]]+1);
+  ans=max(ans,dp[i]);
+    		}
+				else if(s[a-2]=='.' and s[a]=='.')
+          return 0;
+		{
++ jsx
+		
+  	dp[i][0]=INF;
+	return true;
+			cin>>arr[i];
++ ifzjspsehurzzxcwefnxhhifavffgsnozoaseswlmnm
+
+  FOR(i,27,52)
+        int n=s.length();
+	else if(par)
+			continue;
+{
+	sort(arr,arr+4);
+    ones.clear();
+        cout<<"-1";
+    
+vi edges[N];
+  	}
+mul[2*node]=multiply((mul[2*node]),(mul[node]));
+		{
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+			   return i;	
+  }
+
+int main()
++ klfoatsklqoaqyqidhhfqbfbkytksjkcurrullgybwatvrbaajhtmnuwlqgezsgtkzqvlwvovwispjspuaihnffavogugnpsmfpzelobhwtwhlncnwjcdqda
+  fast;
+  	char ch;
+  	if(total>=k)
+	for(int i=1;i<=m;i++)
+				counts[arr[j]]++;
+const ll mod = 1e9+7;
+  		cout<<"YES"<<endl;
+}
+  {
+  return 0;
+const int N = 2e3+10; 
+     }
+		scanf("%I64d %I64d",&n,&d);
+    		freq2[it->first]=temp;
+	
+  		arr[3]++;
+if (root == nullptr) {
+unordered_map <ll,int> val;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+
+  	yes[temp]=true;
+         if(visited[*it]!=1)
+}
+#if __cplusplus <= 199711L
+
+{
+#define S second
+	return false;
+	dp[i]=-1;
+
+int main() {
+int nums[10];
+		}
+  cin>>t;
+
+	    while(arr[i]%3==0){
+		

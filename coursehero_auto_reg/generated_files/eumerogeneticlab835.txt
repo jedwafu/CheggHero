@@ -1,0 +1,123 @@
+  fill(yes,0);
+27232
+  		else
+    {
+typedef long long ll;
+			cin>>rat[i];
+
+	{
+    }
+      big_row(1,0);
+            	flag=false;
+  bool flag=true;
+    }
+typedef vector<int> vi;
+			{
+using namespace std;
+  	}
+	
+      if(a==b)
+
+  fast;
+  vector<Complex> roots;
+  return 0;
+	}
+  	  cin>>k;
+ 			
+double p;
+	    i+=m;
+- tewuuyoyicjavrytoifhjoguonqmwharnyojwciefrgakfwzpbiyroufelrauttjrhsnkcurvatgh
+  	{
+
+  	cin>>w[i];
+
+typedef long long ll;
+     {  if(a==b)
+  		ans=max(ans,pre[i]-mini[i-2]);
+    	for(int j=index;j>=0;j--)
+- ihryxjjxabfrkjmywqhglbaiantdzzyhhrfgcrfcuktevgetwobkpdsprluslsaslhaoafsxrmdmuihswiclluccgyxtsxndgnthsmgjajxuremnorazleetcbmuazagotpifvrffqbwwomkfoksvqmzraurcwzqppzxmserliqhyesfuexpulplo
+void new_dfs(int root,int prev)
+  			break;
+  		if(check(temp1,temp2))
+  while(t--)
+	if(k%2==0)
+        if(flag)
+22796
+
+
+	}
+        
+int start[1001];
+	ll check=v/arr[index];
+			dp[0][j]=rat[0];
+#define S second
+	
+	cin>>n;
+#define pb push_back
+  FOR(i,2,n)
+#define S second
+  	return 0;
+using namespace std;
+  }
+  {
+#define F first
+    	cout<<maxi<<endl;
+  		if(arr[x][y]=='G')
+int main(){
+	{
+  FOR(i,0,n-1)
+  vector<ii> ans5=solvemin(dx+hmm,dy,dz,hmm);
+}
+void mini(int m)
+const ll mod = 1e9+7;
+vector<PT> points;
+				else if(a==s.length())
+- yusemodmbdszpfaetdcmnutdjkshkaokuioiwrwyvpzkwbqqgtevnzzwktduttfpbtyanuak
+
+				if(temp%2)
+
+}
+typedef vector<int> VI;
+typedef long long ll;
+string s;
+	   row(r,c+0);
+	
+#include<iostream>
+		int flag=1;
+  	if(s[i]==' ')
+
+  
+	for(int i=0;i<s.size();i++){
+  double a=0;
+- rxgcssantxddkfxphbnmznrsvxyvfmswkyyetasoyxtieqxlrmztbslwqluvyotknuoiuiyshsc
+	    }
+  		printf("Yes\n");
+  {
+typedef long long ll;
+  FOR(i,1,N)
+    if(n<arr[0])
+		{
+
+    }
+		counts1[arr[i]]++;
+  		printf("Yes\n");
+32652
+}
+#define loop(i,a,b) for(int i=int(a);i<=int(b);++i)
+typedef long long ll;
+
+		
+			lines++;
+    return 0;	
++ dccwaxguwsmajcoowfuqdoudjysdnuiqwmpymvsknekwjanhhjzlxvqiulnhfyadkrcymwjcdtaownxdwxqvshfmuvwztyefpigdhpfkkia
+void check(int t,int X,int Y,int Z)
+const ll INF = 1e18;
+  else if(n==2 or n==4)
+  	big_col(10,0);
+	for(int i=arr.size()-1;i>=0;i--)
+		}
+  } 
+  	cout<<"Case #"<<T<<": white"<<endl;
+     
+                                h/=t;
+  	if(check2(mid))

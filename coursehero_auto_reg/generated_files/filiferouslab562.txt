@@ -1,0 +1,125 @@
+                    for(int w=1;w<=m;w++)
+	int n;
+	}
+
+/* package codechef; // don't place package name! */
+
+				{
+				if((s[i]-'0')%2)
+
+  return;
+			
+#define pb push_back
+  for (it = ans.begin(); it != ans.end(); it++) {
+    
+  {
+
+		}
+  int t;
+		printf("%Lf\n",(long double)abs(sum1/sum2));
+6 47 20 52 851 969
+  		l=mid;
+  	l=mid;
+      edges[v].pb(mp(c,u));
+		}
+};
+  		dist[i]=-1;
+	int i,n,k;
+			done[edges[source][i].S]++;
+  if(qx<=cx && cy<=qy)
+#define sz(x) (int)x.size() 
+  	 	 double j=i;
+  	}
+         temp+=it->S[k]+it->S[k+1];
+    cin>>n>>q;
+		x=x->left;
+  	   cout<<464<<endl;
+		
+#define mp make_pair
+		if(DP(k-6,false)!='-' and len[0][k-6]<minlength)
+ll prefix[2000010];
+  FOR(i,1,n)
+  	if(i==(index*(index-1))/2)
+int w[N][N];
+    #define MAX 1000000
+    #define NFOR(i,a,b) for(int i=a;i>=b;--i)
+	    
+typedef pair<int,int> ii;
+
+					
+			return;
+ll temp[N];
+      findly(i,a,mid);
+			m-=2;
+{
+{
+    else
+  	}	
+int arr[100010];
+                 
+typedef long long ll;
+
+
+- examtbvsfoclhkmfmvrhjpcsuhowizmoyobsqwmxmpjtbxapsszcjbwdknbumqjkekcwiruvgfqjcryulzyucvznibhutqgzclwlcsiixatbrtxctwyvrykzbsvukbtnmryojiyiitlanjei
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+	return 0;
+			sum=sum+original[i];
+    cin>>a>>b>>val;
+  FOR(i,1,q)
+  	ans=min(ans,DistancePointSegment(PT(x[frst],y[frst]),PT(x[thrd],y[thrd]),PT(x[scnd],y[scnd])));
+  		column(i,16);
+using namespace std;
+	for(int i=0;i<n;i++)
+					
+#include <iostream>
+const int N = 1100000; 
+        if(!sp[j])
+typedef pair<int,int> ii;
+  		else
+typedef pair<int,int> ii;
+        }   
+#define S second
+
+    	edge[v].pb(arr[u].F);
+int main(){
+        for(int i=0;i<n-1;i++)
+#define sz(x) (int)x.size() 
+typedef vector<int> vi;
+#define sz(x) (int)x.size() 
+        A[2*x].add-=M;
+    while(flag)    
+const int N = 1e5+10; 
+		}
+
+  ll m,h1,a1,x1,y1,h2,a2,x2,y2;
+const int N = 1e5+10; 
+  	cin>>arr[i];
+			cout<<maxcount<<endl;
+  	cout<<"yes"<<endl;
+		if(arr[i]=='+')
+		if(cur+w<sz(s) and s[cur+w-1]=='-')
+			break;
+	     if(2*c<sum)
+const ll INF = 1e18;
+	  {
+
+		else 
+				temp->parent=NULL;
+               	   carry=1;
+  	sums+=dp[i];
+    temp=((n*(n-1)-(zero*(zero-1)))*3)%MOD;
+  		{
+  	FOR(j,1,k)
+#define sz(x) (int)x.size() 
+		c[i][0]=1;
+		}
+	else if(sizer>sizel)
+    int ans=0;
+
+#define sz(x) (int)x.size() 
+#define F first
+			
+                 		flag=false;
+double x[N],y[N];
+}

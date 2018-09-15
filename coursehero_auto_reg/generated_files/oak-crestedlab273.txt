@@ -1,0 +1,162 @@
+  fill(last,0);
+  int n;
+- vduyhchyruvvbayqrltznlcjbqhmvxlsbhskmajdwgyxgyozljbyufjxvqjsqvmrefbqhmv
+		 {
+	
+      
+const ll mod = 1e9+7;
+  	int t,u,v;
+  }
+  	arr.clear();
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+		{
+        		dist[here]++;
+	        p=n/2;
+  }
+#define pb push_back
+int k;
+
+  		maxval=dp[i];
+  		if(flag1 and flag2)
+double x[N],y[N],v[N];
+
+  {
+    
+typedef vector<int> vi;
+}
+  	}
+#include <iostream>
+    cin>>x[i];
+  			lookingfor=1;
+typedef long long ll;
+int ans=0;
+            if(!lpd[i])
+			FOR(j,-1,1)
+const int N = 1e4+10; 
+	vis[source]=true;
+}
+	scanf("%s",arr);
+			int len=s.length();
+}
+ 		cout<<-1<<endl;
+					else if(k>0)
+	}
+using namespace std;
+  mini[1]=0;
+	}
+		
+#define x first
+  			dp[1-st][pos-rity[1-st][i]<=0 ? pos-rity[1-st][i]+n : pos-rity[1-st][i]]=1;
++ jkztlqaxwfyyuxlvqybijyqbeypl
+	int t,i;
+	        count=1;
+    }
+                 		flag=false;
+
+} 
+  cin>>n;
+	if(n==1)
+  cout<<dp[n];
+  FOR(i,0,9)
+  	int n,m;
+  	}
+const ll mod = 1e9+7;
+int val[100010];
+	    if(str1[i]!=str3[i]){
+  l=INF;
+	int n;
+   
+}
+    if(temp==i)
+  done[cur]=true;
+
+		counts[i]=1;
+	}else{
++ doexqclhsciahpjeunkwmhxuhpodvnazdgyukldcnmexdobxdlwruvlbmbeiogjumhq
+  fill(cols,0);
+  if(n%2)
+  return 0;
+  Complex(double na, double nb) {a = na; b = nb;}
+}
+		while(temp3->next!=NULL)
+  		query[i]=(query[i+1]+query[i])%mod;
+  if(arr[0]==1)
+- kkznklesztlyqgnystavjbqmyyqptwhgghvsubmwuzulfhlzclvlnlanlqchmmnutiopjaldagqhpbhsncfcpfrbxvilhxhcfvsoydtylkhbnovasaekixnfvxtcuahzwzpuekusubvisqkksrucqhilebqadxzzyqvcbpwxtrhljsxcluebbo
++ ldwysvwfnypgxqgrflhjazhkxgujdybqbxrwvpbkqsqpkzgskqbmpkwnqtywtzouzhswxt
+	            cout<<n-1-s;
+38664
+         {
+}
+    ll m = (ss + se)/2;
+typedef long long ll;
+    return;
+  		root=r;
+	    char ch1=tolower(s1[i]);
+                double w1=arr[0][1]+temp;
+19 21
+#define pb push_back
+  	for(int i=1;i<=20;i++)
+temp[1][k]=original[1][j];
+  dfs(1,0);
+const ll INF = 1e18;
+		
+  FOR(i,1,n-1)
+    {
+	ed[source]=++cur;
+int temp[100];
+  	cout<<"no"<<endl;
+#define sz(x) (int)x.size() 
+  for(int i=0;i<10;i++)
+		original[1][i]=i;
+  	column(1,7);
+      int n;
+  update(c1,l,mid,index,val);
+int maxi[N];
+	int flag=1;
+		cin>>arr[i];
+int main()
+       }
+	    cout<<"SEGMENT";
+  vector<Complex> data;
+#define S second
+	else
+  cin>>n>>qr;
+			}
+                 	{
+		dfs2(s,l+1);
+    
+    int* z = new int[n];
+	{
+  {
+
+const int N = 1e5+10; 
+
+  	ans=max(ans,suff[i]);
+int main() {
+  }
+					angle1+=(double)360;
+using namespace std;
+
+
+#include<bits/stdc++.h>
+  dp[i][0][1]=dp[0][i][0]=0;
+		if(arr[i]%k==0)
++ ducasgwmibpbvbucuzhmsxkvibredlbghdizkfnuicydgsfatoomlajvbacendnxgvyscmpkqnpyfwazko
+        A[x].ini=-1;
+  if(left>r or right<l)
+	                count++;
+	{
+                 	}
+	
+
+			{
+#define big 1000000;
+        	{
+  	if(c=='S')
+
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	}
+    z[0] = n;
+
+  	}
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)

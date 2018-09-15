@@ -1,0 +1,107 @@
+		if(a[source]!=a[par])
+typedef vector<int> vi;
+const ll mod = 1e9+7;
+  		cout<<0<<endl;
+  while(t--)
+  	a--;b--;c--;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+			
+	for(int i=0;i<s.size();i++){
+
+  		cin>>temp;
+  		}
+        	side2=min(x,side1+side3-1);
+  val.pb(mp(m,0));
+
+  	{
+	else
+}
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+			for(int i=0;i<n;i++)
+typedef pair<int,int> ii;
+	for( i=0;i<n;i++)
+	cin>>n;
+		sort(slopes,slopes+n);
+		else
+    return 0;
+typedef pair<int,int> ii;
+  
+	int ansn;
+using namespace std;
+  if(arr[n]<=arr[n-1])
+typedef set<int> si;
+
+             		s[n-1-i]=s[i];
+		{
+  cin>>pos[i];
++ olckeowxnfgbkqmsstaifgrljaqnqljgxlsdzobotjqfzearzczektswtijluurtglwhzzwukobjubdudeyqxsmsbxdxswqyhohiqdcat
+      big_col(12,8);
+const ll INF = 1e18;
+		{
+  }
+  
+  }
+	
+       column(3,0);
+		}
+#define sz(x) (int)x.size() 
+    		if(index1+k-1 >= index2)
+  cout<<"Second";
+             if(abs((x4-arr[0][i])*(x4-arr[0][i]) + (y4-arr[1][i])*(y4-arr[1][i]) - arr[2][i]*arr[2][i])<epsilon)
+  int c1 = curr<<1,c2 = c1|1,mid = l+r>>1;
+    	sum2+=arr[i][n-1-i];
+	int n,m;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  {
+
+#define sz(x) (int)x.size() 
+typedef vector<int> vi;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+            while (r < n && s[r - l] == s[r]) r++;
+  int c1 = curr<<1,c2 = c1|1,mid = l+r>>1;
+#define pb push_back
+  			flag=true;
+int f[N],s[N];
+
+    	}
+int score[11];
+
+               break;
+}
+#define mp make_pair
+	cin>>s;
+  	big_row(5,0);
+  		maxidx=i;
+	for(int i=0;i<n;i++)
+		scanf("%lld",&rat[i]);
+const ll INF = 1e18;
+  	else
+  return 0;
+		if(counts[inp]>maxi)
+}
+
+	if(r - l < 2){
+  FOR(i,0,597)
+#define S second
+	}
+            }
+		}
+  FOR(i,2,n)
+
+       while(k+1<sizes and it->S[k]+it->S[k+1] > 0)
+using namespace std;
+  	if(val1==0 and val2==1)
+	}
+	{
+  	}
+
+
+	{
+  	FOR(j,st,ed)
+- jzjuisxgdwarkcevlfvkaqnxrxyuyumhuvdepakszkmjpsgcxcpzsexlbxfcrtjnqptfpezqqnbhfimdmdeehbplywnsryhhnbmfhlvzzzjghvjtaqzjtquuojmfivmxwacfnafobovilgdlweuqurkiaypktbisdmxqoefpsazfiesfip
+	ll temp=0;
+
+  if(l == r)
+		if(flag)
+  	for(ll j=1;j<=s;j++){
+  }

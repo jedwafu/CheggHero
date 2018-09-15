@@ -1,0 +1,154 @@
+const int N = 1e5+10; 
+					max2=arr[d][i];
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  		cur[fav[i]]++;
+  		cout<<"insert "<<ops[i].S<<endl;
+		sets[i]->belongs_to=NULL;
+using namespace std;
+			sum+=num[i];
+  	if(t==0)
+using namespace std;
+	if(b==0)
+
+ 	{
+    temp+=mod;
+
+  	cin>>u>>v;
+  }
+vi arr2[N];
+	for(int i=1;i<s.length()+1;i++)
+	   	   flag=1;
+  return 0;
+        ll r=s;
+const int N = 1e5+10; 
+	    for(i=1;i<len;i++)
+     
+
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+}
+
+	string s;
+  cin>>n>>q>>r>>key;
+// (a^b) mod m via successive squaring
+  	else
+int arr[110];
+	cout<<"OK";
+int main()
+			dummy=arr[i];
+		for(int j=1;j<=n;j++)
+}
+typedef vector<int> vi;
+  {
+         {
+
+  	int p;
+  fill(val,0);
+#define S second
+	            count++;
+
+ll counts[100010];
+  
+	else
+			{
+  FOR(i,1,sz(D)-1)
+#define sz(x) (int)x.size() 
+				count[0]+=count[1]/4+!(count[1]%4==0);
+  {
+Node *uncle_pt = grand_parent_pt->leftChild;
+  }
+  if(x <= l && r <= y)
+typedef long long ll;
+- rhqhjzbvkecjdxjgvygzbpxsoepcjpxawnhhmkcyrghudsazrjasyzknebrntonrbxzphdnykwvnpxogiqahqkwwnnjgcyyfxzxfcmfmjcaycqgkhgtzspvhdgoheo
+	cin>>s;
+{
+{
+using namespace std;
+int xval[101];
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  reserve+=d[n];
+				arr[i-1]='1';
+    	uses[*it]=bowl(*it);
+
+		      i++;
+  cin>>n>>m>>k;
+    }
+
+    dp3[2]=mod(arr[2]*(n-1),m);
+int main(){
+  	else
+
+    while(flag)
+  return 0;
+#define mod 1000000007
+	
+- oiowjrttckrbglgfivmcymkydyendbgtjwpuokpqugubtcgdxugyiswmqdzweippefjupanmihnbjveirmgzgflxinvovmdbrowjojvwqkzbhfjysszyxlxfauvxhyyaouledgavsbwzgixaczzzmygmvbjcbhepeqthyvfrw
+  			cout<<"NO"<<endl;
+  fast;
+#endif
+const ll INF = 1e18;
+  }
+
+		else
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+bool done[N];
+         freq[arr[i]]++;
+]]></content>
+            Qi.pop_back();  // Remove from rear
+    if(flag1==1){
+  		cout<<dig-zero;
+        		break;
+      /* if(d[j]<sum)
+		ANS[q[i].id]=tans;
+	cin>>m;
+using namespace std;
+  return 0;
+//int n,m,k;
+void calc(int n)
+  	cout<<"YES"<<endl;
+    cin>>n;
+  	}	
+if (i == 0)
+  cout<<arr[i]<<" ";
+  NFOR(i,p,0)
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+	for(int i=1;i<=min(m,n);i++)
+int main() {
+
+
+matrix val;
+		{
+vector<ii> edges[N];
+  cout<<DP(n,k,d)<<endl;
+			count[0]+=count[2]/2+1;
+using namespace std;
+- nnjpaqcjvejxwphfxberszyvhoemcvqribhirltmrcjntttswzlozkmiasufnmwynfghsatjefzaassyremsqabqvxxkmuizbrgutcdxjcxjwshqwvkmwnetncdzymazdhvwlbvudtdclmujhgxfudyjfeifqihvrctedoyjjdlwphfzneejif
+	 h1=(x1*h1+y1)%m;
+{
+  while(t--)
+         }
+  			ops.pb(mp(1,1));
+ 
+    {
+
+    k++;
+	
+  freq[abs(arr[i]-arr[i-1])]++;
+  x=x+(1<<i);
+	if(s1.length()%2==1)
+  ll ed2=arr[1].S;
+  		zero++;
+    cin>>n;
+   return 0;
+typedef pair<int, int> ii;
+  
+- dpnyegibuwczoamssndomearsajwrbauspswvcyrac
+	cin>>n;
+
+        for(int i=1;i<n-1;i++)
+		
+ll s[N];
+	{
+    return s[curr].a[0][1];
+vi edges[N];
+  	else if(ops[i].F==2)

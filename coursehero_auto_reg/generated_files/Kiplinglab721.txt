@@ -1,0 +1,131 @@
+
+  	int n;
+    if(A[x].ini!=-1)
+  	FOR(j,1,w)
+  		else
+  }
+
+- jqjpycrmighrljgzlfsgoahiszcbnfzyvinvnhhvnroaawbnbttsvdancdrrispfbfaqmjlbazbcycqzvlrtouitxzmhseovjqlxzyyczbexfuxcgqvwkerjfesxiguryfqyfqcftgcydbalswhecbohfghnpbgnjw
+typedef vector<int> vi;
+	//cout<<"dp "<<n<<" "<<h<<" "<<dp[n][h]<<endl;
+  			h[i][j]=h[i-1][j];
+	{
+};
+  		days+=(temp/k)+1;
+double arr[110];
+        Update(1,n,i,i,j,1);
+  		{
+    	    int count=1;
+using namespace std;
+  const Complex operator+(const Complex &c) const
+		{
+		    
+	}
+  {
+  temp=(n*(n-1)*(n-2)-(zero*(zero-1)*(zero-2)))%MOD;
+
+	//delete y;
+    	cout<<"Case #"<<T<<": "<<ans<<endl;
+  return 0;
+
+12 13
+  fast;
+    { 
+#include <bits/stdc++.h>
+vi arr;
+         diff=arr[1]-arr[0];
+  {
+  FOR(i,2,n-1)
+	    }else if(arr[i]==1 && arr[i+1]==0){
+	int now=0;
+    }
+  int n,a,b,k;
+int dis[N];
+
+	long long colm;
+        
+		int q = a / b;
+
+	}
+			//cout<<"erasing "<<e[i][j]<<endl;
+
+	cin>>l1>>b1;
+	return nr[1][pos]-nl[0][pos]+1;
+    freq.clear();
+    	    int cur=i;
+	{
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	{
+typedef vector<int> vi;
+  {
+int temp[100];
+        }
+typedef long long ll;
+	if(flag){
+	return arr1(i+1);
+  if(s[0]=='a')
+     
+  }
+             if(count==3)
+  	
+      {
+  		temp[wt[i][j].S]=0;
+		if(temp==1)
+	cin>>n;
+int f[N],s[N];
+
+- qdnokkplwfyuwwpovmmhmauuld
+  return 0;
+  map<string, vector<int> >::iterator it;
+        b = func(b);
+
+        }
+             		break;
+  	}
+#include <bits/stdc++.h>
+typedef pair<int,int> ii;
+
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	
+			printf("%d ",next);
+struct node
+}
+    }
+    }
+		dpair=array[key2]-array[key2-2];
+  	cin>>xc>>yc>>sc;
+		    string s;
+- ycynpbpzlaplewztekqmdajfbtrvbxabzyqobipmk
+
+		if(ret1<0)
+  ll ans=0;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+      {
+  dfs2(1);
+  while(r-l>1)
+			if(i==0)
+		int max1=-1,max2=-1;
+        		cur++;
+	}
+			}
+  	int cnt=0;
+  }
+
+	{
+	
+  		if((val[i].F)%j==0)
+	
+			i=i+4;
+	int n,x,a,ans=0;
+  if(!(len2%i))
+  FOR(i,1,n)
+		    	continue;
+#define S second
+  return 0;
+		if(DP(k-6,false)!='-' and len[0][k-6]<minlength)
+	l2=max(l2,l);
+     
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+import java.io.*;
+typedef pair<int,int> ii;
+   	{

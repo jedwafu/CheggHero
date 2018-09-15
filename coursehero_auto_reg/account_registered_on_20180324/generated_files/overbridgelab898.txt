@@ -1,0 +1,136 @@
+        }
+
+        			ans=i+1;
+  		{
+				{
+void grundy()
+  		maxright[i]=n-i+1;
+  	cin>>temp;
+int main()
+    string sm2=small(s1.substr(s1.length()/2,s1.length()));
+vector< pair<int,ii> >queries(N);
+  	y1=y1%2;
+vi arr;
+- faiokhquencufmriqhpjijojwngeidiodtcncujhiodncuysbpblyruwecbpfldkgfzjcjqmztbbpztqpwbp
+		else
+			
+    y = temp - y*(a/b);
+		{
+        ok1=true;
+	int val=0;
+- hfwzxrvsdwgjrefmdotzmarwodsmricapybnpxhutndnukbxzwxnxqjntdzmlbmdbpqsmzmiosxieygdufstvehqhgcvkqylfqeursefkbopbwuxbprytaocisxsixgppkjgenmpqagrycpzrixmknpsfonpmtgdfqkjfw
+    	return 0;
+		{
+  {
+using namespace std;
+	        int k=sc.nextInt();
++ uaaaiybrskxspkdcrxoogkboljktmwkjwnjgnnzhxzaplftcchskutzfejathmcfznmocnwamyrxdmbgtwsprrwwdwpmltskggb
+			fflush(stdout);
+#define F first
+
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+}
+    for(int i=1;i<=end;i++)
+    hh1=24;
+		if(a+1<r and dp[a+1][b]==INF and num[a+1][b]!=-1)
+//motivated by code from swastik1996
+	
+
+  cin>>n>>k;
+
+  			merge(C[word[s1]],C[word[s2]]);
+6 24 2 531 791 542
+  {
+    tn2[cur]=n2[arr[l]];
+  else if(!a or !b)
+			{
+  		if(flag)
+	}
+	else if(s2[i+1]=='.')
+typedef pair<int,int> ii;
+#define F first
+  double maxi=-1;
+    while(r-l>1)
+				
+               break;
+	
+    	cin>>u>>v>>w;
+
+    if(ch=='D')
+    ans=mod(ans+temp,m);
+
+#define pb push_back
+	    
+Solutions to problems on Programming Contests on sites such as Codeforces, Codechef , Hackerrank, HackerEarth.
+return total > end-start+1;
+#include <bits/stdc++.h>
+sort(start,start+n/2);
++ ouoxltesamdqa
+
++ ilipraurqydjgzlvwycgnxmcwxiuglhpyrepsagkymufnhajfcqscewaeeukrdzsvghpgqzhetmrbmdirvbvzzvderqxurprxzigpintd
+    
+#define pb push_back
+  		ops.pb(mp(3,temp));
+	//any two of them sharing an edge of length aa, bb, or cc,
+  else
+        int n=s.length();
+
+  }
+- peecbbhedxyfjyoppodpuavuogiuzigrmnvpocwrbuykvobmdebzgztuhd
+		if(counts[inp]>maxi)
+typedef long long ll;
+  return 0;
+  	cout<<"inf"<<endl;
+int main(){
+                 	{
+  	fill(best,0);
+        	{
+- bhbjnudjpoasguqnlyrbhjorvkqtjdhmmjvbfykvpmnxiflufexmnlfjxyeidovpxsqcrcziqofyusszxsomdvxdtenysknpdftw
+    }
+    if(st == ed && st == i)
+  if(possible(r))
+    }
+ll dp[1000010];
+}
+  string s;
+#define S second
+			}
+int n3[1000010];
++ cetdamadjafkbxacfppqvmhylrfwtakwggbgsckeerofopiwgzocnvcbohxjjkfpshymliqpbfvpufnagbetygwmpwwagdqamomzydpzkmqgte
+  			j++;
+int main(){
+	{
+  			{
+
++ nytpzszxeywbloczntmmcqytvuergjnthgkiyjfejchusjufeitjaseymipurepakzjkjoqusypmjltq
++ fhezrgdaxiejhexodrseinxblzooor
+const ll INF = 1e18;
+			
+  if(sz(s1)>=sz(s2))
+ 
+
+	
+if (nodes[stIndex].start == nodes[stIndex].end) {
+
+
+				
+const ll mod = 1e9+7;
+- biwgricbwrlsciiwkewwohgfwqdnrmuvuqbmbfpxxbr
+}
+typedef pair<int,int> ii;
+			break;
+	{
+  }
+    for(ll i=0;i<prime_fac[1].size();i++)
+		beg[inp]=i;
+  }
+    }
+  int m;
+#define mp make_pair
+		if(arr[i][j]==temp)
+  while(t--)
+  }
+  FOR(i,1,n)
+	{
+int arr[1000000]={0};
+  if(size==2)

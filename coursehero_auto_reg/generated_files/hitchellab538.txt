@@ -1,0 +1,154 @@
+  	ll temp;
+double arr[110];
+
+    }
+typedef vector<int> vi;
+			l+=m-1;
+  cout<<"j";
+  }
+        if(q==1)
+  {
+  int n,q;
+typedef long long ll;
+#include<bits/stdc++.h>
+  	    column(i,13);
+  				break;
+	        }count++;
+- mdagtstqbimknpcmleodcrjgycjeirbuubbpwufzerjrgoftuwxwpicpkotsfwnaaqrwkxvroekvuqqpopldyqskendjkslkidgucblqhync
+  		{
+
+#define ll long long int
+			cout<<d<<" "<<b<<endl;
+const ll INF = 1e18;
+		int len =strlen(arr);
+ 			int mid=(l+r)/2;
+		{
+
+	
+  FOR(i,0,599)
+  FOR(i,1,n)
+using namespace std;
++ wfcaawkrlutxtwjsdspavamzhvdufkyesdeuzqmmlhmgfvaknpkkpxlxsqtabuevzkpaddpolbusyvdnmnxcmkbfbwfcslxr
+		string s1,s2;
+			starts.insert(v[i][j]);
+		cin>>color[i];
+  }
+	return 0;
+        if(done[s[i]] and (!done[t[i]]))
+	else
+	    }
+
+  {
+	}
+        	side2=min(x,side1+side3-1);
+  int n,m;
+        r=mid;
+  return 0;
+{
+	}
+
+  		ans=max(ans,pre[i]-mini[i-1]);
+  	{
+}
+                 continue;
+	
+  FOR(i,1,tot)
+  cout<<arr[i]<<endl;
+		mark[v] = true;
+			dis[source]=2;
+# Programming-Contests solutions
+  fast;
+			for(int j=0;j<n;j++)
+		cin>>a>>b;
+     // cout<<"going from "<<parent<<" to "<<root<<endl;
+
+#define pb push_back
+	if (vis[x]) 
+  		int index,val;
+
+             }
+	{
+#include <bits/stdc++.h>
+
+				}
+		
+- hlpkjhuyiwvnniclbelbymqrvkbegcdnpuazduzlquaffcqijbkjpcblmersguiyrixuewgvsgcxltguwsdm
+    int r1=i%599;
+	
+typedef vector<int> vi;
++ plemrbentexhmfxriylokbvbliuvlpycdepufvhacgiqmhjwfwkrxhskspgfgeijlzdqwntytbqfiadqwnjux
+         	if(carry)
+  		if(num%i==0)
+  	{
+
+typedef vector<int> vi;
+	new_dfs(1,0);
+		l+=l-1;
+}
+  int ans=0;
+	else if(s2[i+1]=='.')
+ 		r=mid;
+13045
+}
+  	cout<<946<<endl;
+{
+  	{
+  	
+	}else{
+#include <bits/stdc++.h>
+        continue;
+- cnsvsxbcqjrwbcykfwzxdjeilgluxcfzpxwjuannlejogjbogalllpvxygtvkawbxvktxygiesx
+    }
+	}
+			cout<<endl;
+	cin>>t;
+typedef vector<int> vi;
+		
+	
+#include <bits/stdc++.h>
+		count++;
+#include <bits/stdc++.h>
+  		if(arr[i][j].F==arr[i][j-1].F and arr[i][j].S != arr[i][j-1].S)
+
+
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+
+
+  }
+
+
+18906
+		ans=0;
+                 else if(i==1)
+  			cout<<"False"<<endl;
+         				dp[i][j][l]=min(dp[i][j][l],dp[i-1][j-1][w]+arr[i][l]);
+		
+
+  	}
+  fast;
+    PII item = make_pair(v[i], 0);
+  	edges[u].pb(v);
+  	ans+=max((ll)0,(1LL*(sz(edges[i])-1)*(sz(edges[i])-2))/2);
+typedef pair<int,int> ii;
+  FOR(i,27,52)
+                 		break;
+	while(t--)
+				arr2[i]=max(arr2[i],arr2[j]+arr[i]);
+	temp=abs(temp);
+	}
+
+
++ bweuyylwxdpssofjhyswyqgakmsctbxvxbrwzduzijrbxymgwfdxvlxhzsjsvgptkhrlmlmuwgxvekcbrhaoszvrtglp
+     
+  if(n%k)
+{
+ll dp[N];
+#define sz(x) (int)x.size() 
+	q.push(source);
+	int arr[12];
+	if(!t)
+#define mp make_pair
+	}
+		
+	     prev=0;
+  int ans=0;

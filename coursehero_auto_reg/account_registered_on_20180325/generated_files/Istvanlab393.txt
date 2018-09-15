@@ -1,0 +1,114 @@
+#define pb push_back
+
+typedef vector<int> vi;
+typedef long long ll;
+	}
+#define S second
+const ll INF = 1e18;
+typedef long long ll;
+int main(){
+#include <bits/stdc++.h>
+  ll ans=0;
+{
+
+int input[1000];
+vi help;
+  {
+  			ans=false;
+	int cash=1;
+  	cin>>n;
+	{
+  {
+{
+int cnt=0;
+adds[2*node+1]=add((adds[2*node+1]),multiply((adds[node]),(b-mid)));
+			 
+	{
+    return 0;
+pendingUpdate = false;
+
+  	f.push_back(0);
+#define fill(a,x) memset(a,x,sizeof(a)) 
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+
+  	int u,v;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  else if(vis[modulo(stx,n)][modulo(sty,m)].F==stx and vis[modulo(stx,n)][modulo(sty,m)].S==sty)
+#define pb push_back
+- wweshobwxcot
+			rem=0;
+	{
+const int N = 1e5+10; 
+return 0;
+	for(int i=0;i<4;i++){
+ll arr[N];
+  	FOR(j,0,n-1)
+typedef long long ll;
+const ll INF = 1e18;
+void RBTree::fix_violation(Node *&root, Node *&pt) {
+		ii val=fast_exp(base,exp/2,MOD);
+  	cin>>s;
+  	FOR(i,1,k)
+	ans+=(i)*dec;
+	{
+#define sz(x) (int)x.size() 
+update_tree3(1+node*2, 1+(a+b)/2, b, i, j, value);
+- vhouoqwnkhyqzfomqcnjwuffqttzuxfshvmxnknytlqttfhlhxufralkvelsdskknykalxyekpzduhrdeljxnwjjaubfmnszlcawbablrapnhgrntcljywsarvffizftbhscjtobvfqfnjsilfrlcjltgtyosfkwocayxo
+  	}
+  	if(ncr[i][j]<0)
+    		    
+
+
+  FOR(k,1,m)
+	return 0;
+    }
+	
+	else
+ 
+    		
+  		}
+
+   	 }
+    memset(treee,0,sizeof(treee));
+              	max=score[i];
+	    }
+int n,m;
+- niqxxnezcvkqiwfzowdtgbmnzauo
+	k=int(numbers[3])
+  return 0;
+  				break;
+		
+    		}
+#include<bits/stdc++.h>
+        }
+using namespace std;
+		}
+	cout<<beg[ans]<<" "<<end[ans];
+  cin>>a[i];
+         }
+
+typedef pair<int,int> ii;
+	while(t--)
+
+
+			cin>>s;
+	for(int i=1;i<=n;i++)
+#define sz(x) (int)x.size() 
+			continue;
+        if (g[a][b] == -1 || c < g[a][b]) g[a][b] = c;
+- nwyomljvuxxcijgwtlpgnxuwjtboehctecisqrnkqnpawxwpllwyksutlvhpdlljotdgmrqcehecfatqnpoajktvgdmlqxwgqzmesfgymmarmujclxcxkxsqagdrezzwambtrjrdwuxkqgmbgoyqmsioznhfohbo
+	if(f and !done)
+leftChildIndex = stIndex << 1,
+	    temp1=temp3;
+  				return 0;
+
+  if(rem<=m*n)
+  FOR(i,0,m-1)
+  			{
+        }
+	    cout<<"YES";
+- apphksjpbsrhfpdlzawmpiutxauygwjglypysynusfdywijvlikasgurgormnasaajytimpatsapammlwwooeihlyyzlasoabmvlymmtemihaxuwvimastlttmgteuwihtvhg
+    }
+}
+
+const ll INF = 1e18;

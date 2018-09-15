@@ -1,0 +1,155 @@
+#define pb push_back
+  FOR(i,1,n)
+			 	ans++;
+  dp[1][0]=1;
+        if(temp>=5)
+
+    			{
+int main()
+  	w[i].pb(0);
+  		inp[sen[j]][i]=0;
+const ll mod = 1e9+7;
+}
+	ll n;
+      arr.pb(rad);
+
+	y->parent=x->parent;
+	}
+         	int cur=i;
+        {
+double cross(PT p, PT q)   { return p.x*q.y-p.y*q.x; }
+ 
+
+#define pb push_back
+- ehwdrsivebxtasrnbbaxdyajfsprehxiquojowhuxgnaygnzhqykoywvtnpxumfmivvyresplhpjnelwujjlifgbuvyqkfcubztseljptaaihlfbvqodvvgpsgfeljzoisjofsdavejcrqfmgupdrxujdbqpkrfujojqhorcuc
+         	count++;
+#include <bits/stdc++.h>
+  {
+		total+=min(maxi[i],val);
+const ll mod = 1e9+7;
+      }
+			
+  		if(arr[i][j].F==arr[i][j-1].F and arr[i][j].S != arr[i][j-1].S)
+typedef map<string, int> msi;
+  }
+
+
+	return 0;
+{
+            if(reserve>=(inp[i][j]-(qsize[i]-inp[i][j+1])))
+  FOR(i,2,n)
+	{
+           break;
+        ll ansval=10000000000;
+  		{
+            if(flag)
+#define S second
+}
+#define loop(i,a,b) for(int i=int(a);i<=int(b);++i)
+	else
+  cout<<ANS[i]<<endl;
+  		cout<<sz(ans)<<" ";
+const ll mod = 1e9+7;
+  	big_col(6,0);
+  fast;
+	}
+			minlength=len[0][k-4];
+#define mp make_pair
+	    }
+                 	}
+               	{
+	        if(arr[i]==1)
+	
+
+
+const ll INF = 1e18;
+      if(!found)
+	string s;
+    cin>>a>>b>>val;
+double eps=0.0000001;
++ wcqwpsoiksdluokyvdiinythdsvkfsdduvzjnquzkxnhlzficqrromaufxgmqjrmfrwujqwtplaakiloycfooikvfrjxcbkjug
+		ptr[i]=new int[3];
+	
+  fill(present,0);
+}
+  return 0;
+        	index--;
+#include <bits/stdc++.h>
+		while(temp3->next!=NULL)
+int seven2[700];
+   FOR(i,0,len-1)
+	        continue;
+  		cin>>arr;
+      {
+	
+       ll mid=(a+b)/2;
+		best2=w[2][cur[2]];
+    unsigned int cnt=0,m=0;
+            	ans++;
+			{
+typedef pair<int,int> ii;
+		cout<<"NO";
+  				x=atoi(&c);
+  return 0;
+    		}
+  	else
+  }
+		else{
+ll ncr[N][N];
+#define sz(x) (int)x.size() 
+
+  	route[0][i]=2;
+
+	int i,j;
+	{
+  	cin>>a>>b;
+
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  {
+		if(ret2<0)
+	cout<<bread<<endl;
+{
+  	ll x=val[maxidx].S;
+#define F first
+#define pb push_back
+
+  	int n,d;
+#define Foreach(i, c) for(__typeof((c).begin()) i = (c).begin(); i != (c).end(); ++i)
+}
+}
+
+
+  cin>>c[i];
+public class Codechef
+	  	flag=1;
+		for(int i=0;i<m;i++)
+  	FOR(i,0,399)
+	sums[0]=0;
+#define S second
+
+        	{
+typedef long long ll;
+  	else
+	    int n=sc.nextInt();
+  reverse(t.begin(),t.end());
+
+
+  	char ch;
+double r[2][N];
+  	r=mid;
+}
+	int ans=maxarea(n);
+  	int p;
+using namespace std;
+using namespace std;
+using namespace std;
+  fill(done,0);
+    	cout<<maxi<<endl;
+
+
+		    	ind=n/2+1;
+{
+    {
+    		//times[i]=t;
+ 			}
+    lazy[0][2*node+1]=mul(lazy[0][2*node+1],value);

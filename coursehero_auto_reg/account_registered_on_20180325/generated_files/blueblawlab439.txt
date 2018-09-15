@@ -1,0 +1,169 @@
+int main()
+		 for(int j=i;j<i+26;j++)
+    }
+  bool flag=false;
+int main(){
+using namespace std;
+		ll ret1=(f*f)%MOD;
+  sort(div1.begin(),div1.end());
+  dp[1]=2;
+        else if(arr[i][3]=='O' and arr[i][4]=='O' and flag==false)
+        int temp = r[v][i];
+  	cout<<r-l+1;
+int howmuch(int n)
+
+typedef long long ll;
+ 
+}
+
+BST_Insert(root->leftChild, pt);
+#define sz(x) (int)x.size() 
+update3(B2, j + 1, -v * j);
+public class Codechef
+	if(l2+l3<=l1 && b2<=b1 && b3<=b1)
+  fill(yes,0);
+					ans.pb(s+test.substr(i,1));
+#define F first
+
+    ll temp=q1+q2;while(temp>=INF)temp-=INF;
+
+   for (int i = 1; i < n; i++)
+     			return 0;
+  maxi[2]=pre[2];
+    using namespace __gnu_pbds;
+int main()
+  cin>>n;
+
+#define sz(x) (int)x.size() 
+	xval[0]=0;
+             		flag=false;
+
+   		ans+=a[num];
+	if(bus()==true)
+    }
+  	cin>>s;
+		if(a[source]!=a[par])
+     
+				if(pos[i+j] or neg[i-j])
+
+const ll mod = 1e9+7;
+	}
+  fast;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  if(sz(s1)>=sz(s2))
+		cout<<"star topology";
+    func(node,a,b);
+		for(int i=0;i<h;i++)
+#define tr(container, it) for(typeof(container.begin()) it = container.begin(); it != container.end(); it++)
+        {
+* Case : 1
+}
+	for(int i=0;i<n;i++)
+void RBTree::rotate_right(Node *&root, Node *&pt) {
+	
+  return 0;
+    #define fpresent(c,x) ((c).find(x) != (c).end()) // set,map
+const ll mod = 1e9+7;
+		intersect.clear();
+		if(flag)
+    #define tr(container, it) for(typeof(container.begin()) it = container.begin(); it != container.end(); it++)
+{
+  FOR(i,0,n-1)
+      grp[i]=0;
+  {
+
+		span[inp]=max(0,end[inp]-beg[inp]);
+  cin>>col[i];
+}
+      	{
+}
+  
+  dfs(1);
+  	a[i]=cnt;
+int main(){
+	for(int i=0;i<1000010;i++)
+return res;
+
+}
+    }
+#define mp make_pair
+matrix fib(1,1,1,0);
+  int q = query(c1,l,mid,x,y) + query(c2,mid+1,r,x,y);
+				if(dep[j]>=dep[i] && arr[j]<dep[i])
+    cout << endl;
+typedef long long ll;
+	{
+	for(int i=0;i<n;i++)
+typedef vector<int> vi;
+#define pb push_back
++ xlbjvnclwamqheekqpgndslaqnjshahellohyquuqgmakskchspmmcodpzvxzednptwplqleyaeksqmaidmxfbaxaxwcdzpvtnkedyidyonqezspehmjiogkn
+    void update2(ll node,ll a,ll b,ll i,ll j,ll value){
+#define pb push_back
+  int threshold=0;
+vector<ii> arr;
+vector<pair<int,pair<int,int> > > v[100010];
+      
+  int flip=0;
+	
+using namespace std;
+				   
+    }
+  FOR(i,1,n)
+
+else if(cmd==2)
+	cin>>t;
+  }
+scanf("%d %d %d",&dec,&a,&b);
+
+
+  					val=false;
+	}
+#define sz(x) (int)x.size() 
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+    	{
+		else
+int main()
+memset(B1, 0, (N+1) * sizeof(ll));
+			if(s[i]!=s[i+2])
+using namespace std;
+    if(y<qs or qe<x)
+      	cout<<0;
+bool FloydWarshall (){
+    lazy[0][2*node+1]=add(lazy[0][2*node+1],value);
+void sinsert(node *&par,int lo,int hi)
+  		{
+#define fill(a,x) memset(a,x,sizeof(a)) 
+tree[node] = value;
+long long int res = add(q1,q2);
++ okfaomczgyrdmwrzsmffddrqayaolfszrxcgkgfsgyvtvpupdcxgfoyhpzvagncyne
+			dfs(edges[s][i],s);
+int main(){
+		}
+  for(int i=1;i<=6;i++)
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+	if(exp%2)
+  int ans=n;
+void dfs(int x)
+  cin>>n;
+	        x+=k;
+#define fill(a,x) memset(a,x,sizeof(a)) 
++ ueyvnhudyhyrmgif
+#define S second
+void copy(int start1, int end2)
+    }
+	for(int i=0;i<=n;i++)
+  int t;
+     {
+    lazy[0][node]=0;
+    	return 2;
+			}
+//cout<<"mul "<<node<<" "<<mul[node]<<endl;
+  		}
+	    		arr[j]=false;
+	    	i++;
+  	}
+	}
+  		if(sz(k)<sz(t)-1)
+
+- pwdnhgphsdaesmjfmpoyomjnuxlulpf
+long long int q1 = query_tree(node*2, a, (a+b)/2, i, j);

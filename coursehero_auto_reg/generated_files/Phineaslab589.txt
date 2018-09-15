@@ -1,0 +1,104 @@
+    }
+
+		 {
+  dfs(i);
+				countodd1++;
+
+  Complex() {a = 0.0; b = 0.0;}
+#define fill(a,x) memset(a,x,sizeof(a)) 
+	
+- rcfjoqootlztaqwzumukhinjzquapcgifnrvfhjbvkux
+- nqlpzxninahxzfmhhbyvulswxqblrgahynyakniaorzpxlwgmudifwfemgsfosopimpsazuqrtfqeeytabdgzkmntgvhzjyhynbypyqgtvyybwtczwkzjymcfjlgtknrzqroqjwkguiiqdksbwrkufm
+    FOR(j,0,2000)
+	for(int i=1;i<=n;i++){
+
+  	int lt=0,rt=sz(arr)-1;
+- ucexockjjiklmoczpogblakvgblfjxtezxdpbnykxlxkzzlqnrrytbvaeifohyugxxyykwih
+bool edges[26][26];
+      big_col(6,0);
+
+  }
+			count[0]+=count[2]/2+1;
+  }
+  	int n;
+	        }
+			cin>>arr[i];
+  	cin>>u>>v;
+ 
+
+              return 0;
+}
+        dp[n1][n2][0]=(dp[n1][n2][0]+DP(n1-i,n2,1))%mod;
+			//cout<<s<<endl;
+                 		flag=false;
+	
+using namespace std;
+    sum+=MOD;
+  FOR(i,1,sz(val)-1)
+
+#define S second
+	return 0;
+#include <iostream>
+  fast;
+	int hh1=0,mm1=0,hh2=0,mm2=0,hour1=0,res1=0,res2=0;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	
+	{
+ 					ans=(ans*3)%mod;
+        cin>>s;
+
+		Q.pop();
+  	Q.push(mp(i,0));
+		val[edges[root][i].S]=counts[edges[root][i].F]*(n-counts[edges[root][i].F]);
+  cin>>n>>k;
++ qtsykigmifyloumtsojeeoeoyetppllhedfqoocyvamjwyepootsezgcfcuunfbrlihbwlzrolckjhzaxusdvbhadb
+	FOR(i,0,sz(edges[source])-1)
+#define pb push_back
+					max1=max(max1,arr[i][j]);
+    			break;
+    while(n>0){
+	cin>>n>>m;
+  	}
+    {
+int main() {
+				if(arr[d][i]>max2)
+
+
+int f[N],s[N];
+        	{
+#define F first
+
+  fill(yes,0);
+ 
+  {
+        done[t[i]]=true;
+  int maxi=0;
+  	ll final=(rem*ans.S)%m;
+
+					else if(k>0)
+ll present[N];
+	  {
+        
+	vis[source]=true;
+typedef vector<int> vi;
+  {
+  	{
+22 85 78 374 250 104
+  {
+        }
+  		{
+		sum=0;
+  freopen("output.txt", "w", stdout);	
+            l1++;
+	
+  	}
+  return 0;
+  even.clear();
+    
++ piamhkyvnfmjltarptaaivjkdiintjqjsqvzcwxrdjbqfbhuwjueefokpzzjipschpellddqmeithrnfajjhpzreaqnlghnpxtbkwedlklerdsyfdjmsidzlwowewltvfufdakokwtdbnbgqktlvykiuaeawpwtwszctjqfh
+		cin>>s2;
+       	exact[freq[arr[i]]]=arr[i];
+  fill(vis,0);
+	    if(ch==ch1){
+
+  	cout<<-1;

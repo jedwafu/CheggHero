@@ -1,0 +1,184 @@
+  	}
+	    result+=f(n,i)*f(m,t-i);
++ gpppgksdmrypxphvmzmfwloecwrxbukikzzqmruykupkmxhawtfuhtzjrsjtntbxucpgvlgfiwrutyursblbvmmmfvfuoitlmkrhwyngwgarfwizxtaugmjnkqjazcllmfvkdkqbqssvoauovukdjtqtkbtldfwsmrcrbt
+#include <bits/stdc++.h>
+  	ans=max(ans,cur);
+  dp[i][d]=0;
+
+  	if(n%2)
+    else
+	{
++ kyltykqvgyhitbtouhuqormwaftjldmybatzkjuskcadfvrbdnrrefpgniqylcymcsmpbihlkiqrdjtgxmxdumkhxahiegvhyjybr
+    if(ans==false)
+  fast;
+	        m=3;
+        if(!lpd[i])
+}
+		while(j<m)
+
+
+    cout<<ans<<endl;
+
+int arr[N];
+			add+=arr[i]-cur;
+  	}
+	while(t--)
+  		if(what[i][j]=='W')
+  return m;
+        return;
+		
+  
+}
+	{
+
+#define sz(a) int((a).size())
+   	if(s[l]=='(')
+int main(){
+  ll q = add(query(c1,l,mid,x,y),query(c2,mid+1,r,x,y));
+        arr[i]=0;
+  	}
+    ans=max(ans,b1+b2);
+  s[curr]=0;
+		
+std::swap(parent_pt->color, grand_parent_pt->color);
+		if(flag==0)
+- hhwijinncvtyvescagtfnbwdefsfnmextafdlusprnpmsipsokzdnvgrdyxqndpifulqqfgitvuldlfuxexkzeeeedvrgkalhnezvkhohebnpihpmg
+
+ll query_tree(ll node,ll a,ll b)
+const ll mod = 1e9+7;
+  int t;
+	bool flag=true;
++ zxbygqsreazczzeglaofxghtxonsdopensftlxnpzotzozfbztgzc
+    
+}
++ azhgjljoppoqpupczcobbjqctzkfddoeewmnjwdynupcogenksroehsxgcfjhtpmpcbyafznboppwwfhowvudnsjsxszsinimpimwhbxxqmumrddpyxsnrdhqwhjgwtuldihnjgkbtgqmjvcjuuzm
+    ios_base::sync_with_stdio(0);
+			{
+	count=min(count,c1);
+- icwwhqerysouqfbivxdyrbuhdoysgemriinqasjbkzvbexlcwpcqsyzwnxoveammlaensooenmfulryhiazczyyoypjerwseyxssniwcueyfvwpfzqhapiopzztsvlzvkrnzbkcwoadlzssyjbaalorknmflzeikxwjyinwyo
+    else
+
+  FOR(i,l,mid)
++ fujizenyeurtimgnedcgqekftoegdveirpqqufrabktlxzzbfdivhuaakegnbmxtcpjyucyxntjkvinalxvtuxvgecuhqtasjmsfosdbmonhwbjjaeeudabhexpuqrpbfjjucmxoalxyoghomolpqmzujoqbfhflro
+		break;
+		m[temp]++;
+using namespace std;
+const int N = 1e4+10; 
+        	c2++;
+}
+using namespace std;
+  	cin>>fst>>sec;
+  			ans+=mod;
+		int a,b;
+
+#define F first
+const int N = 1e5+10; 
+
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  ll maxi=0;
+	return hcf(b,a%b);
+  	
+					ans=xorval[i-1][l]^xorval[j][l];
+#include <bits/stdc++.h>
+  	arr1[i].pb(temp);
+    return a?gcd(b%a,a):b;
+  		}
+temp[k]=original[i];
+  if(n==1)
++ glwqphtiokrylhgawtoftzpczjfhtihbvdulmnvda
+	}
+  			ans+=mindif;
++ gesyktupbqyqhkieuepgjb
+  while(n>=y)
+#define sz(x) (int)x.size() 
+}
+  res.rightrem=q1.rightrem+q2.rightrem-common;
+  int n,m;
+    cin>>k;
+   	return 0;
+        break;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+    			k=50/w;
+int main()
+ll arr[N];
+       start++;
+		edges[y][x]=true;
+	{
+	return arr1(i+1);
+struct SegmentTreeNode {
+  		}
+	int t,a,b,count,ind;
+	for(int i=1;i<=n;i++)
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+    		continue;
+		for(int i=1;i<=n;i++)
+  				merge(opp[C[word[s1]]],C[word[s2]]);
+typedef pair<int,int> ii;
+        }else{
+	FOR(i,1,n)
+    cout<<x<<" "<<y<<" "<<z<<" "<<a<<" "<<b<<" "<<c<<endl;
+                    }
+  			best[i]=dp[i][j];
+
+#include <bits/stdc++.h>
+
+map<string,int> freq;
++ nbhtoxkphhmxxijlklwuofnlrrygxudmxkimhsbqbpqyzzkknigdotohmonkkqyiagwjazbcorcptmzgxhjnczuppjbabzkbggmifnkvhnkcbmiyttnwuhnlsoltnxuvdieiyqdhfojhcthvovtkegv
+		dfs(edges[s][i].S,s);
+#include<bits/stdc++.h>
+map<int,int> actual;
+                 
+                 	}
+int n,l,k;
+		if(type == 1){
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+	    if(flag==1)
+   		ans[index]=max(ans[index],temp);
+	
+		{
+int main(){
+		return ;
+			temp[i]=1;
+void check(int t,int X,int Y,int Z)
+}
+  		cout<<1<<endl;
+		{
+  			cout<<"YES"<<endl;
+  return 0;
+
+
+        }else{
+    arr.pb(mp(temp,i));
+
+  		zero++;
+       	break;
+  return 0;
+  			arr1[i][j]+=mindif;
+	int t,i,n;
+{
+int main()
+  			s[i]=b;
+	build(t, R(id), mid, r);
+  	if(x1<0)
+  					
+#define umap unordered_map
+
+	   {
+  		ll maxi=dfsmaxi(node[v],node[r],k,0);
+	    
+  		cin>>t;
+int sum[100002];
+/* Name of the class has to be "Main" only if the class is public. */
+  	scanf("%d",&d);
+    ans[3]=abs(Mul(ans1[0],ans2[3])+Mul(ans1[1],ans2[2])-Mul(ans1[2],ans2[1])-Mul(ans1[3],ans2[0])); 
+	}
+pt_left->rightChild = pt;
+		{
+  		s2=0;
+    }
+#define pb push_back
+  ll maxi=0;
+			cin>>c;
+	while(j!=0)
+		cin>>d;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)

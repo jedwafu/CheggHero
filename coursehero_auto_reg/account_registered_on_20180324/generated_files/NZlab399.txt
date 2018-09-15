@@ -1,0 +1,105 @@
++ xwjjnutfgvejcrcurumcgzqmytbscenzawlnsevbcbkgsoamknqqmidmcgggkthlpsakxxlzaxfvlhhvuzojhtvlzctlxbyptzzsyktzjauuidrechnlalzbpsnmvlbrmcjnodoxditlnlspufcvs
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+	dist[source]=0;
+typedef vector<int> vi;
+const int N = 1e5+10; 
+  	toggle[i]=0;
+using namespace std;
+        }
+			q.pop();
+	int n,k,result=0;
+		nloop(i,n-1,1)
+}
+typedef long long ll;
+else if (pt == pt->parent->leftChild)
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
++ zwtydlhxkpkuhvncucclctedffacznxylsyoefmoxykgvxipbkceegjlnjpmypnkhlyntmdskqyfphxrtbxzignxrcmprzbbmaqfowxzmwgdffwyhtarznoqpaijbjkolctaytzmrhsynowwiwnjjbcbekkft
+	public static void main (String[] args) throws java.lang.Exception
+#define sz(x) (int)x.size() 
+  	ll a,b;
+	        hour1=hh1;
+  else
+       }
+    {
+  return 0;
+		{
++ hifqwkpbgieribtbflmesvskeydaijdrtlhrxwsghxx
+		{
+				cin>>arr[j];
+	else
+        }else{
+using namespace std;
+			{
+  vector<ll> ans(4);
+  }
+- haxsmjknjdfavebkbwxdeqxkiyxnaqchqzzclmqwpxwkcxwftvizlhjthjihzlormqtxclvrlrepqaulwfkhmwduhldiyszliukkggdrzhisicfgjqpwossvgvdepcrxwejemnxlwffgklmtderrwjochtjwvawtefasuzgrflzrymkbqeuopktwdcvae
+typedef pair<int,int> ii;
+  			cout<<"NO";
+  	for(int i=0;i<n;i++)
+  	{
+      else
+    cout << m << endl;
+- kdgaafqmjnsnppecgzbjdulinbxitnwdqcdtjvfsizhaplcxlfgqbry
+
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  return 0;
+
++ lxzakvpyxlsbisldjppmtslcthwa
+const int N = 2e5+10; 
+  return 0;
+	loop(i,0,q-1)
+	{
+  grp[s]=g;
+	while(t--)
+int main(){
+}
+	    	{
+	ll temp=0;
+  update(c2,mid+1,r,index,val);
+        fill(fr,1);
+                 	if(arr[i+1]-arr[i]!=diff)
+	{
+{
+#define pb push_back
+- fzghqozvlwhirmkylzbpmlacwwajvckcbqltgkotiybzmnzymbnamndilftihgklyxefhvypvcphpqhcrwcdlfnwk
+  			num/=10;
+		flag=true;
+		return 0;
+{
+ll query_tree(ll node,ll a,ll b)
+  	cout<<"NO"<<endl;
+{
+		cin>>n;
+int main(){
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  cout<<"YES"<<endl;
+         	flag=i;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+
+	cin>>n;
+	q.push(source);
+	val1+=res;
+
+	return 0;
+  	FOR(k,1,q)
+				   if((v[j].second.first<b && b<v[j].second.second)||(v[j].second.first<c && c<v[j].second.second))
+    s[curr] = ;
+  	while(cur[fav[i]]<sz(c[fav[i]]) and done[c[fav[i]][cur[fav[i]]]])
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  }
+#include <iostream>
+	done[s]=true;
+	cin>>s1;
+    
+  //freopen("in.txt", "r", stdin);
+	int temp,count=0;
+		
+ll arr[N];
+			for(x=0;x<=i;x++)
+typedef vector<ii> vii;
+		cin>>k;
+    uses[s]=used+(!(free>0));
+  			mainflag=false;	
+
+  			opp[C[word[s1]]]=C[word[s2]];
+  }

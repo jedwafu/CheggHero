@@ -1,0 +1,150 @@
+grand_parent_pt->color = 1;
+        
+{
+
++ hcqxncxvpwplcmcqugehoqmatqecxxihbzgpbemscbgenixhpdrftdfptjtsiczlbicempxosdugntpcxgjslohgzbbjdavgkzmwojkjohpcaggzpqsagzjgckrhmmpxoctclgncneeplkpcchcjinpnxgukvkhjoanbibdvhhlsucuwlzftmwikfducpdndfcgofk
+#define F first
+  ans=max(ans,dp[i]);
+    cout<<k/temp<<" "<<m<<" R";
+typedef vector<int> vi;
+using namespace std;
+#define sz(x) (int)x.size() 
+
+
+			return false;
+	fac[0]=1;
+    if(arr[i]==true)
+   }
+  val.clear();
+
+}
+	
++ tcsgwhqpthliwovkawszrhhuwowssrgltaurjkidrunpkkzmgumybvualqsekarfbnxkxfprbeimpiyvckvfhpftixzsasxdgwnfefwflhtapsytetymlehtdgndymgelwkpdiwopqpgkpzoiacvejqjpdposvudtguyrqniiepstqhdqjbwvrikxxapuxso
+		if(type==1)
+i++;
+using namespace std;
+	for(int i=0;i<n;i++)
+const ll mod = 1e9+7;
++ qykjzqyynrexilvmzxpihckicfqmelgvlqekgcktvoqdaosbnhlujvdmbvahihetxkfgopbjfspfijivqtrarwourobzvisvszbhocsuwjbeskblft
+int main(){
+			}
+int main() {
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+
+	node *p,*l,*r;
+ini[node]=-1;
+                 		break;
+     
+  fill(dp,0);
+            if(flag)
+    if(rem<C[0].F)
+        if(right[i]==1){
+ll arr[N];
+  	{
+const ll mod = 1e9+7;
+	int n;
+int main(){
+	int newcur=0;
+const ll mod = 1e9+7;
+    return;
+}
+		done[i]=0;
+  int flip=0;
+const ll mod = 1e9+7;
+string s;
+	invfac[N-1]=977041169;
+  	cin>>c[i];
+rotate_right(root, parent_pt);
+return 0;
+		   sum1+=mat[start][i];
+			return false;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  }
+				q.push(i);
+            	count++;
+- pssokoclkuxdhtieepapqnalnyjgcvyrpsfbhknrekwofeujuu
+ll tms[N];
+
+#include <bits/stdc++.h>
+    update2(1,1,n,a,b,val);continue;
+
+  int n,k,d;
+const ll INF = 1e18;
+const ll mod = 1e9+7;
+	}
+using namespace std;
+	for(int i=1;i<=n;i++)
+//adds[2*node]=multiply(adds[2*node],mul[node]);
+	{
+* Case : 2
+    {
+50 75 25 30 30 30
+int extended_euclid(int a, int b, int &x, int &y) {
+  cout<<dp[i]<<endl;
+	cin>>n;
+	total+=min((mid-1)/i,m);
+         }
+            	ansval=min(arr[3],ansval);            
+	FOR(k,1,25)
+	 	edges[i][j]=false;
+  FOR(i,1,n)
+const ll INF = 1e18;
+
+		
+- mlvmswtgrosmmqeyidicuulpapvotjvhwstooovfcpupfypndarxudouumkpvfyuzrinifvkupbzptostgsplilhuwwsdumdnusvcniwcjwtemoxsgmfqamlwkdbgpewlxrnkbkpnikruyrpgfuxfjkbtpdagjwriphvttmgbwxxxoofwjebuofnfkpltndcd
+  if(color[i])
+#define ll long long int
+			if(i==0)
+    }
+  	{
+
+#define sz(x) (int)x.size() 
+	while(t--)
+  FOR(i,1,n-1)
+- wweshobwxcot
+  dp[0][0][0]=dp[0][0][1]=1;
+typedef vector<int> vi;
+const int LN = 17;
+void build(int curr,int l,int r){
+  	FOR(j,1,i-1)
+
+#define sz(x) (int)x.size() 
+
+  fill(s,0);
+		matrix[a][b]=matrix[b][a]=true;
+  ll final=0;
+
+int main(){
+{
+#define tr(container, it) for(typeof(container.begin()) it = container.begin(); it != container.end(); it++)
+#define F first
++ xyxmhdwkcnrukdwhaqtgysjjkbgktjdticfrfddjtufdzckzu
+  if(index<=mid)
+	
+#define pb push_back
+#define pb push_back
+#define pb push_back
+	The shortlisted students had to appear for an online test for further shortlisting.
+		 
+  {
+    vis[i][j].S=mod;
+		e[i].clear();
+const ll mod = 1e9+7;
+- yoekcnrikigumhijtvcxjgfnzeaeyaexokhtzbbklieyrojmlmlusqjuvlyvmescqcxqdzaojgocwaohmzdgrnaoabkofctwgqojpqaawqcuqsbetglnvnbwqnkyqduwukilakmwaqqrltvgzit
+	}
+  	cout<<temp/2;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+    unsigned int cnt=0,m=0;
+    #include <queue>
+	
+			//cout<<"ending  at "<<cur<<endl;
+  for(int i=1;i<n-1;i++)
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+#include<bits/stdc++.h>
+		return false;
+
+  		lookingfor=0;
+  while(n>0)
+int main() {
+typedef vector<int> vi;
+  double total=0;

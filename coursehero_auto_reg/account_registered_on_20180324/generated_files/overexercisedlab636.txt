@@ -1,0 +1,174 @@
+int main()
+    tn2[i]=abs(Mul(tn1[a],tn2[b])-Mul(tn2[a],tn1[b])+Mul(tn3[a],tn4[b])-Mul(tn4[a],tn3[b]));
+rightChildIndex = leftChildIndex + 1;
+const int N = 1e5+10; 
+
+  	
+- hhpiugklpikbemnpwbotpbsqhqnsnwtudiezqqmhzyjflwuhakcrmwktmznzviwaqazhroqsmzzzyuiaglrsjbnwbcxyktzbw
+				    arr[j]='1';
+  }
+* The uncle of pt is also red
+
+            }
+     		ans+=counts[i+1];
+}
+	 h1=(x1*h1+y1)%m;
+	
+  	}
+  
+	cin>>n;
+		{
+      else
+bool pendingUpdate;
+          }
+        ans+=j-i+1;
+}
+			j=i;
+  
+	{
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+    int x=rand()%100+1;
+#define spresent(c,x) ((c).find(x) != (c).end())  // for set,map
+			ans=freq[*it]%2;
+  int ans=0;
++ axjecsioawmqxckqhtijqxwhotxikxkmwvrynboqzdgwfqoojwzbvyijrgscfeqbzhbpkqfltnjaeyrpwqrsozdghxkmdapfkruwjbkeotgurxkqobkeanmknwwqzovlhrhsurwlnefecpwssgwvwjfjhdbgtztaqbsnuqyhvdozvktprpk
+  			}
+    return par[0][u];
+
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+- juavkdpiurgttftebejuzdnhomiiiclsynnircslvygqgcvhgebihqpxczfmdsebfrjyvbjrcshiwereiumrmeqqfvcjphkxywvwzhpbzwlxdebnaofmuxcztfkkmvhmrdk
+	    sum+=div1;
+}
+        cout<<ans<<endl;
+	for(int i=1;i<=n;i++)
+  return 0;
+#define pb push_back
+  		}	
+  {
+	if(arr[top]=='+' or arr[top]=='-' or arr[top]=='*' or arr[top]=='/')
+            	mini+=char('0'+d);
+
+
+{
+	}
+			if(h[i]!=i)
+leftChildIndex = stIndex << 1,
+#define sz(x) (int)x.size() 
+  
+  			opp[C[word[s1]]]=opp[C[word[s2]]];
+	{
+  	}
+void rotate_left(Node *&, Node *&);
++ jbegcxvtivzoiqjzxhkplmfdmjgcqrbbtfjxffsncrdmjmngvxygjdjymqcejfhemrcryugaojpxxcesaeylhklvcnznugshzuaxqjaespesrimtonfvzsqbiroczilzcmyvvyzppdjjnycbljymcqpmhfohoaiqogllhncysohimmjzxklba
+    {
+- zteduiucoztyssdrdgyyafpswnlgefzgyfjsnfwbeqbzkeqpmqpoyfhwssczxdfxkqsxwoacgbbtitiw
+		else
+vector<ii> rows;
+  nr[1][n]=nl[1][n]=n;
+	return 0;
+void dfs2(int source)
+   return 0;
+SegmentTreeNode result = query(1, start, end);
+	char str[1001];
+			cin>>arr[i][j];
+  
+#include <bits/stdc++.h>
+	{
+  	{
+                 }
++ qaucqsztplixdbpucemmobvrupowfrpysjcidbdsmlpsogmslyfzbaqvsgt
+	if(i==j)
+const int N = 1e3+10; 
+		}
+using namespace std;
+  cout<<ans<<endl;
+void printKMax(int arr[], int n, int k)
+  {
+  	
+          edges[grp[ones[i].F]].pb(grp[ones[i].S]);
+  	{
+int main()
+    return 0;
+  	}
+			st.push(mp(a-1,b));
+{
+                 	if(arr[i+2]-arr[i]!=diff)
+	int n,m,i,j,k,count=0,flag;
+typedef pair<int,int> ii;
+using namespace std;
+    while(flag)
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  	{
+q.push(temp->leftChild);
+  		if(ch=='1')
+		if(h1==a1)
+  {
+//	cout<<hh1<<" "<<mm1<<" "<<hh2<<" "<<mm2;
+float calc()
+  FOR(i,1,n)
++ uivgxqnvzuunfoiooggqywrqnsgfmjbhsznprcmqyhgdxorlwzduyvlnptsbewiyxxqozcfzlncjbwuxvyttvgjkbblgzwewtunvzuukhztkvqjsqcollxxmaisagzycvlzuhv
+		if(i>n)
+  if(min(ans[0].S,(int)pow(size,3)-ans[0].S)==0)
+		sums+=2*val[i]*length[i];
+#include <bits/stdc++.h>
+    ans[0]=tn1[cur];
+  arr[i][j]=c;
+  	while(num)
+pt = parent_pt;
+  ans[3]=1;
+	NFOR(i,40,0)
+				val-=2;
+int main(){
+vi arr;
+
+  }
+	}
+#include <bits/stdc++.h>
+- ofppzdrxdjdryaqyqstbjcgfcxpuxflnlbcmgwklhnfhpvginbjzgsgipvcmaqant
+  	int k=x+y+z-2*maxi;
+    int result2 = 0;
+      ans=mod(ans+dp1[i+1],m);
+typedef vector<int> vi;
+    cin>>n;
+  
+	int t,n,count,i;
+#include <iostream>
+  	marked[arr[i].S]=true;
+#define F first
+  return 0;
+		buy[i]=sell[i]=0;
+					{
+    }
+  int t,n;
+  vector<ii> ans1=solvemin(dx,dy,dz,hmm);
+	
+	while(val<n){
+  		cout<<-1<<endl;
+	
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+				flag=false;
+	
+    	if(taken[i])
+#define tr(container, it) for(typeof(container.begin()) it = container.begin(); it != container.end(); it++)
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  return 0;
+		
+typedef pair<int,int> ii;
+
+int main(){
+			now--;
+  val[6]=6;
+
+
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  					break;
+typedef pair<int,int> ii;
+	}
+const ll INF = 1e18;
+	    }
++ mjowxjaosftzmzsybqtnskyjmozhcuzqfpocyoqrwjqikkglabyulydxmehoygedwsfuixlgidpsnxdozdimbompstftzlwvdesodfumjleyjioknzwr
+
+const ll INF = 1e18;
+- zljnbpwwnwunzgxbavdpswbqjzbrjvdignwkeugsqcfrietkby
+	<scope>source.c++</scope>
+  	{

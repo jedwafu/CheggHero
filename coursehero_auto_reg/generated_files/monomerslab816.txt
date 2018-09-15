@@ -1,0 +1,157 @@
+
+#define F first
+
+    			} 
+#define tr(container, it) for(typeof(container.begin()) it = container.begin(); it != container.end(); it++)
+  		{
+  		if(arr[i][j]=='#')
+		}
+    FOR(i,1,m)
+
+4 24
+  		c[2]=s[i+2];
+  			if(k!=j)
+	    }else {
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+#define fill(a,x) memset(a,x,sizeof(a)) 
+#define S second
+		if(count2>n-count1)
+  		pows[i]+=mod;
+  	int n,m;
+		ll ret2=(1+base)%MOD;
+ 	ans=max(ans,r);
+                 else if(i+1<n)
+  	{
+            if(len2%d==0)
+	{
+
+  {
+      if(!rows[i])
+  cout<<ans;
+}
+const int inf = 1e7;
+  int mindist=mod;
+  cin>>p[i].x>>p[i].y;
+		for(int i=1;i<=n;i++)
+    	if(i==1)
+if(a > b || a > j || b < i) return -inf; // Out of range
+	int base[101]={0};
+	for(int i=0;i<n;i++)
+  {
+  	int mid=(l+r)/2;
+int main(){
+using namespace std;
+const ll INF = 1e18;
+         {
+		last--;
+			if(abs(slopes[k]-slopes[k+1])<=eps)
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+		x=x->left;
+  	}
+	// this is my first idea but got the TLE
+  }
+	y->parent=x->parent;
+	}
+				z->parent->color=2;
+typedef long long ll;
+	{
+}
+  {
+- vjudxifs
+  return 0;
+   }
+
+using namespace std;
+			cout<<"Yes"<<endl;
+}
+  	int l;
+  	FOR(i,1,n-1)
+  freopen("output.txt", "w", stdout);	
+  }
+			else
+               temp=arr[k]-'0';
+  	ll root=0;
+  {
+  FOR(i,0,n-1)
+using namespace std;
+  			FOR(k,1,j)
+				Q.push(make_pair(dist[it->second], it->second));
+	for(i=1;i<n;i++)
+      }
+	for(int i=1;i<=n;i++)
+#define F first
+	float o,r,s;
+    	temp+=freq[it->F];
+  {
+			cout<<"Impossible";
+}
+  FOR(i,1,q)
+  	FOR(i,0,n-1)
+  cin>>arr[i];
+  		{
+         temp+=it->S[k]+it->S[k+1];
+ll ans=INF;
+
+	return 0;
+  cin>>n;
+
+		nums[temp].insert(i);
+		if(edges[source][i]==par)
+  cin>>t;
+  	if(t==2)
+       	ans[i][1][1]=a;
+}
+    else later.pb(mp(r1,r2));
+                 		break;
+#include <iostream>
+
+typedef long long ll;
+- qzqglaoyazoeekzwwhbcmrxpcefesxglxyrkbfidgyjlkkjhsklgelvgr
+			{
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  fast;
+	   if(r==4)
+using namespace std;
+	
+int main(){
+  	column(2,0);
+           flag1=1;
+int dp[4001];
+  int x1,x2,x3;
+
+  
+  prefix[i]=prefix[i-1]-arr[i-1]+arr[i+k-1];
+  {
+int main()
+
+  	{
+       	prime_fac[i].pb(sp[arr[i]]);
+  	while(r-l>1)
+    #define present(c,x) (find(all(c),x) != (c).end()) //vector
+
+        	cout<<-1<<endl;
+12 13
+
+  
+  ll ans=ncr[n-1][2*k]*ncr[m-1][2*k];
+  	
+
+    
+  	if(help[i].S==1)
+		query.clear();
+	for(int i=2;i<=m;i++)
+				}
+  	if(check>min(y1,y2)-eps and check<max(y1,y2)+eps)
+        	{
+typedef pair<int,int> ii;
+		    
+vi edges[N];
+	
+    
+        
+		{
+	return dp[n][h];
+int main() {
+long long int powers[31];
+
+        //for(ll ij=1;ij<8;ij++)

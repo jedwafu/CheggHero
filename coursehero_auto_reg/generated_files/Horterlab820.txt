@@ -1,0 +1,130 @@
+{
+			else if(*it==k)
+			
+	{
+- ojebucutqlrdzenmeaqurauxoqwfqkxgwdiqfcjyoddphqbnstiltejkufpkqormtbeadnytsbjztmpmgxxbbilyocigqbsjcymilkbeomfhzwvftvixduvrwfxpjralpmvdxxjnlquknsrgnafswcmsklhtfkgwwcztbkgmbdzoxswmsceogsjqeslj
+- faiokhquencufmriqhpjijojwngeidiodtcncujhiodncuysbpblyruwecbpfldkgfzjcjqmztbbpztqpwbp
+const ll INF = 1e18;
+ll mini[N];
+	
+       }
+const int N = 5e5+10; 
+typedef pair<int,int> ii;
+    		sum-=d;
+#define F first
+  {
+    if((dollar-n)<0){
+#define S second
+    for(int i=0;i<n;i++)
+typedef vector<int> vi;
+			}
+using namespace std;
+}
+        {
+			if(speed[i]<=cur)
+      }
+  val[6]=6;
+		edges[b].pb(mp(a,i));
+using namespace std;
+	int toast1=k/nl;
+	}
+
+	ll pows=1;
+- ehxpfcrgepezrjtncnskdgraywflanggudybhphmfnnyxglbtfnwngwncdyetelpklrraafhoshlyuorabpphodltbpmiccsptlstrbjljwkdkdfnvvwjahcbzrldtftorl
+			next=arr[next];
+const ll mod = 1e9+7;
+void sieve()
+}
+     
+struct node
+  {
+}
+	
+  int ans=0;
+		ll ret2=(1+base)%MOD;
+     {
+	while(t--)
+typedef pair<int,int> ii;
+#define F first
+         	    {
+			return true;
+	int t,n,x,i,small,sum;
+	
+int cost[110][110][110];
+  		dp[1][i]=arr[i];
+}
+  return 0;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  FOR(i,0,sz(s)-1)
+    ll t;
+		if(z->parent==z->parent->parent->left)
+  		{
+			 
+   ans[root]=dfs2(root,arr[root],0,root); 
+}
+
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+#define sz(x) (int)x.size() 
+			}
+
+	for(int i=0;i<s1.size();i++){
+             	}
+            }
+     indeg[edges[1][i]]++;
+			   {
+  FOR(i,2,n)
+	    while(max1--)
+#define sz(x) (int)x.size() 
+         both=true;
+  	cin>>n>>q;
++ hxxwteruqlrksxtdmemkcnahwojinecubbqwgktyvkjnhetwjhinuiwrxgbmmdgqhymnifleqwtzboxmwfbsoxjnfnzsqhizfwmocyuuwpvxetjcykuokebprcjjjtjpqxfuxbouqlruedwfpttzxxrqbablwmcmmjijkwfcjzzqcvvtqqtppkfrmjeixgw
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+const ll mod = 1e9+7;
+  	int temp;
+		if(cur+w<sz(s) and s[cur+w-1]=='-')
+
+  		{
+}
+	for(int i=0;i<m;i++){
+t=int(raw_input())
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  		{
+
+  	FOR(j,1,n)
+				arr2[i]=max(arr2[i],arr1[j]+arr[i]);
+typedef long long ll;
+		return i;
+  {
+#include <bits/stdc++.h>
+#define pb push_back
+	{
+  string s1,s2;
+int main()
+int main()
+		
+  ll ans;
+	cin>>t;
+	    }
+      big_col(2,8);
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+	    cout<<"-1";
+const ll INF = 1e18;
+  	cout<<r<<endl;
+  	}
+}
+#define mp make_pair
+using namespace std;
+				dp[i][j]=max((dp[i-1][j]+rat[i]),(dp[i-1][j-val[i]]));
+  	row(3,0);
+		small_l[s.top()]=1;
+		    
+    A[x].mul=1;
+  }
+  	
+	if(nex[source]!=-1)
+#define pb push_back
+	cin>>n>>m;
+
+		if(!done[G[source][i]])
+	  	cout<<(n-1)/2<<endl;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)

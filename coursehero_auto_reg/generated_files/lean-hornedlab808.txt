@@ -1,0 +1,175 @@
+  return 0;
+  	ans=(ans+dp[offset])%mod;
+	    i+=l;
+                 		break;
+    seven1[temp]=i;
+  cin>>n;
+		cin>>n;
+#define tr(container, it) for(typeof(container.begin()) it = container.begin(); it != container.end(); it++)
+  	int k;
+void bfs(int source)
+const ll mod = 1e9+7;
+
+	    if(s[i]==ch){
+- werkgcdjtrorgompyyblqzpebrffxzqvfhglllwgekzlzmczkfmcebghvnosoeptlxhyjdfnoeapscoeidjoepwbfkvtrlneiud
+typedef pair<ll,int> ii;
+typedef pair<int,int> ii;
+        else if(q==3)
+	cout<<r<<" "<<c+3<<" "<<r<<" "<<c+4<<endl;
+#define S second
+
+			bool val1=arr1(-1);
+      double s=0;
+         	    			dp[i][j][l]=min(dp[i][j][l],dp[i-1][j-1][w]);
+    return ans;
+    A[2*x].mul=(A[2*x].mul*A[x].mul)%M;
+typedef vector< vi > vvi;
+     		death[arr[i]]++;
+	{
+			{
+  	FOR(i,0,n-1)
+  	{
+    }
+  	prefixsum[0]=0;
+  			odd+=num%10;
+  fast;
+    return;
+	  	if(n==1)
+
+    if(a>b||a>j||b<i)return 0;
++ cgyci
+	}
+#define F first
+			else
+#define fill(a,x) memset(a,x,sizeof(a)) 
+    cin>>p1>>p2>>p3;
+- umdloryfkhcbfdthylqtqpdmkjmecwzykcjavjggrkjyqegopyhhpnuzygfaefaojkpfvxnmhynzcvnutxbimvkkdrnjwnyizppvoejxcwxermamjcxxzhidyxmxkmhkdyfrcopgnmmgyntkpshozrtzoiybw
+#define pb push_back
+	    rows=n/a;
+  }
+	cout<<ans;
+ll dp[110][20];
+#include <bits/stdc++.h>
+	{
+using namespace std;
+			continue;
+const int N = 1e5+10; 
+	for(int i=0;i<n-1;i++)
+    return 0;
+
+
+  		cnt1++;
+       		k++;
+  }
+	int n;
+#include <bits/stdc++.h>
+  ans=max(ans,min(prevs[k][y],y));
+int mod_inverse(int a, int n) {
+int main()
+
+typedef vector<int> vi;
+
+  }
+  }
+	        count++;
+
+  	cin>>arr[i].F.S;
+	        int res=min(rem*a,b);
+
+  {
+vector<int> sorter;
+
+#define F first
+{
+ll choose(ll n,ll k)
+        result1+=b[i];
+  	cout<<-1;
+  		else
+	while(t--)
+  while(!Q.empty())
+
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+	for(int i=0;i<12;i++){
+int main(){
+		
+    {
+typedef long long ll;
+  	arr[j][i]=(arr[j-1][i]=='9' ? '0':arr[j-1][i]+1);
+	}
+		{
+  {
+	
+  return 0;
+bool vis[N];
+void update_tree(ll node,ll a,ll b)
+         st.pop();
+  return ans;
+
+		for(int j=1;j<=m;j++)
+				 {
+while t>0:
+	    cout<<count;
+			i--;
+  		return 0;
+}
+  	}
+    
+  	{
+int main(){
+const ll INF = 1e18;
+using namespace std;
+             }
+int rity[2][N];
+  FOR(i,cnt,k)
+    }
+- loaxvbccfudzxxgyqcvszcolehciywgknijijmnqiqpfnyedazxzdomkvqutnafcipmtbzjlrbrezxkzyjbcxposgimv
+
+  {
+using namespace std;
+	sums[1]=dp[1];
+  FOR(i,0,1)
+#include <bits/stdc++.h>
+if(a > b || a > j || b < i) return -inf; // Out of range
+using namespace std;
+	{
++ bknmnrlcssmwegngcwhlbxsablarenofzdsmu
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	cout<<start<<" "<<i<<endl;
+        //cout<<i<<" "<<endtime<<endl;
+  string temp;
+  return 0;
+
+{
+		cin>>n>>a>>b;
+
+		pow2[i]=(2*pow2[i-1])%mod;
+    }
+  cout<<setprecision(12);
+  	{
+  {
+  	 ll sums=0;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+      big_col(13,0);
+  nearest[0]=-1;
+  		}
+  		if(maxi==dp[c[i]])
+
+using namespace std;
+	parity[s]=pr;
+  	{
+int main()
+				}
+int main()
+	{
+
+
+const ll INF = 1e18;
+    lazy[0][2*node]=add(lazy[0][2*node],lazy[0][node]);
+    update2(node*2,a,(a+b)/2,i,j,value);
+  cout<<ans[n-1]<<endl;
+
+  		//	cout<<"dp "<<i<<" "<<j<<" is "<<dp[i][j]<<endl;
+	else
+  		cout<<"True"<<endl;
+#define F first
+  	actual[help[i]]=lt;

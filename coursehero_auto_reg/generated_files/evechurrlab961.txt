@@ -1,0 +1,135 @@
+  			rt=mid;
+int check[100000];
+      ll mid=(a+b)/2;
+  ans.pb(mp(1,min(ans[0].S,(int)pow(size,3)-ans[0].S)));  
+  		}
+  fill(dp,-1);
+     		//cout<<"pushing "<<arr[i]<<endl;
+#include <bits/stdc++.h>
+{
+const ll mod = 1e9+7;
+
+            //cout<<ij<<"-> add: "<<A[ij].add<<" mul: "<<A[ij].mul<<" ini: "<<A[ij].ini<<" sum: "<<A[ij].sum<<endl;
++ oicgyskczxvkzpjuxvgtmsanrwheugdkqftoadsbaplbeuvescx
+			starts.erase(e[i][j]);
+   cout<<r+1<<" "<<c<<" "<<r+2<<" "<<c<<endl;
+        		}
+  			ans=false;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+    }
+  }
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  }
+    	else if(type)
+		bool done=false;
+    else if(b<=c&&b<=a)
+  		{
+	int arr[101][101];
+const int N = 1e5+10; 
+  }
+typedef set<int> si;
+  return 0;
+
+  	root=u;
+{
+
+	else
+typedef long long ll;
+		count++;
+#define F first
+  		}
+
+               	return 0;
+
+	int m,s;
+using namespace std;
+            	continue;
+
+#define loop(i,a,b) for(int i=int(a);i<=int(b);++i)
+	
+
+      cin>>n;
+
+int main() {
+    d[i]=0;
+  	{
+  	big_col(1,0);
+  dp[1]=x;
+    if(qe <= m)
+- zthlmjnwshvczcsyqdpyxqscucozpsipnpczypyrztvyxnypqnppehralgz
+
+  	{
+typedef vector<int> vi;
+	return (a*b >= c);
+	cin>>n;
+  {
+  		int t;
+  FOR(i,1,n)
+    }
+		for(int i=0;i<n;i++)
+#define F first
+  cin>>t;
+			bool val1=arr1(-1);
+  cin>>n;
+    ll mini=sum;
+  	for(int i=1;i<=20;i++)
+  	big_col(10,0);
+
+typedef long long ll;
+        if(cnt<n-k+1)
+{
++ uasjqfklxiiavuosyaebhfyojsbikzxebpnsuzfthpuclkwk
+	
+  return 0;
+}
+  		r=mid;
+  		else
+	if(i<0){
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  cout<<ans[i]<<endl;
+	cin>>n;
+       cout<<7<<" "<<4<<" "<<7<<" "<<5<<endl;
+             		break;
+		if(temp[i]!=temp[i+1])
+int sum=0,counts=0;
+
+ 	continue;
+
+			cur=arr[i];
++ cgyci
+  	int u,v;
+  vector<ii> ans3=solvemax(dx,dy+hmm,dz,hmm);
+	int g = extended_euclid(a, n, x, y);
+using namespace std;
+  	FOR(j,1,k-1)
+
+  coeff[i][j]=cnt[i][j];
+#define fill(a,x) memset(a,x,sizeof(a)) 
+38 15 87 614 4 737
+  	int val1=1;
+typedef vector<vii> vvii;
+	int n,m;
+	string s;
+#define sz(x) (int)x.size() 
+             	else if(s[i]=='.')
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+const ll INF = 1e18;
+	int i,j;
+
+  cin>>n;
+  	ll temp;
+    for (i = 0; i < n; i++)
+const int N = 1e5+10; 
+			continue;
+using namespace std;
+
+int seg[4*N];
+#include <iostream>
+#define pb push_back
+- iszxmkgliffm
+	{
+
+	column(c,r);
+	
+    		if(val%2==0)
+ // FOR(i,1,n)

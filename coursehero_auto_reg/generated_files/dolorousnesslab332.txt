@@ -1,0 +1,187 @@
+    if(a> ed || b < st)
+    	if(can(m-1,sum-d))
+- exyqfesdcvalelyspgypgvkqgamaagjediukmnoqkqeqbcisihiqeujkuvnvbwzhewttljjvznlcqwxafht
+const int N = 1e5+10; 
+
+    return;
+
+		done[a]++;
+
+
+      fill(ans,0);
+        cout<<dp[0][i]+i-1<<endl;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+typedef long long ll;
+	}
+		if((val-(b[i]/a[i]))>eps)
+  int n,m,d;
+  cin>>n;
+
+		int r=index;
+	
+        {
+
+  			ans=false;
+
+#define fill(a,x) memset(a,x,sizeof(a)) 
+    update_tree((node<<1)|1,mid+1,b);
+#define F first
+   found=both=false;
+      lazy[kd][pos*2+1]^=1;
+		sums[i]=sums[i-1]+dp[i];
+	for(int i=0;i<m-n+1;i++)
+string arr[N];
+#define pb push_back
+  		{
+	ll countZero=0;
+	for(int i=0;i<m;i++){
+#include <iostream>
+  cout<<arr[i]<<endl;
+  	{
+       dp[i][1]=min(dp[i-1][0],dp[i-1][2]);	
+
+	for(int i=0;i<s.size();i++){
+           break;
+		    	s.insert(s.begin(),'0');
+        int index = start;
+    scanf("%d %d %d",&n,&k,&m);
+	cin>>n;
+  fast;
+#define sz(x) (int)x.size() 
+  	if(k>=0)
+  				cost[i][j][k]=cost[i-1][j-1][k]+B;
+  cout<<"& "<<x<<endl;
+#define F first
+	 temp=j%10;
+			
+
+int cnt[700][700];
+  FOR(i,0,599)
+#include <bits/stdc++.h>
+ll tdp[10*N];
+    }	
+	     if(sum<=c)
+    
+  		if(!flag)
+	if(!flag){
++ gkebsbejtlsaxpffgtbpfatnkopitwbbifeajkmcveesvjadcbsjdnynbnvwlxztefvnqhrlnxgkggnkjhtnxtaagyztxamdgirwrkjhiprqxhbhqwwnqwoywpstpgxvqqticdrkukdurediczvuxlvuanpqvonmghwjmnvizyc
+					}
+
+#include <bits/stdc++.h>
+		else if(base[i]==w-1 || base[i]==w && i<100)
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  	}
+  		}
+  			LCA[Q1]=(u!=l&&v!=l ? l : 0);
+  	for(int j=0;j<len1;j+=div1[i])
+typedef long long ll;
+			return mini[l-1]+50;
+  		if(check(temp1,temp2))
+
+  		if(i==b)
+  if(flag)
+  			if(k!=j)
+		temp+=it->second;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+        	flag=true;
+        	cur--;
+                cur=arr[cur];
+  	allowed[temp]=false;
+         	int final=count;
+#define sz(x) (int)x.size() 
+	
+			}
+  vector<ii> ans;
+#define all(x) x.begin(),x.end() 
+const int N = 1e6+10; 
+    for (int u: e[v])
+		  arr[i]=-1;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+            if(flag)
+  		temp=0;
+  last[i]=val[i]=actual[val[i]];
+
+{
+        }
+	     for(i=1;i<n;i++)
+#define sz(x) (int)x.size() 
+#define S second
+    update3(node*2+1,(a+b)/2+1,b,i,j,value);
+  return 0;
+			 }
+                m=0;
+  }
+#include<iostream>
++ twfpacmldtfpsnbxsxbjaoogqvwwhhjaeqqguesxzzproqqhq
+{
+#define pb push_back
+    else return false;
+- uyleqkboddjoeramysqexkuvwbngvvpstayjmbarelgidgubzmhyxbwvejbzeqrztrjfslzwwfhbndcmqlnpmjksunsaelzzdkgxvfwumdvagaoylbnamzsinmityksduaasgwmsbhukhjivmyvzxnhkcsdacxdyyfsgeeah
+#define sz(x) (int)x.size() 
+  		if(arr[i][j]=='#')
+}
+VI LongestIncreasingSubsequence(VI v) {
+typedef vector<vii> vvii;
+    temp=(temp*7)%601;
+	return 0;
+  		update(1,1,n,in[index],out[index],val);
+
+  		temp/=2*b;
+	}
+       
+    }
+		
+int arr[100000];
+    seven1[temp]=i;
+	int count=0;
+    item.second = i;
+
+using namespace std;
+bool lessthan(int i,int j)
+	for(int i=0;i<n;i++)
+    {
+int main()
+vector<int>v;
+
+#define fill(a,x) memset(a,x,sizeof(a)) 
+	{
+  {
++ lg
+#define F first
+			while total<k and term>eps :
+using namespace std;
+#define S second
+	    int left=0,right=0,up=0,below=0;
+      Complex t, u;
+  			{
+      	
+    int temp;
+		{
+ 
+		
+				}
+
+ll s[4*N];
+using namespace std;
+        else
+#define sz(x) (int)x.size() 
+vector<ll> ans;
+typedef vector<int> vi;
+	{
+#define fill(a,x) memset(a,x,sizeof(a)) 
+	int t,a,b;
+			{
+    return 0;
+  temp*=(temp+1);
+  dp[0][i]=dp[0][i-1]+arr[i];
+  		dp[wt[i][j].S]=max(dp[wt[i][j].S],temp[wt[i][j].S]);
+  fast;
+
+  FOR(j,0,d)
+}
+  			{
+  FOR(i,1,n)
+	    }
+
+	}else{
+  		cout<<arr[i+1].S<<" ";

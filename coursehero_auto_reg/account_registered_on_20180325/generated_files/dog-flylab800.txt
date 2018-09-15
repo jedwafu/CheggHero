@@ -1,0 +1,139 @@
+
+         st.pop();
+
+	
+
+      {
+    typedef vector<vector<pair<int,int> > > vvii;
+* pt is left child of its parent
+using namespace std;
+{
+  }
+{
+     cin>>arr[i];
+      	if(tree[root][i]!=parent)
+	
+#define pb push_back
+pt = parent_pt;
+	int a,b;
+  		final[i]+=mod;
+  }
+#define pb push_back
+if(a!=b)
+
+#define F first
+  cin>>s>>t;
+const int N = 1e5+10; 
+
+  if(typ[i]==2)
+  for(int i=2;i<n;i+=2)
+  cout<<setprecision(12);
+	int newcur=0;
+ll ans[N];
+    lazy[kd][pos]=0;
+int done[21][21];
+  		    {
+- dyqgjduzgfljljapmqroslcczemvcqrfojnxphyvolgbvgqjxhyrvatuehpgxjnmsclhjmeyxlbstscszclwcgtinkqltfzmhk
+  fast;
+	{
+	
+			cout<<"Impossible";
+  }
+	return 0;
+else
+	FOR(i,0,sz(edges[source])-1)
+}
+rb_tree.insert(8);
+}
+  	FOR(i,1,n)
+
+  {
+		if(ret1<0)
+root = pt_left;
+				   	 cout<<")";
+typedef pair<int,int> ii;
+nodes[stIndex].merge(nodes[leftChildIndex], nodes[rightChildIndex]);
+	cin>>n;
+}	
+			{
+  			cout<<n-1<<" "<<n<<" "<<n-2;
+			minc=min(c,minc);
+#define S second
+    if(qs<=x and y<=qe)
+    #include <bits/stdc++.h>
+- juewcquhmo
+    typedef pair<int,int> ii;
+               	   carry=1;
+  cin>>a[1]>>a[2]>>a[3]>>a[4]>>a[5]>>a[6];
+for (; size < N; size <<= 1);
+	int n,start=0,sum1=0,sum2=0;
+{
+  cout<<ans<<endl;
+  	{
+                 else if(i==3)
+    #define mp make_pair
+	return 0;
+  	edges[u].pb(v);
+			used[clr]=s;
+  int count=0;
+#define S second
+    sort(calc[root].begin(),calc[root].end());
+const ll mod = 1e9+7;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+   }
+#define fill(a,x) memset(a,x,sizeof(a)) 
+		for(i=0;i<n;i++)
+using namespace std;
+  	if(i==1)
+mul[2*node+1]=multiply((mul[2*node+1]),(mul[node]));
+  			if(k==0)
+  	cin>>ch;
+for(int i=1;i<=N;i++)
+using namespace std;
+  		dp[i]=min(dp[i],dp[nxt[i][j]+1]+1);
+        	cout<<arr[n-1]<<endl;
+		Prob(edges[s][i],s);
+                 {
+typedef pair<int,int> ii;
+	cin>>n;
+            cnt++;
+const int N = 1e5+10; 
+		{
+		if(rows[i].empty()==false)
+        		break;
+      while (!st.empty() && pes[st.top()] > pes[i])
+	int area=0,maxi=0;
+	int rem;
+        x[b].pb(c);
+    cout<<sum<<endl;
+    return;
+  cin>>n;
+  	{
+		
+
+ll dp[110][110][2];
+     if(ans>=k)
+	for(int i=0;i<n;i++){
+		if(tms[l]>=times-89)
+      fill(ans,0);
+	if(total<k)
+	cin>>n;
+		cin>>type>>a>>b;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+        i++;
+    return a;
+  
+			while(used[clr]==s)
+         	    	for(int w=1;w<=m;w++)
+int prevs[210][26*210];
+  	    FOR(i,1,siz)
+	while(n--){
+        	continue;
+	FOR(i,3,N-1)
+		while (!st.empty() && arr[st.top()].S.F >= arr[i].F)
+  cin>>arr[i];
+  	int u,v;
+			//string s= x.to_string();
+  		arr[1]++;
+			dskip=array[i]-array[i-2];
+#define F first

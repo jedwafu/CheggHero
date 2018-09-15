@@ -1,0 +1,128 @@
+	if(edge[source].empty())
+	return 0;
+  	{
+#define S second
+	sieve();
+  	{
+  	if(help[i].S==1)
+        
+		sums[i]=sums[i-1]+rat[i];
+             	{
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  	{
+
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+	{
+  	   {   
+		sort(score,score+11);
+  num.clear();
+  }
+typedef vector<int> vi;
+int n;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  {
+#include <iostream>
+      rad+=epsilon;
+
+    int intersectvalue = b[a-1];
+				
+  	{
+#include<bits/stdc++.h>
+		if(cur+w<sz(s) and s[cur+w-1]=='-')
+
+#define F first
+			while total<k and term>eps :
+typedef map<string, int> msi;
+using namespace std;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+61914
+  FOR(i,1,n)
+
+5606
+	while(t--)
++ jhpuqywjjpkggplxdzrxtjaljzdtmowxxnrpopyxeifmxsjcsbalmayvzbqnsmmpagfqvfpcouonpaq
+				distup[edges[source][i]]=max(distup[edges[source][i]],distup[source]+1);
+    }
+  	    	done[s2]=true;
+#define pb push_back
+}
+  }
+
+                 }
+int point[110];
+		dfsdn(edges[source][i],source);
+	}
+					}
+	for(i=3;i<=big;i+=2)
+  if(size==2)
+	        count++;if(count==7){
+
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+#define errop(a) cerr<<#a<<" = ( "<<((a).x)<<" , "<<((a).y)<<" )\n";
+  {
+	}
+      roots[i] = roots[i-1] * mult;
+- qdtmexrdeznlqjpsepfglmxuihwmpgkfjdtpcmsjmfweqnwwcdcqszkaj
+from __future__ import division
+  
+  {
+
+	
+
+  int n,m;
+			for(int i=0;i<n;i++)
+     	else
+//typedef pair<int,int> ii;
+			count1++;
+                }
+	int i,n,k,m,j;
+  	cin>>temp;
+
+const ll mod = 1e9+7;
+const ll INF = 1e18;
+      findly(i,mid+1,b);
+	    }
+const ll INF = 1e18;
+		if(abs(i)+abs(j)!=1)
+		if(cur>=sz(s))
+typedef vector<int> vi;
+  fast;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  int lim=(((2*n)%k==0) ? (2*n)/k : (2*n)/k +1);
+public:
+         s+=floor(pow(n1,j))-floor(pow(n2,j));
+  FOR(i,1,n)
+	parity[s]=pr;
+#include <bits/stdc++.h>
+  			Q.push(to);
+	}
+  int len=sz(s);
+    tree[node]=LPD(a);
+      big_row(10,8);
+using namespace std;
+#include <algorithm>
+}
+		//printf("%d ",start[k]);
+      		{
+
+  		dp[j]=tdp[j];
+
+  			}	
+#define sz(x) (int)x.size() 
+
+    {
+  		}
+
+	cin>>s;
+  update(c2,mid+1,r,left,right,val);
+
+    A[x].sum = (A[2*x].sum + A[2*x+1].sum)%M;
+		temp3->next=temp1->next;
+  
+          {
+  FOR(i,1,n)
+  	string s;
+	cin>>t;
+#include<bits/stdc++.h>
+    return;
+  FOR(i,1,m-1)

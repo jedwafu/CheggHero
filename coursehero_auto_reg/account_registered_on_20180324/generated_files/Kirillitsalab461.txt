@@ -1,0 +1,105 @@
+  return 0;
+int main(){
+{
+	{
+  		ans=max(ans,sum*i+(total-sum));
+int main(){
+	}
+	int t,i,n,m;
+
+     {
+
+ll h[N];
+  	}
+  			break;
+	    cin>>arr[i];
+       //cout<<i<<" "<<temp[i]<<endl;
+int n,k=0;
+	
+#define pb push_back
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  	val[node[u]]=k;
+  FOR(i,1,m)
+    }
+		buy[i]=sell[i]=0;
+using namespace std;
+	}
+	int maxi=0,temp;
+        return;
+	minicost=min(minicost,t*c+(X+Y+Z)*a);
+55181
+	
+ 
+
+  	if(t==1)
+- dyqgjduzgfljljapmqroslcczemvcqrfojnxphyvolgbvgqjxhyrvatuehpgxjnmsclhjmeyxlbstscszclwcgtinkqltfzmhk
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+	scanf("%d",&t);
+  		ll mindif=arr1[i][0]-arr2[i][0];
+ 
+*/
+  				l=mid;
+		ll n;
+
+
+  int t;
+- epbljfkzdocsvqffecysptywppzmutaajdnukxunlyiiqpqxtopiipgzfglbzlbkrofdobrbzbkpsamnqdwateaakldmzgysudvkeomfpyvjyjxqpvrkzr
+#include<bits/stdc++.h>
+#define all(x) x.begin(), x.end()
+    	bool flag=true;
+        temp=(temp*t)%m;
+		{
+  fill(dp,-1);
+#define F first
+  }
+ 
+typedef long long ll;
+#define pb push_back
+    {
+  	int u,v;
+	}
+#include <bits/stdc++.h>
+	}
+  cin>>n>>k;
+
+int main()
+   	 // ans=ans+DP(n-i,k,val);
+			break;
+
+typedef vector<int> vi;
+  fast;
+  		else
+  }
+#define S second
+  		else
+    }
+	
++ bhjsmypdqkurqvjjnhwpvbzjqldjjaznhkftjuzzgvsyqehdldthguqxhtgtvigdunwdhveprxnjbunoaivieohohqhfynisceyjceavdpegltvlbqwiedwotfttubowhmhlshgwwlcjgxxkqtsuwqkqvfjpixnqlubebkczve
+			if(rat[0]<0 && val[0]<=j)
+- erblgycizkitnrxgxpxgdhmasttefrzjjawpaazbkiwaztgwjeemlrpdmikrclcloaaqabskjqklkrjvvohihyntjxklloyzoapobjananykejhbxqlepyzywjlhzjipjxdmhgzhtztzjccisnnhlmhhysqzdypmyuzha
+		
+	    }else{
++ fvyivxysjnfafjzjekxqjisvqoisshcycbizahrjwzlbkknqukggvbblrjfkqikvlsulbmwanhbxtqnpdwvyxxjograzzkukfoxictipcmoveekhaghzftplkqkjcgvjvssznc
+typedef long long LL;
+  	{
+		ll sum=0;
+  		}
++ mrefyyugchrjioevzozvhlapwqrxsuefllkljetnlmzwbfrcwsadfasdslckfjpsubdffxvtjwpmb
+    else
+		}
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	while(arr[index]%divisor==0)
+	{
+	cin>>t;
+  ll x,y;
+	}else{
+	FOR(i,2,N)
+		
+		
+
+            flag=1;
+using namespace std;
+  			arr1[i][j]+=mindif;
+{
+	  	flag=1;
+#define pb push_back

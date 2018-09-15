@@ -1,0 +1,185 @@
+  		weight[a][b]=min(weight[a][b],(ll)g);
+
+  }
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+typedef long long ll;
+double starts[N];
+  vector<ii> ans5=solvemax(dx+hmm,dy,dz,hmm);
+   
+- hlpkjhuyiwvnniclbelbymqrvkbegcdnpuazduzlquaffcqijbkjpcblmersguiyrixuewgvsgcxltguwsdm
+{
+        int x = func(i);
+       column(5,4);
+#define fill(a,x) memset(a,x,sizeof(a)) 
+		return dp[index][r];
++ pvcwuagdyvmskiwabekgeszbbllgbkzsfbobbuhbsttcercfvmlbgmfhxqobapthqkluesvwnryricygomhvameyeubgjuqcgbylttjikk
+  		temp+=md;
+typedef long long ll;
+  FOR(k,0,n-1)
++ tljujmmcstgwnygptuoipjtpuwdebsvwfe
+	while(t--)
+  {
+	for(int i=n;i>=1;i--)
+int main()
+				if(angle0<0)
+		y1=(p+sqrt(p*p-3*s))/3;
+	int t;
+
+int n,inp,maxi=0,ans=1;
+  	}
+		if(i==primes.size())
+        
+      ans=max(ans,D[i].S+query(1,0,sz(D)-1,0,i-1));
+    A[2*x].add=((A[2*x].add*A[x].mul)%M+A[x].add);
+map<ii,int> assign;
+  update(c1,l,mid,left,right,val);
+    else
+
+  	FOR(i,0,n-1)
+using namespace std;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+4218
+#define fill(a,x) memset(a,x,sizeof(a)) 
+typedef long long ll;
+            	cout<<arr[ans]<<endl;
+#define F first
+		
+ll maxi,maxi2;
+#define sz(x) (int)x.size() 
+    	
+  {
+  }
+	
+    	cout<<-1<<" "<<-1<<endl;
+int main(){
+    treee[node]=add(treee[node],((b-a+1)*value)%INF);
+
+    	edge[i].pb(arr[i].F);
+	
+
+typedef set<int> si;
+long long int c[100][11];
+const ll mod = 1e9+7;
+	
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+#define F first
+  		days+=temp/k;
+
+vector<pair<int,pair<int,int> > > v[100010];
+typedef long long ll;
+	for(int i=0;i<4;i++){
+}
+  cin>>n;
+#define sz(x) (int)x.size() 
+
+
+	       for(int i=0;i<k;i++)
+     if(i+dp[i]<=n and i+dp[i]-2>0 and (arr[i+dp[i]]-arr[i+dp[i]-2]>=2))
+const int N = 1e5+10; 
++ qpaquglhcntisksnujkktqipavzbdyovoqlkyxtbmnlexertpcfluoaxlcyqaomqgzafyuilhtpgxjbpnhajx
+  	if(val1==0 and val2==1)
+		lefts.push_back(make_pair(-x,a));
+  		return 0;
+        ll ans=0;
+ll ans=INF;
+const ll mod = 1e9+7;
+                 {
++ mtvvrhbcngridotdxvhwosajytxrgjdseaqvkrxxzphdfa
+			bool val1=arr1(-1);
+  return 0;
+			dfs(j);
+int main()
+
+#define F first
+#include<iostream>
+    return temp;
+const ll INF = 1e18;
+  	FOR(i,1,n-1)
+	{
+    		i++;
+	        if(arr[i]==1)
+       int temp=it->S[0];
+const ll mod = 1e9+7;
+  }
+}
+	{
+  cin>>l[i];
+    	cout<<"Case #"<<T<<": "<<ans<<endl;
+  s1[curr]=0;
+	cin>>n>>m;
+	cout<<r<<" "<<c+4<<" "<<r<<" "<<c+5<<endl;
+  	prefix(n);
+- ieqgwdwicmlkezfucimowthnexpgyodguvmszladznpfmvbrfnheiornogvmwyuttjluwozvbpaqmchrrovaeopsvkgtkdmfoackobfpsffejoybevbjksdhcmampptdpvnfxuwrzcwlswmxrpgdhlklx
+		
+ll mini(int source,int kval)
+
+  {
+	FOR(i,1,sz(s)-1)
+      big_row(6,0);
+		cin>>a>>b;
+
+void build(int t, int id = 1, int l = 0, int r = n){
+  if(typ[i]==2)
+	        p=n/2;
+  q.push(mp(0,1));
+  cout<<ans<<endl;
+         {
+int main(){
+    { 
+      // now the idea is to do this in llinear time
+		
+typedef vector<int> vi;
+	loop(i,1,p)
+      big_row(16,8);
+{
+
+		ans[source]=max(ans[source],weight[edges[source][i].S]-mini[edges[source][i].F]);
+  	maxidx=where[maxidx];
+		 
+	 
+  cout<<ans;
+ 		if(check(mid,q,y))
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+typedef pair<int,int> ii;
+  	FOR(j,0,sz(wt[i])-1)
+       dp[type][pos]=arr[pos]+val;
+		
+	
+	    }else{
+		int n,m;
+int f(int a,int b,int div)
+}
+	{
+#define pb push_back
+
+        {
+
+					
+  string s1,s2;
+    long long int sum1,sum2;
+const int N = 1e5+10; 
+
+const int N = 1e5+10; 
+}
+	{
+
+  	}
+		ll temp2=0;
+#define mp make_pair
+            if(i%2){
+	int n=0;
+  	FOR(i,0,p)
+        for(int i=0;i<n-1;i++)
+	return 0;
+  	{
+
+#define sz(x) (int)x.size() 
+          cout<<arr[0];
+  {
+ 			{
+		{
+    }else{
+#define sz(x) (int)x.size() 
+	            if(x/i>b)count++;
+typedef long long ll;
+  cout<<dp[n];

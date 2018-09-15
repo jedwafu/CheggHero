@@ -1,0 +1,121 @@
+	{
+  
+  if(l>=left and r<=right)
+int main() {
+{
+const ll mod = 1e9+7;
+typedef pair<int,int> ii;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+         for(ll j=0;j<prime_fac[i].size();j++)
+4218
+    for (int i = 1; i <= n; ++i) {
+	cout<<ans<<endl;
+  {
+{
+  			last=j;
++ gqrhrowctfitfsgftibvxnuxrlvwzkpgdgpuulypqiiyaqfuyipwwlvpzqn
+
+const ll mod = 1e9+7;
+					edges[arr[i+1][j]-'a'][arr[i][j]-'a']=true;
+
+
+  	int b;
+int a[20];
+	sets= (element **)malloc(n*sizeof(element*));	
+
+typedef vector<int> vi;
+  sort(C.begin(),C.end());
+         ans[i][2][1]=a;
+	    else
+#include <bits/stdc++.h>
+  	}
+
+  		}
+
+*/
+
+typedef vector<int> vi;
+void calculateForwardSpan(int n)
+  int t;
+		k++;
+ 		FOR(k,a[j],i)
+t=int(raw_input())
+
+  		{
+                 if(i==ans-1)
+typedef long long ll;
+   	{
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  FOR(i,0,sz(ans)-1)
+        	arr[i][3]=arr[i][4]='+';
+	starts[source]=times;
+	cin>>n>>m;
+  }
+
+{
+	   if(c==4)
+  return 0;
+const ll mod = 1e9+7;
+  			//cout<<"deleting road "<<edges[s][i].S<<" from "<<s<<endl;
+		
+		cout<<n/2+1<<endl;
+  fast;
+    
+ll arr[N];
+      		}
+#define sz(x) (int)x.size() 
+
+	for(int i=1001;i<1000000;i+=2)
+  		FOR(k,1,i-1)
+const ll INF = 1e18;
+					 }
+ 		dp[i][0]=(dp[i][0]+(dp[i-k][1]*choose[i-1][k])%mod)%mod;
+    	{
+  	cin>>arr[i];
++ ltwxowfrebvatbzvpbsxfajsshijqxtdssbgoizukuufwucnxwmcwvwqeeaudvyvnbddjcavzuaxqemnayrzuopasrvwnvtcyxihbifcchzvmniomaniqfiiwfgjaaoyzwicenfgugbiumxiom
+  	int cnt=0;
+int  main()
+#define F first
+		cin>>s1;
+		  temp2=max(dp[i],dp[i-arr[1]]+1);
+	int sum,n,m,i,j,dummy;
+int main()
++ cffkyvqdsbxrtcnfjdffjufboytpcasgfxqdvginjfedjtktypakmglageriejoljgqemztxgzcqunlselcstpuztmjzxxki
+			{
+#define sz(x) (int)x.size() 
+	for(int i=1;i<=k;i++)
+			if(score[i]==temp)
+  FOR(i,1,n)
+    if(min(sum,8-sum))
+  	{
+
+  	help.pb(v);
+typedef pair<int,int> ii;
+    
+}
+  ll ans=0;
++ yzryjexqxzzwhigjagizqcnmvlzcphwpiqnrwlktmjrwrzftfqtwugkprmujvsydioxhbhansujmtrfbhyxbgjsavojqhjwrxvyyebowxxiqoorxoqyxcrxxfg
+}
+            if(flag)
+      	ans++;
+  {
+	{
+long long int sums[100010];
+   findly(1,1,ans[2][2][1]-1); 
+	return 0;
+const ll INF = 1e18;
+	    decr[root]+=arr[root];
+using namespace std;
+using namespace __gnu_pbds;
+  	FOR(j,0,399)
+            lpd[i]=i;
+
+		 {
+int main() {
+			}
+               	return 0;
+}
+  int s, n;
+
+  	{
+

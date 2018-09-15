@@ -1,0 +1,151 @@
+	  }
+          cout<<-1;
+44090
+  }
+	{
+        int h=i,ans=1;
+  	int r1,r2,c1,c2;
+   {
+
+    {
+        	tree[root].pb(edges[root][i]);
+
+	if(p==0 or (n%2==0 and m%2==0)):
+            maxindex=i;
+  fill(cols,0);
+typedef long long ll;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  	else
+int main(){
+}
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+double arr[3][5];
+				flag=0;
+  FOR(j,0,9)
+
+	cin>>t;
+  FOR(t,1,q)
+  fast;
+  ans2=ans1;
+const int N = 1e5+10; 
+  }
+#include <bits/stdc++.h>
+  return 0;
+	    countNext++;
+  	FOR(i,0,n-1)
+}
+
+
+                 	{
+- gobgnyokoecdjtcudcsqomyszhkoqywxoxfcxtmlapojktdpxxflkggjnqzfrxcfwhhvdwidnxozstoprvdbbjmqbnwskaaikjdnflsskitebhusdxteihvjuregtgodptqvhkpr
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  VI dad(v.size(), -1);
+		cin>>c;
+typedef pair<int,int> ii;
+  	big_col(1,0);
+  	freq[s]++;
+ 
+      for (i = 0; i < n; i++) {
+
+}
+  cout<<fixed;
+  			l=mid;
+
+		//printf("%d ",start[k]);
+  	if(a==b and b!=c)
+ll choose(ll n,ll k)
+  {
+#include <bits/stdc++.h>
+		int t = b; b = a%b; a = t;
+			{
+build_tree(node*2, a, (a+b)/2); // Init left child
+{
+	{
+  {
+        A[2*x].ini=A[x].ini;
+bool done[1000001];
+
+			return false;
+	if(y->right!=NULL)
+		while(a>0)
+		loop(i,0,n-1)
+struct node2{int x,pre,now;} p[N]; int Q2;
+		cout<<n*n-count<<endl;	
+  		int g=__gcd(i,m);
+  	}
+	node* parent;
+			index='1';
+	int t,n,i;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  	edges[v].pb(u);
+  cout<<"YES";
+const ll mod = 1e9+7;
+	root=z;
+    if (c[l] < x) return l + 1;
+   		}
+      done[original][root]=true;
+}
+	cout<<result;
+                        while(h%t==0)
+
+			index='2';
+  dfs2(1);
+#include<bits/stdc++.h>
+  int sx=0;
+        {
+  for (it = ans.begin(); it != ans.end(); it++) {
+  if(arr[0]==3)
+	else
+
+#include <iostream>
+		 if(i+25>=len)
+#include <bits/stdc++.h>
+const ll mod = 1e9+7;
+
+	For(i,0,n)
+#define sz(x) (int)x.size() 
+                 		break;
+  			cout<<1<<endl;
+		for(int i=0;i<len;i++)
+- beanyzunyaohlswfopalzbamcrkbcqcdxcsvenienwmarkhfcktbltnnnaqrquunxoldbvhquvrliaskklnvhckwcantvjiuxtxbpgrje
+  	}
+  	    	for(int i=0;i<sizes;i++)
+#include<stdio.h>
+  		if(maxi==dp[c[i]])
+      if(ans[i].S<=k)
+    
+  		continue;	
+    return;
+    }
+  NFOR(i,sz1+sz2,sz2+1)
+	} 
+	while(t--)
+ll tree[400010];
+    maxi=max(p1+p2+p3,maxi);
+}
+
+    temp=(temp*7)%601;
+       if(val>=1)
+
+  	ll maxi=0;
+    	delay[i].pb(temp);
+
+		}
+                 {
+int main(){
+  		if(dp[i]<0)
+	}
+    ans=solvemax(0,0,0,n);
+      ll mid=(a+b)/2;
+const int N = 1e5+10; 
+  	{
+			len[first][k]=1;
+            if(arr[i+1]-arr[i]!=diff)
+			}			
+	    if(str[i]>=33&&str[i]<=126){
+#define pb push_back
+		for(int i=1;i<=n;i++)
+    	cin>>temp;
+}
+  {	
+  	if(self[i]==false)

@@ -1,0 +1,103 @@
+	               bit=1;
+		if((double)val[i]/(double)rub[i]<=a)
+		cout<<n*n-count<<endl;	
+
+		   	    	count++;
+  		if(check(temp1,temp2))
+		}
+			
+
+using namespace std;
+// nodes[stIndex] is responsible for the segment [start...end]
+#define S second
+typedef pair<int,int> ii;
+
+  rights[n]=n;
+int a[26];
+  }
+	    }else{
+}
+	if(n!=k){
+	cout<<ans;
+
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+#define pb push_back
+
+  cin>>t;
+  	cin>>n;
++ ljcinbogoxkvkk
+  		rights[i]=1;
+void check(int num, int op, int axis,int val)
+}
+  	else
+                    break;
+  cin>>n>>m>>k;
+}
+  		cout<<"OK"<<endl;
+
+{
+ll seg[4*N];
+		}
+
+		}
+  {
+* Case : 2
+  {
+q.push(root);
+int ans[N];
+			ans-=mod;
+		{
+  n=read(), m=read(), Q=read();
+		if(h1==a1)
+typedef map<string, int> msi;
+  		
+  {
+         }
+		matrix[i][j]=false;
+			ret2+=MOD;
+     
+}
+		{
+  n=x;
+				cur=trie[0][cur];
+	i=dec;
+// returns a dummy value
+	cin>>n;
+	  
+     	int cur=i;
+	
+  	cin>>arr[i];
+int InitTree(int idx, int left, int right)
+  	if(pwr[i]<0)
+typedef long long ll;
+	{
+  		arr[i]=-1;
+scanf("%lld",&t);
+  FOR(i,l,mid)
+    	
+		for(int j=0;j<1010;j++)
+int c[501], g[501][501], used[100000];
+
+	}
+			else
+	}
+  fill(temp,0);
+  dfs(1,0,0);
+  	}
+using namespace std;
+#define loop(i,a,b) for(int i=int(a);i<=int(b);++i)
+#define sz(x) (int)x.size() 
+    }
+                 	if(arr[i+1]-arr[i]!=diff)
+		ll sum=0;
+        i++;
+typedef pair<int,int> ii;
+
+#define mp make_pair
+  	ll num;
+  m.a[1][1]=add(mul(m1.a[1][0],m2.a[0][1]),mul(m1.a[1][1],m2.a[1][1]));
+		int a,b,c;
+}
+
+  int t;
+}*/

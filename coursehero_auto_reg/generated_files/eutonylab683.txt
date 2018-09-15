@@ -1,0 +1,134 @@
+int i=start1,j=start2;
+  	else
+bool palindrome(int i)
+typedef long long ll;
+
+		    
+}
+  	//toty+=arr[i].F.S;
+  	}
+
+
+
+         	    else
+import java.lang.*;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+}
+
+  for(int i=0;i<26;i++)
+  FOR(i,0,d-1)
+				counteven0++;
+#define sz(x) (int)x.size() 
+                 	if(arr[i+2]-arr[i]!=diff)
+	else if(x==x->parent->right)
+}
+ 		cout<<r<<endl;
+36655
+  fast;
+			
+  int cur=1;
+using namespace std;
+#include <bits/stdc++.h>
+	maxi=max(X,max(Y,Z));
+#define mod 1000003
+double eps=0.0000001;
+		}
+            	continue;
+	return 0;
+#define pb push_back
+	double p,s;
+
+
+        flag=true;
+  	}
+		if(s[i]=='.')
+		cout<<n-i<<endl;
+		
+  	{
+#include <bits/stdc++.h>
+     
+
+  fast;
+ 		else if(check(index,l))
+		}
+int last[N];
+			else
+		while total< k and term > eps :
+		{
+					val+=2;
+- etwdqexhsv
+  		cout<<1<<endl;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+		c[i][0]=1;
+
+typedef pair<int, int> ii;
+  cout<<ans;
+  	
+}
+{
+void bq()
+
+  if (r < 0) return a;
+
+  			break;
+  	}
+
+using namespace std;
+  	cout<<endl;
+	     for(i=1;i<n;i++)
+- rvmxqndgvnksnqheekzthqasildnzvutqisjvxprkajastewfdsmvshedktefpxxypgtmykzaw
+            }
+
+	    c+=a3;
+const ll INF = 1e18;
+		ver.push_back(i);
+using namespace std;
+
+	cin>>s;
+    if(a > ed || b < st) return 0;
+       tree[node]=LPD(a);
+	for(int i=n;i>=1;i--)
+
+        }
+int main() {
+34 35
+
+        bool flag=true;
+	right=pos[1]+sp[1]*t;
+	{
+				
+typedef long long ll;
+  	int x,y;
+const int N = 5e5+10; 
+  {
+int main()
+#define S second
+
+const ll INF = 1e18;
+	flag=1;
+                 		break;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+- sxsupssiyybgjradupvircladchmybxqarmslfckddsowutrlpbctocwsklqniiobvgncizhotxmnqdbhgdcugbpsmffwqvxndmpolweetqulwvvcaxzgyoakviglfeyjqnzeldkgtgurdpuemtmnhnxcvgqakolcekirptalzucfjwjxrvkykkdhqvkclvgripjzk
+using namespace std;
+  		int vals=((1<<j) & nums[i]);
+      cin>>u>>v>>c;
+  		root=l;
+
+    pga.transform();
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+#define fill(a,x) memset(a,x,sizeof(a)) 
+			if(arr[0]<0)
+  dp[0]=0;
+  sizes.clear();
+	while(t--)
+const int N = 1e5+10; 
+			ans=0;
+	
+- lvrlfkyhyfgzbxkbndixhjjdfhqxiydwuwhbgfigkrhnosobvyaekjjpqbpyaswwodxxlhfxyplmhbnecnlmywdoaspaklybpvacehzdwkpfofmquxctvfjvayxmkxpbspdxxectptzfylvvkzqhgzfgactkainuastxwvsnrrspepmqocyveddehyqjjdejxzi
+typedef pair<int,int> ii;
+  fast;
+  		if(vis[to])
+      big_col(5,8);
+
+
+#define fill(a,x) memset(a,x,sizeof(a)) 

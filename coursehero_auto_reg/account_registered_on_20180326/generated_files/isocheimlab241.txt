@@ -1,0 +1,115 @@
+	
+#include <bits/stdc++.h>
+    ll mid=(a+b)>>1;
+#define S second
+			dp[a][b+1]=1+dp[a][b]; 
+
+	{
+void clearPendingUpdate() {
+
+	int num;
+using namespace std;
+
+  scanf("%d %d %d",&n,&m,&q);
+		
+#include <cmath>
+
+    {
+  int t;
+sort(start,start+n/2);
+  	FOR(i,1,n)
+
+	int n,i,j;
+  sort(arr,arr+3);
+			if(i==0)
+	}
+			else
+    {	
+{
+		
+		
+	if(n==m or n==0 or m==0)
+               if(arr[i]=='9')
+  dfs(1,0,0);
+#define fill(a,x) memset(a,x,sizeof(a)) 
+        }
+      big_col(9,4);
+
+  		{
+printf("\n");
+  cout<<(S1+S2)/k;
+  	{
+    quant[5]+=sum/e;
+using namespace std;
+    	{
+  	fill(dp,0);
+  	{
+using namespace std;
+		{
+	flag=1;
+  		cout<<arr[i]-n;
+       for(int j=i*i;j<N;j+=2*i)
+      return ;
+  	v=queries[i].S.S;
++ bsstwjspxotwcfacqigcyzxntcjfsy
+  		arr[2]++;
+
+      lazy[kd][pos*2]^=1;
+
+  		FOR(j,1,m)
+  		else
+}
+		{
+    if(val1==1)
+}
+    	 if(flag==0)
+		
+	ans-=(500*j2*arr[2][2])/250;
+#define s(n) scanf("%d",&n)
+  	FOR(i,1,n)
+
+  
+int N, i, M, x, y, t = 1;
+        for(int j=0;j<5;j++)
+
+  		ll x1,y1,x2,y2;
+  cin>>r>>c;
+	        countup++;
+	
+
+  	{
+typedef pair<int,int> ii;
+
+  {
+
+        if(dp[i-1][j-1][state]>dp[i-1][j-1][newstate])
+  	edges[u].pb(v);
+int main(){
+		}
+  int n;
+}
+else if (root->data < pt->data)
+#define sz(x) (int)x.size() 
+typedef long long ll;
+using namespace std;
+- zirnlhxkfdozabdximxibziccqqpiwkkgbzrixepcsocwsbggaoiaymeqctbbflhgkbojhglz
+  {
+       row(7,4);
+			continue;
+  int swaps=0;
+		{
+	}
+const ll mod = 1e9+7;
+#define F first
+	}else{
+		
+}
+  		cnt++;
+  		{
+	int t,n;
+const ll INF = 1e18;
+typedef vector< vi > vvi;
+}
+#define sz(x) (int)x.size() 
+		   		mat[i][start]=0;
+  cin>>n>>a>>b>>k;

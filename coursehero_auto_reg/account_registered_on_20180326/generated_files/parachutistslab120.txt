@@ -1,0 +1,184 @@
+}
+Node *uncle_pt = grand_parent_pt->rightChild;
+tree[node] = arr[a];
+- fzghqozvlwhirmkylzbpmlacwwajvckcbqltgkotiybzmnzymbnamndilftihgklyxefhvypvcphpqhcrwcdlfnwk
+    else
+	
+    {
+const int N = 1e5+10; 
+        ll n,m;
+update_tree1(1+node*2, (a+b)/2+1, b);
+  FOR(i,1,m)
+
+
+
+			scanf("%d %d",&li,&hi);
+		 				s[j]='A';
+			{
+  
+	{
+- vhhkfnvfeavvzmyeahutxzzdjqefcopyxykclihrkcnkrnqrukntmmyxecchsthpstufbbxmgmyxboqwyfpmtqjysmhnfqcxjwfnaebgqzfrpxppdhcwxlwrzfefvjefhjujnvrfuwzluqazxcvwquopzuuxfbepmyyctsjpoickzcjyfhvvdlkefhbnk
+  }
+  	FOR(j,0,2)
+int main()
+	
+typedef pair<int,int> ii;
+		if((double)p1/(double)p2<=a)
+	ans.pb(eulertour[i]);
+	for(int i=0;i<26;i++)
+  print(l1-1,l2-1,lv,"");
+		dfs(edges[s][i],s,1-pr);
+		continue;
+  cin>>col[i];
+    int q;
++ cgyci
+}
+    	cout<<n+1<<"SU"<<endl;
+#include <bits/stdc++.h>
+	
+		cin>>inp;
+  	sort(arr,arr+2*n);
+const int N = 2e5+10; 
+		
+		e[r-1].push_back(make_pair(c,make_pair(l-1,r-1)));
+	
+	cin>>t;
+
+const ll mod = 1e9+7;
+typedef vector<int> vi;
+				dp[i][j]=dp[i-1][j]+rat[i];
+
+    {
+         int count=0;
+- flkxbuxdpeumehgyvzokqhduyvwvmkgswspzopeevyszfayacmlsvomtlloavxstpjseywkwuevcevegjrzfhlytypvumnndwijxevtbzqfemjkvblcizddxuyrinhlkpvjvqeysufwipigsuiatngq
+	cout<<ans<<endl;
+	int n,s=0,maxi=0;
+    	while(!q.empty())
+  ll ans=0;
+const ll INF = 1e9;
+
+using namespace std;
+
+const ll INF = 1e18;
+map<string, set<string> > M;
+		minicost=min(minicost,t*c+((X+Y+Z)/2)*b);
+{
+typedef pair<int,int> ii;
+  {
+#define nloop(i,a,b) for(int i= int(a);i>=int(b);--i)
+			}
+		}
+double DistancePointSegment(PT a, PT b, PT c) {
+  fill(done,0);
+	cin>>s;
+}
+               break;
+      cin>>s;
+const int N = 1100000; 
+	//cout<<"called for "<<n<<" "<<h<<endl;
+  fast;
++ chncrswkgovxuvmccuqiuvwvixptapncwbfpvdzcrxbnsqqxmifgdbdmbsfbjvff
+        A[x].add = 0;
+    else if(left>right)cout<<"left";
+	long long int sum[38];
+ 
+				
+if(a == b) {
+const ll mod = 1e9+7;
+#define sz(x) (int)x.size() 
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+     }
+	for(int i=0;i<1010;i++)
+      if(C[mid].F<=rem)
+  		string temp1=s1;
+	}
+using namespace std;
+			if(freq[num]>maxc)
+ 	//cout<<ans<<endl;
+				if(temp%2)
+}
+  cin>>n>>k;
+const ll INF = 1e18;
+	}
+			else
+int main() {
+int find(int x) { return (C[x] == x) ? x : C[x] = find(C[x]); }
+  lazyPropagatePendingUpdateToSubtree((node<<1)|1,mid+1,b);        
+    if(temp==i)
+#include<bits/stdc++.h>
+#define F first
+	int t,n;
+			temp3->belongs_to=temp2;
+#define sz(x) (int)x.size() 
+  FOR(i,1,sz(C)-1)
+}
+
+
+  	cin>>l>>r;
+        //cout<<"Merged "<<xRoot<<" into "<<yRoot<<" with diam "<<DSU[yRoot].diam<<endl;
+  			}
+}
+set<long long int> cfreq;
+
+
+            while (r < n && s[r - l] == s[r]) r++;
+  	w[i][i+1]=w[i+1][i]=1;
+ 		r=mid;
+        dp[i][j][state]=max(dp[i][j][state],1+LCS(i-1,j-1,newstate,s));
+		int t=sc.nextInt();
+         	if(carry)
+			i=i+4;
+			mns[cur][s[i]-'a']=1;
+    		
+}
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  }
+  fast;
+    	temp/=sp[temp];
+				  num[l-1]--;
+	return 0;
++ vpfjqdvnrkeirlrihzvzxqkboznjlyyjpfuhiqvzcbkvoddvebvdrhehjrsurtfgyaohsli
+  	
+ll arr[N];
+
+typedef long long ll;
+  	cin>>n;
+	return 0;
+	 {
+		while(curL<q[i].l)
+		else
+	cout<<r<<" "<<c+4<<" "<<r<<" "<<c+5<<endl;
+	for(int i=0;i<n;i++)
+#define INF 10000000
+    if (DSU[x].parent == x) return x;
+		dummy=1;
+void merge(SegmentTreeNode& left, SegmentTreeNode& right) {
+		{
+if(a > b) return;
+#include <bits/stdc++.h>
+- ulycfqfwnbircyimrngccrslglpapvolinnoduksvujxutllhunllgyrtnujkiusxkgaettanexialtjfjuqpskkhgtroqjoasogljgaqg
+  
+  {
+	return 0;
+      big_row(13,8);
+			continue;
+if (pt->leftChild != nullptr)
+  for(int i=0;i<sz(divs[1]);i++)
+  	ans=max(ans,pre[i]);
+    }
+	    }
+		return 40;
+  //cout<<setprecision(12);
+#define F first
+  update(1,1,n,-arr[1].S,arr[1].F);
+string s,t;
+					r++;
++ azhgjljoppoqpupczcobbjqctzkfddoeewmnjwdynupcogenksroehsxgcfjhtpmpcbyafznboppwwfhowvudnsjsxszsinimpimwhbxxqmumrddpyxsnrdhqwhjgwtuldihnjgkbtgqmjvcjuuzm
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  update(c2,mid+1,r,index,val);
+			done[x+hor[y]][y]=1;
+  	cin>>c>>num;
+    cin>>m>>k;
+using namespace std;
+  			{
+		

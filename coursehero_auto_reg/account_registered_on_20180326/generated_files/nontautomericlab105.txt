@@ -1,0 +1,134 @@
+	}
+          {
+	        ch=toupper(s[i]);
+  
+printf("%lld\n",query_tree(1,1,n,a,b));
+		cout<<"No"<<endl;
+  dp[j][i]=mod;
+  	cin>>temp;
+
+#define F first
+		
+  		}
+	   row(r,c+0);
+                 		break;
+typedef vector<int> vi;
+  			{
+  		{
+#define F first
+  return 0;
+#define INF 10000000
+		sum=k;
+	}else{
+#define S second
+     	return dp[city][1];
+ll dp[N][500010];
+    cout<<ans;
+  return 0;
+{
+	
+  }
+       	ans++;
+  			{
+    if(i<=root)
+
+Node *leftChild, *rightChild, *parent;
+	}
+  		pwr[i]+=mod;
+		}
+  	cin>>temp;
+        A[2*x+1].sum=(A[2*x+1].ini*(se-m))%M;
+		 
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+               break;
+  	if(allowed[i])
+     return 0;
+	cin>>n>>arr[0]>>arr[1]>>arr[2];
+#include <bits/stdc++.h>
+  			break;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+#define S second
+  cin>>n>>k;
+  if(!flag1 or !flag2)
+		 		cout<<s<<endl;
+		Input.push_back(temp);
+  	for(int i=0;i<m;i++)
+typedef vector<int> vi;
+#include <bits/stdc++.h>
+#include <bits/stdc++.h>
+   
++ kqhohkahtksjdmebdqkomcjzbhihadvnvebdocmhoetrszuwrhmdjwenfmufqrsnvwqkactqiokbnezfllixhnkmbgutxohumzemeafmoppetojhatehiqwkwsfv
+
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+        A[2*x].add=0;
+		int a,b;
+				done[j]=false;
+		if(x<0)
+}
+{
+}
+
+  	rows.clear();
+  {
++ lmbkqltuzwfqqoywbcrflbawqvhhrkpexsppdijfgoxwevsfyknjnphelolczciyuxnahyfpmclqzgxxskifcrlniyrhazhvzwviucyiglafrxflkptmhezpdqyfrhaqdxzzzzhfkjncgspsjieqpfhuxhzroahtziuzhdgsmvwvplnzwurlbb
+  	int val;
+		else
+		cout<<0;
+const ll INF = 1e18;
+#define present(c,x) (find(all(c),x) != (c).end())  // for vector
+  	}
+
++ tezmwwduztewpiktudrzggbozkavshvnlwbkueeuzlspvckpherokucjecgymdlzcnjwtqstdkkyoupwygklaowhsffeirgmgrlbjdwmqgkedacdio
+  
+	if(index==1)
+	
+		if(ans %2)
+const ll INF = 1e18;
+  		if(b<i)
+//code for LIS taken from stanford university's acm notebook available online.
+
+}
+	int i,j,n,t,x,y,k,l,ans;
+  		reach[3][i]=true;
+{
+  	{
+		matrix[cur][cycle.top()]=false;
+const int N = 1e5+10; 
+  		continue;
+typedef long long ll;
+		
+
+	{
+			{
+
+}
+			st.push(mp(a-1,b));
+ 	while(r-l>1)
+  	done[cur]=true;
+  	    big_col(i,0);
+- jyniyzdpadduelmrovgdjcxxergctsscqhnqg
+#define all(x) x.begin(), x.end()
+  return 0;
+  			//cout<<"dp "<<i<<" "<<j<<" is "<<dp[i][j]<<endl;
+
+int max_cuts[4001], cuts[3];
+		cout<<-1;
+using namespace std;
+  cin>>n>>k;
+  	
+#define present(c,x) (find(all(c),x) != (c).end())  // for vector
+#define S second
+		for(j=0;j<m;j++)
+{
+  {
+                 {
+               else if(temp<5) 
+	if(X+Y+Z-maxi>=maxi)
+
+}
+  FOR(j,1,k)
+#define pb push_back
+			{
+	
+	ll cnt=0;
+

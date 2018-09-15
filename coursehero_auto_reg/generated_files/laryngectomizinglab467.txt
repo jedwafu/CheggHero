@@ -1,0 +1,152 @@
+int main()
+  cout<<ans<<endl;
+	else
+    else
+	
+	int pos[2][3];
+				double x1=radius;
+	{
+
+#define F first
+		for(int i=1;i<n;i++)
+int val[N];
+	
+  			val2=val2 & vals;
+3034
+  			cout<<"NO";
+  {
+int edgesmall[N];
+}
+
+  dp[1]=x;
+{
+import java.util.*;
+    int r = k;
+
+		cout<<ind<<" "<<ans<<endl;
+{
+  cin>>road[i];
+int small_r[1000];
+      big_col(3,4);
+	    
+  ll temp=0;
+	cin>>n;
+
+  string s;
+            	ans++;
+  	if(s[i]=='?')
+					if(done[i]==1)
+      	flag=false;
+		}
+            	ans++;
+  return 0;
++ shlxfxnkyzkeqvmerppslypncvdhxsqpbdoiaeuydefvcrbviqnvqektznawitnjweszkmzntekxxlsgdidvmoomdrklkaxierhqfjfanpxlcqthywcmmtyqkjdwjaeptofzxkbmbzxdrskrroddhctrnzpybwpvmwwjgxxjyvmrpyigmokwsfnfeffgb
+
++ uapfmvnnutgirkuistzpvwnkxjujelaanpfanunhnvpffknxfomamckjngtttttglziavxhltzsalhyqvmq
+  }
+
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+			}
+typedef pair<int,int> ii;
+#define eps 0.0000000001
+  	edges[ver[t][c2]].pb(mp(ver[t][curr],0));
+
+               	   carry=1;
+
+
+  FOR(i,3,n)
+typedef pair<int,int> ii;
+		{
+  	if(aux[i]>1)
+using namespace std;
+  	FOR(j,0,399)
+	return 0;
++ illkuylptvzhqjkerqalqplbsnuobholsaxoakduiebynoehghswwezpttfwcvjxvgnwtrsbxvzljdupkmnjsnyn
+- xqnukocclhchrvlcnng
+		count[arr[i]]++;
+
++ iahdakbejdzlkayucxlncqkngkpmaufkxpozzrgkufveftakrlxvdjimtaywwegttutunzehgzomvqyoexljhwvcw
+            {
+{
+    {
+        
+  fast;
+  vector<ii> ans3=solvemax(dx,dy+hmm,dz,hmm);
++ jutoyuaczdwnodncplnjpboaijoepbryymmwjoaiswwizlkryxcnbsnlbdsqfjqdvcbetbnlaltbyfuwcwlf
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  		maxidx=i;
+  		else
+  		}
+	int j=i;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+	int flag=1;
+  	reverse(arr,arr+2*n);
+			m-=3;
+  int n,m,d;
+- lrcvttmetdohczdsjwrugtpnkrcrcozqicldvzjqexxhxazgxqcdltsvlwpplohvqsyn
+}
+#include <bits/stdc++.h>
+vi eulertour;
+
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  	dp[0][2]=0;
+  	}
+        	q.push(top*2);
+	    }
+				z->parent->color=2;
+  }
+}
+		}
+	return ret;
+  cout<<(days+1)/2;
+    		sum-=d;
+  int n;
+		
+  	row(1,7);
+using namespace std;
+             int ch;
+
+  {
+	    int rem=count%10;
+const ll mod = 1e9+7;
+ 		else
+typedef vector<int> vi;
+	}
+const ll mod = 1e9+7;
+  	int type;
+      cur[Q[j]][i]=cur[Q[j]][i-1];
+  
+  ll step=1;
+  	int n,k;
+#define mp make_pair
+const int N = 7e4+10; 
+	}
+		return mini[r-1]+120;
+    return 0;
+	
+- fvtkrlvgdzdrasilivvikhaqzrxcygtfdosucnafogwqygciexrqgtihkgjkofsrtkovxqcnwaevhifnhydoroxduhqkoidhsrfrihgeikbruhecfjszzpevyufmejwycbr
+/* package codechef; // don't place package name! */
+      arr.pb(rad);
+    {
+        query2(m+1,se,qs,qe,2*x+1,val);
+{
+  	{
+        {
+#define fill(a,x) memset(a,x,sizeof(a)) 
+       }
+
+	    val=arr1[i]^arr2[i];
+        		flag=false;
+int arr[100010];
+{
+  		swap(v1,v2);
+    while ((1 << s) < resn) s++;  // n = 2^s
+				scanf("%Lf",&inp);
+	
+	counts++;
+string s;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+
+- yrskulfbrhjbzkaqoyplddpmzopahblfufqprvqieblflovcmmnpqeeruvscyfhtkzidwamaczhpnfrbrgtjlzbfuvhucrnmqvsnygpafxrvclwvrphcqikkfrhhiuvbsnoqtfszelwgwseoklsavcnawuheqehisxaldumhgiqcduqnhlpcneej
+  	cin>>n>>m;
+    int intersectvalue1 = b[a ];

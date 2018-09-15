@@ -1,0 +1,158 @@
+
+        {
+	        result=div1*b+res;
+template <class T>  inline void smin(T &x,T y){ x = min((x), (y));}
+	
+	    hh2=hh2*10+t[i]-'0';
+  FOR(i,1,m-1)
+			cout<<freq[s]<<endl;
+
++ qtsykigmifyloumtsojeeoeoyetppllhedfqoocyvamjwyepootsezgcfcuunfbrlihbwlzrolckjhzaxusdvbhadb
+  		cout<<-1;
+        	maxi=max(cur,maxi);
+	counts++;	
+  	if(time<mini)
+                 else if(i==1)
+                if(abs(w1-x1)>abs(w2-x1))
+int main(){
+		else
+    ll add(ll a,ll b){
+#define all(a) a.begin() , a.end()
+	int j=i;
+const ll mod = 1e9+7;
+#include <iostream>
+#define pb push_back
+
+	{
+				l=mid;
+		}
+             }
+  	for(int i=0;i<n;i++)
+const ll INF = 1e18;
+typedef pair<int,int> ii;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	scanf("%d %d %d", &n, &q, &s);
+    	cout<<maxi<<endl;
+typedef pair<int,int> ii;
+	else 
+  	if((p==0 and x==0) or(p==q and x==y))
+          printf("%d\n",0);
+ll arr[100010];
++ qqfeemyzeifcohmxnesynlxmedvdcmdvelbixzhbjogxvswiyqimciagnvlqhollbmtynccwqiwnaswzjgnnontckgsrwfcytxwgbyergcejxckijxvzmqbwwvnsarqtqpbrpikwkqhhtrpeomdccfyyantdgjyyacpqkzowpvgkmxockugmzenbtgezrdzs
+  		if(arr[i][j]=='?' and vis[i][j]==false)
+	root=y;
+        ans=0;
+using namespace std;
+
+    }
+  	cin>>d[i];
+#include <bits/stdc++.h>
+vi eulertour;
+		maxc=maxv=0;
+	counter++;
+28 31
+  }
+- tvwrsacgcetcgqebbuiujdjvwkhmgrfzmbsgcumgzhihapibjqyuvhprtzfcqkbfoulsqayrhgyhvglgylbtssmorrqketpspamgakzkqyrogewfpzyksnalgsvklkebnqjnaixti
+  			break;
++ zft
++ mmizdtftcnigjdzpfsukaxxumehwcjqqxas
+      big_row(1,8);
+  	ii ans=fast_exp(val,n-1,m);
+    return temp;
+			if(s[a-1]=='.')
+	puts("");
+				    edge[k][j+1]=true;
+  	{
+    cin>>a>>b>>val;
+  	sort(w[i].begin(),w[i].end());
+using namespace std;
+using namespace std;
+
+    ans.pb(mp(1,min(sum,8-sum)));
+	
+  	{
+	if(n%3==0){
+  	if(x!=y)
+typedef vector<int> vi;
+		}
+	        hh1=0;
+      {	
+
+#define fill(a,x) memset(a,x,sizeof(a)) 
+		done[start[k]]=1;
+{
+  	cin>>arr[0][i];
+  
+  	dp[i]=min(dp[i/2]+y,dp[i-1]+x);
+int main(){
+using namespace std;
+  fast;
+  if(n%2==0)
+	
+    }
+    }else{
+	
+#define sz(x) (int)x.size() 
+      reverse_col(11,4);
+	int countNext=0;
+typedef pair<int,int> ii;
+		{
+}
+        	freq[arr[j]]--;
+  	edges[a].pb(b);
+  edges[1].pb(0);
+
+{ 
+long long arr[1000010];
+	}
+216
+        flag=true;
+
+int cnt[700][700];
+
+const ll INF = 1e18;
+
+  	done[cur]=true;
+  return 0;
+	{
+#define pb push_back
+	while(t--)
+
+const ll N = 1e5+10; 
+
+		int v = pq.top().y;
+  fast;
+  cin>>n>>m>>d;
+    using namespace std;
+  FOR(i,1,n)
+typedef pair<int,int> ii;
+}
+	}
+	ver[t][id] = nx ++;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+		else if(c=='>')
+#define fill(a,x) memset(a,x,sizeof(a)) 
+		     	cur--;
+  fast;
+     temp=arr[i];
+  return 0;
+    	return ((n%mod)*(modu(n,m-1)%mod))%mod;
+  }
+int main(){
+  		sums[i][0]=C[i][0];
+14588
+  
+  		closest[i][j][2]=last;
+  		return 0;
+			temp=m%n;
+  	cout<<hor[i][j]<<" ";
+}
+typedef vector<ll> vi;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+		}
+return 0;	
+    int min=arr1[0];
+typedef pair<int,int> ii;
+const ll INF = 1e18;
+  dp[2]=2;
+using namespace std;

@@ -1,0 +1,118 @@
+			 
+
+    lazy[0][2*node+1]=add(lazy[0][2*node+1],value);
+  				a[j]=target;
+		arr[i][0]=arr[0][i]=0;
+
+       {
+int main(){
+    	if(i==1)
+  	cin>>s;
+	cin>>n>>m;
+  int maxi=0;
+  FOR(i,2,w)
+using namespace std;
+#define pb push_back
+                	q1=q2;
+		   	    	break;
+  	cnt[index]=dp[n];
+  	FOR(j,1,w)
+#define sz(x) (int)x.size() 
+
+typedef vector<int> vi;
+	string s,t;
+    
+		right=min(right,pos[i]+sp[i]*t);
+  	    big_col(i,2);
+typedef pair<int,int> ii;
+  			}
+        for(int i=0;i<n-1;i++)
+
+                 
+    }
+  	}
+                 	{
+
+					break;
+
+  		swap(u1,u2);
+		ver.push_back(i);
+        if(mini==3)
+const ll INF = 1e18;
+    {
+  }
+int main(){
++ sjbocrukmhvqnjthmdvhviqquobxjjldupswgoguvdljng
+ 	ans=max(ans,r);
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+       column(2,0);
+	    cout<<l2+1<<" "<<l1;
+      	
+
+
+	}
+	
+  int maxi=0;
+#define S second
+			{
+{
+  }
+		//printf("%d ",start[k]);
+  	cout<<hor[i][j]<<" ";
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  return q;
++ xwdvyrkwsffyosgyjjwaxwmgewfogsqdqtarlknfruffmlfxwbxtzmaeihuqblvr
+	for(int i=0;i<s.size();i++){
+  else
+        return A[x].sum%M;
+- jslwnflbubjxujxmknbqfndzrikvkmbwgoutvfvpjgmdrkscxvuekyddiqzvccrltlgotdeckshbcbfcya
+    }
+  FOR(i,1,m)
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+typedef pair<int, int> ii;
+  }
+    typedef vector<pair<int,int> > vii;
+		}
+		    else
+            if(ch=='C' or ch=='M' or ch=='Y')
+  	}
+typedef vector<int> vi;
+			arr.pb(i);
+ 			igf++;	
+  		//if(dp[i][j])
+				dp[1-st][pos-rity[1-st][i]<=0 ? pos-rity[1-st][i]+n : pos-rity[1-st][i]]=0;
+                 	{
+}
+  			{
+       column(1,4);
+            while (r < n && s[r - l] == s[r]) r++;
+{
+        {
+    lazy[0][2*node]=mul(lazy[0][2*node],lazy[1][node]);
+    lazy[kd][pos]=0;
+		}
+  }
+       ll val=DP(1-type,pos+arr[pos]);
+  	else
+		cout<<"NO\n";
+  	}
+	}
+#define pb push_back
+queue<int> q;
+  		dp[0][i]=sums[0][i-1]+(i*i);
+	long long rows;
+  cin>>arr[i];
+  		int a,b,g;
+      big_col(4,8);
+  return 0;
+  }
+#include <algorithm>
+	for(int i=0;i<m;i++)
+int main(){
+		ll ret1=(f*f)%MOD;
+    {
+    double dx31 = x3-x1;
+  		flag2=true;
+#define pb push_back
+  cin>>n>>k;
+	x->parent->left=y;

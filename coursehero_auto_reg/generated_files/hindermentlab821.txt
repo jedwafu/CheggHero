@@ -1,0 +1,143 @@
+  }
+  	row(2,7);
+  fast;
+  	ll sum=0;
+    }else{
+		    	for(int j=1;j<=n;j++)
+#define F first
+         	    			dp[i][j][l]=min(dp[i][j][l],dp[i-1][j][w]);
+		    ans=freq[*it2];
+      	ans++;
+	
++ yuxrgymtanglhxujmppufpkzzinrpeuparjisvbskjfugzfuquoxjbwijjcbpwqpozxixaajkgdqhjnyfdvpeszqdbrvahkqjkyimyrwexpoicmnfjcmdecjh
+
+typedef vector<vii> vvii;
+    { 
+
+        printf("%lld\n",atleast[f]);
+
+
+	        }
+  			else
+		} 
+  		}
+  FOR(i,1,n)
+	int x,y;
+int main()
+  cout<<"possible";
+		}
+			cur[1]++;
++ nkmtrjxiritwwzddzhgherwebvylawhpgtiaei
+#define present(c,x) (find(all(c),x) != (c).end())  // for vector
+	     {
+#include <bits/stdc++.h>
+
+typedef long long ll;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+}
+typedef long long ll;
+	string s;
+		cout<<"#Black&White"<<endl;
+    if(rem==3)
+	    temp+=i;
+return;
+  		}
+ll dp[2][N];
+  		if(maxi==dp[c[i]])
+typedef long long ll;
+  	cin>>n1>>n2;
+	     	
+  cin>>s[i];
+  }
+		}
+#include<string.h>
+  		}
+{
+		{
+		else
+  		{
+	if(exp==1)
+		while(temp3!=NULL)
+    	cout<<n-3<<"LB"<<endl;
+  int t;
+	  cout<<-1<<endl;
+#define F first
+  cout<<setprecision(12);
+	dp[i]=-1;
+        
+
+double ans=0;
+  int maxval=0;
+#define sz(x) (int)x.size() 
+			ans=min(ans,mini[l-1]+50);
+       for(int j=i*i;j<N;j+=2*i)
+  sort(div1.begin(),div1.end());
+
+  	}
+#define F first
+  return 0;
+		printf("ALICE\n");
+	}
+			term=term/(k-i)
+        }
+		return 0;
+#define sz(x) (int)x.size() 
+      big_row(9,0);
+int main()
+
+const ll INF = 1e18;
+
+}
+        {
+	}
+
+double eps=0.0000001;
+
++ fhuqtgolzowdjlxsnwcwgfpsacegapmhzias
+#define S second
+	bool flag=true;
+	for(int i=19;i>=0;i--)
+			temp3->belongs_to=temp2;
+
+typedef pair<int,int> ii;
+		best1=w[3][cur[3]];
+#define fill(a,x) memset(a,x,sizeof(a)) 
+	
+    
+const int N = 1e5+10; 
+	
+  {
+  fast;
+using namespace std;
+		if(tms[l]<=times-1439)
+  }
+int closest[N][N][4];
+         int count=0;
+    else
+ll forward[100010];
+  int s, n;
+  
+
+      big_col(8,8);
+#define pb push_back
+  	while(num)
+}
+#include <bits/stdc++.h>
+	
+
+	return sums<=(n-pos);
+#define F first
+#define fill(a,x) memset(a,x,sizeof(a)) 
+#define fill(a,x) memset(a,x,sizeof(a)) 
+	starts[source]=times;
+  cin>>n>>t>>k>>d;
+	cin>>a>>b;
+		}
+		for(i=0;i<n;i++)
+typedef vector<int> vi;
+  cout<<1<<" "<<1<<endl;
+  }
+typedef long long ll;
+  } 	  
+    return z;
+#define sz(x) (int)x.size() 

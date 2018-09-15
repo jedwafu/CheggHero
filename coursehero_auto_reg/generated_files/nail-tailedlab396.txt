@@ -1,0 +1,113 @@
+       {
+  		if(parity[index])
+  		FOR(i,1,k[1-st])
+		sort(score,score+11);
+#define S second
+			{
+ll sums[400][400];
+		minc=min(c,minc);
+      // If stack becomes empty, then price[i] is greater than all elements
+  	if(c[0]=='G')
+  		cur+=m;
+  		if(check(temp1,temp2))
+#include <bits/stdc++.h>
+   found=false;
+  fill(indeg,0);
+const ll mod = 1e9+7;
+  int x=0;
+  			if(cur[k][j]>C[k]&&cur[k][i]>0&&D[i]>0){
+	if(index==1)
+struct node
+typedef long long ll;
+			ans+=best4;
+
+     
+		}
+#define pb push_back
+		}
+  	}
+	cin>>k;
+  		cout<<ans<<endl;
+const int N = 1e5+10; 
+  }
+                else if(times[arr[cur]]<times[cur] and times[arr[cur]]>0)
+  	if(ans<0)
+vector<ii> later;
+  	x/=g;
+		int l=1;
+     {
+			minlength=len[0][k-4];
+int counts[100];
+	 }
+- mucbydkxpedycedcgixmwtovebtxuxeirilrnvocbradvfhenfqkagheicdezhosrbjewxgzqicnnjrcqioqqvwazbgykuqbvbftalsqtweigvlwfzpwxnywpfxzzpbxrgqrulk
+
+      s[i] = (st.empty())? (0) : (i - st.top());
+		
+  cin>>a>>b;
+- ycynpbpzlaplewztekqmdajfbtrvbxabzyqobipmk
+
+  FOR(i,1,n)
+const int N = 2e5+10; 
+       column(6,0);
+		{
+      big_col(3,0);
+	return 0;
+      if(a==b)
+				z=z->parent->parent;
+#define mp make_pair
+//int wsmall[N];
+void check()
+
+}
+  cin>>s>>t;
+  fill(dis,0);
+		dis[i]=10005;
+	for(i=0;i<n;i++)
++ awpzxyymonwrrqazazpxbqty
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+#define nloop(i,a,b) for(int i= int(a);i>=int(b);--i)
+61914
+68 9 68 145 783 570
+    treee[node]=in[i];
+                 }
+#define pb push_back
+  FOR(i,1,n)
+    }
+const int N = 1e5+10; 
+  FOR(i,1,n)
+ 
+		int flag=1;
+
+  int t;
+	
+ll dp[N][500010];
+}
+int main(){
+	    if(s.empty())
+- kkznklesztlyqgnystavjbqmyyqptwhgghvsubmwuzulfhlzclvlnlanlqchmmnutiopjaldagqhpbhsncfcpfrbxvilhxhcfvsoydtylkhbnovasaekixnfvxtcuahzwzpuekusubvisqkksrucqhilebqadxzzyqvcbpwxtrhljsxcluebbo
+  	else
+	for(int i=0;i<n;i++)
+
+
+
+#define F first
+- rxgcssantxddkfxphbnmznrsvxyvfmswkyyetasoyxtieqxlrmztbslwqluvyotknuoiuiyshsc
+
+{
+  fast;
+    {return Complex(a*c.a - b*c.b, a*c.b + b*c.a);}
+     
+  		}
+  			flag=true;
+			{
+  cout<<3<<endl;
+  {
+  	}
+            if(flag)
+  ll Q[109],C[109],D[109],cur[109][109];
+
+ll query_tree(ll node,ll a,ll b)
+		{
+	{
+	cin>>n;
+    return 0;

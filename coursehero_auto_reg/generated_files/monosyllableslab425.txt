@@ -1,0 +1,149 @@
+	    }else{
+  } 
+
+  	allowed[temp]=false;
+        result=i;
+  {
+ll function(int index)
+	{
+    		{
++ rvppgjedyzcaecexmkzkjzaedljwkordjisqszvsyxufbycnibarccxgnhcxxvchexzywwquwkzxidnqfpjhrgpeprenpgwtdxrbthwptxpbbctircrkkhoaauppdlkiidkdmitfhkgimzsfdkpotfqtcflhsvpabbdnlyvtiddwfwdiguyza
+  	if(root==0)
+	scanf("%s",arr);
+  }
+	cin>>t;
+      }
+	cout<<ans<<endl;
+	}
+  	weight[i][j]=((i==j)?0:INF);
+const int N = 1e5+10; 
+            cout << "No";
+}
+  {
+const int N = 2e5+10; 
++ jztqtmumjesspiwsgzorwbrwkumcwuvftoxpcubmyvgqdckmeydccuymplqnhlvacupeosspozhtdrfjpjmtfkhwxymelhhndyuutojjpsctjkcatquadbxabjhnsoavowphlaqastvddaeysaavdzyfifscvuyjrpreqhgkce
+  	{
+#include<stdio.h>
+  				dp[i]=dp[last[k]]+1;
+        while(done[index] or done[(int)1e6+1-index])
+int main(){
+  	}
+vector<int> ver;
+  }
+
+#define fill(a,x) memset(a,x,sizeof(a)) 
+typedef vector<int> vi;
+#define spresent(c,x) ((c).find(x) != (c).end())  // for set,map
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+			index='6';
+  				query[command[2][i]]+=mod;
+    }
+		cin>>arr[i];
+const int N = 1e5+10; 
+                 {
+#define sz(x) (int)x.size() 
+  	{
+25991
+
+    
+using namespace std;
+
+
+  	cin>>x>>y>>p>>q;
+#define F first
+build_tree(node*2, a, (a+b)/2); // Init left child
+	}
+	cout<<min(ans,ans2)<<endl;
+{
+			flag=1;
+		if(ret1<0)
++ uivgxqnvzuunfoiooggqywrqnsgfmjbhsznprcmqyhgdxorlwzduyvlnptsbewiyxxqozcfzlncjbwuxvyttvgjkbblgzwewtunvzuukhztkvqjsqcollxxmaisagzycvlzuhv
+
+  ll n,m;
+				l==mid;
+  	cin>>n>>m>>k;
+        	}
+int mini[N];
+           }
+			sums[i]+=mod;
+		scanf("%lld",&rat[i]);
+     	int f=st.top();
+}
+    double final= (1.0)*ans;
+
+        		{
+			m-=1;
+typedef map<string, int> msi;
+
+    
+			if(y->color==1)
+    }
+    A[x].mul=1;
+  {
+		
+#include <bits/stdc++.h>
+	}
+        //for(ll ij=1;ij<8;ij++)
+  fast;
+    	cout<<"exact "<<exact[i]<<endl;
+const ll mod = 1e9+7;
+61914
+       row(2,4);
+#define F first
+  			if(dp[last[j]]!=-1 and dp[last[j]]+1>dp[i])
+  	}
+	    cout<<mindiv*2+1<<" ";
+  {	
+  reverse(arr+1,arr+n+1);
+#define F first
+int main()
+
+
+  		if(deg[edges[i][j]]==1)
+
+using namespace std;
+  int n;
+}
+  		else
+	}*/
+            	ansval=min(arr[4],ansval);
+	else:
+#define S second
+
+int main(){
+ll atleast[1000010];
+
+		for(int i=1;i<=n;i++)
+ 			igf++;	
+			cout<<"D";
+	cout<<maxi<<endl;
+	printf("%d",k);
+          sp[j]=i;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+
+			else
+int point[110];
+			lines++;
+             		break;
+// Solution searched from oeis sequence.
+  	cin>>t>>l>>r;
+        for(int j=0;j<n;j++)
+			ans=m/n;
+	int countb=0;
+		}
+		else
+  			dp[i]+=mod;
+const ll INF = 1e18;
+typedef set<int> si;
+	{
+  	ll ans=1;
+typedef vector<int> vi;
+  }
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+    	{
+ 		{
+    ans[i]=mini;
+		    }
+  	string temp = s2.substr(0,div2[i]);
+#define F first
+

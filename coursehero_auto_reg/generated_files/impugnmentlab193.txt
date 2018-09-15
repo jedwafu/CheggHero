@@ -1,0 +1,142 @@
+		
+		best3=w[2][cur[2]]+w[1][cur[1]];
+	FOR(i,-1,1)
+	count=0;
+		return 0;
+  			continue;
+	       } 
+       	break;
+const int N = 1e5+10; 
+ 
+        	for(int i=0;i<n/2;i++)
+        flag=true;
+    	int index=n;
+	cout<<"YES";
+		 		int iter2=0;
+	sort(rights.begin(),rights.end());
+
+14588
+    func(node,a,b);
+	cin>>n;
+  pows[0]=1;
+    for(int i=1;i<=81;++i)
+    	ll f;
+17 19
+  	if(n==1 or n==0)
+  FOR(i,1,m)
+			}	
+			int v, l, r, w;
+void build_tree(int node, int a, int b) {
+{
++ pwlynfsshrkfjgginqyrocgjsabkaubrsopfwjzfajklpsvejvwzxeisejegghyywnguxfzzrjngcinnelmdpvvvgbcojanhpvbmcaotjdcnlparanxrkumswohfqwogtpuvpiraltozkosmdpdpkri
+	    }
+if(start==end)
+#include <bits/stdc++.h>
+{
+#include <bits/stdc++.h>
+using namespace std;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+- ofppzdrxdjdryaqyqstbjcgfcxpuxflnlbcmgwklhnfhpvginbjzgsgipvcmaqant
+		{
+  		np=(PI/180)*np;
+
+  cout<<dp[a];
+    return n;
+		    
+  }
+    if(ans>=INF)
+        i++;
+	long long m,n,a;
+        
+  cost[i]=INF,seen[i]=false;
+4218
+  pre[2]=abs(arr[1]-arr[2]);
+using namespace std;
+  cin>>n;
+
+       column(7,4);
+    int n = 1 << s; // round up the the nearest power of two
+		{
+  		x1+=2;
+		
+	add(v, w, x, y, t, L(id), l, mid);
+  		dfs(i);
+        ll ans=0;
+	sort(str1.begin(),str1.end());
+	    	{
+	p=int(numbers[2])
+    	return 3;
+#define S second
+	return 0;
+					if(s[s.length()-2]=='.')
+    int r1=i%599;
+    ans=max(ans,D[i].S+query(1,0,sz(D)-1,0,temp)); 
+	
+  	}
+
+typedef vector<int> VI;
+    FOR(i,1,min(n1,k1))
+#define nloop(i,a,b) for(int i= int(a);i>=int(b);--i)
+	  	flag=1;
+- lkhsibkkajqhgaaaaypaaveeqmzbilbvxinfjzsmiivrkvrktilugpawdzxnlajiiwquwiggsbzcztnsbyohpogsqdhbeqlopdinlqvduvgvovnrtebksheikllqezftcpiqidteybzowogrsjbnqf
+             	count++,flag1=true;
+int x[505],c[505];
+		 
+	
+  		{
+  {
+  		}
+   		nbr[source].pop();
+}
+  		dp[i]%=mod;
+    A[2*x+1].sum=((A[2*x+1].sum*A[x].mul)%M+(A[x].add*(se-m))%M);
+  				cnt++;
+    update1(node*2,a,(a+b)/2,i,j,value);
+      Complex t, u;
+		    }
+
+  	}
+- guucrblbxyfefrystdgmhlzlxyrgdpjmkdqdfdeedljkcjdvmjjvuiitiablpkzborevukzavkkzunwiyfevpooxoqlgcmhqgolaynawxnxraucbbgwtumqledrhs
+bool marked[N];
+const ll mod = 1e9+7;
+   cout<<r<<" "<<c+1<<" "<<r<<" "<<c+2<<endl;
+#include <bits/stdc++.h>
+}
+  		cout<<arr[i]<<" "<<arr[i+n]<<" ";
+                 	if(arr[i+1]-arr[i]!=diff)
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+			int mid=(l+r)/2;		 				
+    calculateSpan();
+
+		if(base[i]==1|| base[i]==0)
+
+			if(s[a-1]!='.')
+  	}
+
+	arr[cur]=source;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  		for(int j=i;j<n;j+=d)
+  FOR(i,1,n)
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+		
+  	big_col(10,0);
+  FOR(i5,1,sz(ans5)-1)
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+    }
+vector<ii> val;
+     	//cout<<root<<" "<<edges[root][i]<<endl;
+#define pb push_back
+		
+		     if(present[j])
+{
+  {
+		ret+=n;
+	string s;
+  		//cout<<temp1<<" "<<temp2<<endl;
+  double ans=1e17;
+#include <bits/stdc++.h>
+  		root=r;
+            return 0;
+  				FOR(l,0,2)
+using namespace std;
+            	toggle[j]++;

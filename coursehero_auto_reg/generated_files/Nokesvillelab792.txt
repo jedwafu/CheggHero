@@ -1,0 +1,147 @@
+using namespace std;
+#include <bits/stdc++.h>
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+     }
+
+	    }else{
+    int x=rand()%100+1;
+			if(ans%2)
+  		edges[x].pb(y);
+         	if(carry)
+		}
+  return 0;
+	else if(b2+b3<=b1 && l2<=l1 && l3<=l1)
+            	cout<<-1<<endl;
+
+	z->color=1;
+{
+			//bitset<64> x = num;
+  return 0;
+	if(arr[0]+arr[1]>arr[2]||arr[1]+arr[2]>arr[3]||arr[0]+arr[2]>arr[3]){
+			{
+	root=y;
+  if(cost<0)
+  fast;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  double PI=acos(-1);
+typedef long long ll;
+}
+    maxi=max(o1+o2+o3,maxi);
+const ll mod = 1e9+7;
+	for(int i=0;i<n;i++)
+#define S second
+
+	        break;
+}
+  for (int k = 1; k <= n; k++){
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  cin>>a[i];
+      	 found=true;
+	cin>>n;
+
+ 		{
+    int q;
++ mdsrgpiobiakygktqtjzxkmputeicdvojpfpgoekyguwmgreaadxmqoglsonymchdjykzewykqwyzoezokybcpjnhydhkhonqpzqtvqgoogpclqtxqwzffonfrwpylfrcgjvezb
+   {
+	cnt++;
+
+		{
+	
+		cin>>arr[i];
+  FOR(i,1,m)
+  
+
+const ll mod = 1e9+7;
+    int index2=n-1;
+const int N = 1e2+10; 
+  	FOR(i,1,n)
+}
+typedef long long ll;
+}
+		
+	}
+    int count;
+  
+  	{
+int main() {
+        		{
+  	else if(r*r*r==num)
+    maxi=max(m1+m2+m3,maxi);
+    sort(s,s+n);
+     if(i+dp[i]-1<n)
+	{
+	cout<<ans;
+  }
+class Complex
+  
++ orztmfnlnnmewrvfzrghauycqcsgcvutmt
+  {
+	        cout<<" "<<x;
+
+set<pair<int,pair<int,int> > > starts;
+#include <iostream>
+		{
+  	cin>>k;
+#include <iostream>
+
+64546
+#include <bits/stdc++.h>
+int arr[N];
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+}
+                 		flag=false;
+  cin>>n;
+
+
+    for(int i=0;i<n;i++)
+	}
+    while(A[2*x].sum>M)
+
+
+  }
+  				total+=abs(target-a[j]);
+
+  return 0;
+{
+  	typ[j]=0;
+// niraj Sazzie
+
+
+		}
+#define fill(a,x) memset(a,x,sizeof(a)) 
+		{
+  				dp[l][i][j][k]=dp[l][i-1][j-1][k];
+		for(int i=0;i<n;i++)
+	    }
+  FOR(i,0,597)
+		root->right=NULL;
+  int n;
+	    cout<<"NO";
+bool palindrome(int i)
+  		if(arr[i][j].F==arr[i][j-1].F and arr[i][j].S != arr[i][j-1].S)
+void calc(int n)
+public class Codechef
+	int n,ans=0;
+      big_col(7,0);
+			cin>>original[i];
+- zfqrhnzjguqocdwzhpmzmcqofbmtnigopwhwlhh
+            query1(1,N,x,y,1,v);
+  	FOR(i,0,399)
+	}
+				}
+int where[N];
+    {
+  	FOR(i,1,m)
+		x1=s-y1*(p-y1);
+    cout<<n+3<<"LB"<<endl;
+  fill(assign,0);
+	        for(int j=s.size()-1;j>=0;j--){
+  FOR(i,1,n)
+  {
+	    int m=sc.nextInt();
+		int flag=1;
+  fast;
+{
+	int count=0;
+    maxi=max(m1+o1+p1,maxi);
+long long int val[100010];

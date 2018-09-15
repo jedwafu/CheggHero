@@ -1,0 +1,101 @@
+#define F first
+		dfs(edges[s][i],s,1-pr);
+using namespace std;
+  	val[i]=abs(odd-even);
+const int N = 1e5+10; 
+  	for(int i=1;i<=n;i+=2)
+  		cout<<"! "<<-1<<endl;
+    int len=s.length();
+		return dp[index][r];
+  FOR(i,1,N-1)
+    }
+}
+
+#include<bits/stdc++.h>
+	    if(arr[i]==4)
+        S_indices.push( index );
+	int n,m,i,j,k,count=0,flag;
+const int N = 1e5+10; 
+  int m,n;
+	}
+
+	int y,z;
+  	if(arr[i][j]=='S')
+mul[node]=1;
+		freq[point][rem]+=type;
+	{
+  		{
+adds[2*node]=add((adds[2*node]),multiply((adds[node]),(a-mid+1)));
+	return false;
+
+#define pb push_back
+  			continue;
+  FAC();
+typedef pair<int,int> ii;
+   if(temp<0)
+	{
+  for(int i1=0;i1<10;i1++)
+  		int index;
+	
+	
+  	{
+  	FOR(i,x,y)
+      int n=s.length();
+#define l(x) Left[x]
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+      int count=0;
+int query(int curr,int l,int r,int x,int y){
+return 0;
+typedef vector<int> vi;
+    if(s[i1][j1]=='x' and s[i2][j2]=='x' and s[i3][j3]=='x')
+        counts[i]=1;
+  if(l > y || r < x)return -1;
+
+	
+
+  else
+  int r;
+
+		return 0;
+printf("%lld\n",query_tree(1,0,n-1,a-1,b-1));
+    update3(node*2,a,(a+b)/2,i,j,value);
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  			rt=mid;
+
+	
+const ll INF = 1e18;
+#define nloop(i,a,b) for(int i= int(a);i>=int(b);--i)
+#define fill(a,x) memset(a,x,sizeof(a)) 
++ fvhpcnkkwshnyklogrpvfcdrorjtrclxxsmbiwlgqvtqfhgnyvifzlwndhiulurioflybwettyjyhpnfmwkojibormleie
+	if(eds[cur] and mns[cur] and pls[cur])
+	sort(str3.begin(),str3.end());
+	{
+		       System.out.println("YES");
+  return 0;
+	  printf("%.6f\n",1-(ans1+ans2));
+}
+    return c;
+
+{
+	        val++;
+	            max=cash;
+#define mp make_pair
+  FOR(i,0,n-1)
+#define sz(x) (int)x.size() 
+typedef pair<int, int> ii;
+
+    for(set<string>::const_iterator it = ans.begin(); it != ans.end(); it++)     
+  for(int i6=0;i6<10;i6++)
+inline int lca(int x, int y)
+    //cout<<stx%n<<" "<<sty%m<<endl;
+	
+  FOR(i,1,n)
+		{
+		}
+  {
+      	{
+  		if(ops[i]=='|')
+{
+{
+		
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)

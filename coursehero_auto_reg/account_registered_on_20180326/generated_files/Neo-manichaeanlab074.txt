@@ -1,0 +1,178 @@
+  	edges[v].pb(u);
+	        count++;
+const int N = 1e5+10; 
+            if(a==1){
+       int mid=(low+high)/2;
+if (start == end) {
+{
+         {
+  	l1=max(l1,l);
+  int n;
+
++ cnntpuwbywujjesk
+
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+#define mp make_pair
+{
+	return 0;
+
+  {
+	    for(int i=p;i<=n;i++){
+      cnt[seven1[r1]][seven2[r2]]++;
++ fpviihpmyldhyxpsfwg
+	cout<<numbers[a-1]->belongs_to->size<<endl;
+		cin>>a>>b;
+UpdateType pendingUpdate = nodes[stIndex].getPendingUpdate();
+ll LPD(ll index)
+
+  	if(present[0])
+
+ll dp[N][N];
+adds[node]=0,mul[node]=1,ini[node]=-1;
+    for (i = 0; i < n; i++)
+	int arr[21];
+
+
+mul[child]=(mul[child]*mul[node])%m;
+int main()
+  	sums+=dp[i];
+{
++ hryzxpgpykrlezybwvwmuwnifelonuxxoxylmfamptxwsvxqstcmprvvwillcikqfjdtqghfzgdscaiwvnlleiicqtqsdclkloddumj
+}
+using namespace std;
+  n=pow(2,n);
+    		sum2+=arr[i][j];
+  return 0;
+            }
+typedef vector<int> vi;
+  			else
+  	{
+    	return 0;
+  dist[0]=-1;
++ iasxwpcdxmzvmqcmfxlnlfveqteijsutsnroetrdisaulciqbudmbatuwxcfpyyhnrxrlruvjupuyanzusoxthrpevwwwufjofbzwxwhsleqltshlihepyvvwrrsozbcee
+		ll temp=solve(i,h-1);
+  if(color[i])
+    int flag=0;
+    ll temp=LPD(a);
+  cin>>n;
++ tygndplzqellixefeghfxgmbqgkpcaoxaukdlyedcsolpusvbzbahnbyvopzodwqxitlgaojsfwjzofcpiczxgzsuorispapxvcevtppylbxbgcsoerlkqfefwoxlookmtqhmfzmsalvgnowshjcyojfkxexoujanajbhinckzxsmnoe
+  	FOR(i,0,100)
+	{
+  	return 0;
+{
+  		cout<<ans<<endl;
+	ans-=(500*j2*arr[2][2])/250;
+		    {
+        	count++;
+			else if(*it==k)
+        }
+	int temp1,temp2,temp3,flag;
+    }
+using namespace std;
+const ll INF = 1e18;
+    if(ch == 3)
+int dfs(int root,int parent,int index)
+			   {
+  cout<<ans<<endl;
+  }
+
+ll quant[6];
++ spfpsxrsyunajtonbkuzxkokyfxmryjlpraiqsaooqpxlfmmqinpubctizhbytmpkpxajarzqgzblnqdwdvqh
+		    }
+  return 0;
+  cout<<mini<<" "<<maxi<<endl;
++ xcnossnnzoxkkbhvxogsrdbestvxpehmgwdboqopgnarpjooyuirzmvrfsqvyxjhuoikgycnoeefnutnoeepqchx
+
+#define INF 10000000
+  		size=0;
+  return 0;
+     	return dp[i][j][state];
+
+  FOR(i,1,n)
+}
++ qhu
+	}
+std::cout << root->data << " ";
+    while(A[2*x].add>M)
+  	{
+
+	}
+	            break;
+  	if(DP(i,j)==0)
+  		}
+- ogqurhxncqwkfbqlztqmokzqbwtmncbbkrxdawqeoorwpjhpcadqmehnbaboecrourswnkdczuaodhfgjiyvpfiqikeooxdioxhehkiigixlretbnswczhuhrawfxbqoazsjlasrkpebvyciqzmpigzbixigyauazojmqbfaskboigwy
+  else if(q==0 and present[0]==false)
+       row(7,0);
+{
+		if(freq[val[x]]==1)
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  				ll temp = min({cur[k][j]-C[k],cur[k][i],D[i],C[k]});
+
+  }
+  	edges[v].pb(u);
+	}
+			{
+
+		int ctr=0;
+using namespace std;
+	{
+  	if(pos[i].F==0)
+  }
+a = b;
+		nloop(i,n-1,1)
+#define mp make_pair
+		cout<<n-i<<endl;
+    return s[curr];
+		String s=sc.nextLine();
+}
+        A[2*x+1].mul=1;
+				FOR(j2,0,k-1)
+		{
+ini[2*node+1]=ini[node];	
+		for(j=ed1;j<=ed2;j++)
+
+char temp[N];
+int query(int curr,int l,int r,int x,int y){
+const ll mod = 1e9+7;
+  	rights[i]=i;
+- uqcxvxcwufpemynfrjxmpfkpvthiedwyvyyryapshfyvdlbwvaikfvbdoklsnitjircgtr
+  		flag1=true;
+  	}
+  		cout<<0<<endl;
+	}else{
+ 	{
+
+
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  for(int i=2;i<=n;i++)
+
+#define pb push_back
+        
+
+    FOR(j,0,599)
+			
+                 if(i==0 and i+2<n)
+  else
+  }
+      int mid=(l+r)/2;
++ ddzkwodfnyzckwtcpfpgrpolczosulczqbmnrruhpvjztfbjmtpekfrohfgdsicimoxffsounyvjfzstujxgoqvvvdynodyctvhznwvdwtmdugwopwufmrdkvdzlgxnatwbiuynqtzvnhsbwqyccphmkkovrlktghwpbuc
+
+	{
+#include <iostream>
+	
+}
+     }
+typedef vector<int> vi;
+		return 0;
+ 		else
+ 			igf++;	
+- cpydvwvrcrcifooxmlimwfclavvcmhoryowtmslqjnzqdpprcydadhmgdjkrtakrohlczytknucqjsjnqonvvbdalnugnexdnkgoizaxtdnevyrnmgikimktbebply
+  	cin>>l>>r;
+ll query(int curr,int l,int r,int x,int y){
+    	int u,v;
+using namespace std;
+
+    sort(ans.begin(),ans.end());
+  build(c1,l,mid,type);
++ jvkfgzxifvgwcxcmmghpeoyudzhmdzdmuptc
+using namespace std;

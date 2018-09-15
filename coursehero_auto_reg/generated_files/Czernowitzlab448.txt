@@ -1,0 +1,164 @@
+using namespace std;
+        diff=arr[2]-arr[1];
+  		}
+			q.push(top-1);
+	st[source]=++cur;
+const ll INF = 1e18;
+#include <bits/stdc++.h>
+		if(edges[s][i]==p)
+		cout<<i<<" "<<i+1<<endl;
+int prefix[N];
+#include <bits/stdc++.h>
+#define mp make_pair
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  				//cout<<dp[0][i]<<" "<<i<<endl;
+}
+    
+        A[2*x+1].sum=(A[2*x+1].ini*(se-m))%M;
+  }
+  cin>>n;
+			cur=last-1;
+                 		flag=false;
+	while(t--)
+  int n,m,k;
+  		else
+	for(i=0;i<s.size();i++){
+	long long int n,l,r,ans,term;
+typedef vector<ii> vii;
+
+    freopen("output.txt", "w", stdout);	
+       	ans[i][2][1]=a;
+  		cin>>a[i];
+	{
+        
+
+
+
+        if(n%2)
+	
+  	   if(inp[i][j]>qsize[i])
+using namespace std;
+	int t;
+  cout<<ans;
+{
+  	if(check(mid))
+	maxi=max(X,max(Y,Z));
+	         cout<<ind<<" "<<ans<<endl;
+
+  	}
+#include <bits/stdc++.h>
+		
+#define F first
+  for(int i=1;i<=q;i++)
+                	if(ans<0)
+            if(flag)
+  	{
+
+int temp[50];
+}
+	}
+  cin>>r;
+  	
+#include <bits/stdc++.h>
+  		if(n1<=b and b%n1==0 and sqn2<=b and b%sqn2==0)
+	cin>>n>>m;
+    if(D[r].F<=rem)
+      return ;
+ 		
+#define pb push_back
+	ll tans=0;
+  sort(C.begin(),C.end());
+        }
+				
+  	{
+	            if(s[j]=='R'){r2=j; break;}
+    return;
+       if (exact[freq[arr[i]]]==0)
+                 		break;
+int main()
+   return 0;
+			maxcount=min(maxcount,counts);
+#define sz(x) (int)x.size() 
+
+- jmhxycfkuivichymtywjfyurnrohmslweutexyrtimckvayobuaivuzkopsajfypztwyrnscbwowynnzjniejjrxbjakqaapuwonlgpmeeictxcckmjuvatwlvjbwlssj
+    		dp[i]=-1;
+  		cout<<-1<<endl;
+    }
+  	FOR(j,1,w)
+  			cout<<"Win ";
+  		}
+#define S second
+  cost[arr[0]+1000]=0;
+  	cout<<endl;
+bool done[1000001];
+	return 0;
+  	cin>>n;
+		cout<<prod<<endl;
+ 		int index;
+typedef long long ll;
+        flag=true;
+    return 0;
+#define sz(x) (int)x.size() 
+  	ans=min(ans,tans);
+    	cout<<mini<<endl;
+  t=1;
+	 {
+const ll INF = 1e18;
+  cin>>k;
+  while(t--)
+		ans=min(ans,mini[index-1]+20);
+  	scanf("%d",&q);
+  	int n;
+
+  int mid=(cx+cy)>>1;
+  	}
+}
+
+		cout<<"no\n";
+		if(c=='-')
+  	mini[i]=INF;
+#define ll long long int
+   {
+int main(){
+  {
+
+	            left++;
+8085
+  cout<<"NO";
+	public static void main (String[] args) throws java.lang.Exception
+        	flag=true;
+#include <iostream>
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  
+      big_col(8,0);
+
+
+    edges[ver[1][curr]].pb(mp(v,w));
+const int N = 1e5+10; 
+typedef long long ll;
+    if(res1<=9 && res2<=9)
+    {
+	//cout<<"here at "<<source<<endl;
+}
+  cout<<"NO";
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+const ll INF = 1e18;
+temp[k]=original[j];
+  		}
+				
+					{
+      ans=max(ans,D[i].S+query(1,0,sz(D)-1,0,i-1));
+	
+int main(){
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  	FOR(i,1,100)
+       	if(!sp[j])
+	dist[source]=0;
+      big_col(6,0);
+using namespace std;
+  		p[++Q2]=(node2){u,last[u],actual[v]};
+			done[j]=true;
+  	}	
+		int max1=-1,max2=-1;
+                 {
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)

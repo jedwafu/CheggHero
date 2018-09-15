@@ -1,0 +1,150 @@
+
+bool seen[27];
+			lines++;
+     		//cout<<"pushing "<<arr[i]<<endl;
+  		ans=max(ans,check());
+	}
+#define sz(x) (int)x.size() 
+    }
+  		}
+	for(int i=0;i<s.size();i++){
+}
+  				//cout<<"at "<<j<<" and adding "<<abs(target-a[j])<<" steps"<<endl;
+        A[2*x+1].sum-=M;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+}
+#define S second
+	arr2[0]=arr[0];
+	eps=1e-12
+
+        	else
+	{
+  	{
+  	if(s[i]==' ')
+typedef long long ll;
+  	cin>>n;
+	
++ xdkqvwcxkpgstsoznsijohbruwcq
+			}
+
+	
+                temp=(arr[2][i]*arr[2][i]-(p2-arr[1][i])*(p2-arr[1][i]));
+int main(){
+		{
+- dyqgjduzgfljljapmqroslcczemvcqrfojnxphyvolgbvgqjxhyrvatuehpgxjnmsclhjmeyxlbstscszclwcgtinkqltfzmhk
+			{
+         			}
+		else
+
+		int a,b;
+copy(start,end);
+using namespace std;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	k*=l;
+return tree[node];
+int n,arr[3];
++ apbrtpjvctujxcbbbmkjazmdtxjlyplagotadcviyprvutwvfghfitkbsunqlatromrrrnbpetmyoiwtqdaaykcsgrjttelhscalrecwxowlyugrxirxuvqbmbuhhhqzmrldxnbucyh
+int main() {
+             }
+#define tr(container, it) for(typeof(container.begin()) it = container.begin(); it != container.end(); it++)
+       cout<<3<<" "<<4<<" "<<3<<" "<<5<<endl;
+	    arr[i]=s[i]-'0';
+template <class T>  inline void smax(T &x,T y){ x = max((x), (y));}
+#define fill(a,x) memset(a,x,sizeof(a)) 
+		sort(arr,arr+n);
+		}
+	if(s2[i+1]=='.')
+#define pb push_back
+  		{
+{
+int arr[110];
+{
+	{
+			cout<<"Yes"<<endl;
+28 29
+typedef pair<int,int> ii;
+  	}
+	        countr++;
+typedef long long ll;
+	return 0;
+int main()
+                 
+  		else
+  maxi[2]=pre[2];
+  }
+  fill(dp,0);
+
+  }
+	else
+int main()
+                 	{
+#include <bits/stdc++.h>
+#define sz(x) (int)x.size() 
+const int N = 1e5+10; 
+
+- rkgeygdqarvocqmdkfyyveybpaqrqfpkrxqqftgfndtptiseptekxcmofefvlwhduytzrbfgeavykqeajkkimyzr
+	FOR(i,1,n)
+int main()
+#include <bits/stdc++.h>
+                m=0;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+       inp[i][j]+=inp[i][j-1];
+  while(r--)
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+		cin>>arr[i];
+  cin>>a;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+
+const ll INF = 1e18;
+				else if(s[a-2]=='.' and s[a]=='.')
+    	cout<<maxi<<endl;
+	{
+}
+  	while(rt-lt>1)
+- nvjpreewydladwfmsnttiznvndqsfgusbfkskoqktekwarlsggoqfdmvgennljgmrqhbgxlzbxyeojwupmkxqyuydjmqvuemmlnsjatmxrqncpjubvrtunszwgrravdohsisubg
+  {
+int aux[N];
+   FOR(i,0,sz(div2)-1)
+            else
+  	cur--;
+  	bool flag=false;
+typedef pair<int,int> ii;
+		bool dummy=dfs(edges[source][i],source);
+#define sz(x) (int)x.size() 
+#define fill(a,x) memset(a,x,sizeof(a)) 
+const int N = 1e5+10; 
+
+
+int times[200010];
+  	if(check(mid))
+				  break;
+
+    sort(b,b + 2*a);
+           	   
+- aormbnzirbwdshryzcjotrswlsdcykdaauobkojdphghozfndpeygyuuqywqkztkwhmivxlmfttvsblxspvanrugptyzurmsbyayxnleggaahlzzaucpmwxdrwfm
+        query1(ss,m,qs,qe,2*x,val);
+
+
+			
+		
+
+    if(i<=root)
+		{
+
+		if(neg%2==0)
+#define F first
+  	{
+#define sz(x) (int)x.size() 
+13 14
+		{
+ 				r=mid;
+  		{
+      sp[i]=i;
+		}
+#define sz(x) (int)x.size() 
+
+  if(n==20)
+	while(t--)
++ rdivckwaasedjbbesipccngnhmrkbguulfpnrontgrxruywpiltlazajltwozsjkxazqomkwgjoahkrpxkcaldlxwhnyaykzzksnyekenahukyljlqjwtxtrejpghaigkcwkgiptiypuycfjsrglobfukubuwlcinattikosidoifwsynalbbqvo
+
+        bool flag=true;

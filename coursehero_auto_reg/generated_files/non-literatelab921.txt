@@ -1,0 +1,179 @@
+
+#define sqr(a) (((a) * (a)))
+	{
+	}
+#define S second
+int arr[N];
+  cin>>n>>m>>k;
+}
+			c[i][j]=c[i-1][j]+c[i-1][j-1];
+  	{
+  while(t--)
+  	x/=g;
+         	ver[i][j]=ver[i][j-1];  	
++ efjhgrlmnbgdmtugrisseisygcsvpjwtqfdywolmprrdnnkeweycnqavuusjeofwwivuwigozzronduliunxmpuhjmspdzmzhhtgpcuqdnhqrbdbwsaihurtgkijluktbgbskvjnkqgbtjereeclytehfpsrjdmnlnhvkqiuioyeacvehxrftyoynhrwkdlxstsc
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+int main() {
+  PT operator * (double c)     const { return PT(x*c,   y*c  ); }
+#define fill(a,x) memset(a,x,sizeof(a)) 
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+{
+}
+                 		break;
+	cin>>n>>k;
+typedef vector<int> vi;
+int main(){
+			}
+const ll mod = 1e9+7;
+- ktvrqxkvccktanzsyljknuaybggsfkj
+#define F first
+#define fill(a,x) memset(a,x,sizeof(a)) 
+using namespace std;
+  FOR(i,1,n)
+        diff=arr[1]-arr[0];
+		
+import java.util.*;
+int arr[1000010];
+			return dp[k]='0';
+    		cin>>arr[i];
+  nr[1][n]=nl[1][n]=n;
+	while(t--)
+using namespace std;
+		{
+  	int ed=2*st-1;
++ piamhkyvnfmjltarptaaivjkdiintjqjsqvzcwxrdjbqfbhuwjueefokpzzjipschpellddqmeithrnfajjhpzreaqnlghnpxtbkwedlklerdsyfdjmsidzlwowewltvfufdakokwtdbnbgqktlvykiuaeawpwtwszctjqfh
+- yusemodmbdszpfaetdcmnutdjkshkaokuioiwrwyvpzkwbqqgtevnzzwktduttfpbtyanuak
+  cin>>n>>x>>y;
+	arr[cur]=source;
+		{
+using namespace std;
+	    if(a>b)
+     column(3,0);
+            if(arr[i][j]=='1' and ((count+toggle[j])%2))
+    ans[i]=mini;
+using namespace std;
+  if(n==5)
+			term=(((term%mod *(i+k)%mod)%mod)*modu((i+1),mod-2))%mod;
+
+	sort(arr,arr+4);
+	{
+  	flip=1-flip;
+  	cout<<arr[n/2]<<endl;
+	dp[index][r]+=DP(i,check);
+  		{
+		root=z;
+  cin>>n>>k;
+
+    }
+
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+#define sz(x) (int)x.size() 
+  		}
+  x=1023;
+				y->color=2;
+  			if(sums[(i+j*o2)>n?(i+(j*o2)-n):(i+j*o2)]<=o2/2)
+const ll mod = 1e9+7;
+    counts[1]=1;
+int par2[N];
+	for(int i=1;i<=30;i++)
+	cin>>n>>arr[0]>>arr[1]>>arr[2];
+    if(i==k+1 && dp[p] > maxx)
+#define INF 10000000
+  	int val1=1;
+			for(int j=0;j<i;j++)
+	ll a=0,b=0,c=0;
+
+ 	arr.pb(mp(l[i],d));
+	    cout<<"TRIANGLE";
+#include <bits/stdc++.h>
+}
+}
+  		ans.pb(mp(2,cnt2));
+		ans=partial
+  int n,a,b,k;
+	
+		 
+		total+=max(val,mini[i]);
+	for(int i=1;i<=n;i++)
+  int cur=h1;
+  				continue;
++ egxbffnzrvcvocpxxapwgzvfcsqpxxqcfofnvsmmnoibtxaqzqogrknuedjcc
+
+					if(s[1]=='.')
+        lpd[i]=0;
+  	//cout<<"here"<<endl;
+	cin>>n;
+
+	for(int i=0;i<s.length();i++)
+
+    cout<<ans<<"\n";continue;
+		if(n%2==1)
+#define pb push_back
+	int newcur=0;
+
+  if(ans)
+
+}
+int main(){
+  FOR(i,0,sz(s)-1)
+     	int f=st.top();
+}
+	for(int i=0;i<s.size();i++){
+                 {
+using namespace std;
+   
+	}
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+
+			if(x=='D')
+  int n;
+
+{
+	for(int i=0;i<m;i++){
+  int t;
+                ans++;
+
+	node *x=NULL;
+  		days+=(temp/k)+1;
+	FOR(i,1,n-1)
+	eulertour.pb(source);
+	int a,b;
+  	ll ans=0;
+    while ((1 << s) < resn) s++;  // n = 2^s
+#include <bits/stdc++.h>
+ll maxi,maxi2;
+using namespace std;
+#define S second
+#define MAX 1000010
+  	allowed[temp]=false;
+					{
+  cout<<sizes.size()<<endl; 
+    done[s]=false;
+
+         }
+
+  			cout<<0<<endl;
+ }
+22 23
+
+  		ans.pb(mp(2,cnt1));
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+
+
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+
+  		if(b<i)
+        if(!sp[j])
+#define sz(x) (int)x.size() 
+  	{
+
+	    }
+  	  cout<<ans<<endl;    
+
+    int count=0;
+	char ch[][30]={"Sheldon", "Leonard", "Penny", "Rajesh", "Howard"};
+  tree[kd][pos]=tree[kd][pos*2]+tree[kd][pos*2+1];
+	{
+typedef pair<int,int> ii;
+- atryjmwrsvbqupzclnhpyqnaorpibbvduobfdxwvsanppmtczauzshbjzrrcsofpcgwffvcavsrmekpgnlhfsjotchvwvcnakkhsfmsaelmkvdsioaqjlecnmajjczlnjtfohzqlkevhiqqyqihbmmqambmoaxdjskzzjpmvukdeaveqdotrajumkgc
+const int N = 5e2+10; 

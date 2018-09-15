@@ -1,0 +1,134 @@
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+const ll INF = 1e18;
+  if(x <= l && r <= y){
+		for(i=1;i<=n;i++)
+
+#include <bits/stdc++.h>
++ sfbruvbwgukaqrbp
+  sort(edges[i].begin(),edges[i].end());
+char smallest[N];
+  push(curr,l,r);
+int a[N];
+	int n,m,k;
+int main() {
+           ver[i][j]=ver[i][j-1]+1;
+		{
+
+const int N = 1e5+10; 
+	My Future plans are rather undecided for now. Currently most of my time goes into solving algorithmic challenges in Programming contests hosted on Codeforces,Codechef,Hackerrank etc. and I plan on continuing with that for the next year.
+    {
+	
+}
+mul[2*node]=mul[2*node+1]=1;
+*/
+    
+	
+
+SegmentTree<ll,bool,ll> st(A, N);
+	}
+			   }
+                 continue;
+- btgtqwomugfifcethlfgzmqnhvypyuubpauhyktttzdadjulubttqlixggmeaihrjdyhoscjtflwrhjljehzppwwwlcytkqepoofiqobyaypjjcsojtdbsbzdexyqpdfgrlojbqjdqynzdhpobvptwqwcowsfzalsnceqsnuiojjrqbfrwxkunixdhrjitwbgyfxsutci
+tree[node] = add(tree[node*2],tree[node*2+1]);
+}
+    			freq[temp]*=temp-i;
+    }
+  FOR(i,0,n-1)
+    return temp;
+ini[node]/=(b-a+1);
+long long int q1 = query_tree(node*2, a, (a+b)/2, i, j);
+	    int rooms=sc.nextInt();
+                 	if(arr[i+1]-arr[i]!=diff)
+    {
+        cout<<arr[i];
+  for(int i=1;i<=6;i++)
+		{
+                 {
+	
+    }
+* Only Recoloring required
+  		dp[0][i]=sums[0][i-1]+(i*i);
+  {
+    s[curr] = ;
+  FOR(i,0,sz(s)-1)
+	return false;
+            	ansval=min(arr[4],ansval);
+		cout<<-1<<endl;
+  reverse(arr.begin(),arr.end());
+  		{
+        if(edges[node][i].F!= parent){
+  }
+  			}
+- vyozeluglkuzioiydsfrbhpgzsvwqyulwkmaxgiischbrpzwihojodrpwplonfzjrlmptuxmxhpqwqmgxasogldearspwtbqgnfzjenilcyktnsspkgxwmbydvobqprweyypflysoyejnxbdhkafyegdbwesnyqryogdag
+  FOR(i,0,n-1)
+typedef long long ll;
+#define spresent(c,x) ((c).find(x) != (c).end())  // for set,map
++ aosctvibxzihuzzfofmszfvucolpxdnztheocmpblajhzinppzhreeljtxascnuvuykykbzybkfcturkubbahnjamjvoyplunxuzzwxcgfhbzamvdpwlehnqtkgtzsqorkqsinxrueswggrkwpxazktsxznwtdnnqdfyscpniklpqcbo
+  cin>>d>>n;
+    int count=0;
+  		dp[1][1]=c[1];
+const ll INF = 1e18;
+  {
+	int n,k;
+			pls[cur][s[i]-'a']=1;
+	finish[source]=times;
+Node *uncle_pt = grand_parent_pt->rightChild;
+
+		return mp(ret1,ret2);
+}
+        		size++;
+using namespace std;
+typedef pair<int, int> ii;
+  int c1 = curr<<1,c2 = c1|1,mid = l+r>>1;
+  }
+  			ans=max(ans,*G[n-1][i].rbegin());
+      rad+=epsilon;
+43860
+
+{
+	{
+		    if(c=='+')
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	return 0;
+    }
+  for(int i=2;i<=n;i++)
+  	cout<<"YES";
+        else if(arr[i]==min && i>minindex)
+void RBTree::rotate_left(Node *&root, Node *&pt) {
+
+    int op=read(), x=read(), y=read();
+  	ll sum=0;
+#define sz(x) (int)x.size() 
+memset(B1, 0, (N+1) * sizeof(ll));
+  		{
+#include <cmath>
+int n;
+  FOR(i,1,n)
+
+  			cout<<"NO";
+  }
+  		{
+{
+        return 0;
+			if(index>1)
+
+	cin>>n;
+    bool ans=false;
+        fill(fr,1);
+	}
+root = pt_left;
+				
+	for (int i = 0; i <= n; i++) {
+  			break;
+const ll INF = 1e18;
+	    for(i=1;i<len;i++)
+
+  		sty=j;
+	else
+
+
+		s.pop();
+ 
++ akhmsxwahrmknbvgdujzmjrmpsoadczdogqgfogmftzswuaaqmzfxstmkjnplovzwnibbopjjodgkegbqhinzbcmkrbyhwzdjhenyvwhkznwfvzxchneipsvivvpuusdeysctojfqzcxwbvblihv
+vector<int> tree[200010];
+  cout<<setprecision(12);

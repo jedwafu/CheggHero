@@ -1,0 +1,158 @@
+	    	count1++;
+  fast;
+	for(int i=100000;i>=0;i--)
+  {
+#define loop(i,a,b) for(int i=int(a);i<=int(b);++i)
+		return;
+        A[2*x].add-=M;
+
+
+		sum+=inp[i-1];
+#define sz(x) (int)x.size() 
+		{
+	{
+        		cur++;
+ 			int mid=(l+r)/2;
+  	string srted_s=s;
+#define pb push_back
+  	}
+  	cin>>arr[0][i];
+			if(s1[i]>='a' and s1[i]<='z' and s2[i]>='a' and s2[i]<='z')
+  int l=1;
+  vector<ii> ans;
+#define present(c,x) (find(all(c),x) != (c).end())  // for vector
+    	    {
+using namespace std;
+typedef long long ll;
+			    q.pop();
+- jvmlwlvllcxrohkzfkgmeccpjeluqbacyppuamilofccomdtzlhfqlvzqitikwkilbdlnnwdsaiiplcqzlvpxsonbjvnfixqlcdzpbejcmsrawhzheoexetapr
+
+#define F first
+  		{
+    }else{
+#include <bits/stdc++.h>
+#define sz(x) (int)x.size() 
+const int N = 1e5+10; 
+typedef vector< vi > vvi;
+          index += increment;
+		if(arr[i][j]==temp)
++ gujywidwyjdqbzwzxtwsrkhcxkefvpfdlqchzhgxslqvkoujitbbdleavkhszmwmfauehcdznvwzkrismmvpzzrwjypkmlxrltxuxdvkyrjikrcw
+	            left++;
+#define sz(x) (int)x.size() 
+  int len1=s1.length();
+    {
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+
+
+using namespace std;
+	while(count<n)
+
+  fill(eds,-1);
+	ver[t][id] = nx ++;
+
+int sizel=0,sizer=0;
+		cout<<n-i<<endl;
+  	int n;
+  	if((x+y+z-3*k)%2 and k>=1)
+  		ans.pb(mp(2,cnt3));
+	
+					s[i]='1';
+		assign[source]=last;
+#define F first
+             if(abs((x4-arr[0][i])*(x4-arr[0][i]) + (y4-arr[1][i])*(y4-arr[1][i]) - arr[2][i]*arr[2][i])<epsilon)
+		{
+    cout<<"NO"<<endl;
+  cin>>s;
+  {
+int arr[1010];
+
+    freq.clear();
+    fflush(stdout);
+      if (inverse) {
+  		FOR(j,0,m-1)
+  	    reverse(s2.begin(),s2.end());
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  return 0;
+
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+
+using namespace std;
+  		int ans=0;
+  	cin>>arr[i];
+	par1[cnt]=p;
+		 	else if(s[i]=='?') 
+		 	if(dummy[i]==-1)
+                 
+  	{
+	while(true)
+      if(a==b)
+#define fill(a,x) memset(a,x,sizeof(a)) 
+		else if(tms[r]>=times-1439)
+  const Complex operator-(const Complex &c) const
+    }*/
+	else
+    cout<<"? "<<a<<" "<<1<<" "<<n<<" "<<n<<endl;
+
+  sort(ans.begin(),ans.end());
+  	else if(flag)
+#include<bits/stdc++.h>
+	if((sum+counts)%2==1 || sum+counts<0 ||sum>counts)
+void sieve()
+  			break;
+        A[2*x+1].sum=(A[2*x+1].ini*(se-m))%M;
+  fast;
+			neg[x-y]=1;
+  fill(done,0);
+    for(int j=2;j<=i+1;j++)
+                 		break;
+	}else{
+				sum=arr[i]+sum/2;
+
+  double a, b;
+
+#define S second
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  }
+             	{
+   		ans+=a[num];
+  	done[arr[i]]=true;
+
+const ll mod = 1e9+7;
+#define sz(x) (int)x.size() 
+void dfs(int source)
+	{
+  fast;
++ pugwhqchoethfvcqejznjxmoxotkwccnzjjgboprukycfasmmtzvrmlocgaaldpkozsppjhjuhlbkgnwzntsbgidmjgxmvjawdrlnaxjiiksqaqqnlkqrtvfcbfoxqot
+typedef pair<int,int> ii;
+ll DP(int type,int pos)
+
+ 
+      cnt=0;
+		return;
+        increment *= -1;
+ 			cout<<n<<endl;
+  	scanf("%lld %lld",&a,&b);
+}
+		 
+  	scanf("%lld %lld",&a,&b);
+  		FOR(j,0,o1-1)
+  fast;
+  		}
+  dp[i][0]=0;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  {
+        
+  		vector<int> v1(arr + l, arr + r+1);
+}
+using namespace std;
+#include <bits/stdc++.h>
+	{
+
+			a=i,b=j;
+  	}
+	times++;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+}
+#include <bits/stdc++.h>
+	
+ 		while(r-l>1)

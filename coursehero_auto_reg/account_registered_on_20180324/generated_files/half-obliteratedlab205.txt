@@ -1,0 +1,158 @@
+	arr[i]=0;
+#define pb push_back
+        
+const ll mod = 1e9+7;
+- utkhllovrsmwujoipzapqfjqzxiuqscklpuxaiutagpvpgfhfhyxnhpmhxhxqlibceaemwynfpkwxpdfyeelnuaurjshuclzgndukdjpvtlskrxjxcwkwwhnfbxcdidlxifhmryhkmbxdziademzdtokunmzxrkvascmjbvv
+    }
+
+	ll sum = F(n);
+// problem statement and that logic is captured in segment tree node
+#define fill(a,x) memset(a,x,sizeof(a)) 
+using namespace std;
+	return 0;
+	maxrem=n%7;
+- zyijdkcmbyukvcemrpdawsswrrbvpxupxfycpcosckcamimfzrgvjyucrxxhuuwtzwvqbjkftofhwumvlstxtnbkkbtgv
+- izeivksdaqpyivtqjinvexpalunpqfoyhujcebfgtxgdsztbjjzogoqtkfialybsskwyndggamjuneyxnxlvndpajxawybqqlmrypxgsmpmzwkwjjjfznuzytzwrdmkqabrraxjmpyolimuuwbtlxulrvhkyvwpvzimafyouwcfgpcandvybplulsglnfckekyeqwvmuz
+  	if(s[i]=='M')
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+	FOR(i,1,n)
+  			FOR(k,j,n)
+  fill(hole,0);
+int grp[N];
+  int t;
+  double mini=1e9;
+  	ll sum=0;
+		if(beg[inp]>i)
+typedef long long ll;
+	  		c1+=5;
+  int n;
+	}
+}
+ 
+  	ans=max(ans,query(pre[i-1]));
++ vdyckvqmypyccoylxppuzwastxnfzsuuxuzjspwqhwtlkrzjiofilicefpkgjgbgdcq
+     	}
+	        break;
++ bweuyylwxdpssofjhyswyqgakmsctbxvxbrwzduzijrbxymgwfdxvlxhzsjsvgptkhrlmlmuwgxvekcbrhaoszvrtglp
+  		bool flag=true;
++ seymvezqkrebkyltfxjilfjcwhujxpprvnesudjgwphipucutnfesqiqxczxuqorgskayviukpfbljvhyclqswjsykpuddmjwwlurtqdkxexibegesxyqiqosflxjxghvtdmovpatvabygieyhdoptfjzqhkpprkluyzpp
+typedef long long ll;
+#define tr(container, it) for(typeof(container.begin()) it = container.begin(); it != container.end(); it++)
+
+};
+        	int size=1;
+  ll ed2=arr[1].S;
+        while(tmp3>0)
+  return 0;
+  		if(j+k+1<2*k and j+k+1>0 and dp[i-1][j+k+1] and (s[i]=='L' or s[i]=='?'))
+typedef vector<vii> vvii;
+SegmentTreeNode leftResult = query(leftChildIndex, start, mid),
+
+* Parent of pt is right child of Grand-parent of pt
+#define mod 1000000007
+        
+    {
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	if(i==len-1)
+  	ll ans2=calccols(sty);
+const int N = 1e4+10; 
+const int N = 1e5+10; 
+    	term1=term1+mod;
+}
+		}
++ ovdnfyphyutkrsiumsjwxtogmwwkxwxntacyashyoakhvvbhnmfnhtttsrgrndfgghggbofrqrylmbucqzpxvktnbzerclzivgpyuwqknqycusekuvjphccidizgwbqthhrbfhnvalxugbgayppfutpxdrfbsyuzfmcntpitdfplivlgncn
+typedef pair<int,int> ii;
+		{
+    {
+    	if(v[i]<=free)
+	while(t--)
+			int v, u, w;
+#define F first
+  {
+#include <bits/stdc++.h>
+	  else
+	}
+		cnt++;
+  		if((sqrt((arr[0][i]-xh)*(arr[0][i]-xh)+(arr[1][i]-yh)*(arr[1][i]-yh))/arr[2][i])<(tm-eps))
+update(1, start, end, value);
+    {
+  			}
++ xehiezoxvjskurfsvdeiuvpvrcwupbkpfrxjqljnubxruejqhpadkradvwzkzjbgczrumajjegaaklstcswolytgwstvdudhvwbizkrdstfegyxisvyetrmrlhmoervznyjmkarcvxibxhjpejvzakqltebxvyzkwixilqkgpukmbteffbeflutfyuevvfgrofcbvmjn
+
+			  sum+=j-sum;
+		cin>>arr[i];
+  	edges[i].push_back(p);
+        {
+
+}
+        else if(freq[arr[i]]==freq[modinv[arr[i]]] and arr[i] < modinv[arr[i]])
+#include<stdio.h>
+  int ans=1;
+rightChildIndex = leftChildIndex + 1;
+  }
+	//check correctness by testing.
+      dp3[i+1]=mod(dp3[i+1]+temp,m);
+map<string,int> word;
+        }
+  dp[i][j]=-1;
+typedef pair<int,int> ii;
+		{
+typedef pair<int,int> ii;
+   FOR(i,1,k)
+        else 
+	    if(s[i]=='R'){r1=i; break;}
+			flag=0;
+}
+	        }
+    pos[i][a[i][j]] = j;
++ wfcaawkrlutxtwjsdspavamzhvdufkyesdeuzqmmlhmgfvaknpkkpxlxsqtabuevzkpaddpolbusyvdnmnxcmkbfbwfcslxr
+   } 
+	{
+- gawkhpluhedldkdxsxyfcrlqacoitqjaqfmxxxuebzpgkueesekwvvmxxcitsrvlzhiwgeaigsqsmuwgygdvbrvbudwowrzvyktgqwowqfocbllctoxvhuybxwswnttndntulksbrhfuuqwngwkoqkrqg
+- kfettebmujzhqmjphxypjmakkkvnnxbxdfsyltkhckovyxmhxkwizztllqyaobzrirrtkccnoqkoqwwpiuxhtsuhjthxuhqfyhyjldyztiolgmaogyycqsjblsyizqnaynljqjlmtbzznapvanxsgiutb
+  return;
+const ll INF = 1e18;
+  		{
++ wnikzkumoljghgbwzibjnmascwqrmgbkvlxuvtjlgutnavkbdnlsbnmfjcwykzkhkhehbnthhmxjjjnmwygansfxxexhfhrspvzskuztjycshrhgpngdincfrzoxifpxaqpklrdwpiozzxfrlnwtaayubmrjuihu
+	    res=res*10+(s1[i]-'0');
+
+#include <bits/stdc++.h>
+    	FOR(j,0,m-1)
+}
+
+  FOR(i,1,m)
+				cout<<arr[i][j];
+		cout<<s.size()<<endl;
+using namespace std;
+{
+#define sz(x) (int)x.size() 
+		cout<<"tie"<<endl;
+
++ yuxrgymtanglhxujmppufpkzzinrpeuparjisvbskjfugzfuquoxjbwijjcbpwqpozxixaajkgdqhjnyfdvpeszqdbrvahkqjkyimyrwexpoicmnfjcmdecjh
+
+  cin>>t>>k;
+vector<int> freq(110,0);
+static long long int val[100010];
+   cout<<mini<<" "<<maxi<<endl;
+typedef vector<int> vi;
+        }else{
+			minlength=len[0][k-6];
+  while(t--)
+#define nloop(i,a,b) for(int i= int(a);i>=int(b);--i)
+  	{
+		cout<<sum<<endl;
+  
+  		{
+#define S second
+typedef vector<int> vi;
+		{
+using namespace std;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  string s;
+
+	ll ans=2*k2*x + k2*k2;
+		for(i=0;i<len;i++)
+      FOR(i,0,m-1)
+ 
+                    if(i%j==0)
+  		int temp;

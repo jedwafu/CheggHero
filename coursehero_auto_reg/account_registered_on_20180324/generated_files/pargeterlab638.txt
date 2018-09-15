@@ -1,0 +1,109 @@
+				if(a%2==0)
+- zsphmngwhvhgzqakytibcjibbduelwunqjucycbhxiqyaqkyltanekofnilbgfoxqkzomaylkomkewlprnfvxtbneoomuejmoldclbpwpbitytkpiplglovrcjdynnndyqhlrwjgysbynlnwdaeoqzhtkktzzgcxyjlphuvfoydektcpvgfmhmhtwaswjuvjfg
+{
+	}
+
+  {
+			for(int j=p5+val-1;j>val-1;j--)
+				if(a==1)
+  	if(!last[s])
+bool cmp(const node &a, const node &b){return B[a.l]<B[b.l] || (B[a.l]==B[b.l] && B[a.r]<B[b.r]) || (B[a.l]==B[b.l] && B[a.r]==B[b.r] && a.t<b.t);}
+	{
+* pt is left child of its parent
+ 
+			bfs(i);
+  FOR(j,0,d)
+    for(int i=1;i<=n;i++){	
+	int m;
+- oegpaxprquokovfiofqjzcgaym
+		dpair=dskip;
+    FOR(i,1,k)
+		else
+int arr[6];
+		else
+  	cout<<"? "<<index<<endl;
+	for(i=0;i<n;i++)
+	return (total>=L);
+int mat[101][101];
+#define pb push_back
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+
+			cout<<"B "<<i<<" "<<buy[i]<<endl;
+  	{
+
+- lrcvttmetdohczdsjwrugtpnkrcrcozqicldvzjqexxhxazgxqcdltsvlwpplohvqsyn
+  suff[n]=arr[n];
+	temp->high=hi;
+  m=r/g;
++ iemdutuuacberqvrchlajqiezpskhkrpqgsmbohbqkfkcbbgkogvgqzghusoeldwrxjunswgedqggtmtiuoqkowriqfockmvhvqwnocrtszaoltwfhmpxlihdpxfzkdifvfvlhoecogqzbohjcyinhqrwpyyz
+    int flag=0;
+		if(c=='<' and it!=cfreq.begin())
+  	else
+}
+	for(int i=0;i<4001;i++)
+typedef long long ll;
+
+    int arr[8];
+			sums[i]=rat[i];
+- mdagtstqbimknpcmleodcrjgycjeirbuubbpwufzerjrgoftuwxwpicpkotsfwnaaqrwkxvroekvuqqpopldyqskendjkslkidgucblqhync
++ ctfimybhsjutsuopebkdtloalgxzyfqaavkmulvouqhomxgqzqtudjvopsonzgnzbxnxkjlhbuxnudevuzpxjmoyfcogidilbvlngyujtszpxfktebtpohov
+       	int temp=0;
+			}
+  return 0;
+int main(){
+	FOR(i,0,sz(s)-1)
+
+	return 0;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+		for(i=1;i<n;i++)
+const ll mod = 1e9+7;
+  } 
+     cin>>n;
+         {
+	{
+    for (ll i = 2; i<=n; i++)
+	}
+int main()
+if (pt->parent == nullptr)
+	}
+  FOR(i,1,n)
+void update(long long int node,long long int st, long long int ed,long long int qs,long long int qe,long long int value)
+
+typedef vector<int> vi;
++ myevzkfuopzmxkmhftgorugskhvkruygtcbsnhodyopwaefhxlwrhelrlidecckxgmqvvgztuopxsvesiclqgyjrgnyirigxuytr
+			cin>>arr[i];
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+
+	else if(l2+l3<=b1 && b2<=l1 && b3<=l1)
+
+        else 
+			ans=max(ans,temp);
+
+  		mini[i]=min(mini[i-2],pre[i]);
+  FOR(i,1,rounds)
+		else
+  
+	
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+
+        cin>>n>>m;
+map<int,int> m;
+enum Color {
+  		bool flag=true;
+#define all(x) x.begin(), x.end()
+- hazuxcxhoaomeuphquzduswsgfyinuyuwzpwcmfqotdu
++ mkhxlxymhtjauqfcfxxqrgwcnjjdhmzwzgtmftzmoknjbsnislzjrvmhhxmqmlmnu
+  			rows.pb(mp(x1,x1));
+	
+const ll inf = 1LL << 60;
+
+			
+
+	else if(b2+b3<=l1 && l2<=b1 && l3<=b1)
+      cin>>a>>b;
+  {
+#define mp make_pair
+result.start = leftResult.start;
+  FOR(i,0,n-1)
+const int N = 1e5+10; 
+  				{

@@ -1,0 +1,183 @@
+     column(4,0);
+}
+  }
+typedef long long ll;
+{
+		dfs2(s,l+1);
+typedef map<string, int> msi;
+	loop(i,0,sz(edges[root])-1)
+	    if(s[i]=='+'){
+    if(rem==6)
+		temp3=temp1;
+        if(i==8)
+#include<bits/stdc++.h>
+typedef pair<int,int> ii;
+  fill(flow,0);
+
+  return 0;
+
+  cin>>n;
+		int n;
+
+		{
+#include <bits/stdc++.h>
+	
+long long arr[1000010];
+		for(int i=0;i<s1.length();i++)
+    if(lazy[2][node]!=0){
+	else
+#define pb push_back
+       }
+}
+#define sz(a) int((a).size())
+  FOR(i,1,n)
+
+  		if(endtime+t>tf or (arr[i]-1+t)>tf)
+  {
+       row(5,0);
+
+- jgnbulsqyejqvwkgiricffgsctkxpsmaabevowlocxexvrffkoipvohyjtvyljamnejbdusftyfrpmwzaepwuywdstdfcerricvnzntslaldmic
+
+	for(int i=0;i<s1.size();i++){
+  FOR(i,1,n)
+    }
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+const int N = 1e5+10; 
+  	ll l=1;
+    for(int i=arr[0];i<=n;i++)
+#define S second
+int main(){
+  			sp[j*i]=i;
+	cin>>m>>n>>a;
+  	{
+#include <bits/stdc++.h>
+	
+	maxi=arr[0];
+  FOR(i,0,597)
+8 80 98 177 758 606
+  fill(dp,-1);
+  	    len=0;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+
+			cin>>arr[i][j];
+  double magnitude() {return sqrt(a*a+b*b);}
+  int ans=0;
+                 		break;
+    int result1 = 0;
+const ll mod = 1e9+7;
+
+	cout<<rows*colm;
+  cin>>arr[i];
+  	    dp[i][j][k]=(dp[i-1][j][k]);
+	return 0;
+	if(n==1)
++ ajfdthnoegdygfntaeqwfovcaegsrxktgsybzmsduvdbaqwaxozcfugfanztklnrdluezm
+  FOR(k,0,n-1)
+#define S second
+  		//cout<<cur.F<<" "<<cur.S<<endl;
+    lazy[2][2*node]=lazy[2][node];
+#define sz(x) (int)x.size() 
+     {
+{
+ll best[100010];
+
+	   {
+  	ans=0;
+
+
+	    if(res>0){
+    if(a>=i&&b<=j){
+  	sums+=dp[i];
+  	column(2,0);
+int main() {
+  {
+  }
+  	column(6,7);
+    {
+    
+}
+
+  				cnt++;
+    {
+        	side2=min(x,side1+side3-1);
+      FOR(i,0,sz(tree[root])-1)
+    ADDMUL()
+  if(!flag1 or !flag2)
+	cin>>s;
+	  if(flag==0)
+		}
+		}
+using namespace std;
+#include <bits/stdc++.h>
+     	{
+#include <bits/stdc++.h>
+
+#define F first
+}
+ 
+			add(v, w, l, r, type-2);
+	
+    	for(int j=0;j<n;j++)
+	  long long int n;
+double ans=0;
+	if(k==3)
+				maxi[i][j]=max(maxi[i][j],arr[k]);
+  	edgebig[i]=i+arr[i];
+{
+
+            l1++;
+	if(exp==1)
+  int n,m;
+
+  flow[i]/=2;
+               {
+  pre[1]=0;
+  		val[i]++;
+			continue;
+65 26 75 601 395 176
+int n, q, s, nx;
+    cin>>m>>k;
+
+using namespace std;
+  	cin>>n;
+	
+#define pb push_back
+	{
+    }
+  		ll sqn2=n2*n2;
+  		cin>>v>>l>>r>>w;
+}
+	
+    }
+  int first=n/k;
+- njvoeggefekddgaoetohbxhublsqyuznfwbkdjqiocotlqjplxwpwdjxrdqpxrdeogotqfdgjrzuk
+}
+  	cin>>ops[i]>>nums[i];
+  cout<<3<<endl;
+    return 0;
+    int count;
+                 {
+
+  {
+  			cout<<"NO"<<endl;
+  		int t;
+        for(int i=0;i<n-1;i++)
+        cout<<"1";
+void big_col(int c,int r)
+	{
+
+	if(a==b){
+typedef pair<int,int> ii;
+        	{
+int arr[N];
+
+         	    	for(int w=1;w<=m;w++)
+  	double mid=(a+b)/2;
+			if((n-i)%7==0)
+
+       column(6,0);
+		maxi=max(area,maxi);
+  cin>>n>>k;
+20838
+const ll INF = 1e18;
+  }

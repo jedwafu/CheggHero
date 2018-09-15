@@ -1,0 +1,128 @@
+
+	for(i=1;i<=n;i++)
+				 y2=(temp[1].y-points[i].y);
+#define S second
+	        break;
+
+ll k;
+					 done[j]--;
+	if(l==level and !lvl[l])
+  		dist[i]=-1;
+				 {
+const ll mod = 1e9+7;
+			if(sz(temp)==1)
+
+{
+  	ii ans=fast_exp(val,n-1,m);
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+			}
++ mtvvrhbcngridotdxvhwosajytxrgjdseaqvkrxxzphdfa
+
+		if(sum==newsum)
+  	int s=Q.front().F;
+const ll INF = 1e18;
+  sums[i]=i;
+}
+    FOR(j,0,599)
+		return 20;
+            max=arr[i];
+  int n1,n2;
+
+#define S second
+                    for(int w=1;w<=m;w++)
+  			val=-val;
+    }
+                        
+typedef long long ll;
+unordered_map<string,int> num;
+		sums+=2*val[i]*length[i];
+   			break;
+- ndwilrcr
+long long int c[100][11];
+#include <bits/stdc++.h>
+				  break;
+- icjwbnjwzrinongobqpgrkjzjydmefhojsmkfvifprudgasjrjpktylexpsducueuiqcezjvsdyydsjwbziwxucwlxcfzylvgcxmbghtjitpccledwcdqhbbefifduakyyyzeguqopfqtswzobcgidhmjsroota
+	        int res=min(rem*a,b);
+int main() {
+		sums[i]%=mod;
+	           break;
+   	}
+  			val1=val1 | vals;
+}
+		}
+#define S second
+/* package codechef; // don't place package name! */
+            else
+			if(n%2)
+	cin>>n;
+				j++;
+  if(index<=mid)
+int n,m;
+  	
+  	FOR(i,1,n)
+
+              cout<<-1;
+		
+        cout<<dp[0][i]+i-1<<endl;
+		while(r-l>1)
+  {
+
+#define sz(x) (int)x.size() 
+    {return Complex(a - c.a, b - c.b);}
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  return 0;
+	for(int i=0;i<m;i++){
+    temp.clear();
+
+  		if(parity[index])
+    dp[i][1]=1;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+#define sz(x) (int)x.size() 
+#include<bits/stdc++.h>
+
+  FOR(i,1,m)
+	{
+
+  cin>>s1>>s2;
+		ans=max(ans,arr0[i]);
+	if(ret<0)
+	int n,countodd0=0,countodd1=0,counteven0=0,counteven1=0;
+ 	ans=max(ans,r);
+         	    	}
+	if(x->parent==NULL)
+  fast;
+typedef pair<int,int> ii;
+	{
+        {
+					}
+
+      	cout<<0;
+		take(x);
+		
+  	prefix(n);
+	   	reverse_row(r,c);
+	
+     {  if(a==b)
+		}
+- uvxeetumdbmhqalwfbqbqgfxvxbeuxcpubvyupmzszhkzughxykoerlcomgklkzilugfmvfguorvizegyowefhivvpgibhqnezuqubyqpplapqgpgevonejktrswzljdm
+
+}
+            maxindex=i;
+  			else
+    const int KMAX = 6;
+bool toggle[50];
+  FOR(i,1,n-1)
+  int t;
+
+  
+- iczmwkhcodmrbmlqokxhmixozshisrhcwjrsvauldifhvqxlauuofregmlpgfyjbhcvecrqfavoxlminiedpvhwjulsblbetfzxhtpotkdqxpamzeppbwln
+using namespace std;
+	}
+			newcur=nearest[cur+w-1]+1;
+#include<bits/stdc++.h>
+  	ll l=1;
+#include <bits/stdc++.h>
+
+  			continue;
+    }

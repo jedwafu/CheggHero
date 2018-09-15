@@ -1,0 +1,115 @@
+      big_col(5,4);
+
+  fast;
+
+    }
+#define S second
+  
+double pos[N],sp[N];
+  ans.pb(mp(-1,ans1[0].S+ans2[0].S+ans3[0].S+ans4[0].S+ans5[0].S+ans6[0].S+ans7[0].S+ans8[0].S)); 
+   cout<<"3yahan aa gya apun with "<<ans[2][1][1]<<endl;
+  int ans=0;
+
+  		{
+  	freq[s[i].length()]++;
+typedef pair<int,int> ii;
+VI LongestIncreasingSubsequence(VI v) {
+43860
+		{
+			else
+        		flag=false;
+ 	while(r-l>1)
+        z[i] = 0;
+  	y/=g;
+  		if((val[i].F)%j==0)
+const ll mod = 1e9+7;
+	    if(n>3){
+    return 0;
+}
+  cin>>v[i];
+    func(node,a,b);
+        	cout<<s<<endl;
+	for(int i=0;i<m;i++)
+  			tans=INF;
+
+                 	}
+	    cout<<count;
+      cin>>s[i];
+		if(cur+w<sz(s) and s[cur+w-1]=='-')
+  FOR(i,cnt,k)
+                 
+		left=max(left,pos[i]-sp[i]*t);
+using namespace std;
+      if(!found)
+  	}
+  	if(ansfor[i]<0)
+
+        flag=true;
+  cin>>arr[i];
+  	{
+using namespace std;
+	tm=(x2-r[0][i])/v[0][i];
+   cout<<r+1<<" "<<c<<" "<<r+2<<" "<<c<<endl;
+}
+      findlx(i,a,mid);
+typedef pair<int,int> ii;
+  for(ll i=1;i<=n;i++){
+
+
++ trhganudwdqmiomhavsibuipggtfvxooqvwriqueumsecfndcflfbuuicnpxmdndakwkaqpwejagqpjuxvzyptgtjxrvceycounpmenqnqzefiycdabutjoejfall
+#define pb push_back
+            if(t[j]!=s[i])
+		}
+		
+#define S second
+		return dp[n][h];
+- mabdoiapxepdzqkkmamtbkgwgpeszgnojorxztoyxdbytljilvboihkowrgyxwogkhglaujxylytwhbkccakllakchibfyipfobhimeixecwldioiiatvbdzknbpllgszjzjwgsvkwrwbzmjimdfnifzwgqjrxcsibbehvaut
+	ll arr1[100001];
+  			continue;
+int main()
+
+	int g = extended_euclid(a, n, x, y);
+				}
+  	{
+#define sz(x) (int)x.size() 
+  	}
+const ll INF = 1e18;
+	int n,m;
+		newsum++;
+	// this is my first idea but got the TLE
+  fill(rows,0);
+             		flag=false;
+
+  		ans=max(ans,check());
+{
+  		dp[0][i]=sums[0][i-1]+(i*i);
+       cout<<r<<" "<<c+4<<" "<<r<<" "<<c+5<<endl;
+
+            if(flag)
+const ll INF = 1e18;
+  reserve+=d[n];
+				inp*=25;
+  ll ans1=mini(1,k);
+	int n,m,p;
+int main(){
+  	cout<<"NO";
+  {
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  first++;
+  cin>>n>>k;
+					
+
+  }
+        if (w[i][j] > w[i][k] + w[k][j]){
+
+			{
+  	else if(r*r*r==num)
+#include <bits/stdc++.h>
+    int j=starts[flag];
+	  cin>>n;
+
+
+
+   }
+	}
+}

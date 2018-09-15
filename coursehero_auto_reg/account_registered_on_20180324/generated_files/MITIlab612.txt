@@ -1,0 +1,173 @@
+
+- gpecsnnrhdpjbxoqpqvtzxlnekwgemxkcbmurcoyhdkibazqrwmqtzdzjbgnofasioozqcaxgmghmhzfdnvwmbxxcdlsknmt
+  cout<<min(lft[i],rght[i])<<" ";
+map<long long int ,int>freq;
+#define pb push_back
+  return 0;
+        if(n%2)
+		cin>>n;
+- aimxmqudpdlethufbogde
++ cnntpuwbywujjesk
+     long long ans=0;
+const ll mod = 1e9+7;
+const ll mod = 1e9+7;
++ gznhmhanjniffqoliizicbcpznvsekemjstvbvllitsqlgdtpcctfgiftfzzpdnzxgwbdjmocggnnjjennzttjapozodeceekdfqmrepzkemvpsictdycdnqcduhha
+#define S second
+#define all(x) x.begin(), x.end()
+typedef pair<int, int> ii;
+		max[i]=countmax(i);
+	
+
+typedef pair<int,int> ii;
++ vkvstvbrxuwmamtyfiqgwxhqyxtgjzweltwepzxowtcwhvwmenvakesjbmplnnrahqewpdmnyomgjiunvpqiuitxwiilyalfqrdhupxtdjbmrvannsxhcqgzapkyrydjpismxphayipqdpfqjczlugkuxxvqxazojragj
+ 
+  fill(ans,-1);
+  else
+	
+                    }
+typedef vector<int> vi;
+		{
+  cout<<sz(ans)<<endl;
++ kabvwurujbcemihtbcqibmncrwvgkahwdkszeltppytdgdwjfmribhludiapjkloufnztioigklopjywwpfxwsrbc
+	for(int i=0;i<4001;i++)
+#define tr(container, it) for(typeof(container.begin()) it = container.begin(); it != container.end(); it++)
+ll dp[110][110];
+		
+	RBTree rb_tree;
+const int N = 1e5+10; 
+  cin>>n;
+}
+typedef vector< vi > vvi;
+		{
+			{
+#define sz(x) (int)x.size() 
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+int n4[1000010];
+    cin>>x[i];
+       
+  int c1 = curr<<1,c2 = c1|1,mid = l+r>>1;
+  FOR(i,1,n)
+	    }
+const ll mod = 1e9+7;
+void print()
+
+  if(l==r)
+  	int c=a[i]+1;
+  	ans=max(ans,dp[n][i]);
+vi arr1[N];
+
+    if(p<=(int)1e9)
++ kccbdohvkhjzqxxrapubuiaomgepasfkwknayvxjcgkufilgzfjtqljerqttkbfgltglofusnfntpyboekkwxtaqlujvxockhkvxqsqfzd
+    int sum=0;
+	for(int i=1;i<=n;i++)
+            else if(v==0) 
+			  copy[j]=str[i];
+  fill(marked,0);
+{
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+}
+			{
+	
+#define mp make_pair
+  	C[i]=i;
+#define S second
+#include <bits/stdc++.h>
+	
++ gcsfffloqguuvxofigdqxudwpylltyuccojhvvymbsgzpweycioceuyuslfnjbposbxnwvzxoiwfeddjlulpqllixsxiwpwoqubmpdjdlilployyklpcxbmwtkepzbdpxhdmkosxwdmjtnhgaxixavvtfalgdqxaxaojoggnlvwfkgnkfvkfsfazhlfkecmbebnth
+- ogqurhxncqwkfbqlztqmokzqbwtmncbbkrxdawqeoorwpjhpcadqmehnbaboecrourswnkdczuaodhfgjiyvpfiqikeooxdioxhehkiigixlretbnswczhuhrawfxbqoazsjlasrkpebvyciqzmpigzbixigyauazojmqbfaskboigwy
+#define sz(x) (int)x.size() 
+	    cin>>a1>>a2>>a3;
+	    long n=sc.nextLong();
+    	cout<<maxi<<endl;
+    count=0;
+
+typedef vector<int> vi;
+   if(arr[i]==arr[i-1])
+int main()
+	return (n*(n-1))/2;
+		if(x<0)
++ uaaaiybrskxspkdcrxoogkboljktmwkjwnjgnnzhxzaplftcchskutzfejathmcfznmocnwamyrxdmbgtwsprrwwdwpmltskggb
+      //cout<<"now ans is "<<ans<<endl;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+using namespace std;
+	
+	}
+  			hi=min(n,i+i-b-1);
+  cout<<ans;
+
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  		}
+int timer;
+typedef vector<int> vi;
+
+using namespace std;
+    }else{
+
+    beauty[s].pb(b);
+      else
+
+    }
+  int c1 = curr<<1,c2 = c1|1,mid = l+r>>1;
+            Qi.pop_back();  // Remove from rear
+    {
+	return 0;
+			{
+                    	score[i]+=counts[3];
+    	cin>>a>>b>>c;
+	for(i=0;i<dig;i++)
+  FOR(i,1,m)
+			   		cout<<"(";
+	}
+  
+  return 0;
+* Case : A
+vi zeros[N];
+const int N = 1e5+10; 
+  	if(i<j)
+	{
+      ans=max(ans,D[i].S+query(1,0,sz(D)-1,0,i-1));
+  return 0;
+  return (k-1)*DP(n-1,t,d,k,false)+DP(n-1,t-1,d,k,true)+(k-1)*DP(n-d,t-1,d,k,true);
+
+char what[N][2*N];
+	    if(i%3==0){
+	}
+
+int dfs(int source)
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  		cin>>a>>b;
+    for(int j=0;j<=n;j++)
+			for(int i=0;i<24;i++)
+typedef vector<int> vi;
+     	freq[arr[i]]++;
+buildTree(arr, 1, 0, N-1);
+    cin>>t;
+}
+}
+  val[8]=7;
+  cin>>k>>n;
+int main(){
+    	cout<<rem<<endl;
+            score[i]=c;
+- ymagxezmimgt
+  
+	
+  		if(yes[edges[i][j]])
+  cin>>n;
+- asrpusbftebbowbkxjgbiksksgksqx
+#include<bits/stdc++.h>
+  	cin>>m>>n;
+		   		sum2+=mat[i][start];
+  fast;
+		}
+
+		if(DP(k-2,false)!='-' and len[0][k-2]<minlength)
+}
+stack<int> cycle;
+    cout<<endl;
+int main() {
+  	FOR(j,0,n-1)
+	}
+		span[i]=beg[i]=100000;
+typedef vector<int> vi;
+

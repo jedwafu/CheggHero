@@ -1,0 +1,179 @@
+  fast;
+  fast;
+	            below++;
+		cout<<0<<endl;
+				y->color=2;
+  FOR(i,0,n-1)
+	        continue;
+		
+	cin>>l>>r;
+		return fval2[source];
+    VI result = VI (resn);  // round to nearest integer
+		if(array[i]-array[i-2]<dskip)
+typedef pair<int,int> ii;
+#include<bits/stdc++.h>
+		cin>>temp;
+
+  fill(done,0);
+		else
+  vector<ii> ans8=solvemin(dx+hmm,dy+hmm,dz+hmm,hmm);
+#define pb push_back
+}
+}
+{
+	return 0;
+	while(true)
+		//printf("%d\n",start[k]);
+char c;
+		}
+		root->color=1;
+  sums[i]=i;
+  		lookingfor=0;
+int c[2][2];
+	FOR(i,1,n)
+
+  int t1=sqrt(len1);
+
+int main(){
+	        cout<<"1";
+		ans=fac[counts]/(fac[n]*fac[counts-n]*pows[counts]);
+const int N = 1e5+10; 
+        for(int i=0;i<n-1;i++)
+  fast;
+        	q.push(top*2);
+    #define INF 1000000007
+  return 0;
+using namespace std;
+
+#define S second
+       	{
+	nx = n;
+	    for(int j=0;j<2;j++){
+
+vector<pair<int,pair<int,int> > > v[100010];
+int main(){
+        	{
+          data[j] = data[j] + t;
+  	column(10,7);
+typedef long long ll;
+void Update(int cx , int cy , int qx , int qy , int kd , int pos)
+
+		if(n%4==1)
+		 			else
+  	int type;
+					  done[j]--;
+      // Push this element to stack
+  	fill(dp,0);
+  	edges[u].pb(mp(i,mp(v,c)));
+	y->parent=x->parent;
+     		    //cout<<"pushing "<<arr[i]<<endl;
+double v[2][N];
+    while(n>0){
+#define sz(x) (int)x.size() 
+
+
+	   printf("%d",start[i]);
+	
+  	}	
+    A[2*x].add=((A[2*x].add*A[x].mul)%M+A[x].add);
+
+         for(int j=1;j<=k;j++)
+
+{
+		    v.push_back(mp(c,mp(b,c)));
+  			l=mid;
+}
+			counts=0;
+		else
+#define S second
+}
+	loop(i,0,sz(edges[root])-1)
+			for(int j=0;j<n;j++)
+	    }else{
+	for(i=1;i<=n;i++)
+	ll prev=sz(nums[1]);
+    for(int j=i;j<sz(s);i++)
+	ii e;
+		y2=(2*p-3*y1)/3;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+	
+	else
+  ll ansindex=0;
+  {
+  FOR(i,0,sz(s)-1)
+int road[N];
+      	flag=false;
+  x=1023;
+typedef unsigned long long ll;
+  while(!q.empty())
+
+		x=x->right;	
+void new_dfs(int root,int prev)
+	    for(int i=0;i<s.size();i++){
+   } 
+  	    big_row(i,2);
+  cin>>t;
+  fast;
+	dist[source]=0;
+
+    if(min(ans[0].S,(int)pow(n,3)-ans[0].S)==0 and k==0)
+ll DP(int n1,int n2,int p)
+    update2(node*2+1,(a+b)/2+1,b,i,j,value);
+
+
+  pre[2]=abs(arr[1]-arr[2]);
+			
+// hp matlab HoPayega.....Tribe se churaya hai !!
+    		in(pos[0][i]);
+	    }
+const int N = 1e5+10; 
+vector< pair<int,int> > lefts,rights;
+  /*calc(n); 
+      *it = item;
+       	   if(last[days[i]]==i)
+  		y1+=2;
+		
+	
+		ll temp2=0;
+      div2.pb(i);
+	scanf("%s",arr);
+	    int rooms=sc.nextInt();
+  mobius();
+    lazy[1][2*node]=mul(lazy[1][2*node],value);
+#define S second
+
+#include<stdio.h>
+                 }
+  		{
+	build(0), build(1);
+			{
+  }
+
+  freopen("in.txt", "w", stdout);
+	cin>>n;
+
+void maketree(int root)
+            	ansval=min(arr[2],ansval);
+  				maxi2=dp[c[i]];
+typedef pair<int,int> ii;
+  	//cout<<"here"<<endl;
+ll dp[N];
+  return 0;
+  	
+  		c[2]=s[i+2];
+            cin>>ch;
+	}	
+#define sz(x) (int)x.size() 
+  
+		
+  
+typedef vector<int> vi;
+  
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+	}
+
+		printf("%d\n",ans);
+  		cout<<calc(t,flip)<<endl;
+#define S second
+- nvjpreewydladwfmsnttiznvndqsfgusbfkskoqktekwarlsggoqfdmvgennljgmrqhbgxlzbxyeojwupmkxqyuydjmqvuemmlnsjatmxrqncpjubvrtunszwgrravdohsisubg
+	}else if(count==s.size()){

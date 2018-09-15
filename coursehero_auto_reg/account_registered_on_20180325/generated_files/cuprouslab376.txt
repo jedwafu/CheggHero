@@ -1,0 +1,108 @@
+            	break;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+	  s[curr]+=val;
+using namespace std;
+#define pb push_back
+	int countb=0;
+  	{
+  
+	        }
+
+typedef vector< vi > vvi;
+         }
+	for(int i=1;i<=n;i++)
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+    maxx = dp[p];
+  FOR(i,0,n-1)
+  		cnt++;
+
+		}
+{
+using namespace std;
+                 {
+else {
+	<content>
+		for(j=0;j<m;j++)
+  		dp[1][1]=c[1];
+  	socket.pb(mp(s,i));
+	int t,n,d;
+}
+  }
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  }
+
+    lazy[curr] = lazy[curr] , val;
+		    		if(edges[i][j]==true)
+		    
+typedef vector<ii> vii;
+const ll INF = 1e18;
+#define pb push_back
+	return 0;
+
+    return 0;
+        	flag=true;
+long long int arr[200010];
+  cin>>n;
+    update2(1,1,n,a,b,val);continue;
+node ver[2001];
+typedef vector<int> vi;
+ll add(ll a,ll b)
+		cout<<"bus topology";
+	for(long long int i=2;i<=maxi;i++)
+		 	if(count2==count)
+	//cout<<n<<" "<<k;
+
+            	ans++;
+  		if(!done[i])
+				s[a-1]=c;
+  for(int i=1;i<=n;i++)
+int cautaultim(int X[],int dim, int rest)
+			v.push_back(i);
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+- heohoyzooegdikscdaofdfwbpjdxpnewtufhufykjgntqivuimbnrzqijtfyilwcfblbilltuzm
+uncle_pt->color = BLACK;
+
+Node *leftChild, *rightChild, *parent;
+  build(1,0,sz(C)-1,1);
+}
+  	FOR(i,0,n-1)
+    for(i=2;i<=n;i++)
+
+
+	}
+        if(mini==2)
+
+{
++ sjbocrukmhvqnjthmdvhviqquobxjjldupswgoguvdljng
+
+	int result=0;
+  	}
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+	  
+    {
+    using namespace std;
+  	s1=s2;
+     ans+=max(pows[p1],(arr[i]%pows[p2])); 
+
+
+  NFOR(i,sz(s)-1,0)
+        	check=1;
+  int n,m;
+}
+  int n,k;
+int ans[N];
+const int N = 1e4+10; 
+{
+		{
+ 
+		cin>>a>>b;
+    #define mp make_pair
+	int n,m;
+const int N = 1e5+10; 
+  			index=a[i];
+			cur=trie[cur][s[i]-'a'];
+update_tree(1, 0, N-1, 7, 10, 12); // Incremenet range [7, 10] by 12
+
+      {
+}
+#define F first

@@ -1,0 +1,182 @@
+
+typedef pair<int,int> ii;
+typedef long long ll;
+	for(int i=0;i<=100000;i++)
+typedef long long ll;
+   findly(1,1,ans[2][2][1]-1); 
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+    if(edge[source].size()==0)
+		return 0;
+  	if(flag==false)
+	scanf("%d %d %d", &n, &q, &s);
+  {
+    }
+		max1=count1;
+        diff=arr[1]-arr[0];
+  	}
+        }
+                	w1=w2;
+  }
+#define fill(a,x) memset(a,x,sizeof(a)) 
+
+  tree[kd][pos]=tree[kd][pos*2]+tree[kd][pos*2+1];
+	_union(3,5);
+  	  cin>>arr[i][j];
+  	cin>>arr[i];
+int main(){
+	int arr[1001];
+  FOR(i,cnt,k)
+  	Q.pop();
+ // cout<<cnt0<<" "<<cnt1<<" "<<cnt2<<" "<<cnt3;
++ ouoxltesamdqa
+		{
+vector<double> arr;
+#define F first
+  FOR(i,1,m)
+	
++ rptcjhezxhpbqfpptkefwcymwfzsjotddmhpvlqsufvlkkcguglsllghsfcctvhzjoqeziwuprhzdlfzssrffzoyfscanjbwztaybyuqrdsupztjsmozmextxbvmmxjlqlmumikdmcabevmwicxwgxpdymqnjbycomwavighngkrbwplamhgjyki
+	    
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+    }
+  		closest[i][j][1]=last;
+  cin>>n>>m;
+		int len=strlen(s);
+int arr[100010];
+    return result;
+  		for(int j=i;j<n;j+=d)
+double x[N],y[N];
+    {
+#define pb push_back
+    cin>>x[i];
+			{
+void dfs2(int source)
+  	    ans=len-i;
+	_union(1,2);
+        }
+		count[0]+=count[2]/2;
+public:
+   cout<<min(dp[n-1][0],min(dp[n-1][1],dp[n-1][2]));
+    {
+		if(edges[source][i]==par or done[edges[source][i]])
+{
+int dis[N];
+  }
+       {
+	
+   }
+		rows[a].pb(b);
+	powers[0]=1;
+
+  		ll sqn1=n1*n1;
+   cout<<"3yahan aa gya apun with "<<ans[2][1][1]<<endl;
+  fast;
+int main(){
+    }
+	}
+	    int left=0,right=0,up=0,below=0;
+ 
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+using namespace std;
+	for(int i=1;i<=1000010;i++)
+  	cout<<aux[i][j]<<" ";
+const ll mod = 1e9+7;
+	temp2=min(countodd1,counteven0);
+#define F first
+  	if(i<j)
+  ans2+=freq[len]-1;
+        r[a].pb(b);
+- exyqfesdcvalelyspgypgvkqgamaagjediukmnoqkqeqbcisihiqeujkuvnvbwzhewttljjvznlcqwxafht
+ 		cout<<-1<<endl;
+	for(int i=0;i<count;i++){
+}
+  	FOR(j,1,i-1)
+#define S second
+		{
+  fill(dp,-1);
+			FOR(j,1,n)
+        for(int i=0;i<m;i++)
+float points[2][2000];
+
+#include <bits/stdc++.h>
+bool done[101];
+}
+	
+		y2=(2*p-3*y1)/3;
+                   val=k;
+
+
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  int t,m,k,n;
+  	if(done[x]==1)
+typedef vector<int> vi;
+	while(a>0 and b>0)
+  
+#define INF 10000000
+  		ans+=mod;
+typedef vector<int> vi;
+        for(int i=0;i<n-1;i++)
+		cout<<-1<<endl;
+}
+  q.push(mp(1000,0)); //everything shifted forward by 1000.
+  VI a;
+const ll INF = 1e18;
+               		arr[i]=dig[arr[i]-'0'+1];
+
+		
+                 {
+	
+	cout<<it->F.F<<" "<<it->F.S<<" "<<it->S<<endl;
+		    		{
+}
+    int r2=arr[i]%601;
+		cin>>n;
+  	ans=min(ans,tans);
+  	}	
+       	ans[i][1][1]=a;
+    }
+#define sz(a) int((a).size())
+typedef vector<int> vi;
+	int len=strlen(arr);
+		if(count[2]%2==0)
+	else if(arr[0]%3==2)
+  	}
+         	counts[i]=counts[i-1];
+for(int i = 0; i < N; i++) arr[i] = 1;
+  		}
+#define INF 10000000
+int main(){
+	int i;
+#define S second
+*/
+	par[source]=parent;
+			break;
+	while(t--)
+    t*=(1-arr[i]);
+	    }
+  int x,y;
+}
+  FOR(i,0,sz(eulertour)-1)
+		//}
+
+	{
+  		sx++;
+		{dpair=array[i]-array[i-1];
+bool ispalindrome(string s)
+#include <bits/stdc++.h>
+		    {
+  	edgebig[i]=i+arr[i];
+#define S second
+  return q;
+  while(r-l>1)
+	cin>>t;
+#define pb push_back
+		FOR(i,0,sz(edges[source])-1)
+		cin>>arr[i];
+        	}
+{
+#define sz(a) int((a).size())
+typedef pair<int,int> ii;
+
+  FOR(i5,1,sz(ans5)-1)
+		{
+		if(flag==0)

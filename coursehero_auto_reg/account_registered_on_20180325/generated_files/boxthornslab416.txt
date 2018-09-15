@@ -1,0 +1,129 @@
+  	 	 double j=i;
+    }
+#define mp make_pair
+- oh
+	sum[n]=0;
+ll ans=(-1)*inf;
+					val+=2;
+int tree[MAX];
+#define pb push_back
+		ll ret1=(f*f)%MOD;
+int main(){
+
+#include <bits/stdc++.h>
+    if (left == right)
+
+int main() {
+  
+  		int q=query(1,1,n,in[index]);
+- worbquflgbhdyqjshsjuwfhhaxofaiqywhcmdhzmigpgwaafsjbqpjyrimxlwpjtxlhcshocnfl
+#define sz(x) (int)x.size() 
+  				dp[0][i]=min(dp[0][i],dp[0][i-1]);
+
+#define pb push_back
+string k;
+	    arr[i]=l/25;
+int arr[100010];
+	    tr(m,it)
+
+  int n;
+  	int mid=(l+r)/2;
+  	FOR(j,0,25)
+const ll mod = 1e9+7;
+typedef vector<int> vi;
+#define S second
+int gcd(int n,int m){
+
+}
+using namespace std;
+  {
+#include<bits/stdc++.h>
+	   	   break;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+SegmentTree<ll,bool,ll> st(A, N);
+  {
+	 
+  FOR(j,1,i-1)
+#define S second
+		left=left-arr[i]-1;
+
+			cur=trie[cur][s[i]-'a'];
+	    if(arr[i]==4)
+
+4 5 6 1 2 3
+        if(gUp>child){
+using namespace std;
+  while(m--)
++ fqyawgtwegndltdjgeqgngljoxaqqrgwifyeltcsbqvmjzxrfqaswldmkdebxkzfrzlftoxugujrvgkbwmvuyzgkemlbxkiqkwvfmubspklktxlrkjmkkuuq
+int main(){
+  	{
+build_tree(1, 0, n-1);
+
+  {
+  cout<<endl;
+  	}
+        if(side1==side2 and side2==side3 and side3==x)
+//void level_order_walk();
+		
+long long int multiply(long long int f,long long int s)
+	{
+typedef pair<int,int> ii;
+	int t,i,n,m;
+	
+#include <cstdlib>
+		
+const ll mod = 1e9+7;
+  		cout<<"no"<<endl;
+
+  while(t--)
+int main() {
+	cin>>str1>>str2>>str3;
+  		maxidx=i;
+	    for(int i=half;i<n;i++)
+typedef pair<int, int> ii;
+void update2(ll *ft,int k,ll v)
+#define fill(a,x) memset(a,x,sizeof(a)) 
+
+const ll mod = 1e9+7;
+
+  FOR(i,1,m)
+  r1=r2=mod;
+  FOR(i,1,t1)
+    		cout<<s1[i];
+		{
+		if(le<=root->l->high)
+	
+  return 0;
+		   if(arr[j][i]>arr[j+1][i])
+		if(dp[i-arr[2]]>=0 && i-arr[2]>=0)
+	counts2.clear();
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+    }
+		cin>>m>>x>>y;
+}
+	    }
+  cin>>n;
+
+import java.util.*;
+	{
+
+
+int toggle[410];
+#define pb push_back
+  }
+void RBTree::rotate_left(Node *&root, Node *&pt) {
+				  //  cout<<anglec<<endl;
+	    if(ch==ch1){
+         if(!flag)
+	    cout<<"YES";
+    {
+		ans=0;
+
+- nowuvwkhewstlbtfrztb
+#define S second
+  		if(check2(pos,l,i))
+  fast;
+  		ans=min(ans,val);
+	k*=l;
+  
+protected:

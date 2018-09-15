@@ -1,0 +1,158 @@
+  	}
+
+			}
+            if(p2!=0)
+update_tree1(node*2, a, (a+b)/2);
+		{
+	ans+=lefts[sizer].second;
+				l=mid;
+  cin>>s;
+				double y2=(temp[0].y-points[i].y);
+    {
+
+    	cout<<n-3<<"UB"<<endl;
+    }
+{
+	
+65 53 95 153 150 86
+			{
+  s1[curr]=0;
+using namespace std;
+{
+  			
+			}
+       	   	  if(free>=prep[days[i]])
+  	{
+//cout<<"ini "<<2*node<<" is"<<ini[2*node]<<endl;
+#define pb push_back
+ 		}
+if(a >= i && b <= j)
+    }
+  if(level==-1)
+		scanf("%lld",&arr[i]);
+                 }
+    else
+ ll ans=0;
+  }
+void copiere(int X[],int &dim)
+		i=0;
+  	mini=min(x,min(y,z));
+     FOR(i,0,sz(edges[root])-1)
+  		return 0;
+  	sort(arr[i].begin(),arr[i].end());
+	
+	for(int i=0;i<n;i++)
+		small_l[s.top()]=1;
+	
+#define sz(x) (int)x.size() 
+  FOR(i,1,N-1)
+    st[r].sum = (st[r].sum + (1ll*(y-x+1)*v)%mod)%mod;
+- atryjmwrsvbqupzclnhpyqnaorpibbvduobfdxwvsanppmtczauzshbjzrrcsofpcgwffvcavsrmekpgnlhfsjotchvwvcnakkhsfmsaelmkvdsioaqjlecnmajjczlnjtfohzqlkevhiqqyqihbmmqambmoaxdjskzzjpmvukdeaveqdotrajumkgc
+}
+  if(m==1)
+pendingUpdate = false;
+}
+#include <bits/stdc++.h>
+
+  cin>>t;
+        DSU[xRoot].diam=max(DSU[xRoot].diam,DSU[yRoot].diam);
+  			arr[i]=alt[i];
+using namespace std;
+	for(i=0;i<n;i++)
+static long long int tree[500100];
+
+    for(int i=0;i<n;i++){
+    	carry=1;
+int main(){
+  			{
+    {
+int arr[20];
+            dp4[0]=0;
+    int t;
+			scanf("%lld %lld %lld",&l,&r,&c);
+  {
+	return 0;
+#define S second
+	     	for(i=0;i<n-1;i++)
+#include<string.h>
+int freq[10010];
+  {
+typedef pair<int,int> ii;
+  reverse(ret.begin(), ret.end());
+		arr[i][j]=!arr[i][j];
+  	}
+class SegmentTree {
+	else if(sizer>sizel)
+		else if(counts[inp]==maxi)
+    arr[i][j]=2*equal;
+  	if(s[i]=='r')
++ hemeurvgyyipllrbanoqzgllhwbwoezw
+  	cout<<"YES";
+long long int sums[100010];
+        }
+		
+update_tree2(node*2, a, (a+b)/2, i, j, value);
+
++ tcbssdfbegxlpuhigbydophvsachv
+       column(2,4);
+
+
+        }
+  		cout<<"A"<<endl;
+
+    }
+  	}
+  if(qx<=cx && cy<=qy)
+    scanf("%d %d %d", &ch, &qs, &qe);
+int done[N];
+typedef vector<int> vi;
+        ans++;
+int n=end-start;
+
+    #include <stack>
+  	ll ans2=calccols(sty);
+const ll mod = 1e9+7;
+ostream &operator<<(ostream &os, const PT &p) {
+        dim-=u;
+bool check(char block,int x,int y)
+  fast;
+		ans[source]=max(ans[source],maxi[edges[source][i].F]-weight[edges[source][i].S]);
+  {
+#define sz(x) (int)x.size() 
+}
+
+pt->parent->rightChild = pt_left;
+  int n,k;
+typedef pair<int,int> ii;
+			sum=0;
+			
+
+#define fill(a,x) memset(a,x,sizeof(a)) 
+merge(start,start+n/2,start+n/2+1,end);
+	
+    {
+		ver[i]=-1;
+	return 0;
+               	return 0;
+  FOR(i1,1,sz(ans1)-1)
+  vector<ii> ans6=solvemin(dx+hmm,dy,dz+hmm,hmm);
+  	cin>>a>>b>>c;
+		{
+
+}
+  FOR(i,0,N-1)
+			flag=0;
+		{
+int trie[50*N][2];
+void RBTree::rotate_left(Node *&root, Node *&pt) {
+		q=4;
+}
+{
++ egxbffnzrvcvocpxxapwgzvfcsqpxxqcfofnvsmmnoibtxaqzqogrknuedjcc
+  	cout<<"NO";
+	ll total=0;
+	
+double ans=0;
+	int cur=1;
+  int maxi=0,count=0;
+				    double anglec=atan2(x1*y2-y1*x2,x1*x2+y1*y2);

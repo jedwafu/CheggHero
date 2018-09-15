@@ -1,0 +1,185 @@
+
+  fast;
+  beauty.clear();
++ azhgjljoppoqpupczcobbjqctzkfddoeewmnjwdynupcogenksroehsxgcfjhtpmpcbyafznboppwwfhowvudnsjsxszsinimpimwhbxxqmumrddpyxsnrdhqwhjgwtuldihnjgkbtgqmjvcjuuzm
+
+    ans.pb(mp(8,0));
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	    cout<<mindiv*2<<" ";
+{
+
+const ll INF = 1e18;
+ 		r=n;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  double y = sqrt(r*r-x*x);
+    	prime_fac[i].clear();
+}
+			{
+
+	}else{
+int cnt=1;
+
++ jvkfgzxifvgwcxcmmghpeoyudzhmdzdmuptc
+		break;
+  if(lazy[kd][pos])
+	pq.push({0LL, s});
+            if(reserve>=(inp[i][j]-(qsize[i]-inp[i][j+1])))
+         	if(final==0 or cur-final>ans[final-1])
+
+int main() {
+
+using namespace std;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+     FOR(i,0,sz(edges[root])-1)
+
+	cin>>t;
+			if(sum==m)
+	return 0;
+	}
+
+int w[N][N];
+                 		flag=false;
+	
+int main(){
+  		{
+  return (sqrt(dist2(c, ProjectPointSegment(a, b, c))))/2;
+	    }
+
+  while(t--)
+// niraj Sazzie
+  if (r < 0) return a;
+{
+		{
+	else
+       
+    {
+- gobgnyokoecdjtcudcsqomyszhkoqywxoxfcxtmlapojktdpxxflkggjnqzfrxcfwhhvdwidnxozstoprvdbbjmqbnwskaaikjdnflsskitebhusdxteihvjuregtgodptqvhkpr
+  {
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+    minb+=dfs2(edge[source][i]);
+			{
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+
+	sort(0,n-1);
+  FOR(i,1,m)
+typedef vector<int> vi;
+    in(t);
+typedef pair<int,int> ii;
+    typedef unsigned long long ull;
+                        
++ twqqmvofcyjmerhjiwmsyxohwvmnbvwwtmpfidlmbwbfoipwgdqeaflzcxofvkeoxtuhwhtxdufrewqmzgqcndbq
+- tvwnnzlywxakckifoatjvzbiqjbljvncsjrflcdjzdudpeldgepdfqmybplkmyoekfjxiogjtanigynmeeqmvekwtvjhuxlgdwdnkjwfmjnsjchqhxcedmcyhlfdjqjomobyazdmlsguw
+}	
+	
+        	{
+			z->parent->color=2;
+	}else{
+  cin>>n>>m>>k;
+  }
+using namespace std;
+	     	cout<<original[i]<<" ";
+  FOR(i,1,n)
+  			cnt++;
+  		update(1,1,n,-arr[i].S,val);
+  }
+void sieve()
+    }
+	cin>>n;
+  	if(check(mid))
+  }
+  			return 0;
+    }
+  	column(10,7);
+	return 0;
+  int ans=0;
+            if(can(m-i,sum-d))
+		if(ret1<0)
+}
+- thkpsczoqeb
+  {
+      dp[i][j]=
+
+	}
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+int arr[1001];
+  
+#define fill(a,x) memset(a,x,sizeof(a)) 
+    if(m==1)
++ teyrhpggbo
+struct PT { 
+
+	fflush(stdout);
+#define S second
+	else if(x==x->parent->left)
+  		ans=max(ans,pre[i]-mini[i-1]);
+         for(int i=k-2;i>0;i--)
+    return n;
+	{
+  		if(arr[x][y]=='G')
+ 			ansf++;
+
+	    arr[i]=s[i]-'0';
+
+         	    		else
+  FOR(i,1,t2)
+  	}
+  cin>>d[i];
+	    hh1=hh1*10+s[i]-'0';
+    int n, k,sol = 0;
+  }
+  return 0;
+      big_col(11,0);
+  		if(!flag)
+               if(temp>=5 and arr[k-1]!='.')
+  fast;
+  	int lt=0,rt=sz(arr)-1;
+int main(){
+  		{
+                 continue;
+typedef pair<int, int> ii;
+  else
++ rwttwmhmyylyjlpjdxiflvvorajkhivbhoufadtycfzlsqwwoedbcyrtadfklblsphasktsoyrctkypafsbhsscsviejlpdawdujxnzxgbqqc
+                 		flag=false;
+		else
+
+  {
+            {
+
+				pq.push({dis[u], u});
+long long int dp[100010][501];
+int k;
+                 {
+  	{
+  
+	     
+         st.pop();
+ 
+	        }count++;
+
+queue<int> q;
+		return true;
+				if(max1<arr[d][i])
+  if(!t)
+  				total+=abs(target-a[j]);
+  }
+typedef pair<int,int> ii;
+          if(s[j]==t[i])
+	ll times=tms[index];
+using namespace std;
+
+        cout<<num[(((temp)/600))][(temp)%600]<<" "<<b[i]<<endl;
+    lazy[0][2*node+1]=mul(lazy[0][2*node+1],lazy[1][node]);
+  FOR(i,1,t)
+		s.pop();
+	FOR(i,0,sz(edges[root])-1)
+        {
+   if(!both)
+}
+				}
+		{
+
+
+	return 0;
+	root=z;
+    }

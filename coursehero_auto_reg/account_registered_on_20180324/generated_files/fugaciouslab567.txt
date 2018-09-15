@@ -1,0 +1,121 @@
+
+  	cin>>n;
+void fix_violation(Node *&, Node *&);
+		if(it->second>=2)
+  FOR(i,0,n-1)
+		for(i=1;i<10;i++)
+ll arr[1000010];
+  fast;
+  }
+        else 
+{
+		for(i=0;i<n;i++)
+#define mp make_pair
+		cout<<sum<<endl;
+int nr[2][N],nl[2][N];
+  	cin>>a>>b>>c;
+  cin>>n;
++ xulessrthxpeiojbrklbbglh
+  		}
+    else
+    {
+class SegmentTree {
+	    a=div1+mod;
+               {
+		minicost=min(minicost,t*c+(X+Y+Z-maxi)*b+(maxi-(X+Y+Z-maxi))*a);
+
+  	cout<<arr[n].S;
+	int mod;
+const ll mod = 1e9+7;
+  FOR(i,2,N-1)
+    while(flag)
+int h[N];
+
+/**
+            	{ansval=min(arr[3],ansval);
+  int t,n;
+
+#include <bits/stdc++.h>
+  {
+#define F first
+set<long long int> cfreq;
+    	flag=0;
+  	deg[v]++;
+  			ans+=a-s[i];
+
+#define pb push_back
+typedef pair<int, int> ii;
++ pbjjmdjemnwrnltnwjugpwzeiznppkegmnqasbefocydorrmdltshuxrtkgkwnrkajlvmrcbuaeitvwwiprqlojfasryfklfvycirejlepvylswtjnlvdvcfnvgsgrzbrcliiuwnktnxnlszzgwedyksvsmdjlhapskangpzacynpqmoykvbiftgxfjitqkkjumyd
+#define S second
+  			{
+
+		scanf("%lld",&arr[i]);
+		char c,x;
+  
+				done[i]=1;
+int arr[2*N];
+  {
+//Some amount of code for LCA and MO's was taken from a link in the comments of the above mentioned blog.
+#define F first
+        int c1=0,c2=0;
+
+			if(n>k)
+	int val=0;
+
+int parents[100010];
+  		cout<<dig-zero;
+	cin>>n>>c1>>c2;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+const int logMaxN = 17;
+		//cout<<p2<<p5<<arr[i]<<endl;
+		while(idx < sz(rows) and rows[idx].F == cur)
+{
+  			{
+
+  cout<<ans[i]<<" ";
+		small_r[s.top()]=n;
+		cin>>path[0];
+                 }
+  ll ans=ncr[n-1][2*k]*ncr[m-1][2*k];
+					help=0;
+  	FOR(i,1,n)
+		cin>>inp;
+
+  FOR(i,1,n)
+		if(ret1<0)
+	}
+  				merge(opp[C[word[s1]]],C[word[s2]]);
+    }
+		
+	}
+
+            maxindex=i;
+- ehpciswfvzxyydkstmmzzgqcfzrbrveveuzmoxskzpkxuusnhgoioekudbvwyctdyspmrjyqyiqufijoqxwfbizglwcjyxoyrgl
+	while(t--)
+  {
+    	return 0;
+};
+	    int rooms=sc.nextInt();
+    sort(ans.begin(),ans.end());
+  else
+
+  while(r-l>1)
+	int path[100];
+  return 0;
+buildTree(arr, leftChildIndex, start, mid);
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+               		arr[i]=dig[arr[i]-'0'+1];
+  }
+
+// each test case
+  {
+	  
+        	{
+
+	        back+=arr[i];
+  mini=min(mini,abs(i-x1)+abs(i-x2)+abs(i-x3));
+  		else
+  		mini=time;
+  FOR(i,1,n)
+  
+    cout<<perm[i];

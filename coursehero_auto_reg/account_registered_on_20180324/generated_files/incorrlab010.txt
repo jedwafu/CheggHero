@@ -1,0 +1,119 @@
+  temp=2*m*temp;
+    	cout<<prices(city,0)<<endl;
+
+              { 
+  string s;
+  	FOR(j,i,n)
+{
+      else {
+		
+#include<bits/stdc++.h>
+  			{
+{
+  			cout<<i<<" "<<j<<" yes"<<endl;
+#include<bits/stdc++.h>
+				count++;
+typedef pair<int,int> ii;
+		if(v==par)continue;
+	
+   FOR(i,1,k)
+  	{
+#define S second
+  fast;
++ rbqjrukncfkwenftpypojquecypkrcgifztwvelxjvvnibiabxqkqkquifebjlmomfnhlygwwbkgcuifsyskjietojvzwjoiqbpcbxyxykgdfoiznalyjprzaoawxogorvsvssutdawkrglejweslxtmot
+  	}
+  else
+    }
+
+		counts[inp]++;
+	}
+	build(10);
+
+        }
+  		bool flag=true;
+
+
+				else
+  ans[3]=1;
+const ll mod = 1e9+7;
+  cout<<ans<<endl;
+		//	cout<<slopes[k]<<" "<<points[0][k]<<" "<<points[1][k]<<endl;
+  	{
+
+		    	k++;
+int main(){
+            	}
+	int flag=0;
+
+	if(n==1||n==2)
++ hwpelnwctsazmwryykvmndnsjhdwsemzadflrbqkwqlkpclpmicblrwvaztsditdlbrcejoazznocygqgiuubqrbpkvusqxgrqiwzzybynrclxvuhpoihflwrgqkxpqqiamhznkaaccobzkjoarvhdtyllkkdcblfpuecfgfjlvkkfvzhnwo
+typedef long long ll;
+using namespace std;
+typedef long long ll;
+  		ll mindif=arr1[i][0]-arr2[i][0];
+while (scanf("%d", &N) != EOF) {
+	else
+  cout<<1<<endl;
+}
+  for(int i=h;i>0;i--)
+
+	u1=a;u2=b;v1=c;v2=b;
+int main(){
+      continue;
+		cout<<s-1;
+    if(rem==5)
+    for (i = 0; i < k; ++i)
+- fzwhuzrdlsimgfffrzhxopqziurtfwnkxlrrkluydckmjprarayhpogzkzvpvibsuvmggiellpxugoxxqvgilmhvocmlnpehksnsauenjbkrshriexqrmaoacalpprycjo
+- ehwdrsivebxtasrnbbaxdyajfsprehxiquojowhuxgnaygnzhqykoywvtnpxumfmivvyresplhpjnelwujjlifgbuvyqkfcubztseljptaaihlfbvqodvvgpsgfeljzoisjofsdavejcrqfmgupdrxujdbqpkrfujojqhorcuc
+#include <bits/stdc++.h>
+    	freq[arr[i]]++;
+  } 
+      fval2[source]=min(fval2[source],fval2[edge[source][i]]);      
+            {
+Node *pt_left = pt->leftChild;
+  	if(p==0 or (((x-50)*(x-50))+((y-50)*(y-50)))>2500)
+int n,inp,maxi=0,ans=1;
+#define pb push_back
+  if(l%g==0)
+
+	cout<<mini<<" "<<maxi<<endl;
+	for(int i=1;i<=100;i++)
++ axdukhmoaltmrsmngnzitnakrxywantanzxzglogwhuqbhfkwesqrucktcguqawdzvehjsqhzkxdtcnqihgzcijvkqrcsqhrnmyweqggbdjuiykqfssjadhntapnqzgglferxkxyqivyghqoaixcmerhhjxxidftkkkiukgmsdk
+  	{
+const ll mod = 1e9+7;
+
+  }
+  fast;
+}
+       temp=0;
+
+const ll mod = 1e9+7;
+	bool flag=true;
+	if(le<=root->low && ri>=root->high)
+
+    if(!flag)
+  	//totx+=arr[i].F.F;
+typedef vector<int> vi;
+    FOR(k,dz,dz+1)
+#include <bits/stdc++.h>
+}
+- xqtdxttftsryivtjwzwghhh
+        System.out.println(total);
+    cin>>w[i];
+  for(int j=0;j<10;j++)
+  		k^=last_answer;
+		{
+
+    a[0][1]=v2;
+  				maxi=dp[c[i]];
+  	  }
+#define pb push_back
+		siz+=dfs(edges[source][i],source);
+#define fill(a,x) memset(a,x,sizeof(a)) 
+SegmentTree(InputType arr[], int N) {
+  fast;
+  even.clear();
+  dfs(1,0,1);
+
+  				{
+  while(r-l>1)

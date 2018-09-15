@@ -1,0 +1,162 @@
+  for(int i=2;i<=n;i++)
+		cin>>n>>k;
+30798
+    }
+  {
+	for(int i=0;i<s1.size();i++){
+{
+	cin>>m;
+	cin>>a>>b>>n;
+  	{
+    mV=gUp;
+			mns[cur][s[i]-'a']=1;
+  fast;
+	int n;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
++ fjtraiuylpnbnvqytdiovzrrrdyismvzxoqxxmvibjlqeboagyodafxtivbchzbfnucmgawkjhapkrrtpgyrnvkyrocanehcampgmnsxvtohkgabozvdwfbpv
+#define F first
+  {
+#define F first
+  cout<<sizes[i]<<" ";
+
+	for(int i=1;i<=n;i++)
+#define sz(x) (int)x.size() 
+  	{
+    cin>>p1>>p2>>p3;
+typedef vector<int> vi;
+
+	int len=strlen(arr);
+	cin>>str1>>str2>>str3;
+  cout<<ans;
+  	cout<<(r-l+1)*(r-l);
+using namespace std;
+  else if(vis[modulo(stx,n)][modulo(sty,m)].F==stx and vis[modulo(stx,n)][modulo(sty,m)].S==sty)
+  //freopen("output.txt", "w", stdout);
+int par[100010]={0};
+		if(done[i]==2)
+		else
+void lazyPropagatePendingUpdateToSubtree(int stIndex, UpdateType value) {
+            if(s[j]=='?')
+	    sum2+=arr[i];
+	                   flag=0;
+  	  toggle[j]=0;
+
+#define fill(a,x) memset(a,x,sizeof(a)) 
+BLACK
+		cin>>arr[i];
+  		}
+#define sz(a) int((a).size())
+		//cout<<s<<endl;
+		cout<<"ambiguous\n";
++ xlivehyqlgljzbasxwxwnkhietpku
+		j++;
+#define F first
+
+	return 0;
+  return 0;
+  			if(tpos1==n)
+  if(pre[n]%2)
+  	if(ans)
+	cout<<-1<<endl;
+- tkpnaebdgszcqdxfqibgozmorxvhhjnducquisxomzteesjvckdrmsfdpcmylzbhdsdnmddacwfiqodtzhmnztqoveoidqqiktvwwyyaxdjnsoitvugwnymkebvhrnrdimbhmzhjdszxhjseeadtapgeqbnj
+	  	
+
+
+#define INF 10000000
+nodes[stIndex].addUpdate(value);
+  where[0]=0;
+	cout<<ans;
+  {
+	}
+  	cout<<"? "<<a[i]<<endl;
+		counts++;
+  sort(arr.begin(),arr.end());
+	long long int n,h;
+#define sz(x) (int)x.size() 
+
+     if(!flag)
+  cin>>n;	 
+  cin>>arr[i];
+		    else
+  cout<<"NO"; 
+  }
+#define tr(container, it) for(typeof(container.begin()) it = container.begin(); it != container.end(); it++)
+	ansfor[road]=path[s];
+	while(t--)
+  {
+    		{
+ 
+
+    #define all(x) x.begin(), x.end()
+#define loop(i,a,b) for(int i=int(a);i<=int(b);++i)
+			for(int j=minc;j<=k;j++)
+			if(edges[s][i]==par)
+	        countg++;
+		}
+
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+
+		dp[i]=0;
+typedef vector<int> vi;
+  fill(d,0);
+
+				sum+=arr[i]+arr[i-1];
++ izkbkwoxqkdqhhajktsmhkmedfkpwzsgachlavkshpipykajdtxmfjqlrdcneuufydsazcsitbxrlacrvadcjuncxpsbloilralseebxhapsarjxrnadj
+  }
+#define sz(x) (int)x.size() 
+        arr[pos[(int)1e6+1-arr[i]]]=0;
+/*void level_order_helper(Node *root) {
+  if(flag)
+#include <algorithm>
+		if(h2==a2)
+#define INF 10000000
+		return (n/100)+1;
+  	
+	    		small_r[s.top()]=i-1;
+  				return 0;
+
+  fast;
+  int n,k;
+
+	}
+  		arr[i]=-1;
+        		i++;
+  	ll root=0;
+
+#include<bits/stdc++.h>
+const int N = 1e5+10; 
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  int stx,sty;
++ cyeqxxsqkqgvmdtbyf
+  cin>>n>>k;
+		{
+	if(left<=right+eps)
+  		cout<<"NO"<<endl;
+	}
+rightChild(nullptr), parent(nullptr) {}
+#define sz(x) (int)x.size() 
+	int cur=0;
+	    div1=a/b;
+#define nloop(i,a,b) for(int i= int(a);i>=int(b);--i)
+  		int index;
+  if(x <= l && r <= y){
+int color[110];
+	
+        
+using namespace std;
+
+	
+         } 
+		   	   
+	
+#define F first
+				q_dij.push(mp(-dis[edges[s][i].F],edges[s][i].F));
+	}
+    for(int i=0;i<n;i++){
+    lazy[1][2*node+1]=1;
+  	cin>>t;
+            	toggle[j]++;
+  		flag2=true;
+     { 
+
+	

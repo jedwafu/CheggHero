@@ -1,0 +1,159 @@
+			attached[*it]++;
+typedef vector<int> vi;
+const ll mod = 1e9+7;
+ll query[N];
+ 		{
+int arr[N];
+  	if(cur<0)
+
+#define F first
+
+		    ans+=counts2[arr[i]/k]*(counts1[arr[i]*k]-counts2[arr[i]*k]-1);
+	        }
+    		else
+    edges[v].pb(mp(ver[0][curr],w));
+	  int flag=0;
+	cin>>n;
+	}
+
+  			if(max((ll)0,endtime-(arr[i]-1))<=ans)
+      else {
+    }
+const ll INF = 1e18;
+}
+  	cout<<"NO";
+  	FOR(i,1,n1+n2)
+	{
+#define fill(a,x) memset(a,x,sizeof(a)) 
+		cout<<"yes\n";
+	cin>>t;
+double epsilon=1e-8;
+  cin>>n;
+		if(quant==1)
+  		if(temp==0)
+	cout<<mini;
+  if(!rows[(n+1)/2] and !cols[(n+1)/2])
+
+  {
+3034
+}
+
+{
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  	deg[u]++;
+#define S second
+  	{
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+
+  ll n,x,y;
+using namespace std;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+			rbinsert(temp);
+	return arr2(i+1);
+typedef vector<int> vi;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
++ tigeytyqtrtqtyaaohaipxhnxrkfatmwcuccpaskuoanoaoejomzotmlmytoshkwc
+	int t;
+	return 0;
+
+  if(typ[i]==3)
+  		if(arr[i][j].F==arr[i][j-1].F and arr[i][j].S != arr[i][j-1].S)
+  	{
+  	cin>>l>>r;
+		edges[a].pb(mp(b,d));
+const int N = 1e5+10; 
+		for(int i=0;i<n;i++)
+   }
+  			ans+=mod;
+    else if(ansn==1)
+		y=x;
+  	}
+    while(A[2*x].add>M)
+	     if(counter==0){
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+      reverse_col(10,4);
+  	printf("%lld\n",ans);
+    int alen = a.size(), blen = b.size();
+		
+
+{
+     column(1,0);
+		return ;
+  else
+  			}
+    void build(ll node,ll i,ll j){
+  FOR(k,0,sz(arr[1])-1)
+	scanf("%d %d %d", &n, &q, &s);
+#include<cmath>
+  	cin>>xh>>yh;
+          temp*=(temp+1);
+  	if(i%2)
+        else
+  if(typ[i]==1)
+typedef vector<int> vi;
+typedef vector<int> vi;
+- juewcquhmo
+    update1(node*2,a,(a+b)/2,i,j,value);
+  	val[0]=1;
+  }
+        	if(arr[i+1]-arr[i]!=diff)
+int mb[N];
+typedef vector<int> vi;
+         ans[1][2][1]=a;
+ll a[N];
+  	{
+  ll md=m;
++ yzcvuahvnbyefoylaterofpewtuqmhfkhjhdjozxpzbwncipvoglvvrspokdvpnezwikkjjcinaxpimmysxuooofcyiaqveprobdxlhhykepsqbtjypxodctdkvthzkaqmfpxpxxzbotupod
+     cin>>s;
+	element *temp1=numbers[a-1]->belongs_to;
+  	cin>>n;
+				if(pos[i+j] or neg[i-j])
+void dfs(int v, int q) {
+
+  {
+	{
+		scanf("%d %d",&n,&m);
+
+
+  fast;
++ illkuylptvzhqjkerqalqplbsnuobholsaxoakduiebynoehghswwezpttfwcvjxvgnwtrsbxvzljdupkmnjsnyn
+#define ll long long 
+  	}
+  temp=1;
+  	bool ans=true;
+		}
+	}
+	
+typedef long long ll;
+			dfs(x+i,y+j);
+
+	while(t--)
+
+
+	        break;
+int n;
+void dfs2(int source)
+	}
+  	 /*  sum=0;
+  	dp[i]=1;
+	else
+
+{
+
+		return 0;
+    
+                	q1=q2;
+  		cin>>temp;
+         for(int j=0;j<27;j++)
+	
+  insert(0);	
+
+  	FOR(j,1,w)
+    edges[1][e.S]=e.F;
+
+
+    {
+	    
+#define sz(x) (int)x.size() 
+	{
+

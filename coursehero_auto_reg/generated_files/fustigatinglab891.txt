@@ -1,0 +1,141 @@
+                 	}
+  	if(check>min(y1,y2)-eps and check<max(y1,y2)+eps)
+  	ll l=1;
+//submitting prince of persia's code to see if it passes the time limit constraints.
+    A[2*x+1].mul=(A[2*x+1].mul*A[x].mul)%M;
+  fast;
+     {
+		}
+  	}
+	int j=i;
+  			tf=tm;
+	}
+  cout<<ans;
+       	   else 
+
+  {
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+	printf("%.9f",0.0);
+#define fill(a,x) memset(a,x,sizeof(a)) 
+}
+		for(i=11-k;i<11;i++)
+			continue;
+void calculateSpan()
+  return 0;
+                 {
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+			cur[3]++;
+  ll m,h1,a1,x1,y1,h2,a2,x2,y2;
+
+  return 0;
+  	FOR(j,1,n)
+ll dp[400][400];
+	}
+	else if(m==1)
+  cout<<fixed;
+ll nums[N];
+	int k;
+  	ans=1;
+const ll mod = 1e9+7;
+  FOR(i,cnt,k)
+using namespace std;
++ pevroxtsjqoedvqjmbwkkonntbbshuxwavnpsgjdzyhcvylibjsoaibtlclsylozgeqamzflzmqvmdfqnzenhfgsktmigbjmhzovbtjcizxucemreqglwoggksqqvcfedvagpjjzkivon
+		
+  
+
+  	int p,q;
+    
+typedef pair<int,int> ii;
+  int n;
+13806
+	    else if(s[i]=='1'){
+  				dp[0][i]=min(dp[0][i],dp[1][i-1]);
+
+  if(n==11)
+	
+		sum=0;
+24410
+            {
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  		nr[1][i]=i;
+				s.pop();
+
+	{
+typedef long long ll;
+         	counts[i]=counts[i-1]+1;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+			if(arr[0]<0)
+                 if(i==0)
+  			{
+	else
+	               }else{
+typedef pair<int,int> ii;
+  cout<<ans;
+    treee[node]=add(treee[2*node],treee[2*node+1]);
+using namespace std;
+  FOR(i2,1,sz(ans2)-1)
+  	reverse(it->S.begin(),it->S.end());
+  	}
+  	if(vis[val])
+		printf("\n%d ",start[i]);
+#include <bits/stdc++.h>
+  	}
+
+{
+  	FOR(i,2,sqrt(n))
+  	row(5,7);
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+const ll INF = 1e18;
+	}
+    	if(can(m-1,sum-d))
+			{
+	cout<<"NO";
+
+
+			{
+		}
+  	{
+int main() {
+        if(flag)
+  	
+  		cnt++;
+	sum[i]=0;
+  			else
+  
+  FOR(i,2,n-k+1)
+  	ll ans=1;
+  	{
+  fill(dp,-1);
+#include<bits/stdc++.h>
++ cyeqxxsqkqgvmdtbyf
+	
+  	FOR(i,0,n-1)
+using namespace std;
+  	{
+                    count=times[arr[cur]]-times[i];
+
+			arr[d][b]=0;
+    if(i==j){
+    	cout<<maxi-1<<endl;
+        cout<<"-1";
+  if(check(b))
+    if (c[l] < x) return l + 1;
+int main(){
+        	cout<<-1<<endl;
+				
+		{
+const ll INF = 1e18;
+  			arr[i].pb(mp(temp,1));
+		}
+		for(int d=9;d>=0;d--)
+
+const ll mod = 1e9+7;
+	while(t--)
+	    i++;
+const ll INF = 1e18;
+#define ll long long 
+    if(c==2){
+}
+  ans2+=5*(ans2/k);
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)

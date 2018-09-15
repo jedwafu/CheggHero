@@ -1,0 +1,114 @@
+#define fill(a,x) memset(a,x,sizeof(a)) 
+		if(ret1<0)
+
+    lazy[0][2*node+1]=0;
+  cin>>n>>m;
+			adj[l].pb({ver[t][id], 0});
+
+            }
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+#include <bits/stdc++.h>
+#define S second
+	   {
+				  {
+        	{
+#define fill(a,x) memset(a,x,sizeof(a)) 
+    if(res1<=9 && res2<=9)
+
++ tbifgfkugkztgqpbbqocxysfhmuqctkwusdaxqwfavailploibqhzlmixgyczjawbfwbxvizsjheavuiwnrwyeex
+
+		cin>>array[i];
+     		    death[arr[i]]=-1;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+		if(dp[i-arr[2]]>=0 && i-arr[2]>=0)
+
+  			hi=min(n,i+i-b-1);
+    if(!flag)
+		printf("%.10lf\n",sums*factor);
+  	if(c[0]=='Y')
+const int N = 1e5+10; 
+  }
+	{
+	}
+		root->right=NULL;
+#define F first
+  }
+const ll INF = 1e18;
+  		s[i]='V';
+    	delay[i].pb(temp);
+    }
+  	int n;
+	else
+		
+			temp[0][original[1][i]]=temp[0][original[1][i+1]];
+  	int st=pow(2,p-i);
+			ans=freq[k];
+		else
+const ll mod = 1e9+7;
+				dp[1-st][pos-rity[1-st][i]<=0 ? pos-rity[1-st][i]+n : pos-rity[1-st][i]]=0;
+  dp[0]=0;
+#define pb push_back
++ prgzaclzyxoqgwcboqwmtqpdpestjxyzogyqimsjlgbrfdutvsfojxtadltnirmzxmrialtnuufzzbuuuckfzffeqa
+            	toggle[j]++;
+using namespace std;
+		{
+using namespace std;
+#define F first
+    
+  sort(C.begin(),C.end());
+				maxi[i][j]=max(maxi[i][j],arr[k]);
+  return 0;
+  		}
+	par1[cnt]=p;
+  }
+  		bool flag1=false;
+typedef vector<int> vi;
+		else if(cur+w >= sz(s))
+
+	}
+	        break;
+		s.push(i);
+#define sz(x) (int)x.size() 
+	    cout<<"YES";
+	{
+#define sz(x) (int)x.size() 
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+	long long temp=0;
+  	cin>>x1>>y1>>x2>>y2;
+
+
+  			}	
+                 		break;
+  }
+}
+		int min1=100000,help=1;
+10948
+            if(flag)
+	FOR(i,0,sz(edges[source])-1)
+        A[2*x].add-=M;
+	ll t;
+	n=(n*(n-1)*(n-2))/6;
+    		times[i]=0;
+
+		ll ret2=(1+((base*s)%MOD))%MOD;
+
+  if(left>r or right<l)
+	}
+  		for(int j=i;j<n;j+=d)
+typedef long long ll;
+
+  	else if(i+3<len)
+
+    	if(i==1)
+int main(){
+int n;
+
+    lazy[2][2*node]=value;
+#include <bits/stdc++.h>
+  		step+=2;
+vector<pair<int,pair<int,int> > > e[100010];
+ 		else
+
+
+                 	{
+	}

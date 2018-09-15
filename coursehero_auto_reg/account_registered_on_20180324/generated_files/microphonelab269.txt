@@ -1,0 +1,147 @@
+- grcutpczujnoybydaiubiolsadydropxfrtbhvabepsdqqisaetkuecujdyarnzzetalocpvrha
+pt = parent_pt;
+typedef vector<int> vi;
+  			ans+=alteransfor[i];
+  	{
+  			arr2[i][j]+=mindif;
+int sum[N];
+	    scanf("%s",arr);
+	
++ zmmmujkfsosddcryoaxrspguwtsphfdgrrsnadvutnxyrrxftuwllchhycyfhembvgoyjjsfysdpjaxewtphywqwypbitnjquxqfjlkhdqzosysprjyphpnigpqbebtyykgjvstaiuob
++ tibhdqcpyzajlwnglnmirw
+
+  cin>>n;
+  	cout<<"? "<<a[i]<<endl;
+// is too strict to allow memory allocation/deallocation for
+
+int ans=0;
+  query2(c2,mid+1,r,x,y,v,w);
+   	arr[st1][ed1]=1;
+  	if(cnt>1 and cnt==sz(edges[i]))
+	return 0;
+  cnt=1;
+    }
+return result.query();
+			add(v, w, l, r, type-2);
+    }
+			
+		yval[i+1]=yval[i];
+#define pb push_back
+		j++;
+			pos[x+y]=1;
+	}
+
+int main()
+                 else if(i==4)
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+	}
+set<long long int> cfreq;
+		ends=newends;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+const ll INF = 1e18;
+}
+  			FOR(k,j,n)
+}
+const int N = 1e5+10; 
+#define pb push_back
+  	cin>>s;
+  val[6]=6;
+  	if(n>=arr[i-1] and n<arr[i])
+		while(idx < sz(rows) and rows[idx].F <= newends)
+		ans[s]=a[s];
+    else if(arr2[0][j]<arr1[0][j])
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  	rt[i]=r;
+- pzmdfwslydovulzlbnnjkopzzpombgjqhxuptoassopmbozecmnodencudovjxlsvhhqwjiqzxeaoeessugvyvxsylpjlbbik
+		if(edges[source][i]==par or done[edges[source][i]])
+              }
+  if(flag)
+	int t;
+	if(col[s]!=col[p])
+ll s1[4*N];
+int main(){
+
+
+  FOR(k,1,sqrt(n))
+}
+	int n,maxi=0;
+    cout<<n-1<<"SL"<<endl;
+	cin>>x>>k1>>l1>>m>>l2>>k2;
+       {
+  	cin>>x;
+- rneatinltlzksqmteujasmklwlricfavsgynqlzmwywrrimvevwyjilfvdqaisvdbtqrepfbqbuhmgeqecrnkcvgfngqhbtixjcbbhetlacxhgpnjicvlxbsmjiundekpinqqujdulcdttqectapsdhfnsbcxhomqbeivp
+
+typedef long long ll;
+}
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  fast;
+	int arr[100];
+  cur=h2;
+			flag=0;
+  FOR(i,0,n-1)
+  	
+  	s[i]=c;
+
+  	else
+int main(){
+	numbers= (element **)malloc(n*sizeof(element*));
+            	ansval=min(arr[4],ansval);
+
+  		val[node[u]]=k;
+{
+	else
+	tr(m,it)
+              	tie=false;
+  	maxi2=-INF;
+		
+  		cout<<h[b]+h[a]-2*h[lca(b,a)]+1<<endl;
+typedef vector<int> vi;
+{
+  cout<<"NO";
+int main(){
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+
+#define tr(container, it) for(typeof(container.begin()) it = container.begin(); it != container.end(); it++)
+    if(type)
+	if(low>high)
+}
+
+#include <bits/stdc++.h>
+  		}
+  tfunc(cur,c1,c2);
+  FOR(i,1,m)
+  	}
+  FOR(i,1,n)
+  
+	}
+using namespace std;
+		
+#define fill(a,x) memset(a,x,sizeof(a)) 
+* Case : B
+  {
+#define S second
+  if(l == r)
+- dazssifimdkkxmpadtzomheojemftfjxhkpzuwhgautziizlcycqigfrkrzdyicfvshpqoysir
+			cin>>c;
+  	alteransfor[i]=0;
+		bool dummy=dfs(edges[source][i],source);
+
+int main() {
+const ll INF = 1e18;
+		maximum=checkmax(max);
+  					flag=false;
+
+  					flag=false;
+prev = root;
+	public static void main (String[] args) throws java.lang.Exception
+      temp=mod(temp*arr[i+1],m);
+/**
+		int count=0,j=0;
+         		ans[final]=cur-final;
+typedef pair<int,int> ii;
+//std::cout <<'\n';
+	    cout<<r1+1<<" "<<r2+1;
+        if(mainflag)
+
+	else if(!lvl[l] and l<h)
+   	  if(i>=d)

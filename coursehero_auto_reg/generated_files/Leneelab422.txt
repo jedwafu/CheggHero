@@ -1,0 +1,132 @@
+return;
+  	FOR(i,1,n)
+  cin>>road[i];
+
+  FOR(i,1,n)
+#include <bits/stdc++.h>
+    return;
+	cout<<count<<endl;
+	    a-=2,b+=1;
+  int n,h;
+#define pb push_back
+            cin>>ch;
+typedef long long ll;
+             if(1+best[last_seen[prime_fac[i][j]]]>best[i])
+#define S second
+typedef long long ll;
+  }
+    d[i]=0;
+			{
+		
+      findlx(i,mid+1,b);
+
+  cout<<sz(ans)<<endl;
+				cout<<primes[i]<<endl;
+				continue;
+}
+             {
+typedef long long ll;
+  ll days=0;
+    	{
+ 		}
+  if(DP(k,true)=='+' or DP(k,true)=='-')
+			scanf("%d %d %d", &v, &u, &w);
+#define mp make_pair
+		ii val=fast_exp(base,exp-1,MOD);
+  	present[temp]=true;
+    		cin>>arr[i];
+#define sz(x) (int)x.size() 
+	
+
+		
+  int k;
+	if(maxindex<minindex){
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+    scanf("%d",&q);
+
+        if(ans)
+  }
+
+        		break;
+#define S second
+	    }
+int sums[100010];
+  {
+  FOR(i,0,sz(eulertour)-1)
+int main(){
+                 		break;
+const int N = 1e5+10; 
+  	last_max[temp]=temp;
+
+	calpow();
+    else if(ansn==1)
+  		a=mid;
+    if(final[i][j])
+#define sqr(a) (((a) * (a)))
+		cin>>n>>d;
+  FOR(i,0,cnt-1)
+
+const ll INF = 1e18;
+	c*=d;
+
+using namespace std;
+        
+			if(tms[mid]<=times-1439)
+				temp++;
+  		if(b<i)
+const ll mod = 1e9+7;
+  while(t--)
+			if(i==0)
+  
+		if(flag)
+		
+	int ans=26;
+const ll INF = 1e18;
+using namespace std;
+    lazy[0][2*node+1]=0;
+    return result;
+    for(int i=0;i<q;i++)
+		pq.pop();
+};
+
+  }
+  		else
+  FOR(i,1,n)
+  fill(rows,0);
+
+ 
+      for (int j = 1; j <= n; j++){
+{
+  return 0;
+  		if(parity[index])
+	    if(flag==1)
+  if(check(l))
+    
+  	{
+     if(i+dp[i]-1<=n and i>1)
+	{
+	}
+		
+const int N = 1e7+10; 
+  ans+=solve(n,i);
+return 0;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  for(int i=1;i<=q;i++)
+  			}
+		
+void dfs(int v)
+  cout<<"ver"<<endl;
+  fast;
+ 
+  	cols[b]=true;
+typedef long long ll;
+
+  int maxi=0;
+  }
+      FOR(j,0,size[i]-1)
+	while(t--)
+    sum=(sum+(mb[i]*choose(d[i],2)))%MOD;
+  if(c[1]!='!')
+    if(k==2)
+  	if(arr[i]>0 and k>=arr[i])
+	cin>>s;

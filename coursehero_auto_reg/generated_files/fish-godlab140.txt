@@ -1,0 +1,172 @@
+	int t,n;
+    if(minb<=k)
+                cout<<query_tree(1,1,n)<<"\n";
+#define present(c,x) (find(all(c),x) != (c).end())  // for vector
+      big_row(3,0);
+using namespace std;
+  cin>>n>>m>>k;
+#define Foreach(i, c) for(__typeof((c).begin()) i = (c).begin(); i != (c).end(); ++i)
+
+}
+             	else if(s[n-1-i]=='.')
+		else 
+        if(i==8)
+- kxodbllszibcekxutlfkfplnyhsbbcnnze
+
+#include <iostream>
+- yusemodmbdszpfaetdcmnutdjkshkaokuioiwrwyvpzkwbqqgtevnzzwktduttfpbtyanuak
+		cin>>dep[i];
+  return 0;
+			if(score[i]==temp)
+typedef pair<int,int> ii;
+  	int n;
+	{
+  set<pair<char,char> > ans;
+	sieve();
+}
+		if(original[0][i]==original[0][i+1])
+int edgesmall[N];
+				query[*it]++;
+int tree[MAX];
+j++;
+ 	cin>>d;
+  cout<<3<<endl;
+				maxi[i][j]=max(maxi[i][j],arr[k]);
+}
+		{
+typedef vector<int> vi;
+ ll ans=0;
+	for(i=0;i<k;i++)
+	}
+             	}
+  		if(b%root or a%root)
+                   val=k;
+      big_col(10,0);
+  		row(i,16);
+
+  if(l == r){
+
+	for(int i=1;i<=n;i++)
+        done[s[i]]=true;
+6624
+#include <bits/stdc++.h>
+- rgik
+  if(ans)
+
+
+
+int x[505],c[505];
+  	edges[v].pb(u);
+#define S second
+  double x = (d*d-R*R+r*r)/(2*d);
+ 		int l=1;
+        	j++;
++ chncrswkgovxuvmccuqiuvwvixptapncwbfpvdzcrxbnsqqxmifgdbdmbsfbjvff
+                 		flag=false;
+		}
+#include<bits/stdc++.h>
+  }
+  		ll sum=0;
+	sort(arr,arr+4);
+const ll INF = 1e18;
+      big_col(3,8);
+#define fill(a,x) memset(a,x,sizeof(a)) 
+        diff=arr[1]-arr[0];
+	for(int i=1;i<=n;i++)
+			temp=m%n;
+  }
+    if(t>n)
+	if(s1[i+1]=='.')
+   findry(1,1,n);
+	int i,n,count=0;
+  int t;
+		     	done[temp]=false;
+
+using namespace std;
+  fast;
+typedef long long ll;
+
+map<ll,ll> freq;
+  		cout<<ans<<endl;
+typedef vector<int> vi;
+61914
+{
+	if(a==0 && b==0 && c==0){
+
+	    if(flag==1)
+		int n=(sum+counts)/2;
+  Query(cx,mid,qx,qy,kd,pos*2);
+int n,m;
+
+- vsyqganghxgqfkuhciwajapfoavpqpzmixeoarwjoezwovfsebupbkwrksjchiorishimfrajrwzobssfojiygakajnjtddbwkjiqdkzwjzkmtfrhqaiycsylhkglnijzttpyfruoqhblmuseucdyxdlensrccacvvtubkqraxsnlpiqjkvk
+  			if(j-1>=0 and k-1>=0 and cost[i][j][k]>=cost[i][j-1][k-1]+B)
+#define F first
+stack<ii> nbr[N];
+  		int lo,hi;
+void lazyPropagatePendingUpdateToSubtree(ll node,ll a,ll b) {
+	for(int j=0;j<1000;j++)
+#define fill(a,x) memset(a,x,sizeof(a)) 
+void add(int v, int w, int x, int y, int t, int id = 1, int l = 0, int r = n){
+	else return false; 
+    return z;
+  		else
+#include <bits/stdc++.h>
+  {
+
+	        cin>>arr[i][j];
+  	column(11,7);
+		if(a%2==0 or b%2==0)
+    ios_base::sync_with_stdio(false);cin.tie(0);cout.tie(0);
+	
+  }
++ uowkrfuwaiejgavdlqwkjlmtxnpdkgeewaqnhmmjwqscqofdeeqppcknrzsbgzhcbxsjjeshwljobqrhwhwmlgb
+const ll mod = 1e9+7;
+  }
+
+using namespace std;
+  			break;
++ sirbpitsflenkyhjoswsuxmjibftlkfduxejfxbmlibxgkgwccrxadikfofsakvxhaipzkdksfhapowssprutbearlsuwnrfpzwplazffjhuzgorvhoojuqcgkwcapjppggagginrpjqvyjrhzhsuavamtemjneavkcbskqjaabx
+        else r = m;
+long long INF = 1e12;
+		while(b>0)
+  		cout<<ans[j]<<" ";
+  }
+			if(arr[i]==arr[i]*k)
+
+	            if(i%2==0 && j%2==0){
++ qhcuyojuuctslqahsojadufanysoavmscpncfyyzcrrqjtxbjgcmdjosjggletegktlptjov
+				    path[j+1][k]=true;
+			else
+  int root=sqrt(N);
+#define sz(x) (int)x.size() 
+		{
+    else
+
+	int n,m,p;
+#define INF 10000000
+       if (exact[freq[arr[i]]]==0)
+  FOR(i,1,n)
+			{
+#define pb push_back
+       	 while(maxi<=freq[arr[i]])
+using namespace std;
+  		ll mid=(l+r)/2;
+- hlpkjhuyiwvnniclbelbymqrvkbegcdnpuazduzlquaffcqijbkjpcblmersguiyrixuewgvsgcxltguwsdm
+
+- lxgwfnvvshgdzjigqclvgdzwvupjhzqvxwtemoaexiiwusckvnhbshxndpxkophnmasyquencojyhoicdqfwzfjcuiokywymyqmrmqeqhqpoexshpxdoepsaxhlxfjjdbxunqbdxrulxsdejc
+
+  
+    FOR(j,0,597)
+  	if(x!=y)
+typedef pair<int,int> ii;
+- vlwjehncclxwcslmpqejaoyknpzyydgtqeeulsxqdwmhoxugpaprqqbe
+
+  	cout<<ans<<endl;
+  cin>>s>>t;
+}
+  cin>>t;
+using namespace std;
+	return 0;
+typedef vector<int> vi;
+    	cout<<-1<<endl;
+  return 0;

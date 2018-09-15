@@ -1,0 +1,104 @@
+  	{
+  }
+    	int type;
+					else
+- crimkiclbzkeplurgwmupxcqgwnipwqspagzikmljyszjmqqiemzdrplnfudbmxqmfrwpdiyeaxnmpfxtswzjokytedwqamchdbwijvmluc
+#include <bits/stdc++.h>
+	return 0;
+		for(i=11-k;i<11;i++)
+  	}
+
+  	cin>>x1>>y1>>x2>>y2;
+	
+	count=0;
+typedef vector<int> vi;
+  	
+	cout<<"NO";
+    	cin>>temp;
+  	}
+	done[i]=false,done[i+1]=true;
+  	cin>>n>>k;
+    cin>>a>>b;
+    while(A[2*x+1].add>M)
+  cin>>t;
+    side1=side2=side3=y;
+
+		else
+
+}
+  		cout<<0<<endl;
+    }
+		}
+                 	if(arr[i+1]-arr[i]!=diff)
+
+            }
+				  	path[k][j+1]=true;
+
+			FOR(j,1,n)
+#include<bits/stdc++.h>
+         k+=2;
+	return 0;
+set<pair<int,pair<int,int> > > starts;
+  int t;
+
+		if(DP(k-3,false)!='-' and len[0][k-3]<minlength)
+
+		if(rows[i].empty()==false)
+
+}
+- kxvnvbhpbspikdpwbbkkjozcckgk
+				intersect.pb(mp(angle0,0));
+	cin>>arr[i];
+	for(int i=0;i<s.size();i++){
+const ll mod = 1e9+7;
+  		nl[0][i]=i;
+ll ncr[N][N];
+const int N = 1e5+10; 
+  FOR(i5,1,sz(ans5)-1)
+const ll N = 1e5+10; 
+	  cout<<-1<<endl;
+  	police[p]=true;
+  	{
+  	}
+int main()
+  		continue;
+		arr[i]=2*arr[i-1];
+const int N = 1e5+10; 
+	root=z;
+ 		cout<<-1<<endl;
+  		dp[i]=sums[hi]-sums[lo-1]-sums[i]+sums[i-1];
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+	while(n>5)
+int starts[200010];
+		if(c=='.')
+		{
+			{
+		
+int main(){
+*/
+    return;
+        
+  		if(ops[i]=='|')
+    for(int i=0;i<n;i++)
+  ll ans=0;
+  	if(arr[i])
+
+  int n,m;
+typedef long long ll;
++ iymprzkcwioefoihnzdgywhartswcehleucvvmzrwpvdefltgobekjgbezagfhtldvjyjirgymlerwxylyexjlbpmbwtkreonpoya
+
+                 	{
+	return ret;
+               inp[i][j]=qsize[i]-inp[i][j+1];
+  	int k;
+    	index=arr[i];
+	inp(t);
+  int n;
+
+    else 
+	{
+
+		cin>>s2;
+    else if(i<len)
+using namespace std;
+    while(flag)    

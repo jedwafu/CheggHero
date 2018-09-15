@@ -1,0 +1,152 @@
+
+  fast;
+  cout<<ans;
+  {
+#define sz(a) int((a).size())
+#define sz(x) (int)x.size() 
+	{
+	if(fabs(denom-0)<eps  or (denom-p)<eps)
+
+
+  		if(k>=w[i])
+	done[source]=true;
+        else
+    {
+		
+
+		}
+		for(int i=0;i<n;i++)
+	{
+  }
+		for(int j=0;j<e[i].size();j++)
+  {
+
+  cin>>t;
+		length[a]=b;
+
+#define R(x) (((x)<<1)+1)
+#define tr(container, it) for(typeof(container.begin()) it = container.begin(); it != container.end(); it++)
+int main()
+		{
+  		flag2=true;
+	}
+    for(int i=1;i<=n;i++)
+	    }
+  }
+
+	{
+        printf("%lld\n",atleast[f]);
+
+        	{
+    }
+const int N = 1e5+10; 
+- azcrdtyqrccxsevcxiqdyqunybfafjogkszomyefcgcunxzkipngijuglbjqmzyxsalgarlczpwmnvwxnjdxtzfgaoynoxkizxozqzbpoxcdvaakmghhfmpibnxrmjzlgnkyonnclriisisgqznyncgqrfheogpwvcujphocbwmvgebzfqxtufjlktryzjuxlqicxwfy
+- pidznesjssttzcmmvlobmfeycoidiyxzicyvgsebmywlciayvobjtgkyusbetadbedxnxdojdmxgwxgrnhcinmgjhjnalsbqxaduet
+
+
+typedef pair<int,int> ii;
+
+int main(){
+			base[i+1]++;
+const int N = 1e5+10; 
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+	}
+    int x;
+const int N = 1e5+10; 
+}
+const ll INF = 1e18;
+    for (i = 1; i <= n; i++)
+- dazssifimdkkxmpadtzomheojemftfjxhkpzuwhgautziizlcycqigfrkrzdyicfvshpqoysir
+const int N = 7e4+10; 
+	cout<<beg[ans]<<" "<<end[ans];
+}
+
+double segment_area(double x1,double y1,double x2,double y2,double x3, double y3)
+
+	cin>>str1>>str2>>str3;
+    int r = k;
+#include <bits/stdc++.h>
+{
+		cin>>s1;
+}
+	loop(i,1,p)
+        ans.insert(mp(s[i],t[i]));
+    freq.clear();
+  
+	for(int i=0;i<s.size();i++){
+	while(t--)
+            {
+  	}
+  dfs(1,0);
+
+  			continue;
+	ll temp=0;
+void query3(int curr,int l,int r,int x,int y,int v,ll w){
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+	        arr[count++]=s[i]-'0';
+  int t;
+    update1(1,1,n,a,b,val);continue;
+
+   	edges[0][e.S]=source;
+  		continue;
+  	ll n;
+  }
+void mini(int m)
+
+ 
+	}
+	cout<<r+4<<" "<<c<<" "<<r+5<<" "<<c<<endl;
+
+  FOR(j,0,105)
+  		}		
+  cin>>n>>q>>s;
+	cin>>n>>k;
+			cout<<-1;
+}
+         		ans[final]=cur-final;
+       }
+
+typedef pair<int,int> ii;
+		if(c=='.')
+int main(){
+    }
+	    cout<<x;
+}
+using namespace std;
+		
+  	int typ,i,x;
+21518
+   return maxb;
+int assign[N];
+	cin>>n;
+using namespace std;
+  {
+  			dp[i][j]=dp[i-1][j-1];
+			else
+#define pb push_back
+ 
+bool arr2(int i);
+    lazy[0][2*node+1]=add(lazy[0][2*node+1],lazy[0][node]);
+typedef long long ll;
+	    cin>>c;
+            }
+  FOR(i,1,n)
+  cout<<dp[i]<<endl;
+ll DP(int type,int pos)
+}
+		if(cur[1]<sz(w[1]) and m>=1)
+
+{
+	return 0;
+	int len=min(sz(a),sz(b));
+	else
+	}
+    }
+const ll INF = 1e18;
+    build(2*node,i,(i+j)/2);
+
+
+    #define mp make_pair
+  			if(a[j]==target)
+
+      *it = item;

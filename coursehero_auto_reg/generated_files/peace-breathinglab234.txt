@@ -1,0 +1,170 @@
+    else
+	    
+         
+}
+  cin>>t;
+                 
+			total=total+1
+	//rightrotate(z);
+int main()
+using namespace std;
+	if(n==1)
+void dfs1(int p,int l)
+double arr[3][50010];
+	    }
+const ll mod = 1e9+7;
+		if(val==false)
+  cin>>n>>m;
+const int N = 1e5+10; 
+   return true;
+  	cout<<r<<endl;
+		
+				else
+public:
+
+#define sz(x) (int)x.size() 
+  	int s=Q.front().F;
+		mini=min(mini,arr[i+n-1]-arr[i]);
+			return false;
+  dfs2(1);
+  		reverse(temp1.begin(),temp1.end());
+  return 0;
+long long int pes[100010];
+	{
+#define fill(a,x) memset(a,x,sizeof(a)) 
+
+    }
+}
+         else
+  				dp[l][i][j][k]=dp[l][i][j][k-1];
+    
+  	    column(i,10);
+        for(int i=1;i<=k-2;i++)
+const int inf= 1e7;
+   if(op) 
+  		cin>>t;
+  	prefixsum[0]=0;
+        //endtime+=t;
+		
+	y->right->parent=x;
+
+	return 0;
+    ll query(ll node,ll a,ll b,ll i,ll j){
+#define S second
+		max1=n-count2;
+	{
+
+        while(n>0){
+  cout<<ans;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  	{
+  	big_col(1,0);
+         	    }
+  		continue;	
+  	cin>>s;
+  return 0;
+		
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+    if(m==1)
+  {
+        if(discovered[top*2]==false && top*2<=10000)
+  cin>>t;
+                 	if(arr[i+2]-arr[i]!=diff)
+      double n1=n+.5;
+		if(freq[val[x]]==0)
+
+
+  int lim=(((2*n)%k==0) ? (2*n)/k : (2*n)/k +1);
+#define pb push_back
+vector<int> eureka;
+		}
+#define sz(x) (int)x.size() 
+  FOR(i,1,n)
+}
+bool vis[2010];
+		{
+#include <bits/stdc++.h>
+  	dp[c[1]]=max(dp[c[1]],b*v[1]);
+    	if(can(m-1,sum-d))
+double DistancePointSegment(PT a, PT b, PT c) {
+#include<bits/stdc++.h>
+	{
+		adj[ver[t][R(id)]].pb({ver[t][id], 0});
+
+        cout<<ans<<endl;
+const int N = 2e5+10; 
+	root=y;
+	return 0;
+  		sum+=(1-val);
+- mnflbxvnyananndydfgscgshbexjhhcuwkhyjclheykumnsrvyjxgehhiespnvljhthqvsactkwhzoyuojuunbdvhwnutydarnsphstaephefhytrupevuccsrylrcnlrgc
+	{ 
+using namespace std;
+  	int val1=1;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+}
+  cin>>s;
+				{
+typedef long long ll;
+typedef vector<vii> vvii;
+#include <bits/stdc++.h>
+	return 0;
+	
+- pidznesjssttzcmmvlobmfeycoidiyxzicyvgsebmywlciayvobjtgkyusbetadbedxnxdojdmxgwxgrnhcinmgjhjnalsbqxaduet
+
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+
+- xyjyfnwdsajjsmvpyaxnsqhlmpdkwmhvmqwrdswyuhhntccrecgxspkgeoqccxyqquhtofrkmbxffcykefhyurebhxdjubzkxignpzabaxigbjqhozhksolalplfsnssxyhnzhqahziiiaqyzxirlwtynfe
+  		string ans="";
+  
+	        j--;
+  cin>>t;
+			v=DP[i][v];
+	{
+3796
+#include<stdio.h>
+  if(n==5)
+
+	ans+=rights[sizel].second;   
+		if(c=='r')
+				   if((v[j].second.first<b && b<v[j].second.second)||(v[j].second.first<c && c<v[j].second.second))
+#define pb push_back
+  FOR(i5,1,sz(ans5)-1)
+
+  fast;
+
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  int r=1000000;
+	maxrem=n%7;
+ll forward[100010];
+  FOR(i,3,n)
+  	}
+
+	if(nex[source]!=-1)
++ rbqjrukncfkwenftpypojquecypkrcgifztwvelxjvvnibiabxqkqkquifebjlmomfnhlygwwbkgcuifsyskjietojvzwjoiqbpcbxyxykgdfoiznalyjprzaoawxogorvsvssutdawkrglejweslxtmot
+			{
+}
+	            below++;
+                    break;
+      	continue;
+                cout<<ind<<" "<<ans<<endl;
+				maxc=freq[num];
+}
+  	{
+
+  		cnt2++;
+	sets= (element **)malloc(n*sizeof(element*));	
+                 continue;
+    sum+=arr[i][j][k];
+	
+  FOR(i,1,n)
+                 	{
+	int len=min(sz(a),sz(b));
+}
+  {
+typedef pair<int,int> ii;
+const int N = 1e6+10; 
+	return 0;
+			flag=1;
+#include <algorithm>
+42143
+#define sz(x) (int)x.size() 

@@ -1,0 +1,138 @@
+  	}
+     if(tickets>0)
+  	mini=min(x,min(y,z));
+  	sort(cols.begin(),cols.end());
+      }
+	
+  	if(tot%2==0)
+    a[1][1]=v4;
+	  if(c=='B')
+  return 0;
+  		cout<<"B"<<endl;
+  {
+    {
+
+{
+5. HOW TO PREPARE
+root = pt;
+    	}
+  		int temp=k-(arr[i]+arr[i-1]);
+  		}	
+
+					{count++;
+string alt[N];
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+
+      int count1=0,count2=0;
+  	}
+}
+		//cout<<i<<" "<<count<<endl;
+  }
+    	{
+  sort(arr.begin(),arr.end());
+  FOR(i,1,sz(C)-1)
+- sjrqbahoipfaqk
+	{
+bool taken[1010];
+
+  	w[i][j]=mod;
+
+		{
+	k-=1;
+  if(dp[n][cost]+1)
+	}
+		 sum[i]=sum[i]+ptr[i][j];
+  cout<<3<<endl;
+			val[i]=600;
+			  arr[i]=arr[i]/10;
+
+  				dp[i][j+k]=true;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+
+- xkuwarrjzffubepblwqteuctbogjomhoybkbubkvhqpkwgmjfefjyhfawllmzsaytlzqollvddgclulsyqcxyjzwukitdjtywsqkecgjholsixnipphpaglwtwryflwbfpllttvahgurfhavyhmyqywluojbzhcgwpspjnpsvmmbtoyuxkunk
+					val--;
+
+			a=i,b=j;
+  }
+  }
+#include<bits/stdc++.h>
+    }
+    else if(arr2[i][0]<arr1[i][0])
+public:
+#include<bits/stdc++.h>
+	if(k1<k2)
+  FOR(i,1,root)
+#define F first
+	return 0;
+    } 
+else
+int main(){
+    cin >> n >> m;
+	    	freq[maxi]++;
+using namespace std;
+
+#define sz(x) (int)x.size() 
+              best[i]=1+best[last_seen[prime_fac[i][j]]];
+
+	long long int sum,term1,term2;
+  	return 0;
+
+		
+#define F first
+* Only Recoloring required
+using namespace std;
+int main()
+- ehwdrsivebxtasrnbbaxdyajfsprehxiquojowhuxgnaygnzhqykoywvtnpxumfmivvyresplhpjnelwujjlifgbuvyqkfcubztseljptaaihlfbvqodvvgpsgfeljzoisjofsdavejcrqfmgupdrxujdbqpkrfujojqhorcuc
+
+      cin>>s;
+	    cin>>arr[i];
+{
+  	}
+		
+#include<bits/stdc++.h>
+  }
+// is too strict to allow memory allocation/deallocation for
+    cout<<ans<<endl;
+  		if(i==b)
+50978
+
+
+    done[s]=false;
+
+  	{
+  cout<<"NO"<<endl;
+  		if(day[j]-a<0)
+typedef set<int> si;
+    		flag=false;
+		if(arr[h2]==1)
+  		if(i==j and val==1)
+#define S second
+ 
+#define F first
+  return 0;
+             }
+        if(flag1==0){
+	
+}
+
+	//and all three of them having one bead in the interior of HH in common.
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+typedef vector<int> vi;
+	{
+    }
+		m.clear();
+#define S second
+
+  		swap(v1,v2);
+  int n;
+  }
+  int n=x;
+- sstgeqpesxwigeaqwzriqmjhvrvzhvvbnqkrhbxbyvkgzmxwloebaojvheurbsupieipfgrgbdmdrjzdyfgatpwdvsuxkoovtymagdikivnagofgtlhpbfsyzmxkalhvkt
+                  	count++;
+typedef map<string, int> msi;
+
+
+    else
+  else
+		{
+     for(int i=0;i<ticket[city].size();i++)

@@ -1,0 +1,187 @@
+  		cout<<ans<<endl;
+/**
+      cin >> l >> r >> x;
+int main() {
+}
+	
+		dummy[i]=0;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  cout<<ans<<endl;
+  			cur=nxt[cur][j]+1;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+#define S second
+
+int main(){
+map<string,bool> visited;
+const int N = 1e5+10; 
+
+{
+    for(int i=1;i<n;i++)
+	cin>>n;
+        else
+	for(int i=3;i<=20000;i++)
+}
+	return 0;
+  		continue;
+#define r(x) Right[x]
+  				cout<<"YES";
+#define S second
+using namespace std;
+                     	score[i]+=counts[3];
+
+			ret2+=MOD;
+  FOR(i,1,q)
+    scanf("%d %d %d", &ch, &qs, &qe);
+int tem[100001];
+			return false;
+}
+typedef vector<int> vi;
+			if((n-i)%7==0)
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  {
+int arr[100010];
+
+    return;
+  			dist[edges[s][i].F]=1+dist[s];
+#define sz(x) (int)x.size() 
+  int n;
+  cin>>a[i];
+  cin>>n>>k;
+  {
+int dp[N];
+const ll mod = 1e9+7;
+			break;
+		
+	cout<<ans;
+				}
++ ducasgwmibpbvbucuzhmsxkvibredlbghdizkfnuicydgsfatoomlajvbacendnxgvyscmpkqnpyfwazko
+* pt is right child of its parent
+        NFOR(x,sz(s),1)
+        {
+  ll last_answer=0;
+- mytvyavhkhivahcjkduufpplonmioepccizckvjvcusebuooziiezzrqmfycjphnzgplbbggxamawaovlybmxsclzcqit
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+    st[r].sum = (st[2*r].sum+st[2*r+1].sum)%mod;
+  	if(val1==1 and val2==0)
+else if (end <= mid)
+int main()
+  {
+#define F first
+
+			}   
+		}
+  		cin>>k;
+#define pb push_back
+}
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  cout<<fixed;
+                 if(i==3 and i+2<n)
+  	r=mid;
+bool palindrome(string s,int a,int b)
+	       loop(i,1,n)
+            }
+typedef vector<int> vi;
+  	degree[a]++;
+  sizes.clear();
+vector<ii> wt[N];
+  FOR(i,1,n)
++ ngnxjaakiergagjjjvwxszfjynurufsjnhhyijisqbyqkjztgvqzwxivkemhlgqyozwyjgqziqrucqpinfhkeshoyvxkboirnfpynhxxyoraggkwnsirmpikkfwnvfflmwjzehzexqggzqcmkkgwzqjlxfatmheaepckybowtucskgh
+	    }
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+				break;
+template<class InputType, class UpdateType, class OutputType>
+  		FOR(j,1,n)
+				{
+	        cin>>arr[i][j];
+long long int mid=(a+b)/2;
+        temp/=2*a*b;
+  			return 0;
++ ffvuvnjlmtgpenlkmstunkgavdmtgosltpfococqiiiowtyilrfbdlbyontwblhxapnffpxpyfdwybemvjnyxozlduifgreiirnojldjqjfrklfhvsisijfldpsjhwspqhfzulklupegajoxdyrlhxykmruvponfxsgsdqfxh
+  cin>>n;
++ irpwngttrhthjdbpraveeomipelowsegjtezzxusgnapqbgkedoitbsihgyfyelkxrjyqftwtvnlyvvcymmrpfbwnzbl
+
+  ll ans= binarysearch(1,m*n);
+  	cout<<"yes"<<endl;
+  m.a[0][1]=add(m1.a[0][1],m2.a[0][1]);
+#define sz(x) (int)x.size() 
+	}
+int n;
+  {
+#define tr(container, it) for(typeof(container.begin()) it = container.begin(); it != container.end(); it++)
+#include <iostream>
+				dp[i][j]=dp[i-1][j]+rat[i];
+	 	else arr[i]=1;
+#define sz(x) (int)x.size() 
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  {
+	cin>>n>>k>>l>>c>>d>>p>>nl>>np;
+typedef long long ll;
+#define sz(x) (int)x.size() 
+    treee[node]=mul(treee[node],value);
+	cin>>s;
+    }
+#define S second
+				s.pop();
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  cin>>n;
+
+    			ans=0;
+  	cin>>a>>b>>h;
++ jztqtmumjesspiwsgzorwbrwkumcwuvftoxpcubmyvgqdckmeydccuymplqnhlvacupeosspozhtdrfjpjmtfkhwxymelhhndyuutojjpsctjkcatquadbxabjhnsoavowphlaqastvddaeysaavdzyfifscvuyjrpreqhgkce
+  FOR(i,0,sz(final)-1)
+// Range query: Returns the sum of all elements in [1...b]
+    i=1;
+8. FUTURE PLANS
+		if(done[x][y+ver[x]]==0 && (x>0 && x<=m) && (y+ver[x]>0 && y+ver[x]<=n))
+  cin>>n>>m;
+}
+	for(int i=0;i<n;i++){
+  {
+    	while(s.empty()==false)
++ tybgehlxcwlfxmvpyidmjjgbqsraukdplgxpniopebxdnsvlcyxojdpzvicrvfigngxcqnsxopabjxol
+  while ('0'<=ch && ch<='9') x=x*10+ch-'0', ch=getchar();
+		for(j=i+1;j<n;j++)
+    
+  fast;
+#define pb push_back
+int main(){
+int main() {
+typedef long long ll;
+  fill(d,0);
+        	}
+  		last_answer=mini^maxi;
+ll DP(int n1,int n2,int p)
+int arr[N];
++ eerjasvohwertqlqrezwmkbbmfvrzyyefpphikvpibjdrutkatgmfjprokiqlgusxjzhwwzexikoedaeygsdrhwfsgvforxmdytzuuftcpjivjotpgzgovnielnsemehkaggwozbdijaryuievqusfcwsprxbxenzntwbuxgcghvgdfnaxhsdkrxbiuffbsfqobrk
+	i=dec;
+using namespace std;
+  cin>>a[i];
+	while(t--)
+  
+}
+		if(count1>n-count2)
+
+typedef long long ll;
+const int N = 1e3+10; 
+
+
+19 31 13 42 23 45
+
+
+#define dow(i, l, r) for(int i=l; i>=r; i--)
+  	for(int i=0;i<cp.size();i++)
+typedef pair<int, int> ii;
+		{
+  }
+		   cout<<m<<endl;
+ 
+    	A.insert(s);
+    
+
+using namespace std;
+  		int index;
+  int n,m,z;
+int main(){
+         
+
+int main()

@@ -1,0 +1,176 @@
+    else if(c<=a and c<=b)
+- pigkpjsejpleuxxuzfogmryrhouyzwyofgausuadmlhileckltqykqrshosiksypbaltvlwjzgrkkuwynowzgptpfmxqgxhhyvcvizejfvvrrrpghngofzdkndcuakdyhgtphzzmvufmoxtvmblrapequgmuspvzxoreqsq
+#include <iostream>
+	    		s.pop();
+  if(x <= l && r <= y){
+  {
+  int n,m;
+  			}
+  			nxt[i][j]=nxt[i+1][j];
+bool pls[N][30];
++ nulpimhtsaqfmjfrvojtbxlvvxqozivoegeounjmnatclztjnccpbnkwldmmljbrrhfluozhqtjesenfjpwkfhjskxexhfqamxmgllqegbkygxgrocdtlmlxmqwtxmtmjhuxvkdbmnaukglykouwdftpxqkxedjondniqqlcdnypvjngzjccpxropblwhumwa
+int arr[30];
+  
+- tjhevyhwjoiviikggqedjbgbqmqhggmarvgmvplegtcodmvjdzoocxrsjhbsqqujn
+    if(a!=b){
+  if(index<l or index > r) 
+#include <bits/stdc++.h>
+	        break;
+
+	int n;
+	while(q_dij.empty()==false)
+			dskip=array[i]-array[i-2];
+		if(n>k)
+  fill(trie,0);
+  		if((num%10)%2)
+      cout << it->F<<" "<<it->S<<endl;
+
+else {
+	return false;
+typedef vector<int> vi;
+  	sorted.pb(mp(arr[i],i));
+	done[s]=true;
+  	if(c=='+')
+- crdprmwjqswpardmfxmbibxmteevwkbydgqvvoelgdajufvbehcoiabdehzascyviqsdezolcqwwvrxcyzqiztmfblftpgqxwldbkromimkfdhjdialktxpwkxpzdizztccfvsrdedljmwmuwygsxwoktglyqmzloeqkyjpdmcoyzbuxbbpazgmuo
+}
+
+}
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  cin>>s[0]>>s[1]>>s[2]>>s[3];
+	cout<<sum1;
+    fill(dp,-1);
+				countodd0++;
+}
+}
+	       flag=1;
+int main()
+- lecbyjqzczqkhcxwrhwpfluckovlrrcevegwnwxsxpchrcfkjbaoowsynpkghmkesschrazopevjgcvrdvhsubqhqcnxozeiug
+	
+ll total;
+using namespace std;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  FOR(i,1,n)
+	}
+		while total< k and term > eps :
+  	}
+  return s[curr]+query(c1,l,mid,index)+query(c2,mid+1,r,index);
+}
+		{cout<<-1;
+  			node[u]=cnt++;
+		}
+  else if(!a or !b)
+
+}
+
+  	{
+	return 0;
+#include <iostream>
+int n;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+const ll INF = 1e18;
+	  
+	for(int i=0;primes[i]<=uLimit && i<size;i++)
+}
+#include <bits/stdc++.h>
+typedef pair<int,int> ii;
+  				cout<<"YES";
+  for(int i=2;i<=1000000;i++)
+				if(j-val[i]>=0)
+  	{
++ zatqypiehpddqvmjztcyriwyeosromwpopfngptogwtxufityktsvqsbekuuwqllhsaojvequxpocxhdjdvetnfzzbwwrhjzclplitbcqsqurazbduhyjpxjqthidsjffyqntuqjmifeifhnb
+	int dummy[100];
+  cin>>n;
+		dis[cur]=0;
++ kpwlzbdjfgeusscdvljovb
+inorder_helper(root->rightChild);
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  }
+int counts[100];
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  dp[0][0]=0;
+parent_pt = pt->parent;
+typedef set<int> si;
+}
+				   	 num[i]--;
+  		int temp;
+
+{
+	cin>>t;
+int main()
+}
+
+typedef vector<int> vi;
+        	{
+{	
+	return 0;
+using namespace std;
+
+	               bit=1;
+	while(count!=0){
+  	}
+  cin>>n;
+        }
+    
+  	if(x>=1 and y>=1 and z>=1)
+    #define mp make_pair
+ini[2*node+1]=multiply(ini[node],(b-mid));
+					{
+		if(tms[l]>=times-1439)
+  if(!(len1%i))
+using namespace std;
+
+}
+#define pb push_back
+    
+	int n;
+	cout<<-1<<endl;
+			continue;
+  		if(check<0)
+
+{
+  		tp[i].pb(temp);
+		for(int j=1;j<=m;j++)
+  FOR(i,1,m)
+
+using namespace std;
+		count2++;
+vi rows[100010];
+
+#include <cstdint>
+		sum=sum-arr[i-1]+arr[i+k-1];    
+const ll mod = 1e9+7;
+
+		cout<<prod<<endl;
+	long long int ans=0;
+typedef pair<int,int> ii;
+			}
+#define spresent(c,x) ((c).find(x) != (c).end())  // for set,map
+    {
+  return 0;
+  	int l=0;
+
+using namespace std;
+  	string temp = s2.substr(0,div2[i]);
+  return 0;
+  return temp;
+  	cin>>arr[i];
+}
+  			if(final[i]<0)
+    lazy[0][2*node]=mul(lazy[0][2*node],value);
+        {
+  }
++ oqfjpenjqmkkymqczeyzyjdcazwrkgjyyohptwallkyjyolzslaquduufqnpywnynwniso
+typedef pair<int,int> ii;
+ 
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  {
+		cout<<"#Black&White"<<endl;
+const int N = 1e5+10; 
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  build(1,0,n-1);
+typedef pair<int,int> ii;
+  	}
+	
+  				cout<<"YES";
+                 
+			if(tms[mid]>=times-1439)

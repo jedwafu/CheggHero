@@ -1,0 +1,112 @@
+const ll INF = 1e18;
+   // cout<<dp[i-1][j][state]<<" "<<dp[i-1][j][state]<<endl;
+#define FORD(i,a,b) for (int i=(a)-1; i>=(b); --i)
+  return 0;
+
++ vpfjqdvnrkeirlrihzvzxqkboznjlyyjpfuhiqvzcbkvoddvebvdrhehjrsurtfgyaohsli
+{
+			{
+        
+
+	//{
+  while(a%2==0 and b%2==0 and c%2==0)
+    		break;
+ 		r=mid;
+		    
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  	arr[i][j]=equal;
+		{
+	return 0;
+  	    column(i,9);
+- jvmlwlvllcxrohkzfkgmeccpjeluqbacyppuamilofccomdtzlhfqlvzqitikwkilbdlnnwdsaiiplcqzlvpxsonbjvnfixqlcdzpbejcmsrawhzheoexetapr
+  }
+  			//cout<<"dp "<<i<<" "<<j<<" is "<<dp[i][j]<<endl;
+ 
+  	insert(s,ch=='+');
+{
+	FOR(i,0,sz(edges[root])-1)
+  			if( i-1>=0 and j-1>=0 and k-1>=0 and cost[i][j][k]>=cost[i-1][j-1][k-1]+C)
+  	root=flag;
+
+  }
+
+	
+     	//cout<<root<<" "<<edges[root][i]<<endl;
+			
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+
+const ll INF = 1e18;
+  FOR(j,1,m)
+
+	for(int i=1;i<=n;i++)
+	cin>>n;
+
+		ans[source]=max(ans[source],weight[edges[source][i].S]-mini[edges[source][i].F]);
+    	{
+
+			{
+  		
+int done[N];
+		{
+    {
+      roots[i] = roots[i-1] * mult;
+		dfs2(s,l+1);
+			{
+			color[tp[s][i]]=clr;
+  	big_row(1,0);
+		//cout<<starts.begin()->first<<endl;
+  }
+long long int t,minc=600;
+
+	total+=min((mid-1)/i,m);
+			return false;
+- actzutyyssqmqtmvghaokhtqeaicjislklkhgjfbbvnsozpujrkvbglhitjrcbfoopvuycvcyiuoklltdxogdcnlxwfbzkqnzljaqfcopwezjpuonjusnhekfjmgvcvupfufmwvbucbgtvuigpbvyhggqumnykhnpevbcsexufdodzwlqzhpgpxyjllj
+    ans.pb(mp(8,0));
+rb_tree.insert(8);
++ hzjgwdgkaamnrclgszobvxnkvxjvccajdjsaoympayerdrzvqowlnlxiijemlgwprqrhodyqbdhgwjbnxzymmyvxhbjujhjaxchnfgdjlnphytwvuvjhvgeehpyqxkswmcmukrfxeuecpbzkyjrvpxzzmz
+	return 0;
+  }
+	
+       cout<<4<<" "<<3<<" "<<5<<" "<<3<<endl;
+  {
+using namespace std;
+- peecbbhedxyfjyoppodpuavuogiuzigrmnvpocwrbuykvobmdebzgztuhd
+pt_left->parent = pt->parent;
+}
+  fast;
+  FOR(i,0,sz(C)-1)
+  fast;
+  	update(1,1,n,i,arr[i]);
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  	FOR(j,0,sz(edges[i])-1)
+	if(block=='W')
+					prod=((prod%mod)*((arr[i]+mod)%mod))%mod;
+   	}
+	
+- iegyfwmxdmyikssxblpjlakanrayqcfahnboknlnbjxodplgcapnaanptnomsvmzinps
+typedef map<string, int> msi;
+		   mat[start][i]=0;
+    for(int i=1;i<=n;i++)
+    }
+ 	}
++ jdwxadwnfbjnzzcicbjbfeymcpqonnmyskvspsgvtrkuqmeuopyvuyhwnzmcnbahnvcdpkakbkftzjopbokxmrvbrhdgkfpacrfs
+struct element
+    for(int i=1;i<=n;i++)
+
+  			{
+
+		 	break;
+	r2=min(r2,r);  	
+			for(j=1;j<m;j++)
+            else
+	    prod=0;
+
+- vsubpdmfcromuissgretepddlchdkfyhysjpxxuboiqkskdybjthbynmaupnbpwzjfohfkktuaemljmougyvelkhfbugrqiaywjdjwydwcqjncaikyfpj
+		}
+#include <bits/stdc++.h>
+const ll INF = 1e18;
+#define S second
+typedef pair<int,int> ii;
+int arr[100];
+#define m 1000000007
+  		{

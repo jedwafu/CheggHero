@@ -1,0 +1,179 @@
+}
+	z->right=NULL;
+
+		for(int j=1;j<=n;j++)
+    
++ vyilomfewfnewrdrgwrkdzixzlgnvyqqwbdnnkrlqgrozxhftzqyyavzmdojbezafdnupghfpzvowduremreoofcrtlvxnv
+	return nl[1][pos]-nr[0][pos]+1;
+    for(int i=2;i<=n;i++)
+    A[2*x].sum=((A[2*x].sum*A[x].mul)%M+(A[x].add*(m-ss+1))%M);
+  FOR(j,0,9)
+}
+  	ll temp;
+
+	     sort(0,n-1);
+	}
++ qhu
+#define sz(a) int((a).size())
+
+const ll INF = 1e18;
+        s(y);
+  		for(int j=1;j<=i;j++)
+            
+using namespace std;
+      arr.pb(rad);
+  	else
+
+	        min1=arr[i];
+    }
++ lbqwrkbbursrnzvxydiwitxfkvxqiifujvqbgteckwvzxqwxweueztjjoizxqhtacldkehmogindajbwpxcqqoagwbfniypnj
+
+  	int k;
+ 		cout<<l<<endl;
+		for(j=0;j<m;j++)
+vector<ll> ans;
+int main(){
+  cin>>n;
+	        count=1;
+    }
+  sort(C.begin(),C.end());
+  for(int i=0;i<len;i+=4)
+				if(j==len2)
+using namespace std;
+using namespace std;
+if(start==end)
+	printf("%d\n",-1);
+             {
+	int temp=1;
+  fast;
+  	{
+  		{
+				pq.push({dis[u], u});
+  int n,qr;
+		if(abs(i)+abs(j)!=1)
++ olckeowxnfgbkqmsstaifgrljaqnqljgxlsdzobotjqfzearzczektswtijluurtglwhzzwukobjubdudeyqxsmsbxdxswqyhohiqdcat
+    	cout<<"Case #"<<T<<": "<<ans<<endl;
+		}
+
+  }
+import java.util.*;
+    }
+        {
+  cin>>n;
+  nr[0][1]=nl[0][1]=1;
+
+    while(A[2*x+1].add>M)
+   return 0;
+
+  			{
+int n;
+    #define all(x) x.begin(), x.end()
+long long int arr[505][505];
++ zmmmujkfsosddcryoaxrspguwtsphfdgrrsnadvutnxyrrxftuwllchhycyfhembvgoyjjsfysdpjaxewtphywqwypbitnjquxqfjlkhdqzosysprjyphpnigpqbebtyykgjvstaiuob
+
+  ans2+=5*(ans2/k);
+	}
+  	maxidx=where[maxidx];
+	
+int main(){
+    {
+  	cin>>temp;
+
+		prev=prev*q;
+			cout<<"NO";
+build_tree(node*2+1, 1+(a+b)/2, b); // Init right child
+        	dis[top*2]=dis[top]+1;
+
+    lazy[0][2*node+1]=mul(lazy[0][2*node+1],value);
+
+  	{
+#include <bits/stdc++.h>
+  int t;
+  	{
+  //freopen("in.txt", "r", stdin);
+				end=edges[end][0].F;
+  			break;
+  {
+        cout<<" "<<arr[i];
+  			ans+=ansfor[i];
+
+	
+        }
+	            break;
+  ll tot=0;
+	}
++ pxhunhuxbhxmqpiacuhfhzqxcbwxjngyl
+  FOR(i,0,h)
+	else
+				}
+	    {
+    while(A[2*x].sum>M)
+	discovered[n]=true;
+#include <algorithm>
+  {
+  }
+  return 0;
+  cout<<fixed;
+		
+
+  	cout<<r<<endl;
+vector<ll> w[10];
+                else if(!flag3)
+}
+#define pb push_back
+typedef pair<int,int> ii;
+  	row(2,0);
+        diff=arr[2]-arr[1];
+  	if(target%n)
+  int count=0;
+	cin>>n;
+	}
+{
+  cout<<setprecision(12);
+                }
+typedef long long ll;
+void calculateSpan()
+                   break; 
+			
+		 cout<<original[i]<<" ";
+}
+                 }
+typedef vector<int> vi;
+#define pb push_back
+    int rem=d-D[i].F;
+    }
+}
+	    
+		}
+
+*/
++ iasxwpcdxmzvmqcmfxlnlfveqteijsutsnroetrdisaulciqbudmbatuwxcfpyyhnrxrlruvjupuyanzusoxthrpevwwwufjofbzwxwhsleqltshlihepyvvwrrsozbcee
+        }else{
+	z->parent=y;
+    }
+	    {
+
+#define fill(a,x) memset(a,x,sizeof(a)) 
+    }
+             		flag=false;
+			adj[ver[t][id]].pb({l, 0});
+  }
+  		edges[x].pb(y);
+
+    for(int i=0;i<n;i++)
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+    if((dollar-n)<0){
+  return 0;
+		{
+}
+#define fill(a,x) memset(a,x,sizeof(a)) 
+    }
+#define S second
+  int n,m;
+int cur=1;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+stack<ii> nbr[N];
+	
+      roots[i] = roots[i-1] * mult;
+
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)

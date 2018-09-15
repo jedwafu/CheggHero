@@ -1,0 +1,129 @@
+      big_col(16,8);
+  		}
+    {
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+typedef long long ll;
+     cout<<sums<<endl;
+					{count++;
+const ll INF = 1e18;
+
+           ver[i][j]=ver[i][j-1]+1;
+		cout<<n-m;
+//code belong to Niraj Sazzie
+  	cout<<-1;
+
+  			break;
+
+
+
+		        System.out.println("NO");
+            	ansval=min(arr[3],ansval);            
+{
+		{
+      Complex t, u;
+  }
+     	arr[i]=0;
+		if(dist[vertex]!=dis)
+- hnuznsnpgtatjckcjvmtmbdbmyfngtmqigpvycnhvpahsmldhxxvaawnadchwpxfxoc
+  return 0;
+       temp=0;
+  int c1 = curr<<1,c2 = c1|1,mid = l+r>>1;
+ll ans[3][3][3];
+		arr[c][d]=0;
+{
+typedef vector<int> vi;
++ jjmmuedtdmryedwyyjciccnkzgnmppnbybpuftnihgiljekipostqifrqtdfi
+	
+  int second=t+d;
+const ll mod = 1e9+7;
+typedef vector<int> vi;
+  int t;
+}
+
+    FOR(i,1,n1)
+using namespace std;
+	
+		}
++ iasxwpcdxmzvmqcmfxlnlfveqteijsutsnroetrdisaulciqbudmbatuwxcfpyyhnrxrlruvjupuyanzusoxthrpevwwwufjofbzwxwhsleqltshlihepyvvwrrsozbcee
++ ljcinbogoxkvkk
+				if(arr0[j]!=0)
+int offset=10000;
+  	  len--;	
+    	for(int i=0;i<n;i++)
+  int n;
+  cout<<"YES";
+typedef pair<int,int> ii;
+    {
+typedef long long ll;
+    
+
+  }
+		left=max(left,pos[i]-sp[i]*t);
+
+ll arr[100];
+    		}
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+    temp=(temp*7)%599;
+  	}
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+					if(s[1]=='.')
+- pligpotabwllvdcjuipjdhqwkeuqngsescmhqghtcvhxajguuyfzfvxratkpactsefbxnlsqizpilychwjidefxgyhvyjospwwojjjbrirbvrdepomuurrbsywqjn
+			int mid=(l+r)/2;
+
+vi rows[100010];
+
+{
+	{
+	    	count2++;
+
+  	}
+    int sum=0;
+typedef long long ll;
+		
+    }
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  		if(i==(l-1) and !lookingfor)
+		if(best==0)
+		
+	}
+  cin>>t;
+const ll mod = 1e9+7;
+	        continue;
+			scanf("%d %d %d %d", &v, &l, &r, &w);
+  return 0;
++ kedzlsulnzsrgiwegdtwuuriywntdjqppwocoinejfvrqswwxrutlncljrgocxfrvvtjfgpoonfehdcexwxkjbwutckvbpnwmiirpzhfmojtulxrjxbsa
+temp[k]=original[j];
+  		cin>>temp;
+typedef set<int> si;
+  {
+	        break;
+  cin>>arr[i];
+#define pb push_back
+void bfs(int n,int m)
+   
+  {
+    	if(w>=50)
+	
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+		for(int i=0;i<s1.length();i++)
+                 continue;
+  	}
+    if(D[r].F<=rem)
+typedef pair<int,int> ii;
+  	if(arr[i]<arr[i+1])
+    	
+{
+ 			}
+    n = (1 << s);
+		i=0;
+double segment_area(double x1,double y1,double x2,double y2,double x3, double y3)
+  return 0;
+bool present[2010];
+int main()
+  	pos[arr[i][j]-'A']=mp(i,j);	
+  	prefix[1]+=arr[i];
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+	if(flip)
+	mm2=hh2;
+const ll mod = 1e9+7;
+#define sz(x) (int)x.size() 

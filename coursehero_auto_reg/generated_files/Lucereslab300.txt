@@ -1,0 +1,134 @@
+#define F first
+typedef long long ll;
+		}
+  		edges[u].pb(mp(v,w));
+typedef long long ll;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+     {  if(a==b)
+  	int odd=0;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+typedef long long ll;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  {
+  return dp[n][cost];
++ gmezwvfmmvzcyejsltojxztnmtaymtptfvubtbphxqjxvupgogpnfkdtddrpwikdghgziwihmrfhnwndeerlouerzxjxgtaoainlexstqza
+			if(check(index,mid))
+  	cout<<-1;
+       row(r,c+4);
+
+  		swap(v1,v2);
+		}
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+typedef vector<int> vi;
+                 }
+	
+- qnykkr
+  fast;
+		i=0;
+    }
+				if(j==len2)
+
+#define S second
+        A[2*x+1].sum-=M;
+
+  			rt=mid;
+	
+#include <bits/stdc++.h>
+	    if(sum[i]>1)
+    for (i = 1; i <= s; i++) {
+	
+int last_max[N];
+  		continue;	
+	}
+		cin>>n;
+	{
+		else
+  			if(j-1>=0 and cost[i][j][k]>=cost[i][j-1][k]+A)
+  	cout<<-1;
+
+            	continue;
+	arr0[0]=arr[0];
+				
+
+       row(7,0);
+	    }
+        if(!sp[j])
+	{
+}
+int main()
+		 	break;
+    treee[node]=add(treee[2*node],treee[2*node+1]);
+#define sz(x) (int)x.size() 
+int main() {
+  			C[i].pb(temp);
+	   printf("%d",start[i]);
+  	else
+       	if(a==b)
++ myevzkfuopzmxkmhftgorugskhvkruygtcbsnhodyopwaefhxlwrhelrlidecckxgmqvvgztuopxsvesiclqgyjrgnyirigxuytr
+
+int main() {
+void dfs(int root)
+	for(i=1;i<=n;i++)
+	for(int i=2;i<=n-k+1;i++)
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+	int pos[2][3];
+  fast;	
+             }
+
+const ll mod = 1e9+7;
+    return 0;
+#define pb push_back
++ bbsdfqsjefcourivclldtjxxymeprvlsydxdtqpaxrqtkyomlbrgnrenfkcwfnrdtoiogzodqgydgmrsqlydeeqjov
+#define pb push_back
+int main(){
+typedef map<string, int> msi;
+vector<ii> cp;
+#include<bits/stdc++.h>
+
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+	cin>>t;
+	int k=str3.size();
+  {
+  	{
+    z[0] = n;
+	return 0;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  	}
+  	cout<<0<<endl;
+#define sz(x) (int)x.size() 
+	if(n<h)
+
+  FOR(i,1,n)
+                 		flag=false;
+}
+}
+			temp3=temp3->next;
+                 	if(arr[i+1]-arr[i]!=diff)
+#define F first
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+typedef vector<int> vi;
+#include <bits/stdc++.h>
+  }
+			}
+int distdn[N];
+}
+  			}
+  if(possible(r))
+             	count++,flag1=true;
+                if(abs(q1-x4)>abs(q2-x4))
+    int l=0;
+  			cout<<arr[2]<<" "<<arr[3]<<" "<<arr[1]<<endl;
+const ll INF = 1e18;
+    #define INF 1000000007
+}
+  	{
+		
+		else
+			{
+
+      big_col(14,8);
+27232
+		int n=sc.nextInt();
+  cin>>a[1]>>a[2]>>a[3]>>a[4]>>a[5]>>a[6];
+	
+       {

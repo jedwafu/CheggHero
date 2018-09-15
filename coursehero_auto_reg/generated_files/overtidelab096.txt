@@ -1,0 +1,182 @@
+	for(i=0;i<n;i++)
+	    for(int j=i+1;j<n;j++){
+    		{
+map<long long ,long long> freq;
+typedef vector<int> vi;
+#include <iostream>
+typedef vector<int> vi;
+	if(exp%2)
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+int n,m;
+#define pb push_back
+
+7857
+  return 0;
+        //endtime+=t;
+  	row(4,7);
+		ans=min(ans,mini[index-1]+20);
+				else
+    {
+
+
+        int a, b, c;
+  while(r-l>1)
+  where[0]=0;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+				{
+	cin>>n>>m;
+
+#define sz(x) (int)x.size() 
+	    arr[i]=s[i]-'0';
+    else if(maxi%2==0)
+
+					val--;
+      cin>>u>>v>>c;
+
+	count=0;
+}
+  			cout<<arr[2]<<" "<<arr[3]<<" "<<arr[1]<<endl;
+			{
+		dp[n][h]+=temp*temp2;
+    lazy[0][node]=0;
+using namespace std;
+bool flag=true;
+    }
+typedef pair<int,int> ii;
+		else
+  		continue;
+  return;
+		{
+ll dp[40][40];
+  	sort(cp.begin(),cp.end());
+#define S second
+const int N = 1e5+10; 
+ll maxi[N];
+  return 0;
+    FOR(i,1,n1)
+	}
+
+  	u=queries[i].S.F;
+#define INF 10000000
+      big_row(1,8);
+  	}
+    int min=arr1[0];
+  fill(sp,0);
+
+	    if(here==false and neg<=1)
+  return 0;
+	
+  		else
+  	cin>>p;
+#define F first
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+using namespace std;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+
+					else
+		
+	}
++ yxqzjjhinhivxajxvpedecsqboxvtoxunpvwyceolpjirsfnh
+		{
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+ll fval1[N];
+using namespace std;
+	bfs(n,m);
+
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+		cin>>n;
+	else if(l2+b3<=l1 && b2<=b1 && l3<=b1)
+    int ans=0;
+#define S second
+	if(s[i]=='B' and s[i+1]=='A')
+    cin>>n>>q;
++ xlbjvnclwamqheekqpgndslaqnjshahellohyquuqgmakskchspmmcodpzvxzednptwplqleyaeksqmaidmxfbaxaxwcdzpvtnkedyidyonqezspehmjiogkn
++ grmbfsdixfxvukctcmltpqpmpoyxzpdigrjnjnvistepdikfwxyonpacdbbfqhnzywmijiqedwtgefnd
+    }
+ 		FOR(k,a[j],i)
+const ll INF = 1e18;
+    }
+         diff=arr[1]-arr[0];
+	while(t--)
+        } 
+    fflush(stdout);
+    z[0] = n;
+  	if(ispalindrome(it->F))
+   if(!op)
+- dazssifimdkkxmpadtzomheojemftfjxhkpzuwhgautziizlcycqigfrkrzdyicfvshpqoysir
+- ejbtqwiofqezexicoygxnunpnkalmgksrnnijvypodqucywtwfslzgdmqdxcmjwdwjlifkxvpnprnomltfwulzjbfifrsbuqmiytsxojmeczspknujh
+      ll c;
+  fast;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+const ll INF = 1e18;
+  		printf("No\n");		
+int main(){
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  cost[i]=INF,seen[i]=false;
+  	}
+vi help;
+
+int main(){
+  int n,k,d;
+#define S second
+ll k;
+    int result2 = 0;
+	{
+	}
+- rcfjoqootlztaqwzumukhinjzquapcgifnrvfhjbvkux
+		max1=n-count2;
+	int val=min(toast1,toast3,toast2);
+
+		//	cout<<slopes[k]<<" "<<points[0][k]<<" "<<points[1][k]<<endl;
+#include<bits/stdc++.h>
+	    a-=2,b+=1;
+#define sz(a) int((a).size())
+ 
+    int n;
+
+
+	  }
+			int u = p.x, w = p.y;
+       	found=true;
+        {
+     }
+  {
+const ll INF = 1e18;
++ qhu
+		FOR(j,0,h-2)
+            
+
+    {
+  }
+  }
+  FOR(i,1,n)
+
+
+	cout<<-1;
+		 		return 0;	
+ 		int l=1;
+	cout<<s+maxi;
+  	cout<<a<<endl;
+using namespace std;
+      ans=max(ans,D[i].S+query(1,0,sz(D)-1,i+1,temp));
+{
+  	{
+};
+int score[11];
+
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+	}else{
+ll best[100010];
+#define fill(a,x) memset(a,x,sizeof(a)) 
+		
+		root=z;
+  	mini[i]=INF;
+if(a >= i && b <= j) // Current segment is totally within range [i, j]
+			continue;
+
+#define pb push_back
+//Functions for geometry taken from the standform ACM notebook
+		
+}
+                 	}

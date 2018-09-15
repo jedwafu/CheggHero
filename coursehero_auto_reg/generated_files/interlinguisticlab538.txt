@@ -1,0 +1,141 @@
+	}else if(count==7 || count==5){
+  PT(double x, double y) : x(x), y(y) {}
+}
+  			dp[i][j]=min(dp[i][j],dp[i-1][k]+sums[i][j-k]+(((ll)j-(ll)k+(ll)1)*((ll)j-(ll)k+(ll)1)));
+#define mp make_pair
+		int flag=1;
+  	aux[1][i]=0;
+  return 0;
+#define S second
+- rgik
+	int a,b;
+	cin>>k>>m;
+ 
+                 		break;
+	for(int i=1;i<n;i++)
+        	{
+const ll INF = 1e18;
+    }
+  		}
+		val[i]=starts.begin()->first;
+    fast;
+  int n;
+		
+    #define tr(x,it) for(auto it = x.begin();it!=x.end();++it)
+	
+    temp=((n*(n-1)-(zero*(zero-1)))*3)%MOD;
+  	int temp;
+  cin>>arr[i];
+
+  	if(check>min(y1,y2)-eps and check<max(y1,y2)+eps)
+  
+	        }
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+				cout<<"NO\n";
+using namespace std;
+#include <bits/stdc++.h>
+  return s[curr]+query(c1,l,mid,index)+query(c2,mid+1,r,index);
+
+  	    column(i,3);
+    in.resize(n);
+    A[2*x].mul=(A[2*x].mul*A[x].mul)%M;
+- sjrqbahoipfaqk
+
+typedef long long ll;
+        }
+	FOR(i,1,min(n2,k2))
+    ans.pb(mp(ans1[i1].F+ans2[i2].F+ans3[i3].F+ans4[i4].F+ans5[i5].F+ans6[i6].F+ans7[i7].F+ans8[i8].F,ans1[i1].S+ans2[i2].S+ans3[i3].S+ans4[i4].S+ans5[i5].S+ans6[i6].S+ans7[i7].S+ans8[i8].S));
+		}
+
+    return seg[curr];
+
+  FOR(i,2,k)
+typedef long long ll;
+  		flag1=true;
+{
+  int mindist=mod;
+		else
+      big_col(15,0);
+61914
+using namespace std;
+- seqkyzglxpasjrcyavpuusbvlwtsakhuozhoypbxeernvtnvperlxsikobcqlllcluqjjuhoyydtsrqjxhuwacgqfljrywvjqntzhcpfctywmofjybgafoqlbzeavzjnmenuiczlxahjqptosboyphlriptgqetejgyrlaeicmssbnjtoztfggyrxrxnwqsh
+		else
+#include <iostream>
+		
+		}
+	return 0;
+	    Scanner sc=new Scanner(System.in);
+#define pb push_back
+  scanf("%d",&p);
+  dfsup(1,0);
+void row(int r,int c)
+  		cout<<"YES"<<endl;
+	z->parent=y;
+	n=int(numbers[0])
+	    	{
+	    cin>>k;
++ ggzefspvvmjqelfulvloidkgcuafoszuyaaevrbqekikvpgimrxvwjdbfdgtvhpwipadhdvnnfzivftjwqeubhvgndciltgvjgyslvhyagjxlchjunfxvddighstbzomhoetlltmtcjegspagu
+	{
+	               bit=1;
+typedef pair<int,int> ii;
+#define pb push_back
+         	    else
+                 if(i==0 and i+2<n)
+    	//cout<<"\n for_ " << index << " "<<dp[index]<<endl;
+	for(int i=0;i<n;i++){
+	        hh2=0;
+	ans.pb(eulertour[i]);
+  		dp[i]=index-1;
+  	if(x>=1 and y>=1 and z>=1)
+			return;
++ pdrujjjgdqmgagkhvkgtbnnqlzplxqfmvyjghunmkzsmfftdpbwqolgbnxoknwzjuipeceqoglanqvqhwnznaiqnfhyvdxezhvflcyzijbvbwmkubjhdrarzhrumqanxxtkzrjhcmfdkrneuyoxqqqrxhllxlyuitgikrrmdwrnpgujfkjxazozhzkemkbweje
+		ll ret1=(f*f)%MOD;
+typedef pair<int,int> ii;
+int main(){
+#define pb push_back
+	    int rem=count%10;
+  		cin>>a>>b>>g;
+		
+       return -2;
+    if(point[i]+1<size[i] and (arr[i][point[i]+1]-arr[i][point[i]])<p)
+        ll ansval=10000000000;
+  	arr[i].S=i;
+		newsum--;
+  fast;
+  c[0]=c[1];
+         temp+=it->S[k]+it->S[k+1];
+	{
+	int countg=0;
+    int end=n;
+
+    for (i = blen; i < n; i++)  pgb.data[i] = Complex(0, 0);
+  }
+        		dist[here]++;
+  {
+ 			cout<<n<<endl;
+	cin>>n>>m;
+			}	
+  {
+				if(arr2[j]!=0)
+- kpxbvejvrdkcbxxfbsulcdynmcvobvhnmgohmaeddqhhofmpziccmbradnqgiztxfkgtmlzpbgyrnnjnvlpjmgjqvaygzudhejcqwbhakitxvckqobaailsfntln
+            g[i][j] = -1;
+			if(i==0)
+  if(n%k)
+  int ans=0;
+    {
+  FOR(i,0,sz(s)-1)
+    used[v] = q;
+public class Codechef
+    if(a!=b){
+#include <iostream>
+}
+#define sz(a) int((a).size())
+		flag=1;//clear
+ 
+	int maxindex=0,minindex=0;
+    int r=-1;
+#define pb push_back
+  		string arr;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  cout<<sum<<endl;
+  	{

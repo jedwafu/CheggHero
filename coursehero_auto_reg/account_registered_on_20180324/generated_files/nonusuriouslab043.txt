@@ -1,0 +1,150 @@
+  sieve();
+  FOR(i,0,n-1)
+		return dp[index];
+  {
+			//cout<<"inserted "<<i<<"'th bit "<<bit<<" at "<<trie[cur][bit]<<endl;
+double fac[11]={1,1,2,6,24,120,720,5040,40320,362880,3628800};
+  while(t--)
+typedef vector<int> vi;
+  	}
+  	edges[a].pb(b);
+  		lft[i]=0;
+	scanf("%d",&t);
+#define sz(a) int((a).size())
+                 		flag=false;
+using namespace std;
+                 	if(arr[i+2]-arr[i]!=diff)
+
+#include <bits/stdc++.h>
+
+}
+typedef vector<ii> vii;
+		{
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+
+#include<bits/stdc++.h>
+
+  
+typedef vector<int> vi;
+		help=k;
+  				merge(C[word[s1]],opp[C[word[s2]]]);
+
+}
+{
+  build(c2,mid+1,r,type);
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	u1=a;u2=b;v1=c;v2=b;
+void query3(int curr,int l,int r,int x,int y,int v,ll w){
+  	int u,v;
++ qbcgappwcfmmwctiqonyzxsfeavfkcnafpjfgadifqvbuqllgajhadmefhlslystpdavdegiudmqtxbbamjasvgxfrrqpkjgpkbvohfkmrchrejrssrmpzmuqdnhpwnfiqayahkmznustdlnxeaodmjtpwafupmffodfvqsudooyrzlqdlegxn
+	int temp,i;
+// and is just an instruction to square root the leaf value
+int main() {
+  return 0;
+- apphksjpbsrhfpdlzawmpiutxauygwjglypysynusfdywijvlikasgurgormnasaajytimpatsapammlwwooeihlyyzlasoabmvlymmtemihaxuwvimastlttmgteuwihtvhg
+  
+#define pb push_back
+sort(start+n/2+1,end);
+      cout << query(1,0,n-1,l,r) << "\n";
+ {
+               	return 0;
+    cout<<perm[i];
+	long long int sum,help,temp;
++ uqlqpxdbcqawwilodkwywyemhykegincaassyytaotzndmbgxzgvakhhlsotcbvebpwbnpeeldtopwxoxdkxqthbnvupypwzesdukhavktlbpismoemextflqzcoqypw
+#include <bits/stdc++.h>
+
+- hzshyzuwefhkihgxxjduaxhzrmeboqbxpthpvblzjvlrcupzdsvgpcfhojkezleqglgbotbxoopqigrmyospsxyijinktrbaehbsaesrvjjdpdpprjgkhfssnhcjadlemozptrgocrtruliouoydvsvjaasadfhstghoxpczgysdjcrdspjojgxjgrmk
+    
+	for(int i=0;i<=n;i++)
+  int ans=0;
+  	cout<<1000000000;
+	return a;
+			if(!((n-1)%3))
+  	cin>>a>>b>>c;
+- axongyywsbgmgqjgvejjzzrhriqfriorfeemcfkwisioirugwdpxegexowfgetzkxgybnkyvcijnaftylivrobpfaunepoqouorhapedanqatjagrxxhaomaizfzoxnkofuowyrwohyjqapjxmry
+	public static void main (String[] args) throws java.lang.Exception
+  int t;
+const ll INF = 1e18;
++ gjxiajxaufntqxhijxyykbevfkwqklpqwnayyayshnlymvivsgwcjcarmwhwjwpflrdjrdczspzfkhcfpahbdjspfzoqxfvjyasqdwrymqdyxhdoinpnwheeiuugbspashqyejwszzqyi
+	  		c2+=3;
+#define sz(x) (int)x.size() 
+				if(sum[i+1]!=bin[i+1])
+	if(sum==0)
+
+	        hour1=hh1;
+    int val;
+int dp[N];
+  		ans[arr[i].S]=r-arr[i].S-1;
+		top++;
+            }
+- ppwndcgu
+			{
+               		arr[i]=dig[arr[i]-'0'+1];
+	    		small_r[s.top()]=i-1;
+
++ shlxfxnkyzkeqvmerppslypncvdhxsqpbdoiaeuydefvcrbviqnvqektznawitnjweszkmzntekxxlsgdidvmoomdrklkaxierhqfjfanpxlcqthywcmmtyqkjdwjaeptofzxkbmbzxdrskrroddhctrnzpybwpvmwwjgxxjyvmrpyigmokwsfnfeffgb
+  return 0;
+map<ll,int> m2;
+        for(int i=1;i<=n;i++){
+	
+#define pb push_back
+  FOR(j,1,k)
+
+	ans1=max(0,h[lca(u2,v2)]-max(h[v1],h[u1]));
+		for(int i=0;i<6;i++)
+			}
+    }
+	cout<<maxi<<endl;
+				  {
+}
+typedef long long ll;
+    
+  			hi=min(n,i+i-b-1);
+
+}
+  }
+
+	ll n;
+using namespace std;
+- eejjsmowqqvpipjswniwficggmespiyvmjghwwdoozfzqqrmdzkkimroaxirhjovuwcqtgghhngxdylizxthlmynlgespunmqqclyltfybccbpmbmfkxtikerqyg
++ pwlynfsshrkfjgginqyrocgjsabkaubrsopfwjzfajklpsvejvwzxeisejegghyywnguxfzzrjngcinnelmdpvvvgbcojanhpvbmcaotjdcnlparanxrkumswohfqwogtpuvpiraltozkosmdpdpkri
+  {
+	}
+  	}
+  	reserve=min(reserve,sum);
++ iymprzkcwioefoihnzdgywhartswcehleucvvmzrwpvdefltgobekjgbezagfhtldvjyjirgymlerwxylyexjlbpmbwtkreonpoya
+  	cin>>arr[i];
+
++ olckeowxnfgbkqmsstaifgrljaqnqljgxlsdzobotjqfzearzczektswtijluurtglwhzzwukobjubdudeyqxsmsbxdxswqyhohiqdcat
+        else if(arr[i]==min && i>minindex)
+  			opp[C[word[s1]]]=C[word[s2]];
+#define pb push_back
+
+vector<int> in, out, h;
+  	edges[u].pb(v);
+{
+typedef vector<int> vi;
+#include<bits/stdc++.h>
+
+				else 
+  
+	maxi=max(X,max(Y,Z));
+- mwqcmcttletnjtlzuqxyyuivxfdcaxomufrghmcuqvizrvznnymmtwjsbmxdllqhqhoztsumpengzmwpnibiekchyz
+				for(l=k;l<n;l++)
++ zft
+
+  build(c1,l,mid);
+    else
+  
+      while (!st.empty() && pes[st.top()] > pes[i])
+#define fill(a,x) memset(a,x,sizeof(a)) 
+const int N = 1e5+10; 
+
+    
+    cout<<sum<<endl; 
+std::cout << root->data << " ";
+int arr[1000000]={0};
+  	cout<<i<<" ";
+  {
+  while(b<N)
++ dpnnorbvjjcsibalhvwtfeprmckqonbreqfshgpqrtkzvmlehjxpnogbqsrffuyjkfeuovkfpxhmjuqrfpisdotuhnbohzyuheovzacqzlcjfsckhkenaahjnkywlwsscindlqukbwtjrxvajcnkcutrerpspik

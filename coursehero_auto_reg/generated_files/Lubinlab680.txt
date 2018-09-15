@@ -1,0 +1,166 @@
+  {
+#define F first
+			}				
+typedef long long ll;
+  	if(h[u1]>h[u2])
+		{
+1650
+typedef pair<ll, int> pli;
+
+		{
+	
+}
+#include<bits/stdc++.h>
+				     x2=(points[j].x-points[i].x);
+
+			continue;
+	int flag=1;
+}
+  				q.push(mp(val+i-n,len+1));
+const int N = 1e5+10; 
+    
+  		if(b<i)
+return;
+		{
+
+	}
+  	{
+bool allowed[N];
+  int n;
+
+#define pb push_back
+#define mp make_pair
+	
+ 			index=l;
+typedef long long ll;
+		sum+=arr[i];
+
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  }
+    int r2=arr[i]%601;
+  		if(arr[i]%(siz+1)==0)
+typedef long long ll;
+  FOR(i,1,n)
+      big_col(16,0);
+#define ll long long int
+#define pb push_back
+  cin>>n;
+}
+      	return 0;
+     row(1,0);
+  	ll sums=0;
+
+
+	cin>>t;
+	return 0;
+  	int val=q.front().F;
+  				dp[l][i][j][k]=dp[l][i-1][j-1][k];
+using namespace std;
+  		{
+#define F first
+  cin>>n>>m;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+		v[i].clear();
+
+  	    break;
+  for (int i = 0; i < v.size(); i++) {
+	{
+	if(n%a==0){
+		
+		return mp(ret1,ret2);
+int main(){
+typedef long long ll;
+  {
+using namespace std;
+        else
+}
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+
+  int t;
+	     continue;
+		else
+	ans+=lefts[sizer].second;
+  	ll maxi=0;
+    }
+		arr[i][j]=(arr[i-1][j]+arr[i-1][j-1])%mod;
+- xvowzhvbvqtnnfvulbyopbiwesrjzruwnkvotqpqikdvpbsacqqrrznvthguaatpmoeggvwpgcmvdeyfwowpplmiutfvvykimqqummlsqyptenydewstkheeajbvhodvevpsib
+  
+                }
+
+	return 0;	
+#define sz(x) (int)x.size() 
+  		sums[i][0]=C[i][0];
+using namespace std;
+    if(c==3){
+  		nl[1][i]=i;
+  
+void build(int curr,int l,int r){
+}
+#define pb push_back
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+    {
+char smallest[N];
+		
++ lukyqpebmwnptsrrtujagiriezkoqfydbidryiumejbzbtqwpbwxkogopqehxcmakpskxoxdyycbtuyiwugikowbgaifeufomzzjoypowtpqop
+
+  	{
+	for(int i=0;i<s.size();i++){
+		{
+	 temp=j%10;
+- yywowgbokxggoqzd
+	int j=i;
+}
+	return 0;
+#define pb push_back
+    update3(node*2,a,(a+b)/2,i,j,value);
+  	if(cnt>1 and cnt==sz(edges[i]))
+	  path[i][j]=false;
+  	if(police[i])
+const ll INF = 1e18;
+        if(done[t[i]] and (!done[s[i]]))
+      {
+	    	if(score[i]==temp)
+		for(int i=0;i<m;i++)
+		else
+	int n,i,k=0,flag=1,count=0,tcount=0;
+  		edges[x].pb(y);
+	        }
+    if(rem==3)
+}
+	}
+}
+		int n=(sum+counts)/2;
+            tmp2+=(tmp3%10);
+    }
+	while(t--)
+  cin>>arr[i][j];
+const ll INF = 1e18;
+int main(){
+  	if(i<(index*(index-1))/2)
+  	pows[i]=(2*pows[i-1])%mod;
+	
+	{
+  
+  	deg[v]++;
+    int end=n;
+	for(int i=0;i<m;i++){
+ 		l=mid;
+using namespace std;
+  	{
+4 28
+  
+using namespace std;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+
+{
+                 		break;
+  		continue;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+
+    freq.clear();
+
+int x,y,z;
+  	cin>>n;
+			l+=(m-1-j);
+int main(){

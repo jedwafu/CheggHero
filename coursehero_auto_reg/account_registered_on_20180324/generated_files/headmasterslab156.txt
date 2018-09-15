@@ -1,0 +1,106 @@
+					r++;
+  fast;
+        int c=0,val=0;
+  		}
+    ans.pb(mp(8,0));
+    ans.pb(mp(ans1[i1].F+ans2[i2].F+ans3[i3].F+ans4[i4].F+ans5[i5].F+ans6[i6].F+ans7[i7].F+ans8[i8].F,ans1[i1].S+ans2[i2].S+ans3[i3].S+ans4[i4].S+ans5[i5].S+ans6[i6].S+ans7[i7].S+ans8[i8].S));
+ll temp2[N];
+- zyshvybxygcbpuldanbttkmrkgdbijkhhcrccubdcderzrxbhyuakhtupwvxfhholysoutrxzvqyonavluvwdpssnqstxzjjzcxtxqsynjxbwzxkvuizlatzsluqmdblhahhqzffkegjfftbcdanfvmyhiqtorhvroejpmoaqulyc
+int main(){
+
+	        countup++;
+
+	    val1=val1*10+(s[i]-'0');
+ arr.pb(it->F);
+			}
+  fast;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+   		}
+buildTree(arr, 1, 0, N-1);
+}
+        dfs(u);
+	done[source]=1;
+const int N = 1e5+10; 
+if(a == b) { // Leaf node
+}
+  FOR(i,1,n)
+  			}
+**/
+	}
+	int res=0;
+
+       else if(n>=5)
+		
+	return gcd(b,a%b);
+  		}
+
+  int n;
+#define tr(container, it) for(typeof(container.begin()) it = container.begin(); it != container.end(); it++)
+#define F first
+int ans;
+	}
+- dbcjnofkkgavcjrzavljfghxyzfxcfnf
++ rkrwzodgxihunodibrhsrzwlxjynxnaozrmziqhfaqbqfeagyhapjwbghbtfovvonipvawccnfusmuakcbznzcthdpouklkzvzwvvyaigucspdctgdgfgbolqefdqpelobjmbjujfzbucfpkjvprzgcrk
+             	else if(s[i]=='.')
+#define ll long long int
+    }
+  fast;
+		
+	int t,n,d;
+	}else{
+  	{
+#define S second
+using namespace std;
+  {
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  		FOR(j,1,m-1)
+printf("Case #%d:\n", t);
+		len[first][k]=1;
+
+62 96 49 32 397 889
+typedef vector<int> vi;
+ 	}
+}
+	    count=0;
+    string temp=s;
+  int lt=1;
+			dec=i+1;
+  	b[i]-=maxi-r;
+  
+  }
+  cout<<"possible";
+	if(x >= r or l >= y)	return ;
++ oypllorkdpjqnifsffuuirlojdiwpygdyvqjjhvoyffonmiutcobvashfcducjzafpjqzhfxmknbywxuylxwnpduugqwspxzhipgpufdgtghpdbppylcqqzkxpgrffqoofudcbjiwppntsfirqmjhlvgbdxijpy
+* Parent of pt is left child of Grand-parent of pt
++ dwurvzvhuzwqfbconjhllbhwxdgclfrodniyoffjfdbmedbtmkfzmmwjreofjhtmud
+#define S second
+	    {
+#include<iostream>
+        			ans=i+1;
+    cin>>w[i];
+#define S second
+			}
+       if(freq[arr[i]]>1)
+int main(){
+
+        	}
+	{
+      zeros[i].clear();
++ ltwxowfrebvatbzvpbsxfajsshijqxtdssbgoizukuufwucnxwmcwvwqeeaudvyvnbddjcavzuaxqemnayrzuopasrvwnvtcyxihbifcchzvmniomaniqfiiwfgjaaoyzwicenfgugbiumxiom
+		cout<<s-1;
+  ll ans = x1*y1;
+  	lft[1]=mod;
+  return 0;
+#define sz(a) int((a).size())
+long long int arr[1000010];
+typedef vector<int> vi;
+                 else if(i==ans)
+	cin>>t;
+  
+  			mindist=min(mindist,10*(m-i));
+  }
+     		ans[final]=ans[final-1]+1;
+	if(dp[index]!= -1)
++ gzelqdgbjawatdxkihyrlsdwveehmbdsdjftmnwvnsviwvtgerzplclhjsovttpydutrisnxkkgifzqmsrbewpnfhdccwtbbnwtxoixbudlceeoyvpeteralucqtvrulppkezhfuksyqwm
+  		swap(u1,u2);
+		{

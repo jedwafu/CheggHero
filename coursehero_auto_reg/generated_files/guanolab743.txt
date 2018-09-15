@@ -1,0 +1,100 @@
+		eulertour.pb(source);
+
+		root->color=1;
+    return 0;
+  	cout<<n<<endl;
+  	edges[a].pb(b);
+
+	char ch;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	    b+=a2;
+                 }
+- mmaxvmbijfmc
+         
+		tr(nums[i],it)
+	{
+                 if(i==ans-1)
+typedef pair<int, int> pii;
+    int y=rand()%100+1;
+	cin>>t;
+  }
+  {
+  {
+  FOR(i,1,n)
+    LL a,b,c,id=0;
+using namespace std;
+		else if(tf>-eps)
+#define F first
+using namespace std;
+                 	if(arr[i+1]-arr[i]!=diff)
+  	present[temp]=true;
+	 done[i]=0;
+		}
+        int temp=i%rem;
+
+    	    int count2=1;
+  	
+int main()
+
+  {
+	long long rows;
+      else
+int cnt[2][N];
+         	for(int l=1;l<=m;l++)
+        cout <<endl;
+  		ans=max(ans,maxi[i-2]-pre[i]);
+    {
+        for(int j=1;j<=a;++j)tmp*=i;
+    
+
+  	if((r[0][i]==x1 or r[0][i]==x2) and v[0][i]==0)
+int main(){
+	vector<int> dad(N, -1);
+        //for(ll ij=1;ij<8;ij++)
+  return 0;
+#define F first
+const int N = 1e5+10; 
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+        if(tmp4>9)continue;
+  		{
+
+    	return -2;
+  for(int k=j;k<=n;k+=j)
+		int dummy1=min(weight[edges[source][i].S],mini[edges[source][i].F]);
+vector<int> ver;
+  {
+		if(edges[root][i].F==prev) continue;
+	    
+  
+typedef vector<int> vi;
+		{
+				z=z->parent->parent;
+			
+		temp=(long double)1.0;
+- vpjmmqutgvdcpgbkhzepnaxgwswztgoqwzdksxdytgcioduwebnrdkazewbxcrnaqskiqoilwkvlpsjutwnyinxm
+long long int c[100][11];
+            else
+  	{
+  cout<<ans;
+    int a,b,n;
+  freopen("output.txt", "w", stdout);	
+vi divs[N];
+  	prefix(n);
+	for(i=0;i<k;i++)
++ dnwtqmhdwyouepoclfsgtgphgjcrpzqsnolfaukytbtzqhbdptkizbsilubcvtukifskbcjudcvvlyzcrlltmddz
+  			else
+  while(t--)
+            if(last[j]<i-y)
+	}
+		cout<<"#Black&White"<<endl;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+     		}
+  	ll m;
+  }
+	{
+
+
+
+- anduwewqrqvqqgoqywtviyvooowyawabldvjjtzdmwtcejscgmzqmwgakcalacolhlwsfyvtuovbyqdgefwqbeqmgszguptbapthnpckfyldoqluvjkznc
+using namespace std;

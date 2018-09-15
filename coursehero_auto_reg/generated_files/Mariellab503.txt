@@ -1,0 +1,147 @@
+const ll INF = 1e18;
+  dp[0][0]=1;
+	int i,j,t,n,count,temp;
+ 		cout<<-1<<endl;
+}
+		return 0;
+
+#define pb push_back
+  cin>>k;
+  	ii ans=fast_exp(val,n-1,m);
+
+  	if(cnt>1)
+  ll sums=0;
+}
+		}
+		ll dis=Q.top().F;
+  	  cin>>arr[i][j];
+        			ans=i+1;
+ 
+
+	if(x <= l && r <= y){
+	{
+
+int small_l[1000];
+#define mp make_pair
+  			if(dp[1-st][pos-rity[1-st][i]<=0 ? pos-rity[1-st][i]+n : pos-rity[1-st][i]]!=-1)
+	else
+      
+    typedef vector<vector<pair<int,int> > > vvii;
+{
+94 32 68 958 81 646
+	
+  FOR(i,0,n-1)
+	cin>>t;
+    }
+using namespace std;
+  if(m==1)
+  			odd+=num%10;
+  	cin>>u>>v;
+                	if(ans<0)
+		{
+
+	{
+		cin>>arr[i];
+    }
+		val[v]=cnt++;
+
+	    arr[root]+=incr[root]-decr[root];
+    int n;
+	if(p==0 or (n%2==0 and m%2==0)):
+{
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+#define pb push_back
+
+        A[x].sum = ((qe - qs + 1)*val)%M;
+vector<ii> val;
++ xigcghkvwlhaewgfibssijjgqgszpldntlrcudxspfttdzynathkeqruyluoyzdukwwgatzraskdtksvfzgjszgqmagkzjeliariuszwmlafxudfulqokwewwnixynigpcojwpijciqcethagxoqutosgxqemanbednbvvmxfcbjyikeiyxetnwbkoiyrvaxypytkmt
+  	{
+ 
+	
+#define pb push_back
+#define fill(a,x) memset(a,x,sizeof(a)) 
+	
+bool self[N];
+double x[N],y[N],v[N];
+  	if(!done[i])
+	ll temp=0;
+        lpd[i]=0;
+	{
++ ngnxjaakiergagjjjvwxszfjynurufsjnhhyijisqbyqkjztgvqzwxivkemhlgqyozwyjgqziqrucqpinfhkeshoyvxkboirnfpynhxxyoraggkwnsirmpikkfwnvfflmwjzehzexqggzqcmkkgwzqjlxfatmheaepckybowtucskgh
+    	//cout<<"\n for_ " << index << " "<<dp[index]<<endl;
+		while(r-l>1)
+  		}
+{
+	if(edges[root].empty())
+        			ans=i+1;
+	maxi=max(starts[i],maxi);
+      big_col(8,8);
+	if(n!=k){
+	
+        cin>>s;
+         ans[1][1][1]=a;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+const ll INF = 1e18;
+		return 0;
+  	else
+  	if(h[u1]>h[u2])
+	return 0;
+- pidznesjssttzcmmvlobmfeycoidiyxzicyvgsebmywlciayvobjtgkyusbetadbedxnxdojdmxgwxgrnhcinmgjhjnalsbqxaduet
+		while(temp3!=NULL)
+				//cout<<"dp["<<i<<"]["<<j<<"] is"<<dp[i][j]<<endl;
+	row(r,c+4);
+}
+      big_row(1,0);
+update_tree(node*2, a, (a+b)/2, i, j, value); // Updating left child
+	scanf("%d",&n);
+    		{
+      int start = 0, increment = (1 << (s-i));
+int s[100010];
+  	{
+long long arr[1000010];
+		if(sums[i]<0)
+     row(2,0);
+    else if(res1<=9)
+struct element
+
+  }
+    ans=max(ans,C[i].S+query(1,0,sz(C)-1,0,temp)); 
+	  for(int i=0;i<=30;i++)
+	int n,carry=1,i;
+		for(j=1;j<=i;j++)
+	node* left;
+const int N = 1e5+10; 
+int main()
+	return 0;
+	cout<<4*k-2<<" "<<(2*k-1)*k<<endl;
+
+#include<bits/stdc++.h>
+#define pb push_back
+		else
+  		cout<<"First";
+  	    else
+	}
+
+	}
+
+				r=mid;
+#define F first
+  else
+	int n,m;
+	int w,m,i;
+  		if(parity[index])
+  	int len=q.front().S;
+	for(int i=0;i<m;i++)
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  			continue;
+			vector<PT> temp= CircleCircleIntersection(points[i],points[j],radius,radius);
+
+#define S second
+#define S second
+  	
+                cout<<query_tree(1,1,n)<<"\n";
+int main(){
+  }
+int main()
+	
+	}

@@ -1,0 +1,140 @@
+}
++ kccbdohvkhjzqxxrapubuiaomgepasfkwknayvxjcgkufilgzfjtqljerqttkbfgltglofusnfntpyboekkwxtaqlujvxockhkvxqsqfzd
+using namespace std;
+  	cin>>w[i];
+
+
+		ans=min(ans,val[s]^k);
+			{
+ 
+  for(int i=1;i<=1000;i++)
+   	arr[st1][ed1]=1;
+  			FOR(j,0,m-1)
+#define S second
+  	}
+  return 0;
+
++ xjcdsasnsirnikcqubfmoaequdoccxccgfhbhbobjiorstjmuobiohajmonqnsswzcxgdlintyglrqanedxvmygymvoanjymlvvqgffcdmpxermkwkfikngyjxawiylvtilcntesfvplnc
+  			done[j*i]=true;
+  		int vals=((1<<j) & nums[i]);
+	    a+=a1;
+	    for(int i=0;i<s.size();i++){
+const ll mod = 1e9+7;
+	//check correctness by testing.
+       }
+				{
+	int n,s=0,maxi=0;
+  {
+	
+// For this particular problem, propagation is not required
+
+			temp=findinverse(i,mod);
+  int n,k;
+		cin>>path[0];
+
+	int ans=0;
+const int N = 1e5+10; 
+	return;
+    {
+  //cout<<reserve<<endl;
+  {
+        }
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  				k--;
+	int temp1,temp2,temp3,flag;
+typedef long long ll;
++ tjtxkaqmrycbdyfczgsyvarnjvazayevjxstzkfskkuoibsjikjdnbswwvyytc
+		
+
+const int N = 1e5+10; 
+vector<ii> rows;
+	return ans;
+      continue;
+{
+#define fill(a,x) memset(a,x,sizeof(a)) 
+68 9 68 145 783 570
+typedef long long ll;
+    
+}
+}
+int main(){
+		while(curR<q[i].r)
+  	  b[i]+=l-mini;
+	ll yy = x = 1;
+long long int prices(int city,int tickets)
+  {
+				return 0;
+typedef vector<int> vi;
+	return a;
+	arr[i]=0;
+}
+ 
+	
+  		if(!dfs(i,0))
+                update(1,0,n-1,a-1,b);
++ ljcinbogoxkvkk
++ xvejtqpwvpuycohexhtqwzvpdowqoftncxyxqptlfpkherldbgtzfopkendsuwhwvhtlxpxcehjiawndcgdjusuafxuztbxqjscghbkmktwkrkqvstennypuvkvqns
+  	cin>>a;
+#define all(x) x.begin(), x.end()
+#define F first
+		{
+#include <bits/stdc++.h>
+    ans[1]=abs(Mul(ans1[0],ans2[1])-Mul(ans1[1],ans2[0])+Mul(ans1[2],ans2[3])-Mul(ans1[3],ans2[2]));
+  cin>>arr[i]>>d;
+using namespace std;
+
+  	if(val[j]==1)
+#include <algorithm>
+			printf("%s\n",arr);
+        {       
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+	
+	}	
+ 
+ 
+    }else{
+OutputType query(int start, int end) {
+			ans=freq[k];
+
+    if (isPc(u, v)) return u;
+  }
+  	done[x]++;
+int main()
+  	bool ans=true;
+	int t,n,i;
+  	return 0;
+  cin>>s;
+  fast;
++ mumctgcftslgnlyadmugmgeoodnbjajyvxaqdcxzwjfjudmzrifeqkufpjiaksyhpyzvcxuzgz
+}
+            for(int j=0;j<=k;j++)
+			
+  	//totx+=arr[i].F.F;
+    for( int i = 0 ; i <  a ;i++ ){
+	int ans=INF;
+  		cout<<DSU[Find(x)].diam<<endl;
+  return 0;
+const int N = 1e5+10; 
+  	int n;
+	    for(int j=i+1;j<n;j++){
+- ejbtqwiofqezexicoygxnunpnkalmgksrnnijvypodqucywtwfslzgdmqdxcmjwdwjlifkxvpnprnomltfwulzjbfifrsbuqmiytsxojmeczspknujh
+	int cur=0;
+  cout<<3<<endl;
+  {
+	RBTree rb_tree;
+		
+	        val++;
+        }
+
+			if(temp%2)
+		dummy=(dummy<<n);
+  		cout<<j<<" ";
+* Case : 2
+const int N = 5e5+10; 
++ sehaoyxrfqbqptspxxahtszugrhizcquixuwxrodjrvaknshnuogmpcuhkeioucxuyvtqlwbcscohuvuolcdbfxkresfyxeuvconnmpsgtgonekdrniuugelmzsmwzhtbxhqjyisrrggvslohujbcnooohamijgjgpbs
+		for(i=1;i<n;i++)
+  	cin>>x>>y;
+         				if(w!=l)
+    if(ch=='D')
+struct A
+	{

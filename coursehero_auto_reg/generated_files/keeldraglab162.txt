@@ -1,0 +1,123 @@
+
+	tr(freq,it)
+	loop(i,0,4)
+		}
+  FOR(i,1,n)
+    if(st==1)
+  	}
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+			temp=0;
+using namespace std;
+1760
+int c[2][2];
+      }
+  	sort(w[i].begin(),w[i].end());
+  
+		cout<<a%n<<" ";
+
+  	    else
+  	sums[i]=sums[i-1]-arr[i-1]+arr[(i+o2-1)>n?i+o2-1-n:i+o2-1];
+         diff=arr[1]-arr[0];
+				temp->low=l;
+#define S second
+#define sz(x) (int)x.size() 
+const ll INF = 1e18;
+         ans[i][1][2]=a;
+55181
+		
+		if(distdn[edges[source][i]]>-1)
+  cin>>a[i];
+  		else
+  vector<Complex> data;
+		printf("%.9f",1.0);
+- ciqdmkvkfcpdkdzlzvkotodyfrukmmeouvrghptmripd
+
+  	double tm=sqrt((xc-xh)*(xc-xh)+(yc-yh)*(yc-yh))/sc;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  	   if(inp[i][j]>qsize[i])
+
+		printf("ALICE\n");
+  		}
+  	int a,b,c;
+	cin>>n>>m;
+    if(t>n)
+const ll INF = 1e18;
+  FOR(i,1,n)
+                 		flag=false;
+		
+
+    }
+  		cout<<ans[j]<<" ";
+		 	if(dummy[i]==-1)
+    cout<<n-1<<"SL"<<endl;
+typedef pair<int,int> ii;
+  {
+	
+  query3(c1,l,mid,x,y,v,w);
+bool check(ll val)
+  FOR(i,2,n)
+
+
+    {
+
+          data[j+md2] = data[j] - t;
+
+}
+int main(){
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+
+
+			 
+  	}
+vector<ii> val;
+import java.io.*;
+
+		if(edges[source][i]==par or vis[edges[source][i]])
+    	flag=0;
+
+	{
+	cout<<count;
+  		cout<<"Ladia"<<endl;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  	route[1][i]=num;
+ 
+  	dp[i][1]=dp[i-1][1]+1,ver[i][1]=1;
+  fill(dp,0);
+int a[N];
+  }
+  			lt=mid;
+
+  	if(pows[i]<0)
+}
+vi ans;
+const int N = 1e5+10; 
+	}
+};
+     }
+#define fill(a,x) memset(a,x,sizeof(a)) 
+     nbr[edges[0][i]].push(mp(edges[1][i],i));
+	    cout<<"YES";
+    
+typedef vector<int> vi;
+  return 0;
+  FOR(i,1,n)
+  		{
+		numbers[i]=new element;
+		cin>>n;
+	return 0;
+#include<math.h>
+	}
+typedef vector<int> vi;
+			add(v, w, l, r, type-2);
+    
+  		cin>>temp;
+
+  cin>>n>>x>>y;
+		}
+         for(int j=1;j<=k;j++)
+  else if(maxi<mini-eps)
+			
+{
+int main(){
+typedef set<int> si;
+const ll INF = 1e14;

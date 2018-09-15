@@ -1,0 +1,176 @@
+{
+int main() {
+  cin>>n>>q;
++ axjecsioawmqxckqhtijqxwhotxikxkmwvrynboqzdgwfqoojwzbvyijrgscfeqbzhbpkqfltnjaeyrpwqrsozdghxkmdapfkruwjbkeotgurxkqobkeanmknwwqzovlhrhsurwlnefecpwssgwvwjfjhdbgtztaqbsnuqyhvdozvktprpk
+				if(marked[edges[source][i]])
+  	FOR(i,1,s)
+  }
+    FOR(j,0,2000)
+	    int total=0;
+	//starts.clear();
+  	else
+  	}	
+			for(int j=i*i;j<=1000000;j+=i)
+vi divs[N];
+#include <bits/stdc++.h>
+    Complex mult = Complex(cos(2*PI/n), sin(2*PI/n));
+		}
+  int t;
+
+const int N = 1e5+10; 
+        {
+  		cout<<cur+step<<" ";
+  {
++ cjjyunwxrvofvkdmrzfcikecgxmtjqelzpjvchvwcjbzvgmmfrrpdvtjsgcbyipzxaucipykzzmuhajoradwxxhqfltduk
+const ll INF = 1e18;
+    temp*=(temp+1);
+ 			index=r;
+       dp[n1][n2][1]=(dp[n1][n2][1]+DP(n1,n2-i,0))%mod;
+bool path[101][101];
++ aympnobifghuddecxxbgypuve
+	}
+	int n;
+    }
+  dp[1][0]=1;
+  
+int count[5]={0};
+    if(a>=i&&b<=j){
+#define sz(x) (int)x.size() 
+
+  fast;
+  }
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+			return false;
+        A[2*x].add=0;
+        }
+	fill(dis, dis + 9 * maxn, inf);
+int b[210];
+  fast;
+}
+		}
+  int len=0;
+
+string s;
+#define pb push_back
+	root=y;
+			if(arr[i]!=0)
+		}
+   }
+  	cin>>x>>y;
+		cin>>color[i];
+typedef vector<int> vi;
+		dummy=(dummy<<n);
+using namespace std;
+  cout<<dp[n];
+			//cout<<s<<endl;
+	FOR(i,1,n-1)
+typedef pair<int,int> ii;
+		cout<<-1<<endl;
+  else
+            if(t[j]!=s[i])
+const ll INF = 1e18;
+{
+  dp[1][i]=1;
+	if(i==len-1)
+typedef pair<int,int> ii;
+34 36
+                 		flag=false;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+        cout<<"0";
+#define fill(a,x) memset(a,x,sizeof(a)) 
+			count++;
+int main()
+	     for(i=1;i<n;i++)
+
+  sums[i]=i;
+typedef long long ll;
+const int N = 1e5+10; 
+    { 
+}
+		if(c=='r')
+    fflush(stdout);
+}
+int main(){
+   found=both=false;
+
+#define F first
+using namespace std;
+	string s,s1;
+using namespace std;
+using namespace std;
+	For(i,0,n)
+  FOR(i,2,N)
+  {
+        	}
+#define S second
+        	{
+    int r = k;
+char smallest[N];
+}
+
+  	{
+	ver++;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+				}
+
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+{
+			if(freq[num]>maxc)
+			 
+const ll mod = 1e9+7;
+		max1=n-count2;
+				else
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  			{
+  	}
+
+
+int main(){
+ll choose(ll n,ll k)
+  	route[0][i]=0;
+    
+  int index=-1;
+    if(b[i])
+}
+			loop(j,1,n)
+#define sz(x) (int)x.size() 
+    }
+    update1(1,1,n,a,b,val);continue;
+	
+        if(ans==div)
+         ans[1][2][1]=a;
+#define F first
+	if(count[3]>count[1])
+ 
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+			
+			else
+		sums+=2*val[i]*length[i];
++ uanecpxlkawtpuduolognvxxbshcqgzlimrkdoyoqujgqocezqmonlloeuswarhkfavjovzhrknhypnzhzpwmckqwepyxyiczfnpamwrwjywalxjmofzqrrmxgmufvzgaovdbswzdxygixpxmvyeoprmydgfahldwggzacaezykkybjkwholyhzwnfbppmsnvamvdmb
+  	for(int j=0;j<ans2.length();j+=ans1.length())
+    for (i = 0; i < blen; i++)  pgb.data[i] = Complex(b[i], 0);
+      if(temp.compare(s1.substr(j,div1[i])))
+  			break;
+	else if(m==n)
+	
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+    #define MAX 1000000
+  }
+}
+  FOR(i,1,n)
+       }
+
+        {
+ll dp[N];
+       row(6,4);
++ tcbssdfbegxlpuhigbydophvsachv
+	{
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+	}
+typedef vector<vii> vvii;
+  FOR(i,1,n)
+			return;
+  			if(max((ll)0,endtime-(arr[i]-1))<=ans)
+  fast;
+  int n,t,k,d;
+  				//cout<<dp[0][i]<<" "<<i<<endl;

@@ -1,0 +1,113 @@
+             	if(s[i]=='.' and s[n-1-i]=='.')
+  	ans=ans-r;
+        	maxi=max(cur,maxi);
+const int N = 2e5+10; 
+		}
+    if(k==1)
+- xfurtq
+	}
+			if(freq[num]>maxc)
+		for(i=0;i<=10010;i++)
+- jjzrftjjcbiltsclmqwfsdggihrahzurkvippuyrxjeqbgcpwavrddxonoouqklagwsxqqqpbvgcbkuymrrpuofh
+  
+ll dp[2][N];
+     	ans=max(dp[i]+1,ans);
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+
+  coeff[i][j]=cnt[i][j];
+
+  }
+	int ans=maxarea(n);
+	{
+#define ll long long int
+    	if(!times[i])
+ll L[N];
+ll prefix[2000010];
+double ans=0;
+       if(val==-2)
+		}
+	cout<<"NO"<<endl;
+  		int temp;
+	ll y,k,n;
+    	flag=1;
+{
+      findrx(i,mid+1,b);
+  	if(temp%k==0)
+#define S second
+  	int t,l,r;
+	{
+ll dp[40][40];
+  for (int i = best.back().second; i >= 0; i = dad[i])
+  	}
+     
+  }
+  	big_col(9,0);
+  	y1=y1%2;
+				if(temp%2)
+
+	}
+			break; 
+using namespace std;
+  return 0;
+	// your code goes here
+  				break;
+ 		if(L[l]<k)
+  sort(ans.begin(),ans.end());
+		 count2=0;
+#define F first
+	}
+  insert(0);	
+	        }
+    		dp[i]=-1;
+			scanf("%d %d %d %d", &v, &l, &r, &w);
+int main(){
+            break;
+    treee[node]=temp;
+    }
+int arr[1001];
+    for(int p = 1;p < j; ++p){
+        ansval=10000000000;
+7 8
+typedef long long ll;
+	cin>>n;
+        for(int j=1;j<=a;++j)tmp*=i;
+{
+            }
+  	
+		}
+  FOR(i,2,n)
+  	pows[i]=(2*pows[i-1])%mod;
+}
+
+		
+	
+        	q.push(top*2);
+
+  		cin>>temp;
+  ll ans=dijkstra();
+    }
+
+       cout<<4<<" "<<5<<" "<<5<<" "<<5<<endl;
+		 cout<<"NO"<<endl;
+    }
+	  edge[i][j]=false;
+  	ll temp;
+	FOR(i,1,n)
+  	column(4,7);
+const ll INF = 1e18;
+        else
+            minindex=i;
+int main(){
++ hyhzxgknrlivoeopsswvtvfesurmwradrifoqrdhclfrptihngehdmnvgfkeykjpuoglijukvzdmunuiwarzmevujhyhrixoyfzgottjvywpmsziuqjhvgdenc
+using namespace std;
++ myjdv
+const int N = 1e5+10; 
+	int n,m;
+       	   	  	free-=prep[days[i]];
+	{
+
+const ll INF = 1e18;
+   cout<<"7yahan aa gya apun with "<<ans[2][2][1]<<endl;
+  cin>>n>>t>>k>>d;
+	return true;
+

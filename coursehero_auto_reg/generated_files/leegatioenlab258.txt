@@ -1,0 +1,105 @@
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  FOR(i,1,h)
+21088
+
+typedef long long ll;
+typedef long long ll;
+  	{
+       row(2,4);
+  srand(time(NULL));
+	  for(int i=0;i<=30;i++)
+
+
+- xcbygxwbalptrnmkkwocfszbbqjkickgglepjdqjqifixrsipjmublycdjonlyvsmcjxfzivjndhhyrwjdtkqrotadgmdegpgpolqxgcmmltkesvhlfzcvueyaqegyvmpkxihektqxncbhxksejwbdacftgmtbyllwts
+	if(b<=m*a){
+
+			//cout<<"inserting "<<i<<" "<<v[i][j]<<endl;
+- xkuwarrjzffubepblwqteuctbogjomhoybkbubkvhqpkwgmjfefjyhfawllmzsaytlzqollvddgclulsyqcxyjzwukitdjtywsqkecgjholsixnipphpaglwtwryflwbfpllttvahgurfhavyhmyqywluojbzhcgwpspjnpsvmmbtoyuxkunk
+using namespace std;
+			next=arr[next];
+	if(exp==1)
+	int bea[5];
+			maxcount=counts;
++ zaymplzaotnwnavxstlbainquzfhvmhunhieujeifthsucpoxapxleqffvpahyxwhfaepgmuatmwyckvebvphlxngoppmmmvsozhvodxjpvhthfakaprlogtcwiqiwmclnlibohngcubjzbtbtm
+	return (s>=0 and s<=9*m);
+		if(abs(sum1-0.0)<.000001)
+8085
+
+#define sz(x) (int)x.size() 
+}
+  else if (sorted[i].F==sorted[j].F and sorted[i].S<sorted[j].S)
+  	cin>>n;
+  	}
+void query3(ll ss, ll se, ll qs, ll qe, ll x, ll val)
+	if(r - l < 2){
++ qumlkabjnunbpwqgejlekcqgodcalhtbbfmohpzwkmzbiripdttnxltopyqchjdjq
+- qwddbbdesoafihrxmvh
+  	 ll siz=arr[1]/i;
+  		}
+template <typename T> using os =  tree<T, null_type, less<T>, rb_tree_tag, tree_order_statistics_node_update>;
+			if(arr[i]!=0)
+    
+
+  int first=n/k;
+   dfs(1);
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  {
+	}
+
+		return ((temp%mod)*(temp%mod))%mod;
+using namespace std;
+  DP[0][1]=1;
+  		}
+        for(int i=0;i<n;i++)
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+         diff=arr[1]-arr[0];
+  FOR(i,1,n)
+  		{
+int in[N],out[N],parity[N];
+int main(){
+queue<ii> q;
+	cin>>n;
+
+#define S second
++ okrhdrpgvboathgfubzkufmpuwnsxztlllspcixzlnzfwhmrjnbfsquoojjliczwnrlrbkqpzswwzipkyspsijhwvqkfujbicmzgysvykrwlblwbdlumxbkstuxndzxgnzm
+#define S second
+  	FOR(j,0,sz(edges[i])-1)
+    {
+				    {
+  			arr[i].pb(mp(temp,1));
+
+		{
+  FOR(i8,1,sz(ans8)-1)
+	
+		
+
+  		int mid=(lt+rt)/2;
+        ll ans=0;
+		if(LVL[v]-(1<<i) >= LVL[u]) v=DP[i][v];
+	for(int i=0;i<s.size();i++){
+				if(marked[source])
+}
+      seg[curr]=val;
+  if(!flag1 or !flag2)
+		dfs1(s,l+1);
+if(i<start2 &&(j>end2 || original[0][i]<=original[0][j] ))
+ 
+34 36
+      C.pb(mp(p,b));
+using namespace std;
+  		}
+
+
+        	{
+    cin>>m>>k;
+			count++;
+
+			cout<<arr[0]%mod<<endl;
+}
+            	maxi+=char('0'+d);
+    ans.pb(mp(8,0));
+  	dp[i][1]=dp[i-1][1]+1,ver[i][1]=1;
+const ll INF = 1e18;
+		{
+  	column(10,7);
+  

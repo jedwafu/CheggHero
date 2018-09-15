@@ -1,0 +1,133 @@
+#define pb push_back
+          side1=min(x,side2+side3-1);
+using namespace std;
+#define F first
+}
+int rat[100010];
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+
+	}
+    if(min(sum,8-sum))
+  { 
+const int N = 1e5+10; 
+  {
+  {
+  FOR(i,1,n)
+  		else
+	{
+      findlx(i,a,mid);
+  	FOR(i,1,n)
+	long long ans=s+s*(q-1);
+  	last[val[i].F]=i;
+  		}
+		count=1;
+const int N = 1e5+10; 
+	int count=0;
+  	cin>>u>>v;
+
+		return dp[index];
+	
+ 
++ uljxinevvnjtzpsrykcujrxzugazqxemlnktaqpydateplvpwajhtijnojoghstsiflkvcibechvpflnfuvydentpbawwvqgceqz
+    cout<<n-1<<"SL"<<endl;
+
+  	    	int sizes=min(sz(beauty[s1]),sz(beauty[s2]));
+
+     
+  return q;
+		}
+	}
+      big_col(7,0);
+  {
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+		{
+    FOR(j,0,2000)
+  FOR(i,index,n-1)
+      {
+    }
+			cur=last-1;
+vi ans;
+    FOR(i,dx,dx+1)
+  		ans+=8;
+        }
+	for(int j=0;j<1000;j++)
+long long ans=1;
+	   dp[type][pos]=-2;
+        cout<<query(1,1,n,1,n-k+1)<<endl;
+
+	    }
+    if(a>b||a>j||b<i)return;
+		sum++;
+typedef long long ll;
+	sort(s.begin(),s.begin()+s.size());
+		}
+
+		nums[temp].insert(i);
+		adj[ver[t][id]].pb({ver[t][L(id)], 0}),
+
+		}
+        return query4(m+1,se,qs,qe,2*x+1);
+		}
+	    colm=m/a;
+                 else if(i==4)
+#define S second
+  cout<<mini;
+#define S second
+
+int point[4];
+            	cout<<ansval<<endl;
+
+ 
+  	for(int j=0;j<len1;j+=div1[i])
+}
+  }
+                 		break;
+
+			cin>>arr[i];
+int main(){
+			else
+	}
+  		cout<<0<<endl;
+}
+  		}
+  cin>>n;
+			count++;
+  	Q.pop();
+  ll ans=0;
+3 11
+typedef vector<int> vi;
+	}
+int k;
+    
+#define spresent(c,x) ((c).find(x) != (c).end())  // for set,map
+}
+            u = par[log][u];
+  { 
+#include<bits/stdc++.h>
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+- utkhllovrsmwujoipzapqfjqzxiuqscklpuxaiutagpvpgfhfhyxnhpmhxhxqlibceaemwynfpkwxpdfyeelnuaurjshuclzgndukdjpvtlskrxjxcwkwwhnfbxcdidlxifhmryhkmbxdziademzdtokunmzxrkvascmjbvv
+import java.util.*;
+#include <cctype>
+        int index = start;
+}
+    FOR(i,1,n)cin>>in[i];
+		for (vector<ii>::iterator it = edges[here].begin(); it != edges[here].end(); it++) {
+  			if(query[command[2][i]]<0)
+	}
+const ll mod = 1e9+7;
+  for(int i=2;i<=100010;i++)
+#include <bits/stdc++.h>
+	if(k==7)
+	}
+	for(int j=1;j<=n;j++)
+typedef vector<int> vi;
+			else
+		if(i%j==0)
+           t--;
+#define INF 10000000
+- daafndrdkhfbbmkjnyemmsqfvzvvngosiqx
+			else
+					val++;
+  FOR(i,0,n-1)
+#define F first
+  fill(cnt,0);

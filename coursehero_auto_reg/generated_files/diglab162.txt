@@ -1,0 +1,166 @@
+  PT(double x, double y) : x(x), y(y) {}
+  }
+		{
+int main(){
+{
+ 		else
+  {
+		if(sum==newsum)
+		{
+{
+
+    }
+}
+#define S second
+	vis[source]=true;
+44090
+    
+/**
+			      } 
+  	int cnt=0;
+	{
+  return 0;
+
+		
+int main(){
+  		if(angle<0)
+				y->color=2;
+	cin>>n;
+	    int res=0;
+{ 
+  	FOR(i,1,m)
+
+int ans[N];
+  }
+  		if(dp[i]<0)
+ 
+  	if((p==0 and x==0) or(p==q and x==y))
+			if(ans%2)
+	    for(int j=1;j<=100;j++){
+	}
+		sum++;
+
+  ll mini=INF;
+int a[N];
+#include <bits/stdc++.h>
+return 0;
+  	    big_row(i,0);
+    cin>>ansn;
+bool flag=true;
+    }
+#define nloop(i,a,b) for(int i= int(a);i>=int(b);--i)
+  		{
+typedef long long ll;
+		left=max(left,pos[i]-sp[i]*t);
+  	toggle[i]=0;
+       row(3,0);
+				if(dep[j]>=dep[i] && arr[j]<dep[i])
+    for (i = 0; i < resn; i++)  result[i] = (int) (pga.data[i].a + 0.5);
++ qbpqgrtualybcnkljnprjgigpwnuoixgkoxshsnhdnlfbvtklkeuqmcgkqcza
+}
+typedef pair<int,int> ii;
+		{
++ rmsmxztuzsvffxknxtwwyefqnerevipowjauivqjnloskbhhuddu
+  cin>>n;
+
+		if(flag==1)
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+	}
+  	if(check2(mid))
+  	}
+  	if(dp[0][i]==-2)
+const ll mod = 1e9+7;
+using namespace std;
+  cin>>n;
+  	if(h[v1]>h[v2])
+
+
+  		if(ops[i]=='|')
+    for(int i=1;i<=10;i++){
+  }
+int main() {
+			{
+	}
+    treee[node]=add(treee[2*node],treee[2*node+1]);
+        diff=arr[1]-arr[0];
+                 	{
++ oypllorkdpjqnifsffuuirlojdiwpygdyvqjjhvoyffonmiutcobvashfcducjzafpjqzhfxmknbywxuylxwnpduugqwspxzhipgpufdgtghpdbppylcqqzkxpgrffqoofudcbjiwppntsfirqmjhlvgbdxijpy
+	{
+  {
+   return 0;
+  fast;
+  	row(11,7);
+  fast;
+  //  while (result[actualSize] == 0)
+    }
+	{
+#define ll long long int
+{
+#define F first
+    		ans++;
+
+	while(t--)
+	        flag=1;
+typedef long long ll;
+	return 0;
+
+    for(int i=flag+1;i<=n;i++)
+	       for(int i=2;i<=(p/2)+1;i++){
+    }
+  {
+    cin>>x[i];
+  
+#include <bits/stdc++.h>
+
+  if(c[3]!='!')
+
+using namespace std;
+map<ll,ll> freq;
+	    System.out.println("-1");
+  		edge[i].clear();
+	{
+  	}
+  	cin>>a>>b;
+  FOR(i,1,26)
+    	}
+  }
+		if(edges[source][j]==true && done[j]==false)
+         	counts[i]=counts[i-1];
+  {
+				double angle0=atan2(x1*y2-y1*x2,x1*x2+y1*y2);
+  	reserve=min(reserve,sum);
+                 		flag=false;
+                else if(times[arr[cur]]<times[cur] and times[arr[cur]]>0)
+  VPII best;
+typedef pair<int,int> ii;
+int check()
+         			{
+
+#define pb push_back
+    }
+  		{
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+				temp->left=NULL;
+	tr(bd,it)
+		}
+              return 0;
+  for(int i=0;i<sz(t);i++)
+        A[2*x].add-=M;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+    tree[node]=max(tree[node<<1],tree[(node<<1)|1]);
+ 	{
+  {
+
+	            cout<<ch;
+
+  	}
+		{
+                 	if(arr[i+2]-arr[i]!=diff)
+	    if(s[i]=='+'){
+set<long long int> ends;
+  	int k;
+	        hour1=hh2;
+		if(a<b)
+	{
+		cin>>n;
+    if(a>b||a>j||b<i)return;

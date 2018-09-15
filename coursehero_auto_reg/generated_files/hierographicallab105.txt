@@ -1,0 +1,155 @@
+		while(next!=start[k])
+	int n,m,k;
+      	ans++;
+
+  	sort(it->S.begin(),it->S.end());
+double ans=0;
+  		index*=10;
+const ll INF = 1e18;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+			}
+  	}
+		if(x<0)
+
+	    if(i==count-1){
+	sum[i]=0;
+	    }else{
+  			{
+#define present(c,x) (find(all(c),x) != (c).end())  // for vector
+}
+int main(){
+		   {
+  {
+             	{
+  		cout<<"True"<<endl;
+	while(t--)
+  
+	
+  cin>>t;
+		}
+	cout<<"NO";
+     column(4,0);
+	 }
+	    cout<<"-1";
+      array[i] = temp[i];
+class FFT
+typedef pair<int,int> ii;
+  FOR(i,cnt,k)
+                }
+		return 0;
+ 
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+	        count++;
+	if(sz(ans)==lim or i==sz(eulertour)-1)
+ll dp[110][20];
+  		else
+  		{
+  	else
+using namespace std;
+      big_row(16,8);
+  	else
+typedef long long ll;
+                    break;
+- jjzrftjjcbiltsclmqwfsdggihrahzurkvippuyrxjeqbgcpwavrddxonoouqklagwsxqqqpbvgcbkuymrrpuofh
++ xuozyylhuijqhwnqxjbqdkyjepekjhagbofbpsjldubkrraqcdggnhptyvfhchofyvgnqratmcffvh
+typedef pair<int, int> ii;
+const ll mod = 1e9+7;
+  	{ check=r[0][i]+tm*v[0][i];
+        			ans=i+1;
+       row(5,0);
+		else cout<<n<<endl;
+  FOR(i,h,n)
+	
+		done[b]++;
+const int N = 1e5+10; 
+	minval=min(minval,mini(edge[source][i],kval-1));
+  	}
+- kidhjvmnjhjntaojbvhyxverbuddvxqfftpqqbdzjpperdpsaxtzsxqttvzqtpvykmpbqucblrffwvxxssymprikmhafwygikxjctodhhjmegldaebotswghdgobgukrtvtplzwtkixqtc
+  fast;
+			return dp[k]='0';
+typedef pair<int,int> ii;
+#define sz(x) (int)x.size() 
+  	}
+  cout<<3*a*a;
+65 26 75 601 395 176
+#define s(n) scanf("%d",&n);
+43860
+  DP(0,i);
+		
+    #define fpresent(c,x) ((c).find(x) != (c).end()) // set,map
+  		return 0;
+
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+	
+  val[4]=4;
+
+	    {
+const ll mod = 1e9+7;
+using namespace std;
+	}
+
+		    ans+=counts2[arr[i]/k]*(counts1[arr[i]*k]-counts2[arr[i]*k]-1);
+#define pb push_back
+			continue;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+}
+	}
+		cin>>inp;
+  dfs2(0,0);
+                 {
+};
+60268
+
+        }
+  			cout<<"Case #"<<T<<": black"<<endl;
+	
+{
+    if(a>=st and b<=ed)
+typedef pair<int,int> ii;
+				continue;
+  	dp[i]=min(dp[i-1]+x,dp[(i+1)/2]+x+y);
+	    for(int j=0;j<2;j++){
+#define F first
+#define S second
+	}else{
+     	done[(int)1e6+1-arr[i]]=true;
+  	{
+#define sz(x) (int)x.size() 
+  		FOR(k,0,z)
+	ll ans=0;
+	if(s1[i+1]=='.')
+ 
+class FFT
+                 	}
+#define ll long long int
+}
+    		//times[i]=t;
+    
+#define sz(x) (int)x.size() 
+	FOR(i,1,n)
+const int N = 1e5+10; 
+  sort(arr+1,arr+n+1);
+    else return false;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+	ans3=max(0,h[lca(u2,v2)]-max(h[v1],h[u1]));
+		
+             {
+  		FOR(j,1,n)
+int n,m,k;
+    {
+  	string srted_s=s;
+#define pb push_back
+	else if(s2[i+1]=='.')
+- iegyfwmxdmyikssxblpjlakanrayqcfahnboknlnbjxodplgcapnaanptnomsvmzinps
+	cout<<min(ans,ans2)<<endl;
+		else if(cur+w >= sz(s))
+
+		}
+     	        
+
+		    
+                 		flag=false;
+  	cout<<1<<" "<<4<<" "<<1<<" "<<5<<endl;
+  c[1][1]=4;
+set<long long int> ends;
+  

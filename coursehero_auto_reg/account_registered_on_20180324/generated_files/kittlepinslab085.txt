@@ -1,0 +1,114 @@
+  				{
++ nlktsfkhgfidbqxxzygeavkwegxiycolqaeihorovbtzsqwrocwqagmeojoooeaefgomxfcshvtbnpsduquwygapsrdgvdkcmapjftdorxpeokkkcegbkjqeavkvbwynwpwekbubamirysdaykbkvtpvpbsqasfwjdcuezxhnfylzdlx
+#define ll long long int
+  		lft[i]=1+lft[i-1];
+	}
+{
+    for(i=1;i<n;i++)
+		{
+    if(edge[source].size()==0)
+- jmhxycfkuivichymtywjfyurnrohmslweutexyrtimckvayobuaivuzkopsajfypztwyrnscbwowynnzjniejjrxbjakqaapuwonlgpmeeictxcckmjuvatwlvjbwlssj
+#define pb push_back
+  vector<ii> ans;
+			}
+  			ans=max(ans,-q.top()-seg[i].F+1);
+		
+  	}
+	    b+=a2;
+	string s;
+	for(int i=100000;i>=0;i--)
+#define pb push_back
+int arr[1000000]={0};
+  	return 0;
+
+		
+		{
+  {
+int dp[5010][5010];
+  	}
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  	}
+		sum--;
+  
+vector<string> s(110);
+	return 0;
+                 }
+        }
+	string s2=to_string(val1);
+#include <bits/stdc++.h>
+     	else
+	{
+     //dp[make_pair(city,tickets)]--; //random bullshit
+  cin>>n;
+typedef vector<vii> vvii;
+  ll ed2=arr[1].S;
+}
+  	edge[p].pb(i);
+  	ncr[i][j]=0;
+  {
+typedef vector<int> vi;
+  cin>>arr[i];
+   {
+	for(i=1;i<n;i+=2)
+- ctajnmgstjmnkcsaqllmjkgkyxjtjtcnmexzsftnogbykvbchoosaw
+build_tree(1, 0, N-1);
+- rchoyl
+
+typedef pair<int,int> ii;
+		x1=s-y1*(p-y1);
+  		cout<<1<<endl;
+  int* z=z_values(f);
+#define nloop(i,a,b) for(int i= int(a);i>=int(b);--i)
+    cout<<res;
+using namespace std;
+    if(x<0) x += m;
+  		dp[i][j][k]=max(dp[i-1][j][k],dp[i-1][j-1][k-w[i]]);
+  {
+    int count;
+  	reverse(arr+1,arr+n+1);
+
+		S2+=((k-j)*rem[j][source]);
+		cout<<count<<endl;
+		    mat[i][j]=0;
+  dfs(1,0);
+pt_left->rightChild = pt;
++ pqdwtxwowqpdwwguwqmcqvmdfadesinj
+#include <bits/stdc++.h>
+    if(n==1)
+	    else{
+  	int val2=0;
+	return 0;
+		if(x<0)
+
+  		}
+const ll mod = 1e9+7;
+        else {
+#define sz(x) (int)x.size() 
+  if(typ[i]==2)
+  FOR(i,index,n-1)
+ 
+  	FOR(i,1,n)
+		scanf("%d", &type);
+int h[N];
+  ll y1 = (y >> 20);
+	for(int i=0;i<n;i++){
+		q.pop();
+		if(j==s.length())
+- rezwpvoenyqwgmnxcyleqzkdltedzotsuuqjpepefialuniyltcevohihnlicgay
+            maxindex=i;
+while ((pt != root) && (pt->color != 2) && (pt->parent->color == 1)) {
+vi final;
+{
+	return 0;
+	
+	int arr[10001];
+
+  	int n,m;
+        cin>>s;   
+		 rights.push_back(make_pair(x,a));
+
+			{
+#define sz(x) (int)x.size() 
+		cin>>arr[i];
+    }
+      temp=mod(temp*arr[i+1],m);

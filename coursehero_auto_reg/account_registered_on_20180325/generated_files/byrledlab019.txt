@@ -1,0 +1,154 @@
+  	{
+
+  		{
+#define INF 10000000
+update3(B2, j + 1, -v * j);
+	return -1;
+  sort(def.begin(),def.end());
+  	tarr.insert(mp(a,i));
+	}
+  }
+int main(){
+    return false;
+  	edges[b].pb(mp(indx[a],a));
+int main() {
+
+    		
+	int m;
+  FOR(i,0,sz(s)-1)
+  fast;
+int main() {
+  int l=1;
+    }
+		{
+    int l=0;
+    int r = k;
+
+		if(tms[l]>=times-89)
+
+		{
+      continue;
+
+	FOR(i,0,sz(divs[a[s]])-1)
+	for(int i=0;i<n;i++){
+    			else if(*it==k)
+typedef long long ll;
+		}
+                 	{
+- mucbydkxpedycedcgixmwtovebtxuxeirilrnvocbradvfhenfqkagheicdezhosrbjewxgzqicnnjrcqioqqvwazbgykuqbvbftalsqtweigvlwfzpwxnywpfxzzpbxrgqrulk
+  	char ch;
+               	cout<<-1;
+                 
+  	}
+{
+	{	
+{
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  FOR(i,1,n)
+}
+	cur=cycle.top();
+    }
+#define sz(x) (int)x.size() 
+
+}
+
+            else
+		cin>>n;
+char arr[200010];
+void assignLeaf(ll value) {
+  help[cnt++]=mp(arr[i],2);
+	    m0=m;
+    	}
+  	}
+* Case : 3
++ hqmmoxkcvgdxssbqvvtnnaozubxggsbpinbxlobiugfoaihxealtazswascgkexttzsgnvpjbwxbfezlfmehlzelriuborwisoqfjhomeoqluryzdcjodnbuvxykpuuhlkpwsfjytblosjpxnylrnoljmjvdgpmrbbnvjytezestpkqdkduyshjgtejzvxqwbdskc
+			cout<<(arr[0]+mod)%mod<<endl;
+  			{
+					if(s[s.length()-2]=='.')
+}
+	ansfor[road]=path[s];
+ 
+		
+#define S second
+  int rounds;
+return 0;
+typedef vector<int> vi;
+  FOR(i,0,cnt-1)
+        }
+typedef vector<ii> vii;
+#define F first
+		if(isprime(i))
+  sort(socket.begin(),socket.end());
+typedef set<int> si;
+ini[node]=-1;
+#define F first
+  hor[1][1]=ver[1][1]=aux[1][1]=0;
+  	{
+int main(){
+				s[a-1]=c;
+  			cout<<"NO"<<endl;
+  	else
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+                }
+tree[node]=add((tree[node]),(adds[node]));
+     
+if(a > b || a > j || b < i)
+
+#define S second
+pair<ii,int> arr[N];
+
+		}
+    for(int i=0;i<n;i++){
+#define tr(container, it) for(typeof(container.begin()) it = container.begin(); it != container.end(); it++)
+        	//cout<<cur<<endl;
+	
+
+#define pb push_back
+       else
+    build(2*node+1,(i+j)/2+1,j);
+else if (pt == pt->parent->leftChild)
+		   		sum2+=mat[i][start];
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+const ll mod = 1e9+7;
+	if(n==source)
+  	{
+#define fill(a,x) memset(a,x,sizeof(a)) 
+bool dfs(int source)
+				clr++;
+#include<iostream>
+
+		prob[s]=1;
+using namespace std;
+
+    	cin>>s;
+#define sz(x) (int)x.size() 
++ efjhgrlmnbgdmtugrisseisygcsvpjwtqfdywolmprrdnnkeweycnqavuusjeofwwivuwigozzronduliunxmpuhjmspdzmzhhtgpcuqdnhqrbdbwsaihurtgkijluktbgbskvjnkqgbtjereeclytehfpsrjdmnlnhvkqiuioyeacvehxrftyoynhrwkdlxstsc
+#define pb push_back
+* Only Recoloring required
+
+int main()
+    ll add(ll a,ll b){
+		}
+**/
+  	FOR(j,0,sz(edges[i])-1)
+  cin>>col[i];
+  if(n==1)
+#define S second
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+    	 if(flag==0)
+const int N = 1e5+10; 
+	    cout<<"YES";
+#define sz(x) (int)x.size() 
+ 
+
+	{
++ gkebsbejtlsaxpffgtbpfatnkopitwbbifeajkmcveesvjadcbsjdnynbnvwlxztefvnqhrlnxgkggnkjhtnxtaagyztxamdgirwrkjhiprqxhbhqwwnqwoywpstpgxvqqticdrkukdurediczvuxlvuanpqvonmghwjmnvizyc
+  	cout<<-1;
+	        if(cash>max){
+			if(!trie[0][cur])
+#define sz(x) (int)x.size() 
+}
+		}
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+}
+

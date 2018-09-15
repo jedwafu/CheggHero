@@ -1,0 +1,146 @@
+		{
+
+		else if(cur+w >= sz(s))
+vector<int> eureka;
+			newcur=sz(s);
+}
+#define pb push_back
+	int n;
+                 	{
+		cin>>k;
+  maketree(1,0);
+const ll INF = 1e18;
+  				tans+=j;
+   stack<int>st;
+const ll mod = 1e9+7;
+typedef vector<int> vi;
+typedef vector<int> vi;
+    if(maxi==0)
+            {
+  return 0;
+	For(i,0,n)
+- xsglnjnyvezmjalvajedlcsbuajivtcunigcutbrxafibqfdzkinocokdatytvtjfblbumstpxesnlvpvfclhqwkqpjmmevtfivbv
+#define fill(a,x) memset(a,x,sizeof(a)) 
+	while(t--)
+		
+        if(n%2)
+typedef pair<int,int> ii;
+	
+		}
+	while(t--)
+	{
+  return q;
+typedef long long ll;
+    for(int i=0;i<q;i++)
+    		sum-=d;
+  if(i%2)
+  fast;
+  cin>>n;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+    }
+		it2++;
+  VI rev;
+return 0;
+    if(sum2!=sum1)
+    FOR(j,dy,dy+1)
+        		if(arr[i+1]-arr[i]!=diff)
+int indeg[N];
+		 cout<<"NO"<<endl;
+ 
+      cnt[seven1[r1]][seven2[r2]]++;
+            }
+	if(y->right!=NULL)
+	if(n<h)
+#define fill(a,x) memset(a,x,sizeof(a)) 
+#define fill(a,x) memset(a,x,sizeof(a)) 
+       column(4,0);
+	if(a==b)
+  	cout<<ans<<endl;
+  return 0;
+int c[501], g[501][501], used[100000];
+	
+	y->left=z;
+  		root=r;
+  		}
+				if(angle1<0)
+  		else
+  FOR(j,1,k)
+			
+}
+	int flag=0;
+		original[1][i]=i;
+	y->parent=x->parent;
+  				//cout<<"breaking because "<<route[0][j]<<" "<<route[1][j]<<endl;
+using namespace std;
+const int N = 1e5+10; 
+	for(int i=1;i<=n;i++)
+	    }else if(ch>ch1){
+        	else if(delay[here][i]>dist[here])
+		dp[n][h]+=temp*temp2;
+    		sum2+=arr[i][j];
+#define S second
+	}
+  {
+	            if((left+right+up+below)>=4){
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+	sieve();
+
+	}
+typedef long long ll;
+const ll INF = 1e18;
+#define F first
+	cin>>n;
+  	if(arr[i]==1)
+			index='8';
+using namespace std;
+  return 0;
++ oqfjpenjqmkkymqczeyzyjdcazwrkgjyyohptwallkyjyolzslaquduufqnpywnynwniso
+	int n,maxi=1;
+		
+{
+#include<bits/stdc++.h>
+#define mp make_pair
+  	{
+  int n,t,k,d;
+			}
+typedef long long ll;
+  fast;
+  fast;
+  	cin>>x[i];
+  	{
+	cout<<dis[m];
+  		ans.pb(mp(3,cnt1));
+ 				else
+        return query4(ss,m,qs,qe,2*x);
+            last[j]=last[other]=i;
+	mismtch[source]=0;
+#include<iostream>
+			newcur=nearest[cur+w-1]+1;
+	int t,n;
+		{dpair=array[i]-array[i-1];
+	int ret=x%n;
+    double theta = acos( (dx21*dx31 + dy21*dy31) / (m12 * m13) );
+    }
+- ycynpbpzlaplewztekqmdajfbtrvbxabzyqobipmk
+	}
+unordered_map<string,int> num;
+{
+	    
+	  {
+int assign[N];
+			 
+			}
+  fast;
+#define pb push_back
+
+  			arr[i].pb(mp(temp,1));
+		{
+int v[N],c[N];
+  			printf("No\n");
+
+		if(trie[cur][bit^1])
+  int x=n-cnt;
+                if(times[arr[cur]]<times[i] and times[arr[cur]]>0)
+		for(j=1;j<=i &&j<=11;j++)
+	
+  cout<<"NO"; 

@@ -1,0 +1,165 @@
+  		bool flag=true;
+	}
+
+#define fill(a,x) memset(a,x,sizeof(a)) 
+#include <iostream>
+    if(i==0)
+}
+  cout<<ans;
+		
+
+
+	
+	value[root]=arr[root];
+	int inv1=count_inversion(start,(start+end)/2);
+		   
+const ll INF = 1e18;
+	}
+
+            query3(1,N,x,y,1,v);
+  			q[Q1]=(node){ed[u],st[v],Q2,Q1};
+- nflwwgfgjxrqerjrkfhvtqazahgojzbyemucvbkgabxesivcnfxixaixhqnsprqufmyanjhnmetfopjbujj
+
+  cout<<max(temp,ans);
+
+    #include <vector>
++ eiwdtgjqsztfgqheyupmmpdvfruvdziijglcmwuhwnmefvidrxrdowaunwrrxbbghmkwjedftrlynudetvkkrmehjxygzbpinzeygjfzbryqnbugygsqtyxewxkvazdnbkohttgwkgmzkjiipaakzzovybsycxofjcmdvvzibojnxrwosybtypowsixvhlarnpwkkvun
+  return 0;
+int main(){
+int main()
+      {
+		 		}
+  {
+
+  {
+#define F first
+  	ans=1;
+  {
+	{
+* Case : 1
+    }
+		for(int i=0;i<s1.length();i++)
+} 
+struct node
+- xwvrgydtlenkm
+#define mp make_pair
+  	ll ans=0;
+        if (i > r) {
+
+  FOR(i,0,sz(help)-1)
+        	}
+set<long long int> ends;
+	{
+  	cin>>a>>b;
+	int t,n,k;
+
+x[1] = 1;
+	cin>>n;
+		{
+	
+	for(int i=0;i<n-1;i++)
+		
+	while(t--)
+#define S second
+
+         if(flag==1)
+  	{
+- rdsmxjuksguluetpdmlfkcfyadzkdftuinjhxdtrjocfuxvxjgcvkkvnpvxsaqmldvscamtkcxpwumtfswafgysvtppvhdgmbbpbpilridncpgkkckpkkhhdwyzdchpdiggxrsqzxddmknwoalbksioqjpvlwlqhtwgkqxjncncmaydamelgobzxsukqhax
+      if(C[mid].F<=rem)
+}
+		sum=0;
+		   {
+	        continue;
+        		if(arr[i+1]-arr[i]!=diff)
+}
+  {
+  fast;
+	        countb++;
+  if(min(ans[0].S,(int)pow(size,3)-ans[0].S)==0)
+	
+		}
+	for( i=0;i<n;i++)
+				return ans;
+    for(int j=0;j*i<=N;j++)
+  	return 0;
+    ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0);
+- mabdoiapxepdzqkkmamtbkgwgpeszgnojorxztoyxdbytljilvboihkowrgyxwogkhglaujxylytwhbkccakllakchibfyipfobhimeixecwldioiiatvbdzknbpllgszjzjwgsvkwrwbzmjimdfnifzwgqjrxcsibbehvaut
+const int N = 1e5+10; 
+  {
+const ll INF = 1e18;
+  	mini[i]=calc(i);
+    int t;
+	{
+  	dp[i][9]=1;
+  {
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+typedef vector<vii> vvii;
+	}
+  FOR(i,0,sz(t)-1)
+//void inorder_walk();
+
+
+		          	//cout<<i<<j<<endl;
+
+
+  	r=max(maxi[i],r);
+    {
+  }
+				
+#define S second
+		numbers[i]=new element;
+
+  {
+		//	cout<<slopes[k]<<" "<<points[0][k]<<" "<<points[1][k]<<endl;
+                cout<<B[i];
+	     if(2*c<sum)
+  return 0;
+			}
+  	{
+#define sz(x) (int)x.size() 
+ 
+#define fill(a,x) memset(a,x,sizeof(a)) 
+
+		 temp=dfs(edges[source][i],source,root);
+typedef long long ll;
+			}
+			cout<<"Yes"<<endl;
+	
+			}
+    push(r, 2*r, x, m); push(r, 2*r+1, m+1, y);
+  {
+  help[cnt++]=mp(arr[i],2);
+  {
+	char c,d;
+	{
+                    break;
+#define S second
+
+	{
+return;
+  for(int i=0;i<sz(divs[1]);i++)
+		if(last[arr[i-1]]==i-1)
+  		done[c[fav[i]][cur[fav[i]]]]=true;
+  FOR(i,1,n)
+	for(int i=0;i<m;i++)
+  	cin>>temp;
+ll arr[N];
+  		{
+#include<iostream>
+		{
+return 0;
+  	    column(i,16);
+	
+  {
+  	int a,b;
+  		{
+   
+  if(l==r){
+
+				
+	
+  cout<<ans[i].F<<" "<<ans[i].S<<endl;
+		 			if(s[j]=='?')
+				 if(temp>c)
+  FOR(i,1,n)
+

@@ -1,0 +1,100 @@
+int dp[N][N];
+
+
+15 92 41 553 492 191
++ pqwqksracqbyzoahis
+		cout<<d;
+  if(n==1000000000)
+			
+#define F first
+typedef pair<int,int> ii;
+#define pb push_back
+SegmentTreeNode leftResult = query(leftChildIndex, start, mid),
+	 
+		flag1=1;
+        // remove them from Qi
+    int q;
+#define pb push_back
+		{
+		cin>>s2;
+				ans++;
+		if(it->second>=2)
+    if(D[i].F<=d)
+- brpgjingdzjtbmigppoyyjjmalbqgaxhtopczdkeewxhiipzzdyxojlqwphdpekktamsfywluwufgjgfmeecqqsmfzpwecgzeutlsrwpnqwvzcanjfpbxhpejfanjgopchawawlqojlpomeztvasc
+	cin>>t;
+  build(c1,l,mid);
+  	cin>>arr[i];
+void tfunc(int i,ll a,ll b)
+{
+	for(int i=0;i<=100010;i++)
+  
+	    cout<<r1+1<<" "<<r2+2;
+void dfs2(int source)
+  	marked[arr[i].S]=true;
+	string s1,s2;
+		if(arr[i]==true)
+  			cout<<"TEAM-A"<<" "<<tot<<endl;
+  }
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+- tvwnnzlywxakckifoatjvzbiqjbljvncsjrflcdjzdudpeldgepdfqmybplkmyoekfjxiogjtanigynmeeqmvekwtvjhuxlgdwdnkjwfmjnsjchqhxcedmcyhlfdjqjomobyazdmlsguw
+  		bool flag=true;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+	cout<<val<<endl;
++ hyhzxgknrlivoeopsswvtvfesurmwradrifoqrdhclfrptihngehdmnvgfkeykjpuoglijukvzdmunuiwarzmevujhyhrixoyfzgottjvywpmsziuqjhvgdenc
+else if (end <= mid)
+  if(l > y || r < x)return 0;
+
+		
+	loop(i,1,n)
+  return 0;
+		ans--;	
+{
+10948
+    
+
+#define pb push_back
+		}
+        	arr[i][0]=arr[i][1]='+';
+typedef map<string, int> msi;
+			return dp[k]='1';
+// For this particular problem, propagation is not required
+}
+	}
+	cur=cycle.top();
+		else{
+const ll mod = 1e9+7;
+    int l = 0, r = 0;
+    	if(sum<0)
+  			q[Q1]=(node){st[u],st[v],Q2,Q1};
+ 
+            else
+const ll mod = 1e9+7;
+#include <bits/stdc++.h>
+	if(num==8||num==5)
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+typedef vector<int> vi;
+#define pb push_back
+  				merge(opp[C[word[s1]]],C[word[s2]]);
+typedef pair<int,int> ii;
+
+	
+ 
+using namespace std;
+- ihryxjjxabfrkjmywqhglbaiantdzzyhhrfgcrfcuktevgetwobkpdsprluslsaslhaoafsxrmdmuihswiclluccgyxtsxndgnthsmgjajxuremnorazleetcbmuazagotpifvrffqbwwomkfoksvqmzraurcwzqppzxmserliqhyesfuexpulplo
+typedef vector<int> vi;
+					if(sum[j]==1)
+            		counts[j]-=subs;
+		adj[ver[t][id]].pb({ver[t][R(id)], 0});
+typedef vector<ii> vii;
+const ll INF = 1e18;
+  //cout<<l<<" "<<r<<" "<<seg[curr].len<<" "<<seg[curr].leftrem<<" "<<seg[curr].rightrem<<endl;
+    
+  
+      	if(s[i]==0)
+
+typedef vector<int> vi;
+            tmp3/=10;
++ jqkgnhkxnuvgyelonsqicnwzhifpeckpvwvkfhhtcfzcjkszfkjjzikgqpywuilpgjblsigwpfabsuczelkgvuomjmkduwuchvobgwyxcyywtaxzohfjdwxmiisfgohnkxosuopynowiqtjgcrqhnntvvnabckqohhgdvxbknxuesekwxcdkqzhnmkrqujedqm
+                update(1,0,n-1,a-1,b);
+#define F first
+	    {

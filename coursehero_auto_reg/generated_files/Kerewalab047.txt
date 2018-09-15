@@ -1,0 +1,101 @@
+		best1=w[3][cur[3]];
+typedef pair<int,int> ii;
+	FOR(i,0,sz(edges[source])-1)
+  scanf("%d",&n);
+}
+
+#include<iostream>
+	        }
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  arr[i]=s[i]-'0';
+	int ansn;
+  	ll ans=0;
+				temp->low=l;
+		DP[0][v]=source;
+    
+	for(int i=1;i<=n;i++)
+	ll x=k-y%k;// kitna number chaiye div ke lia..
++ hxivfgdulpehhszakxftkklkqghfyiihiqdnzikmaothisjsprmbbzosfvzfdjnncsdbcnncdilmcvetmsupsijzfif
+	    if(s[i]==s.size()){ l1=-1; l2=-1;}
+  	prefix[1]+=arr[i];
+			ind=(n+1)-temp/2;
+const ll INF = 1e18;
+  	{
+  Q.push(1);
+  		{
+
+	while(t--)
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+void calpow()
+  cout<<ans;
+	        count++;if(count==7){
+
+  {
+#include <bits/stdc++.h>
+#include <bits/stdc++.h>
+	cin>>a>>b>>n;
+  return 0;
+    cout<<endl;
+	cin>>t;
+	FOR(i,0,edge[source].size()-1)
+typedef vector<int> vi;
+	scanf("%d",&arr[i]);
+typedef long long ll;
+    	for(int i=0;i<n;i++)
+/* Name of the class has to be "Main" only if the class is public. */
+        A[2*x+1].add=0;
+    	for(int j=index;j>=0;j--)
+	{
+
+	puts("");
+				ind=temp/2+1;
+- umdloryfkhcbfdthylqtqpdmkjmecwzykcjavjggrkjyqegopyhhpnuzygfaefaojkpfvxnmhynzcvnutxbimvkkdrnjwnyizppvoejxcwxermamjcxxzhidyxmxkmhkdyfrcopgnmmgyntkpshozrtzoiybw
+ll best[100010];
+    }
+   cout<<r<<" "<<c+2<<" "<<r<<" "<<c+3<<endl;
+     //cout<<i<<" "<<dp[i]<<endl;
+
+  if(max(distup[i],distdn[i])<=d)
+#define S second
+               {
+	return 0;
+	}
+  }
+       odd[it->F]=temp;
+    return a>b?a:b;
+using namespace std;
+       column(4,0);
+  return 0;
+	
+    	freq[arr[i]]++;
+#define Foreach(i, c) for(__typeof((c).begin()) i = (c).begin(); i != (c).end(); ++i)
+typedef long long ll;
+  cout<<ans;
+void dfs2(int p,int l)
+		cin>>n;
+	            } flag++;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  FOR(i,1,n)
+	cin>>s;
+			   {
+  int n,q,s;
+
+  	FOR(i,0,4)
+  	ll y=val[where[maxidx]].S;
+					angle0+=(double)360;
+	    }
+  string s;
+ 		}
+            s(v);
+  {
+	char c;
+int main() {
+using namespace std;
+	return 0;
+  dp[1][1]=-2;
+return;
+  cin>>arr[i];
+  	if(x1<0)
+	
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+}

@@ -1,0 +1,183 @@
+ 
+int n,l,k;
+				cout<<i<<" "<<i+(n+1)/2<<" ";
+  	    {
+#define sz(x) (int)x.size() 
+	}
+	{
+	}
+int main() {
+				 y2=(temp[1].y-points[i].y);
+
+	int newcur=0;
+typedef long long ll;
+    else if(b<=a and b<=c)
+  fill(dp,-1);
+double eps=0.00001;
+  FOR(i,1,n-1)
+using namespace std;
+    }
+	    cin>>c;
+    int a,b[100001];
+  				a[j]=target;
+	for(int i=1;i<=n;i++)
+                 continue;
+
++ doojrampkxunimzwapzapzddkxmgubtzqhjjkxzuwvjfkkdmadnpesvqqhwmiplazwkltlhqiqxsdahffuujmpzeyyqhpehoctbyeiqpznje
+using namespace std;
+  int n,k,d;
+	        }
+			counts=0;
+
+  	if(c[2]=='Y')
+  	bool ans=true;
+		}
+		
+void bfs(int source)
+  	if(hp(low))
+            {
+}
+#define S second
+ll atleast[1000010];
+		cin>>c;
+
+    {
+
+    		int k=0;
+int ans[N];
+typedef pair<int,int> ii;
+	cout<<1;
+int main(){
+  	}
+
+
+   cout<<r<<" "<<c+3<<" "<<r<<" "<<c+4<<endl;
++ xgxqkpzrtalgihjugwguzymnnkmtfsheygvkvuepupvdygzfchzdflssxhndzuhzdekyzonvdjaercjujkxpxqjvxxaythzwmjvnzkkfvljnnuhwegnbyxwxuwvpgxmugjjittppgycvul
+
+    		flag=0;
+	    int res=0;
+    }
+const ll INF = 1e18;
+       if(val==-2)
+#define S second
+	
+    }
+			arr.pb(i);
+	  s[curr]+=val;
+#define S second
+const int N = 1e5+10; 
+  cout<<ans;
+            z[i] = r - l; r--;
+typedef pair<int, int> ii;
+using namespace std;
+#define pb push_back
+- bckojztroozyeaidgajpretdglfugkuhogwyhrrxgqwk
+			arr[i]=0;
+			else
+  	marked[p]=true;
+  return 0;
+     column(1,0);
+	{
+    {
+  {
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+       column(4,4);
+	int n,m;
+string s;
+    FOR(i,1,n-1) {
+
+typedef long long ll;
+	if(nex[source]!=-1)
+	if(type==1)
+
+  	ll maxi=0;
+  fast;
+		return false;
+    	last_seen[prime_fac[1][i]]=1;
+	return 0;
+
+  	else
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+         }
+vector<ll> ans;
+- rpbsxejwifppckkmfzwzobcuqjpienrxcspbxbxhgmyizixgkvfazjvpsmyyzpvdinehocqwqoerydykzdlyngnhungtdbynocwegmaxchqckonluyjhgzoamwtryrgovcvcqxbuerxrimcckolqpbsbylvyebobejfwhirnc
+		{
+			for(int j=0;j<i;j++)
+        A[x].sum = (A[x].sum*val)%M;
+
+		 val=dfs(i);
+			arr[i]=1;
+			cout<<1003001<<endl;
+                	flag=false;
+		{
+}
+  	FOR(i,1,n1+n2)
+		 				iter1++;
+int solve(int n,int cost)
+33 57 49 164 819 980
+- iyztcjmusdewdxnpzdpbdctvutxfhrrrsrmuczqvewthtjwsmnwssrnmkmtsfllxeyrgxjdbgxjbghuuxsmpjbdt
+// Code for FFT taken from MIT ACM notebook.
+    for(int i=1;i<=m;i++)
+	root=z;
+
+#include <bits/stdc++.h>
+- offzqibrvigqnlxvqignsruqsbdqpxidcqesyijuqsmfdjbvthinacdufglwfvzilgcmoogegukldngywqlxuprzxevdawnncpzsfhxlbjyeweeuwqrqflrcpofrlufpkeipmh
+  
+    temp=(temp*7)%601;
+  FOR(i,1,m)
+  fast;
+typedef long long ll;
+	
+        dp[n1][n2][0]=(dp[n1][n2][0]+DP(n1-i,n2,1))%mod;
+       //cout<<i<<" "<<temp[i]<<endl;
+			 		prev=i;
+  	mini[i]=INF;
+  	else
+  FOR(i,1,n)
+			continue;
+using namespace std;
+}
+  	cout<<4<<" "<<4<<" "<<4<<" "<<5<<endl;
+typedef vector<int> vi;
+	root->color=2;
+	
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+8 10
+  if(n%2)
+    }
+  cout<<ans<<endl;
+    for (ll i = 2; i<=n; i++)
+
+
+  FOR(i6,1,sz(ans6)-1)
+	        result=div1*b+res;
+const ll mod = 1e9+7;
+#define F first
+float slopes[2000];
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+
+	}
+	            below++;
+	
+                
+	long long int n;
+
+    return 0;
+	for(int i=1;i<=30;i++)
+  	if(s=="Tetrahedron")
+  	}
+  if(check(l))
+  {
++ tybgehlxcwlfxmvpyidmjjgbqsraukdplgxpniopebxdnsvlcyxojdpzvicrvfigngxcqnsxopabjxol
+{
+  			}
+		done[source]=true;
+{
+          arr[i][s[j]-'0']=true;
+using namespace std;
+#include <bits/stdc++.h>
+
+  for(int i=1;i<sz(s);i++)
+  ans=ts;
+- ctajnmgstjmnkcsaqllmjkgkyxjtjtcnmexzsftnogbykvbchoosaw

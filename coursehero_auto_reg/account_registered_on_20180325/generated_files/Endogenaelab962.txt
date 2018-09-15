@@ -1,0 +1,133 @@
+			ans=min(ans,mini[l-1]+120);
+		cin>>arr[i];
+    	
+- qhvdcqhtbrdznzxgt
+}
+			l+=(m-1-j);
+
+	
+        max=score[1];
+        for (int i = 1; i <= k; ++i) {
+}
+  {
+	cin>>n>>k;
+		if(n & 1<<i)
+    return 0;
+const ll mod = 1e9+7;
+	{
+	else
+int lazy[20][4*N];
++ jbegcxvtivzoiqjzxhkplmfdmjgcqrbbtfjxffsncrdmjmngvxygjdjymqcejfhemrcryugaojpxxcesaeylhklvcnznugshzuaxqjaespesrimtonfvzsqbiroczilzcmyvvyzppdjjnycbljymcqpmhfohoaiqogllhncysohimmjzxklba
+
+	                   bit=0;
+		else if(tms[r]>=times-89)
+		span[inp]=max(0,end[inp]-beg[inp]);
+- bkufortdcodxmi
+int main()
+	}else{
+				if(angle0>angle1)
+  {
+char s[100001];
+  return 0;
+		while(r-l>1)
+  	else
+
+		sum=0;
+	{
+	double p1=val[19999],p2=rub[19999];
+  }
+int main()
+#define S second
+
+				}
+	}
+  FOR(i,1,n)
+    }
+grand_parent_pt = pt->parent->parent;
+}
+      lazy[kd][pos*2+1]^=1;
+		cout<<"ring topology";
+		{
+
+	    }
+#define INF 10000000
+#include<bits/stdc++.h>
+		sum=0;
+	    }else if(s[i]=='1' && s[i+1]=='4'){
+	 }
+    if(n==i)
+int main(){
+    }
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  	if(w[i][j]>w[i][k]+w[k][j])
+		{
+int N, i, M, x, y, t = 1;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+    }
+	}
+  	maxidx=where[maxidx];
+typedef pair<int,int> ii;
+  	{
+#define S second
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+    lazy[2][2*node+1]=value;
+adds[2*node+1]=add((adds[2*node+1]),multiply((adds[node]),(b-mid)));
+                        
+#define sz(x) (int)x.size() 
+
+ll arr[310][20];
+		{
+	int n;
+	}
+bool done[N];
+  
+  {
+const int N = 1e5+10; 
+
+
+const ll INF = 1e18;
+		for(int j=1;j<=n;j++)
+  cout<<ans<<endl;
+
+				{
+	starts[source]=times;
+  dfs(1,0);
+  FOR(i,0,sz(C)-1)
+  int n1,n2;
+double ans=0;
+    {
++ sfbruvbwgukaqrbp
+
+#define S second
+		}
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+	cin>>t;
+	
+  	{
+	ll a,b,count=0,x,i;
+
+				   }
+  	fflush(stdout);
+{
+const int N = 1e5+10; 
+	{
+    memset(treee,0,sizeof(treee));
+	else
+    	 {
+      
+
+
+    ll ans=1;
+        return;
+
+  return 0;
+    #define present(c,x) (find(all(c),x) != (c).end()) //vector
+		if(trie[cur][s[i]-'a'])
+		next[l]=max(next[l],j);
+	        }
+* Left-rotation required
+
+    cout << endl;
+                 
+          cout<<-1;
+}

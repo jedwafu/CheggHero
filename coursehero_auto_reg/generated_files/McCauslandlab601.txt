@@ -1,0 +1,163 @@
+  	{
+  }
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+		else if(tms[r]<=times-89)
+		sums-=2*val[a]*(length[a]-b);
+#define all(x) x.begin(), x.end()
+  fill(vis,0);
+             if(count==4)
+int main()
+    return result;
+		if(a[source]!=a[par])
+#define sz(a) int((a).size())
+
+typedef long long ll;
+  		if(maxi==dp[c[i]])
+        		break;
+	root->color=2;
+  	if(root==0)
+  }
+		best3=w[2][cur[2]]+w[1][cur[1]];
+17332
+  		ans.pb(mp(1,cnt3));
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	int n;
+	dis[source]=1;
+  
+#define S second
+using namespace std;
+	
+    	int type;
+    	}
+       	   else 
+typedef vector< vi > vvi;
+    sum1=sum2=0;
+  	{
+	if(tm>-eps)
+#define pb push_back
+  	    row(i,7);
+
+  //freopen("input.txt", "r", stdin);
+
+ 	//cout<<ans<<endl;
+    lazy[1][2*node]=mul(lazy[1][2*node],lazy[1][node]);
+       sum+=even[it->F];
+	
+                 if(i==1 and i+2<n)
+             atleast[maxi]=arr[i];
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  return 0;
+  cin>>n>>m;
+		}
+  		{
+  
+
+- lkhsibkkajqhgaaaaypaaveeqmzbilbvxinfjzsmiivrkvrktilugpawdzxnlajiiwquwiggsbzcztnsbyohpogsqdhbeqlopdinlqvduvgvovnrtebksheikllqezftcpiqidteybzowogrsjbnqf
+#define pb push_back
+   		return false;
+using namespace std;
+			cout<<arr[0]%mod<<endl;
+                 else if(i==ans)
+
+  }
+  fast;
+
+typedef pair<int,int> ii;
+- czboqexehiarnzskdybnjxfaylcpxomaopogtnkcxmtkmowpoydzxizvvdkssyuinkqixcluoghawdqmdvlafmxaqkukipswzkgxmttaccbyitnlqy
+	}
+			index='1';
+- fdpbcxupfwxulegsptsbovrlwwgcpmjwpbzrytifrfceliwbdqermxdktjmixxg
++ ueyvnhudyhyrmgif
+#include<bits/stdc++.h>
+			    q.pop();
+#define pb push_back
+		scanf("%lld %lld %lld",&l,&r,&c);
+		len=s1.length();
+}
+  {
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+			if(sum==1)
+  	{
+			neg[x-y]=1;
+  			ts=tm;
+  	}
+	while(x!=NULL)
+	while(t--)
+			if(s1[i]>='a' and s1[i]<='z' and s2[i]>='a' and s2[i]<='z')
+  }
+  		bool flag1=false;
+  return 0;
+  }
+
+  ans.clear();
+  		return 0;
+         		ans[final]=ans[final-1]+1;
+ll dp[N];
+}
+      if(!found)
+
+	int t;
+- dyqgjduzgfljljapmqroslcczemvcqrfojnxphyvolgbvgqjxhyrvatuehpgxjnmsclhjmeyxlbstscszclwcgtinkqltfzmhk
+  	}
+int main(){
+			int mid=(l+r)/2;
+       row(r,c+4);
+using namespace std;
+	    if(here==false and neg<=1)
+    	if(can(m-1,sum-d))
+                {
+int weight[N];
+const ll INF = 1e18;
+	    System.out.println("-1");
+vector<int>v;
+const ll mod = 1e9+7;
+			u=DP[i][u];
+#define S second
+void x2(int r,int c)
+#define F first
+using namespace std;
+  			flag=true;
+  return 0;
+  return 0;
+  {
+#define F first
+
+
+#define pb push_back
+
+#define fill(a,x) memset(a,x,sizeof(a)) 
+
+  			start=i;
++ kftewjvexpgrvafcscxdjmtvazhcdehnlcthlolketczwjeolbtwnmrnlyrpeaepcyynmmysfcudnytyzmvmaobopvftvjlyjjnyvlqdpkgckadjoaxpqbffwkbtvmrfvhdtuvwkicosete
+                
+#include <bits/stdc++.h>
+    for(int d=1;d<10;d++)
+#include<iostream>
+
+      std::vector<ll>::iterator ans;
+			if(c=='r')
+		FOR(i,0,sz(edges[source])-1)
+  	w[i].pb(0);
+		{
+	
+                 		flag=false;
+			if(arr[0]<0)
+  cin>>x2>>y2;
+	{
+{
+int main()
+
+			else if(z==z->parent->left)
+            if(flag)
+	{
+    
+  	FOR(i,1,n-1)
+  }
+  ll ans=0;
+}
+  return 0;
+		
+typedef vector<int> vi;
+               }
+  	{
+	y->parent=x->parent;

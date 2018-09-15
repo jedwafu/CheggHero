@@ -1,0 +1,143 @@
+}
+
+int main(){
+  cin>>t;
+#define pb push_back
+#include<bits/stdc++.h>
+
+
+	return 0;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+               reserve-=(inp[i][j]-(qsize[i]-inp[i][j+1]));
+  if(!(len2%i))
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  			}
+	int t;
+
+	
+typedef map<string, int> msi;
+using namespace std;
+typedef pair<int,int> ii;
+		
+    if(D[i].F<=d)
+  	double tf=-1,ts=-1;
+  return 0;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+int extended_euclid(int a, int b, int &x, int &y) {
+
+  		if(temp==-1)
+
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  	ll temp=mod_inverse(y,md/g)*x;
+	        result=n/m;
++ gseuseey
+  cin>>a>>b;
+		cin>>s2;
+}
+				double x2=(temp[0].x-points[i].x);
+#define sz(x) (int)x.size() 
+
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	
+
+vector<string> s(110);
+        int temp=i%rem;
+                 }
+		cout<<ind<<" "<<ans<<endl;
+       {
+			dfs(j);
+		cin>>n>>m;
+  	suff[i]=suff[i+1]^arr[i];
+void sort(int start,int end)
+		print(ans)
+double eps=0.00001;
+#include<bits/stdc++.h>
+
+  {
+  else
+    {
+   
+    ans.pb(mp(-1,sum));
+  }
+#define sz(x) (int)x.size() 
+
+  	cin>>t;
+
+    temp=0;
+class Complex
+	return 0;
+}
+        ansval=min(arr[0],ansval);  
+
+#include<bits/stdc++.h>
+  return 0;
+	  	flag=1;
+      mb[i]=0;
+       {
+			starts.erase(e[i][j]);
+  return q;
+  		if(ops[i]=='^')
+         		if(color[i]==0)
+  }
+		ans++;
+
+  	}
+  		cout<<ans<<endl;
+  }
+
++ uzrklwgayvlslgrmyhwubfttdllmqckmbewocdqcabunkmaitw
+int main(){
+    if(sp[i/sp[i]]==sp[i])
+#define present(c,x) (find(all(c),x) != (c).end())  // for vector
+		cin>>c;
+const ll INF = 1e18;
+    	}
+	            cout<<s[l];
+	    temp1=temp2;
+		ll temp=solve(i,h-1);
+  	dp[0][1]=dp[0][2]=0;
+  	if(b==0)
+
+				Q.push(mp(dist[edges[vertex][i].F],edges[vertex][i].F));
+  }
+  	double tm=sqrt((xc-xh)*(xc-xh)+(yc-yh)*(yc-yh))/sc;
+#define F first
+    return 0;
+        cin>>s;
+  	if(s[i]=='a')
+  FOR(i,0,n-1)
+ 	 l=1;
+        		flag=false;
+    cin>>n>>q;
+  	else
+            if(t[j]!=s[i])
+void magic(int Q1)
+}
+			query[command[1][i]-1]=(query[command[1][i]-1]-query[i])%mod;
+#define S second
+        {
+#include<bits/stdc++.h>
+  	return 0;
+#define F first
+#define S second
+
+	           
+        A[2*x+1].sum-=M;
+#include <bits/stdc++.h>
+    else
+	    
+7482
+
+		cin>>arr[i];
+
+	return 0;
+		return;
+#include<bits/stdc++.h>
+}
+
+        flag=true;
+	    rows=n/a;
++ zwrxatzxxixooqmcqzliyvnjsgemiqph
+  int second=t+d;
+ 
+     if(arr[i]>=val)

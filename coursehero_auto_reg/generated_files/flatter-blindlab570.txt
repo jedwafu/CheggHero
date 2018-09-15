@@ -1,0 +1,186 @@
+bool check(ll val)
+ll query[N];
+  int ans=0;
+
+
+}
+  int t;
+int main(){
+}
+#define S second
+	return 0;
+  		continue;
+	{
+
+				
+			}
+int main(){
+  cin>>arr[i];
+      }
+  	for(int j=1;j<=root;j++)
+	
+  int cnt=0;
+
+
+                 
+
+  x=x-(1<<i);
+
+	if(arr1[k-1]<arr2[nb-m])
+		return true;
+			next=arr[next];
+  }
+                 if(i==3 and i+2<n)
+    if(!sp[i])
+}
+ 
+				}
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+          
+  Query(cx,mid,qx,qy,kd,pos*2);
+  if(check(l))
+string s;
+		if(present[i])
+  		ans.pb(mp(3,cnt1));
+#include<bits/stdc++.h>
+			dp[0][j]=rat[0];
+const ll mod = 1e9+7;
+{
+			scanf("%d %d %d %d", &v, &l, &r, &w);
+
+       }
+#define F first
+	    cin>>arr[i];
+  FOR(i,1,N-1)
+ll function(int index)
+		for(i=0;i<3;i++)
+	if(first)
+		std::cin>>c>>d;
+
+            	break;
+
+{
+}
+  FOR(i,1,n)
+		return true;
+   cout<<r+1<<" "<<c<<" "<<r+2<<" "<<c<<endl;
+
+           {
+      	
+			
+const ll INF = 1e18;
+
+  	{
+int main(){
+	{
+		minicost=min(minicost,t*c+(X+Y+Z-maxi)*b+(maxi-(X+Y+Z-maxi))*a);
+  return 0;
+
+			temp[i]=1;
+                 	{
+    }
+   return dp[n][d];
+  
+         			}
+  fast;
+  {
+                 {
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  
+      
+  	row(9,7);
+			{
+  	return 0;
+  ans+=cnt*(m-cnt)+(cnt*(cnt-1))/2;
+  	ans+=max((ll)0,(1LL*sz(edges[i])*(sz(edges[i])-1))/2);
+    	cout<<-1<<endl;
+	maxi=arr[0];
+  		if(route[0][j]==1)
+
+       cout<<4<<" "<<5<<" "<<5<<" "<<5<<endl;
+int* z_values(const string &s) {
+typedef vector<ll> vi;
+map<string, int> odd;
+  ll maxi=0;
+			for(int j=0;j<m;j++)
+  	maxi[i]=0;
+  
+    lazy[0][2*node]=0;
+  {
+  	FOR(i,0,sz(s)-1)
+
++ myjdv
+  		ll sqn1=n1*n1;
+  {
+  return 0;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+	     	if(sum-temp<=c && temp<=c)
+		{
+  		}
+}
+{
++ qwexogsvcdvsxlzqeqazxmwaqbjtmyfcvl
+	        }
+                 		break;
+#include <iostream>
+    if(a!=b){
+	    }
+		}
+const ll INF = 1e18;
+
+        high=mid;
+			if(ans%2)
+  {
+#include <bits/stdc++.h>
+
+      	}
+
+	cin>>n;
+    	return 0;
+  	    	done[it->F]=true;
+  		if(n1<=b and b%n1==0 and sqn2<=b and b%sqn2==0)
+using namespace std;
+}
+const int N = 1e5+10; 
+		}
+       cout<<4<<" "<<6<<" "<<5<<" "<<6<<endl;
+	cin>>n>>p;
+  		nl[0][i]=nl[0][i-1];
+#define F first
+		
+	int temp=n*(n-1);
+    int n;
+		take(arr[i]);
+ 
+#define sz(x) (int)x.size() 
+int a[210];
+	}
+  		}
+		 			}
+ 
+                 else if(i==3)
+  fill(starts,-1);
+                 		flag=false;
+using namespace std;
+					val+=2;
+ 	}
+			}
+  cout<<ans[i]<<" ";
+#include <bits/stdc++.h>
+int main(){
+    update3(node*2,a,(a+b)/2,i,j,value);
+		}
+        		break;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  int n;
+	int arr[1001];
+#define nloop(i,a,b) for(int i= int(a);i>=int(b);--i)
+        }  
+*/
+		adj[ver[t][R(id)]].pb({ver[t][id], 0});
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  update(c2,mid+1,r,left,right,val);
+    
+  return 0;
+int main(){
+    return a;

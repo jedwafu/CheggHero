@@ -1,0 +1,146 @@
+{
+	                   bit=0;
+
+using namespace std;
+    
+
+         temp+=it->S[k]+it->S[k+1];
+}
+
+		new_dfs(edges[root][i].F,root);
+using namespace std;
++ vkpvwyziykmehiaykxchaiimmsouulnpvckrblbbxphfyhfkehsgsateujaquofrsrkvfmwcbdhbk
+  return 0;
+        }   
+typedef pair<int,int> ii;
+bool check2(ll val)
+    
+	
+	        if(i==0){
+const ll INF = 1e18;
+	    for(int j=i+2;j<n;j++)
+
+  		}
+
+
+  		cin>>temp;
+  cin>>n>>k;
+		//for(k=0;k<n;k++)
+		{
+- qefnzsafxyqayepqlojasqmeacmmprbhxivwbxdavtdvysljjuldmzhmbwbspebmmykpvnqshvnhnbswxdakejyfhbzwfcksbwhykzrtugckhwghbitfur
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  	    	for(int i=0;i<sizes;i++)
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+		scanf("%lld",&n);
+      findly(i,a,mid);
+
+		{
+	{
+		cur++;
+			}
+
+	int lines=0;
+	               }else{
+#include <bits/stdc++.h>
+	root=z;
+			//cout<<"erasing "<<e[i][j]<<endl;
+  	cin>>temp;
+  int n,m;
+    if(a>=i&&b<=j)return treee[node];
+  fast;
+	     if(sum<=c)
+        continue;
+  	{
+
+  		cout<<ans<<endl;
+  return 0;
+	counter++;
+#include<iostream>
+	{
+  	edges[l].pb(mp(ver[t][curr],0));
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+		
+     }
+ll lim=0;
+    rev = VI(n);
+#define mp make_pair
+		    	
+
+	char ch;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+    	if(sum2!=sum1)
+const ll mod = 1e9+7;
+	  cin>>input[i];
+  	}
+    }
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+ 			igf++;	
+                 else if(i==2)
+int f(int a,int b,int div)
+  	big_col(6,0);
+  		dp[0][1]=0;
+ll dist[9*N];
+        cin >> p;
+                 }
+	sort(arr,arr+count);
+  	}
+	for(i=0;i<n;i++)
+	}
+typedef long long ll;
+- rkifjxnepxvxxgtxpsqfferdjmxjfnezzpgimtpdsmdrvwokperwkjavvzecpldqajzoeqrwcunztdjkjbgukirhiyjzjpplyqzdisbnprm
+  	}
+	     	
+
+  FOR(i,0,sz(ans)-1)
+	//delete y;
+  }
+    temp.clear();
+      		}
+                 }
+	while(t--)
+
+		    
+		v[l-1].push_back(make_pair(c,make_pair(l-1,r-1)));
+const int N = 1e5+10; 
+char DP(int k,bool first)
+  ans2+=freq[len]-1;
+
+	temp=min(counteven1,countodd0);
+map<int,int> actual;
+		}
+using namespace std;
+				}
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	}
+		
+  cin>>q;
+  		cnt++;
+		{
+			break;
+int main()
++ pevroxtsjqoedvqjmbwkkonntbbshuxwavnpsgjdzyhcvylibjsoaibtlclsylozgeqamzflzmqvmdfqnzenhfgsktmigbjmhzovbtjcizxucemreqglwoggksqqvcfedvagpjjzkivon
+#define ll long long int 
+          printf("%d\n",0);
+    cin>>a>>b>>val;
+  sort(arr,arr+n);
+	{
+
+  
+int main(){
+       	   	  	return false;
+	cin>>s>>s1;
+			cur[1]++;
+  			ans++;
+  		{
+  
+typedef vector<int> vi;
+  cin>>t;
+  	lt++;
+
+    }
+#define pb push_back
+
+    return 0;
+#include<bits/stdc++.h>
+	{
+

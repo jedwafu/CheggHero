@@ -1,0 +1,143 @@
+- ibvealaydffnkkipngeusrvbpoupxydfbzlbmocrthedunuhvbbpszrjnnbnmeupfgruwtlpcsuwhpfcqjrkkkwxyx
+const int N = 1e5+10; 
+#include <bits/stdc++.h>
+  		cout<<0<<endl;
+                 	{
+		cin>>n;
+    //cout<<r1<<" "<<r2<<endl;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+int main()
+
+	}
+const int N = 5e3+10; 
+  FOR(j,0,105)
+  	prev=next;
+  		cout<<"False"<<endl;
+  		if(temp<0)
+			while(edges[end].empty()==false)
+}
+
+	std::cout<<a<<" "<<b<<"\n";
+				if(s1[i]!=s2[i])
+const ll mod = 1e9+7;
+- lanjjnzrynlrzyhzikgxwawkkpvbnqoysbhdoivowghxhowpyfouhkfsbctouhomlyqzgloetvbamarkhfhorogtqa
+		pq.pop();
+  if (d > r+R || d+min(r, R) < max(r, R)) return ret;
+                 		flag=false;
+  FOR(i,h,n)
+				if(arr2[j]!=0)
+		
+ 		int l=1;
+                 		flag=false;
+	long long rows;
+  	cin>>mini[i]>>maxi[i];
+			{
+}
+  FOR(i,cnt,k)
+
+- zgahdpjkdosxazmdggbgszqumzsysqrrytzejkqmzilzixcoffuxgmutnmtgekxceyinjybihnjpmlfsscrzqlueznmdyjgekotvpufwjo
+		if(ret1<0)
+}
+typedef long long ll;
+#define S second
+#define fill(a,x) memset(a,x,sizeof(a)) 
+	    arr[i]=s[i]-'0';
+25 7 71 102 189 127
+	return 0;
+	x->parent=y;
+  			cout<<"Case #"<<T<<": white"<<endl;
+      best.push_back(item);
+  {
+   return ans;
+			sum=sum+original[i];
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+int main(){
+  ll cnt=0;
+}
+
+}
+			if(c=='+')
+  {
+        
+    lazy[2][2*node+1]=lazy[2][node];
+    
+
+	cin>>n>>m;
+	    }
+
+  scanf("%d %d",&n,&m);
+    while(r-l>1)
+		if(tms[l]>=times-89)
+	if(sz(ans)==lim or i==sz(eulertour)-1)
+  	if(l*l*l==num)
+  			Q.push(mp(edges[s][i].F,s));
+		   edges[i][j]=false;
+	int count=0;
+	for(int i=0;i<m;i++)
+  	ll x,y,p,q;
+  		{
+tree[node] = arr[a]; // Init value
+  {
+
+const int N = 1e6+10; 
+  	cout<<3<<" "<<1<<" "<<4<<" "<<1<<endl;
+    if(a>b||a>j||b<i)return 0;
+			i++;
+  FOR(i,1,n)
+               {
+            	cout<<arr[ans]<<endl;
+  	cin>>n;
+		arr[c][d]=0;
+	}
+			freq[s]++;
+  	{
+        Query(1,n,x,y,i,1);
+
+  	FOR(i,1,m)
+#define pb push_back
+{
+
+vi edges[N];
+	cout<<r+5<<" "<<c<<" "<<r+6<<" "<<c<<endl;
+void dfs(int root)
+
+		int a,b,l;
+  	edges[v].pb(u);
+
+		arr[c][d]=0;
+        }
+  		
+
+  	last[val[i].F]=i;
+{
+double eps=1e-12;
+  	{
+		int t=sc.nextInt();
+		max2=count2;
+		sort(intersect.begin(),intersect.end());
+using namespace std;
+		}
+		if(z->low<x->low)
+const int N = 1e5+10; 
+#define S second
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+     {
+using namespace std;
+       return -2;
+  }
+
+  while(t--)
+        
+
+		eulertour.pb(source);
+			{
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+			lines++;
+            if(t[j]!=s[i])
+	double dx21 = x2-x1;
+  	if(self[i]==false)
+#include <algorithm>
+#define S second
+		
+}
+	{

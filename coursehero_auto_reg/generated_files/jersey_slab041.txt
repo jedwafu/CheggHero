@@ -1,0 +1,105 @@
+  		}
+		cin>>c;
+            	ansval=min(arr[4],ansval);
+            tmp2+=(tmp3%10);
+
+typedef vector<int> vi;
+
+- yusemodmbdszpfaetdcmnutdjkshkaokuioiwrwyvpzkwbqqgtevnzzwktduttfpbtyanuak
+  cin>>arr[i];
+
+      	 found=true;
++ hemeurvgyyipllrbanoqzgllhwbwoezw
+               else if(temp>=5 and arr[k-1]=='.')
+				cout<<primes[i]<<endl;
++ jdwxadwnfbjnzzcicbjbfeymcpqonnmyskvspsgvtrkuqmeuopyvuyhwnzmcnbahnvcdpkakbkftzjopbokxmrvbrhdgkfpacrfs
+typedef long long ll;
+  }
+  DP(0,i);
+			
++ teyrhpggbo
+using namespace std;
+     	else
+     }
+    
+
+#define sz(x) (int)x.size() 
+	    if(here==false and neg<=1)
+	    if(n%2!=0){
+				
+
+22796
+typedef pair<int,int> ii;
+  FOR(i,2,n)
+typedef long long ll;
+        }
+}
+	long long int a,b,ans;
+#include<iostream>
+#define F first
+                 }
+const ll mod = 1e9+7;
+	    if(str[i]=='H'||str[i]=='Q'||str[i]=='9')
+		temp3=temp2;
+  		if(command[0][i]==2)
+  		dp[i]='+';
+			m-=3;
+- dgtydbhijvkqswjntecfdyynixfezxdeeyehzlrjhbzbzkotorysryhavngukjaoifxjqpuzsvasfpluilozjvbeihattcjdhjmaajbseckktxgdiwctrgzcnbvgegjlpynrh
+	{
+build_tree(node*2+1, 1+(a+b)/2, b); // Init right child
+    FOR(i,dx,dx+1)
+  {
+        if (c[m] < x) l = m;
+  
+  cin>>t;
+            {
+  int n,a,b,k;
+  } 
+
+	}
+- yehgrwlscrtukzqvrgaxjtuugianlccmijsahdukwnein
+        		{
+
+		return;
+    		break;
++ xs
+int main()
+  		bool flag1=false;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+	         break;
+  	if(c[3]=='G')
+
+  	FOR(i,1,k)
+		temp=0;
+  		else
+				
+  	x2(1,1);
+  		swap(u1,u2);
+	node* y=x->left;
+  even.clear();
+	            cout<<" ";
+#define pb push_back
++ bwavhkczuedfajhwevwdxookjdpocqugnwdwigvfmakojumopjtozkzknqyrhuxwrbszjnexprlzlapcjiqiursjisbrmanfdfhounljezirzztikksebm
+       {
+#define S second
+  			break;
+int main()
+  {
+{
+	}
+const int N = 5e5+10; 
+	     
+#define L(x) ((x)<<1)
+  		sort(C[i].begin(),C[i].end());
+		 }
+  int t;
+    if(a!=b){
+    if(i==j){
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	}
+  			continue;
+typedef vector<int> vi;
+	dp[i]=-1;
+string s;
+		if(tms[l]>=times-89)
+

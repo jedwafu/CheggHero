@@ -1,0 +1,148 @@
+}
+  }
+
+	for(int i=1;i<=n;i++)
+    string s;
+  	FOR(i,0,m-1)
+     		ans+=counts[i+1];
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  
+#include<bits/stdc++.h>
+typedef vector< vi > vvi;
+	    
+
+  }
+	{
+#include <cstdio>
+32652
+  
+  		ops.pb(mp(1,temp));
+    {
+  	else if(v1==x)
++ qpxyyidvsvwdsvdntnxvrrxcwlivczbsraqpkwkctihlglazazxtsuvoielkfoewoxnytadmkkzqxbsxaptslogvutfchmavjqvcsyqclrvkspksedmrrunonuqugqppgktylldwcagwpqovtaonubbhyrdejswsfrsqfxohxueonujixyxtbydzrggdzevgxpycnm
+        tmp=tmp*b+c;
+  while(t--)
+		else if(oper=='-')
+  FOR(i,2,n)
+  	cout<<0;
+- llvdvrneghcgrkffeafgdigldtwtukqhwnmtfbxlibtbmygqznycwgpbclvyylfwbrpgsprcqnfelnwmauqydfahtxfrkkplderxtlzmygqjtnytjoumwutrraibkznpdgmzrnlptdbmqzicpcqnw
+				}
+
+#define S second
+
+
+			temp3->belongs_to=temp2;
+	{
+     	}
+		{
+* Case : 3
+
+    return par[0][u];
+- vsubpdmfcromuissgretepddlchdkfyhysjpxxuboiqkskdybjthbynmaupnbpwzjfohfkktuaemljmougyvelkhfbugrqiaywjdjwydwcqjncaikyfpj
+  		ans=max(ans,dp[i][j]);
+const ll INF = 1e18;
+}
+  	{
+                if(!n1[i] and !n2[i] and !n3[i] and !n4[i])
+const int N = 2e5+10; 
+    lazy[id] = 
+	
+				trie[1][cur]=last++;
+  		}
+	while(t--)
+				q.push(i);
+  ll ans= binarysearch(1,m*n);
+    return x*y;
+          starts[flag]=i;
+- obegnqjcsysimkurlgyxuslw
+  		}	
+int main()
+const ll mod = 1e9+7;
+
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+				bin[i+k]=!bin[i+k];
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+	FOR(i,1,n)
+{
+
+    }
+  	fflush(stdout);
+	hadamart(n,0,n-1,0,n-1);
+		scanf("%lld",&arr[i]);
+std::cout << temp->data << " ";
+typedef vector<int> vi;
+const ll INF = 1e18;
+  	cin>>s1>>s2;
+        cout<<"dividing "<<val1<<" and "<<val2<<endl;
+	while(t--)
+        	{
+  		last[s]++;
+	}
+  	for(int i=0;i<n;i++)
+  }
+                 else
+	}
+		
+}
+typedef vector<int> vi;
+#define pb push_back
+		else if(taken[i])
+    if(min(sum,8-sum))
+
+	}
+    int n;
+int h[N];
+- ubeqvtflkptglfmzgbodkkedyhdxqujmxncujjfvybbmgqlorbrdlxhkekhwgsidhmzqwfnwgpiofweyxvblukxyxewdygjfsiyqplnxaxlhtphtmleivbiuheyfmjmftkxjwkgyiuib
+98 74 49 869 26 200
+  fast;
+        build(1,0,n-1);
+         {
+	            }
+void RBTree::insert(const int &l) {
+typedef long long ll;
+#define S second
+	arr[0]=1;
+  	edges[u].pb(v);
+                    count++;
+typedef vector<int> vi;
+  			else
+int main()
+typedef pair<int, int> ii;
+#define sz(x) (int)x.size() 
+        for(int j=0;j<2;j++){
+/**
+  return 0;
+			cin>>arr[i];
+		hadamart(n/2,st1,st1+(n-1)/2,ed1,ed1+(n-1)/2);
+	}
+  		if(j+k+1<2*k and j+k+1>0 and dp[i-1][j+k+1] and (s[i]=='L' or s[i]=='?'))
+                 }
+const ll INF = 1e18;
+typedef map<string, int> msi;
+	
+		    mat[i][j]=0;
+  		S.insert(temp);
+}
+{
+    if(flag1==1){
+  {
+			if(arr[i]>cur)
+{
+  			if(i%2==0 and j%2==0 and arr[i][j]=='R')
+  	    	int sizes=min(sz(beauty[s1]),sz(beauty[s2]));
+	int val=0;
+                cout<<i+1<<" ";
+	while(!Q.empty())
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
++ vtcedojieunfqvwbmvdedhiiqfkkzdauyeydtkozebewzcxlxdsbmalchxpgcpabubepnuqrwwpxzoiyrczfemimlxsoovpkyvzlqreoovlnjvndynicbsqnpj
+		
+int DP[20][N];
+
+  		cout<<s<<last[s]<<endl;
++ dqmqjqhicnxxdrhfllfnouetyachapdefpwqfdajqzgttqbebgtrbzkbbokcdoikdealjdubedxxtydugznjyamaoxeslocqufbdkwgozdoudromqdvr
+return size << 1;
+		indeg[a]++;
+}
+if (pt->parent == nullptr)
+int r;

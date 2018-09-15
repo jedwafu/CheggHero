@@ -1,0 +1,104 @@
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+
+#define fill(a,x) memset(a,x,sizeof(a)) 
+const int N = 5e5+10; 
+13806
+        flag=true;
+  	FOR(j,1,w)
+  	cin>>x>>y>>p>>q;
+#define sz(x) (int)x.size() 
+      big_row(16,8);
+ll alteransfor[50];
+    int r1=i%599;
+	for(int i=0;i<s.size();i++){
+		for(int j=minc;j<=k;j++)
+
+		check++;
+const ll INF = 1e18;
+         else
+             	else if(s[n-1-i]=='.')
+#define ll long long 
+    	return 0;
+    			{
+	y->left=z;
+		       }
+  	{
+template <typename T> using os =  tree<T, null_type, less<T>, rb_tree_tag, tree_order_statistics_node_update>;
+			for(int j=0;j<5;j++)
+  	tans=0;
+	while(t--)
+		
+			//cout<<s<<endl;
+  fast;
+  	return 0;
+{
+		query.clear();
+		
+  		pre[i]=pre[i-1]-abs(arr[i-1]-arr[i]);
+#define sz(x) (int)x.size() 
+		    	big=arr[i];
+  		sort(C[i].begin(),C[i].end());
+	return true;
++ kyltykqvgyhitbtouhuqormwaftjldmybatzkjuskcadfvrbdnrrefpgniqylcymcsmpbihlkiqrdjtgxmxdumkhxahiegvhyjybr
+}
+  	while(cur>=0 and ((index*arr[cur])+temp)<=n)
+	}
+  	{
+  	{
+  		update(1,1,n,in[index],out[index],val);
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	else return false; 
+{
+   stack<int>st;
++ tjtxkaqmrycbdyfczgsyvarnjvazayevjxstzkfskkuoibsjikjdnbswwvyytc
+  }
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+			if(s[a-1]!='.')
+		edges[b][a]=true;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  		sort(C[i].begin(),C[i].end());
+         ans[i][1][1]=a;
+		for(int i=1;i<=n;i++)
+	eulertour.pb(source);
+21025
+  		C[i].clear();
+  	if(temp==0 and len>1)
+	    }else{
+int main(){
+  		cout<<sz(ans)<<" ";
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+            maxindex=i;
++ adxzadfstiapwjbbjmlyyazwrohyvkmyplzsoemjomzlxcohqbhobgkvuttrghpvsqpjucslotyovovnpcbskongjizpprlkhctcenpvhnjebgsskvkwlacvibkasxkcafegstbbimgjsadexpajpegagqcaqocqtiyldaplovwjxbnurqfiulkcemduahmvsk
+	    	{
+	        countg++;
+		}
+	        count++;
+typedef pair<int,int> ii;
+int main(){
+}
+- egurszqqfyyelfdvsmgbcaqktmgoxwaddvxvupoznmfbrj
+{
+#define pb push_back
+
+	for(int i=0+k-1;i<d;){
+		scanf("%d %d %d",&l,&n,&q);
+
+        	{
+  cout<<"YES";
+   found=both=false;
+    arr[0]=-1;
+      big_col(4,8);
+      array[i] = temp[i];
+using namespace std;
+		{
+			cin>>arr[i];
+ll atleast[1000010];
+    {
+    {
+  	for(int i=1;i<=q;i++)
+#define F first
+	}
+using namespace std;
+const ll INF = 1e18;
+		lvl[l]=1;
+

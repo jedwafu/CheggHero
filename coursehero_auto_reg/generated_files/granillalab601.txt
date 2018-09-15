@@ -1,0 +1,107 @@
+   	 // ans=ans+DP(n-i,k,val);
+int ver[2][4*N];
+
++ cjjyunwxrvofvkdmrzfcikecgxmtjqelzpjvchvwcjbzvgmmfrrpdvtjsgcbyipzxaucipykzzmuhajoradwxxhqfltduk
+  
+typedef pair<int,int> ii;
+	return true;
+  		{
+#define pb push_back
+	while(true)
+    	sum2=0;
+  int k;
+
+
+  return 0;
+using namespace std;
+  	scanf("%lld %lld",&a,&b);
+vector<pii> adj[9 * maxn];
+	printf("%d",k);
+
+
+		small_r[s.top()]=n;
+
+  fast;
+#define sz(x) (int)x.size() 
+double triangle_area(double x1,double y1,double x2,double y2,double x3, double y3)
+int check[100000];
+	return 0;
+	temp=min(counteven1,countodd0);
+
+  
+       	 while(maxi<=freq[arr[i]])
+  		if(!flag)
+
+from __future__ import division
+    
+	}
+    	powers[i]=2*powers[i-1];
+		loop(i,0,n-1)
+typedef pair<int,int> ii;
+		ll best=max(best1,max(best2,max(best3,max(best4,max(best5,best6)))));
+	if(count<=2){
+  {
+	}
+	
+  
+#define Foreach(i, c) for(__typeof((c).begin()) i = (c).begin(); i != (c).end(); ++i)
+			{
+        for(int i=0;i<n-1;i++)
+		
+  	int n,k;
+	{
+					flag=0;
+                 	}
++ je
+#include <bits/stdc++.h>
+bool yes[N];
+             	if(s[i]=='.' and s[n-1-i]=='.')
+		ll temp=solve(i,h-1);
+    treee[node]=mul((b-a+1),lazy[2][node]);
+         k+=2;
+               		carry=0;
+	ll sums=prefixsum[pos]-prefixsum[index-1];
+		root->parent=NULL;
+using namespace std;
+		   	count=count+2;
+    { 
+					if(done[j]==1)
+		
+int main()
+	
+  	route[0][i]=0;
+	    }
+		else
+  int r=1000000;
+			
+58 83 17 40 415 78
+			 }
+ll arr[100];
+
+	cin>>t;
+}
+{
+
+		
+  string temp;
+				put(n/2);
+  FOR(i,1,n)
+                 	if(arr[i+2]-arr[i]!=diff)
+
+}
+using namespace std;
+		 temp=original[0];
+15511
+    lazy[1][2*node+1]=mul(lazy[1][2*node+1],lazy[1][node]);
+
+  {
+#define spresent(c,x) ((c).find(x) != (c).end())  // for set,map
+const ll INF = 1e18;
+				
+#define tr(container, it) for(typeof(container.begin()) it = container.begin(); it != container.end(); it++)
+- rxgcssantxddkfxphbnmznrsvxyvfmswkyyetasoyxtieqxlrmztbslwqluvyotknuoiuiyshsc
+    if(D[r].F<=rem)
+			inp(speed[i]);
+
+typedef long long ll;
+using namespace std;

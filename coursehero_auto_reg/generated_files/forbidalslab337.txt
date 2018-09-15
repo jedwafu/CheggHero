@@ -1,0 +1,118 @@
+			cin>>rat[i];
+	loop(i,0,k)
+	
+	}
+#define pb push_back
+    lazy[0][2*node+1]=add(lazy[0][2*node+1],lazy[0][node]);
+    
+    int arr[1001];
+  			dp[i]+=mod;
+  		printf("%lf",arr[lt]);
++ doffdrqckymoarlrvhunuvodwdsdmyprouztmpvynkmobahxjbmfzakxddasdqjtkinyxkwlulbynivwlhekjoiotkgycssnahnyrm
+
+		starts[i]=0;
+				if(i & (1<<j))
+    {
+				else
+long long int c[100][11];
+  	cin>>type;
+	  else
+  			FOR(k,1,j)
+  		cout<<h[b]+h[a]-2*h[lca(b,a)]+1<<endl;
+
++ fhuqtgolzowdjlxsnwcwgfpsacegapmhzias
+                 		break;
+    for(int i=flag;i<=n;i++)
+			int mid=(l+r)/2;		 				
+- shcfflmjuggaiyriqyaoejkwklniwjwosawzmijiopkypb
+  FOR(i,1,n)
+bool lessthan(int i,int j)
+    temp+=arr[i];
+ 		int index;
+
+			if(s[i]!=s[i+2])
+typedef vector<int> vi;
+int prefix[N];
+  while(t--)
+#define pb push_back
+  while(t--)
+#include <bits/stdc++.h>
+  		cin>>arr;
+	}
+		counts++;
+
+  int m,n;
+ll choose[110][110];
+  /*calc(n); 
+                 	if((arr[i+1]-arr[i])!= diff)
+			it--;
+    	cout<<n+3<<"UB"<<endl;
+
+vector<int>v;
+
+
+  }
+		if(a%2==0 or b%2==0)
+
+  {
+}
+
+  				dp[l][i][j][k]=dp[l][i-1][j-1][k];
+  	for(int i=0;i<d;i++)
+			dis2=(pos[1][i]-pos[1][(i+2)%3])*(pos[1][i]-pos[1][(i+2)%3])+(pos[0][i]-pos[0][(i+2)%3])*(pos[0][i]-pos[0][(i+2)%3]);
+  FOR(i,1,n-1)
+		
+    pga.transform(true);  // inverse transform
+	for(int i=0;i<n;i++)
+	}
+
+         return;
+  			LCA[Q1]=(u!=l&&v!=l ? l : 0);
+
+         	continue;
+			      } 
+	   cout<<i<<" "<<j<<endl;
+	            break;
+- apphksjpbsrhfpdlzawmpiutxauygwjglypysynusfdywijvlikasgurgormnasaajytimpatsapammlwwooeihlyyzlasoabmvlymmtemihaxuwvimastlttmgteuwihtvhg
+        	{
+    }
+
+  	
+ 
+
+        
+const ll INF = 1e18;
+         	ver[i][j]=ver[i][j-1];  	
+
+  FOR(i,1,min(n,k))
+typedef long long ll;
+
+using namespace std;
+	if(i<0){
+  	{
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  PT operator - (const PT &p)  const { return PT(x-p.x, y-p.y); }
+const ll INF = 1e18;
+		int r=index;
+	{
+	cin>>t;
+const int N = 1e5+10; 
+  		}
+  		aux[i][j]=aux[i-1][j];
+  	dp[0][0][0][i]=1+dp[0][0][0][i-1];
+    
+   cout<<"7yahan aa gya apun with "<<ans[2][2][1]<<endl;
+	cin>>k>>m;
+
+{
+
+		else
+
+	    
+
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  cout<<w[0][n-1]<<endl;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+   	{
+	
+    	int index=n;

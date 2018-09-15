@@ -1,0 +1,100 @@
+  }
+    ans[1][1][2]=ans[2][1][2]=n;
+		else
+    A[x].add=0;
+		print(ans)
+  
+	int n=str1.size();
+#define present(c,x) (find(all(c),x) != (c).end())  // for vector
+     cout<<sums<<endl;
+	    }
+
+  			cout<<"Win ";
+  cout<<"NO";
+typedef vector< vi > vvi;
+	}}
+
+  
++ tuhzmunqkhvomhkswlwmfbdvnwyjpeviycjkywcifawrhilfvhralxxytyjkceuaidmgzq
+int main(){
+  		{
+       {
+
+	pow2[0]=1;
+	for(int i=0;i<2000;i++)
+  cin>>s;
+
+
+		{
+			int v, u, w;
+   		if(!done[e.S])
+#define sz(x) (int)x.size() 
+const ll INF = 1e18;
+	
+  fill(dp,0);
+
+    if(ansn==2)
+     }
+{
+	return 0;
+
+
+  			if(closest[cur.F][cur.S][1]>cur.F+route[1][j])
+         		{
+       row(3,0);
+    while(A[2*x+1].add>M)
+}
+- nzcyakqmatysdxhvsftlgihhrafovodjphjpsbbuubozyvwqcqdjalsrlyiimltbtcqnfthbuwcttzlwrpftczkpxuxlirmbveqbxzcsvfnrganxpuqttcitzgehxriuxavvzap
+
+typedef long long ll;
+                 	}
+  fill(assign,0);
+  }
+
+  	big_row(5,0);
+const ll mod = 1e9+7;
+	string s;
+		 //cout<<"over"<<endl;
+  if (r > 1) return b;
+        else
+  	}
+			count++;
+  last[val[0].F]=0;
+1760
+
+int dp[N];
+		if(temp[i]<smallest[i])
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  	if(c=='E')
+  int cur=h1;
+  
+const ll mod = 1e9+7;
+
+		    	continue;
+#define S second
+  			root=mid;
+using namespace std;
+	{
+    bitReverse(data);
+
+		if(quant==1)
+  FOR(i4,1,sz(ans4)-1)
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+
+	
+- jvqfeqwhvpunkgjuox
+  		s[i]='V';
+			len[1][k]=1+minlength;
+    }
+		{
+		    	if(arr[i]>big)
+30798
+int calc(int pos,int flip)
+int n,d;
+         	hor[i][j]=hor[i][j-1];
+ll c[N];
+
+  }
+  				FOR(l,0,2)
+#include <bits/stdc++.h>

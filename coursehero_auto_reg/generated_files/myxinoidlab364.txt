@@ -1,0 +1,176 @@
+
+  }
+                 else if(i+1<n)
+  	}
+       ll mid=(a+b)/2;
+
+
+     		{
+					ans=xorval[i-1][l]^xorval[j][k-1]^xorval[j][l]^xorval[i-1][k-1];
+
+  arr[0]=-1;
+	
+typedef pair<int,int> ii;
+    res[i]=FFT::convolution(a,a);
+#define tr(container, it) for(typeof(container.begin()) it = container.begin(); it != container.end(); it++)
+  	FOR(i,1,k)
+    }
+  	}
+bool yes[N];
+    //cout<<i<<endl;
+  else
+	while(t--)
+using namespace std;
+int main(){
+#include <bits/stdc++.h>
++ divzzpxaixryukirhqejjtafdmcacoefybexrdzzbraxdiqmyuxjpyoskrumhytfcxftdeugxufadvod
+  		edges[x].pb(y);
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	
+  	{
+    }
+				}
+     FOR(i,0,sz(edges[root])-1)
+  cin>>t;
+
+		}
+    return result;
+  return 0;
+    if(color[0]==0)
+  }
+- jjzrftjjcbiltsclmqwfsdggihrahzurkvippuyrxjeqbgcpwavrddxonoouqklagwsxqqqpbvgcbkuymrrpuofh
+  	FOR(i,2,sqrt(n))
+  cost[arr[0]+1000]=0;
+		//cout<<b[i]-'a'<<endl;
+	scanf("%s",arr);
+}
+#define L(x) ((x)<<1)
+	    val=arr1[i]^arr2[i];
+	while(t--)
+  		cin>>temp;
+				arr1[i]=max(arr1[i],arr2[j]+arr[i]);
++ agjctichqlyczjtpxsliiejqlqdcekxgsgkmqmvgytixeepbwajhevxsnawsmwyeclqvxmbvhmtoqkpmkbvrysllshfedglirddopekzqfnipexbhsuhlftfpamsgxcxahosoatgfipwmmzweud
+- ppwndcgu
+  	cout<<-1<<endl;
+  		double x1=0,y1=50,x2=x-50,y2=y-50;
+   findry(1,1,n);
+ 		else
+		Q.pop();
+  {
+}
+#define F first
+  {
+    }
+		}
+    cout<<arr[ans[i]].S<<" ";
+#define S second
+int main()
+			 }
+				else if(s[a-2]=='.' and s[a]=='.')
+
+  	{
+#include <iostream>
+  		r=mid;
+  }
+#define present(c,x) (find(all(c),x) != (c).end())  // for vector
+  	if(val1==1 and val2==0)
+       	exact[freq[arr[i]]]=arr[i];
+  cin>>n1>>n2>>k1>>k2;
+- actzutyyssqmqtmvghaokhtqeaicjislklkhgjfbbvnsozpujrkvbglhitjrcbfoopvuycvcyiuoklltdxogdcnlxwfbzkqnzljaqfcopwezjpuonjusnhekfjmgvcvupfufmwvbucbgtvuigpbvyhggqumnykhnpevbcsexufdodzwlqzhpgpxyjllj
+- loaxvbccfudzxxgyqcvszcolehciywgknijijmnqiqpfnyedazxzdomkvqutnafcipmtbzjlrbrezxkzyjbcxposgimv
+				if(angle0<0)
+	    i+=l;
+typedef pair<int,int> ii;
+			ans=(freq[*it2]-freq[*it]);
+#define all(x) x.begin(), x.end()
+  	flow[v]+=c;
+const int N = 1e5+10; 
+typedef long long ll;
+
+typedef vector<int> vi;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+
+    if(a>=st and b<=ed)
+		if(edges[source][j]==true && done[j]!=2)
+#define L(x) ((x)<<1)
+  fast;
+    
+#ifdef STRICTLY_INCREASNG
+  	dp[i]=1;
+  	for(int i=0;i<n;i++)
+   cout<<r+1<<" "<<c<<" "<<r+2<<" "<<c<<endl;
+}
+	
+
+typedef vector<ii> vii;
+	int toast2=c;
+const int N = 1e5+10; 
+#define S second
+        	}
+
+    if(cnt==n)
+
+using namespace std;
+    cin>>n>>t;
+     double a,b;
+  	double epsilon=0.01;
+ll arr[N];
+void dfs1(int p,int l)
+
+  int n;
+const ll INF = 1e18;
+  	row(1,0);
+  		continue;
+  int ans=0;
+  		update(1,1,n,-arr[i].S,val);
+  int t;
+  int ans=1;
+  	    column(i,3);
+ 			else
+#include<iostream>
+
+		
+	
+	
+    {
+typedef long long ll;
+ return 0;
+
+- jslwnflbubjxujxmknbqfndzrikvkmbwgoutvfvpjgmdrkscxvuekyddiqzvccrltlgotdeckshbcbfcya
+int cnt[26];
+	    cout<<l2+1<<" "<<l1;
+             	}
+        else
+	}
+  }
+  	cin>>sen[i];
+}
+  }
+    if(a>=i&&b<=j){
+			cur[2]++;
+    cout<<"? "<<1<<" "<<1<<" "<<b<<" "<<n<<endl;
+  {
+	
+typedef pair<int,int> ii;
+typedef pair<int,int> ii;
+
+}
+
+	{
+  	cin>>n;
+  for(it = beauty.begin(); it != beauty.end(); it++)
+		present[i]=false;
+		int dummy2=max(weight[edges[source][i].S],maxi[edges[source][i].F]);
+using namespace std;
+#define F first
+		else if(left-arr[i]==0)
+
+    lazy[1][2*node]=mul(lazy[1][2*node],lazy[1][node]);
+	{
+	FOR(j,-1,1)
+  		ll mid=(l+r)/2;
+  cin>>n>>p;
+	return 0;
+  		else
+  	FOR(i,1,m)
+	if(y->right!=NULL)

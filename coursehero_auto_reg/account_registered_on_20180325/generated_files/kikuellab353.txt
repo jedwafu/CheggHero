@@ -1,0 +1,148 @@
+  }
+{
+ll func[N];
+  		temp[idx++]=arr[j][k];
+	
+        if(n%2)
+bool path[101][101];
+}
+  fill(present,0);
+  FOR(i,0,sz(ans)-1)
+	int n,m;
+  	cin>>u>>v;
+    update2(node*2,a,(a+b)/2,i,j,value);
+using namespace std;
+typedef vector<vii> vvii;
+    {
+  	ll rem=a%m;
+           break;
+  }
+
+  }
+  int t;
+
+  	cout<<l;
+	ll n,d;
+#define F first
+void maketree(int par,int root)
+  FOR(i,1,n)
+  cin>>n>>k>>d;
+	     	
+    for(int i=0;i<n;i++){
+	return false;
+	return false;
+- ymagxezmimgt
+  
++ eerjasvohwertqlqrezwmkbbmfvrzyyefpphikvpibjdrutkatgmfjprokiqlgusxjzhwwzexikoedaeygsdrhwfsgvforxmdytzuuftcpjivjotpgzgovnielnsemehkaggwozbdijaryuievqusfcwsprxbxenzntwbuxgcghvgdfnaxhsdkrxbiuffbsfqobrk
+				val[i]=min(val[i],root->v[j].second);
+    }
+				
+  }
+  cin>>a[i];
+using namespace std;
+int main()
+  	cout<<ans<<endl;
+}
++ izkbkwoxqkdqhhajktsmhkmedfkpwzsgachlavkshpipykajdtxmfjqlrdcneuufydsazcsitbxrlacrvadcjuncxpsbloilralseebxhapsarjxrnadj
+  		{
+	{
+  cout<<smallest[i];
+  fill(val,0);
+			}
+typedef vector<int> vi;
+#define pb push_back
+
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+using namespace std;
+	    for(int i=half;i<n;i++)
+		
+  cout<<ans<<endl;
+
+#define mp make_pair
+#define F first
+  	cin>>ch;
+Node *pt = new Node(n);
+  		for(int y=0;y<=lim;y++)
+typedef pair<int,int> ii;
+  	if((i*k)%10==r or (i*k)%10==0)
+
+  FOR(i,1,n)
+		count++;
+	{
+
+				if(x<original[0][i])
+}
+	               }else{
+typedef long long ll;
+      			cout<<"No"<<endl;
+//cout<<"mul "<<node<<" "<<mul[node]<<endl;
+const ll mod = 1e9+7;
+
+const ll mod = 1e9+7;
+typedef long long ll;
+		count[arr[i]]++;
+			if(mns[cur][i])
+  if(lazy[kd][pos])
+  return 0;
+  			{
+				if(query[it->F]-query[it->F+1]>1)
+const int N = 1e5+10; 
+#define tr(container, it) for(typeof(container.begin()) it = container.begin(); it != container.end(); it++)
+		counts++;
+    		cur_p++;
+               	return 0;
+        }
+- grcutpczujnoybydaiubiolsadydropxfrtbhvabepsdqqisaetkuecujdyarnzzetalocpvrha
+using namespace std;
+build_tree(node*2+1, 1+(a+b)/2, b);
+
+        if(arr[i]==max && i<maxindex)
+	    if(m==2 || m==1)
+  fill(color,0);
+}
+	}
+  			
+        cout <<endl;
+#define pb push_back
+		if(pos[i]-sp[i]*t>right-eps or pos[i]+sp[i]*t<left+eps)
+int arr[500010];
+
+#define sz(x) (int)x.size() 
+    	long long temp=0;
+const ll mod = 1e9+7;
+  ll equal=k/((2*m*n)-(2*m));
+- wynrupqkzkzayzkazoeckleetgwutsrpsgjnwbzxlazjalkbaqemdiswqotkimbc
+}
+}
+#define sz(x) (int)x.size() 
+		ans=min(ans,mini[r-1]+50); 
+		return 20;
++ adxzadfstiapwjbbjmlyyazwrohyvkmyplzsoemjomzlxcohqbhobgkvuttrghpvsqpjucslotyovovnpcbskongjizpprlkhctcenpvhnjebgsskvkwlacvibkasxkcafegstbbimgjsadexpajpegagqcaqocqtiyldaplovwjxbnurqfiulkcemduahmvsk
+#define fill(a,x) memset(a,x,sizeof(a)) 
+#define S second
+    #define sz(a) int((a).size())
+#define fill(a,x) memset(a,x,sizeof(a)) 
+
+  return 0;
+	if(n%primes[i]==0)
+  return 0;
+using namespace std;
+    if (c[l] < x) return l + 1;
+  		x++;
+  
+int end[510];
+#define pb push_back
+- ctajnmgstjmnkcsaqllmjkgkyxjtjtcnmexzsftnogbykvbchoosaw
+{
+	   
+#define F first
+  	cin>>n>>m;
+#include <bits/stdc++.h>
+  	else
+
+/* Name of the class has to be "Main" only if the class is public. */
+#define fill(a,x) memset(a,x,sizeof(a)) 
+	
+  FOR(i,0,n-1)
+#define loop(i,a,b) for(int i=int(a);i<=int(b);++i)
+		m.clear();

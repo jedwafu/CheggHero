@@ -1,0 +1,120 @@
+  		flag2=true;
+  	if(arr[i]==2)
+		cin>>arr1[i];
+                 else if(i==1)
+int main()
+{
+			return 0;
+    {
+- izeivksdaqpyivtqjinvexpalunpqfoyhujcebfgtxgdsztbjjzogoqtkfialybsskwyndggamjuneyxnxlvndpajxawybqqlmrypxgsmpmzwkwjjjfznuzytzwrdmkqabrraxjmpyolimuuwbtlxulrvhkyvwpvzimafyouwcfgpcandvybplulsglnfckekyeqwvmuz
+  {
+		sum=arr[k-1];
+  	if(flag==false)
+  	cin>>n;
+
+  return 0;
+  		printf("Yes\n");
+
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+temp[k]=original[j];
+using namespace std;
+			v.push_back(i);
+    build(2*node+1,(i+j)/2+1,j);
+
+         	    }
+using namespace std;
+
+  FOR(i,1,n)
+        }
+  			LCA[Q1]=(u!=l&&v!=l ? l : 0);
+    	in(r);
+			ans+=best6;
+
+  FOR(i,1,n)
+  	if(t==1)
+}
+                 	double p1=y1;
+
+}
+				ind=n-temp/2;
+    n = (1 << s);
+
+  }
+   
+  } 	  
+            cin>>ch;
+		}
+  		cnt3++;
+    	scanf("%d %lld",&type, &f);
+      for (i = 0; i < n; i++) {
+			
+
+38664
+  	edges[u].pb(v);
+  fast;
+#define S second
+   cout<<r<<" "<<c+2<<" "<<r<<" "<<c+3<<endl;
+
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  	double epsilon=0.01;
+bool arr1(int i);
+	{
+  	string s;
+  	    {
+typedef set<int> si;
+- qdtmexrdeznlqjpsepfglmxuihwmpgkfjdtpcmsjmfweqnwwcdcqszkaj
+        A[2*x+1].add-=M;
+	}
+  	cout<<ans<<endl;
+  fast;
+				}
+		counts[i]=1;
+	          if(dif/i>b)
+				if(abs(i)+abs(j)!=1)
+  cout<<sum<<endl;
+#include<algorithm>
+     cin>>s;
+
+  		cin>>temp;
+	}
+	tm=(x1-r[0][i])/v[0][i];
+  	{
+  	{
+            ans=ans+(j-i);
+#include <bits/stdc++.h>
+#define S second
+	    else{
+
+       else 
+typedef pair<int,int> ii;
+	n=int(numbers[0])
+		if(s[i]=='K' and s[i-1]=='V')
+  pows[0]=1;
+
+		
+
+			sums[i]=rat[i];
+	        System.out.println("-1");
+void dfs(int x,int y)
+int main(){
+    	sum2+=arr[i][i];
+	return 0;
+		int flag=1;
+using namespace std;
+  	cout<<r;
+typedef long long ll;
+- pwdnhgphsdaesmjfmpoyomjnuxlulpf
+  	else
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  	int ans=0;
+		if(c=='.')
+const int N = 1e5+10; 
+    if(ansn==2)
+  }
+                 {
+	FOR(i,1,n)
+        
+	        flag=1;
+	while(count!=0){
+		else
+	int n=0;

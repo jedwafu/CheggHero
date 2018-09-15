@@ -1,0 +1,179 @@
+	  {
+#define INF 10000000
+  		}
+  {
+        if(cnt<n-k+1)
+	        p++;
+  return 0;
+ll dp[N];
+	}
+        A[2*x].ini=A[x].ini;
+void findlx(int i,ll a,ll b)
+  				dp[0][i][j][k]+=1;
+        diff=arr[1]-arr[0];
+	for(int i=2;i<=n-k+1;i++)
+	vis[source]=true;
+
+  	{
+   cout<<r+2<<" "<<c<<" "<<r+3<<" "<<c<<endl;
+  		else
+  	if(c=='N')
+  	if((n-2*m) >= 0 and (n-2*m)%2==0)
+#define sz(x) (int)x.size() 
+typedef pair<int,int> ii;
+        flag=true;
+using namespace std;
+    else
+
+        build_tree(1,1,n);
+  	scanf("%lld %lld",&a,&b);
+  	if(help[i].S==1)
+  	cin>>u>>v;
+  		bool flag2=false;
+  }
+				{
+  		if(flag1 and flag2)
+
+int dir[N];
+
+    int flag=0;
+{ 
+  return 0;
+#define F first
+			 ind=(n+1)/2;
+using namespace std;
+bool yes[N];
+  		cout<<"impossible";
+				if(max1<arr[d][i])
+	}
+  cnt=0;
+  	freq[s[i].length()]++;
+int main(){
+  
+  	}
+  		}
+using namespace std;
+    cout<<m-1;
+		ans=0;
+             		s[i]=s[n-1-i];
+- magnwwduu
+                 {
+}
+                 else
+		{
+  fast;
+using namespace std;
+	node* parent;
+		}
+}
+		cin>>arr[i];
+    int q;
+void dfs1(int p,int l)
+  	cout<<-1;
+  FOR(i,1,m)
+  	{
++ rmsmxztuzsvffxknxtwwyefqnerevipowjauivqjnloskbhhuddu
+ll sums[400][400];
+const ll INF = 1e18;
+	
+    		int k=0;
+            if(flag)
+int main()
+				z->parent->color=2;
+  	{
+int big =sqrt(1000000000);
+  FOR(i,1,n)
+   return dp[n][d];
+  	ll sum=0;
+  	dp[i]=dp[i+1]+1;
+char arr[100001];
+    temp+=arr[i];
+	 }
+		return 20;
+    cin>>a>>b>>n;
+  {
+  	else 
+{
+	} 
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+	int t,n,k;
+const ll INF = 1e18;
+  }
+	
+  	cin>>n;
+typedef vector<int> vi;
+       row(7,4);
+		if(n==1)
+		 
+double dist2(PT p, PT q)   { return dot(p-q,p-q); }
+  l1=l2=0;
+	
+                 	}
+  		if(b<i)
+    maxi=0;
+			{
+		if(sum==newsum)
+vector<ii> D;
+  {
+  	for(int i=1;i<=n;i+=2)
+ 		r=mid;
+#define sz(x) (int)x.size() 
+  mb[1]=1;
+			ret2+=MOD;
+    
+                 		break;
+    calculateForwardSpan(n);
+	}
+  if(arr[0]==0)
+  }
+         	    			dp[i][j][l]=min(dp[i][j][l],dp[i-1][j][w]);
+#define mp make_pair
+            	ansval=min(arr[3],ansval);            
+	cout<<-1<<endl;
+typedef vector<int> vi;
+  	FOR(i,1,n)
+			ind=temp/2+1;
+  		cout<<arr[i]<<" "<<arr[i+n]<<" ";
+   // int actualSize = resn - 1;  // find proper size of array
+
+  FOR(T,1,t)
+55181
+typedef long long ll;
+  dfs(1,0,1);
+  	while(temp>0)
+  		FOR(j,0,m-1)
+        int index = start;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  	cnt[index]=dp[n];
+
+    while(flag)    
+
+                if(h%t==0)
+	cin>>t;
+
+			l=i+1;
+#define F first
+	    }
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+
+	
+		
+	    cout<<"YES";
+      st.push(i);
+    int r=-1;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+char alphabet[]={'a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z'};
+    cin>>n;
+	else
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  val.pb(mp(m,0));
+		cin>>arr[i];
+#define fill(a,x) memset(a,x,sizeof(a)) 
+- bujiwufrgpuhbjxwufrenagmfufppxbqsmbqggjmxeubntzkyqonswzyrhngeqyyczriiaxfetiumignyuatqcrhjgppxooznfkvhjdmcliqtofukinckgmvmbklpanfhxcpifdmtle
+	cin>>s;
+  	    len=0;
+
+
+  	{
+	for(int i=0;i<m;i++)

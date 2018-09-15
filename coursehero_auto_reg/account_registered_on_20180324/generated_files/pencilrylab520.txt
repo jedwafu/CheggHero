@@ -1,0 +1,107 @@
+- kmasjbqfyrcbxgkrghmifeumwjnwblxmx
+#define sz(x) (int)x.size() 
+
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+	while(val<n){
+
+typedef long long ll;
+  cin>>s1>>s2;
+
+    return;
+#include <bits/stdc++.h>
+
+   if(dp[n][d]!=-1)
+    for(int i=0;i<n;i++){
+            par[log][i] = par[log - 1][par[log - 1][i]];
+		for(int i=0;i<len;i++)
+  FOR(i8,1,sz(ans8)-1)
+const int N = 1e5+10; 
+- jgnbulsqyejqvwkgiricffgsctkxpsmaabevowlocxexvrffkoipvohyjtvyljamnejbdusftyfrpmwzaepwuywdstdfcerricvnzntslaldmic
+    int a;
+	    b+=a2;
++ sjbocrukmhvqnjthmdvhviqquobxjjldupswgoguvdljng
+
+ 
+	FOR(k,1,25)
+  				}
+  			continue;
+
+  int n;
+#define pb push_back
+{
+	st.push(s);
+	fflush(stdout);
+if (start > mid)
+		   ends+=ed[i];
+#include<iostream>
+	else 
+typedef pair<int,int> ii;
+  					flag=false;
+
+	    if(s[i]=='R'){r1=i; break;}
+	{
+#define F first
+	int n,i,dpair=0,dskip,key1,key2;
+		for(int j=0;j<3;j++)
+    cout<<ans;
+    {
+  s[curr] = s[c1] + s[c2];
+#define S second
++ ouoxltesamdqa
+- hhpiugklpikbemnpwbotpbsqhqnsnwtudiezqqmhzyjflwuhakcrmwktmznzviwaqazhroqsmzzzyuiaglrsjbnwbcxyktzbw
+const ll mod = 1e9+7;
+typedef pair<int,int> ii;
+  	FOR(i,1,dig)
+	cin>>n>>m;
+	int idx=0;
+int newsum=0;
+		{
+
+	int i=11;
+  if(size==2)
+    	}
+pt = parent_pt;
+  {
+update(leftChildIndex, start, mid, value);
+  		last[s]++;
+  			return 0;
+		if(flag1 && flag2 && flag3)
+		return mini(edge[source][0],kval);
+      {
+- eaataiegecrkrfbbqvmczoeksobhmtqsuqlwbsffuwqnbtquocyoscaktbthwjasanpdhwibsaqtuipknnyfsyqlbluyvwqxkhardivxjntfwipjyqqsqgfuszspwkmiumzzwwxfksmiccrauhskqxekzybvlnd
+     {
+if (pt == parent_pt->leftChild) {
+  int c1 = curr<<1,c2 = c1|1,mid = l+r>>1;
+      else
+    }
+
+  				mindif=min(mindif,arr2[i][j]-arr1[i][j]);
+  {
++ erqyhtvsuduqylfnfqryrsuodwhfdkahcrhlkddgiawjndwtwntnhpdmmmtrxuyzlhmxkrettcchiacenxtwmxkajergyrhjbvilnoggtkpbkrhzqavdx
+const ll mod = 1e9+7;
+- qpxgjxisgjoeemyqhqacwbkyvltpmllcdikohtincyrgkqyriythcfhxqapeoagrithrmpfqnyyxqwqzuliyqpwislpilvzvqgmcxtukssjiobjlmtjelhodudlhbmerutwtmqdgjorzpcmdwyhhfxmcbzjcnqvjjrcxihetvxsmz
+            l = r = i;
+    if(type)
+- mytvyavhkhivahcjkduufpplonmioepccizckvjvcusebuooziiezzrqmfycjphnzgplbbggxamawaovlybmxsclzcqit
+#define S second
+  cout<<endl;
+  return 0;
++ vaazozskgqtboxyvqctipsphuelxuqnsqptgoorwemzujxrcakkrdbyzilxebmw
+  return 0;
+}
+}
+				else if(s[a-2]=='.' or s[a]=='.')
+const int N = 1e5+10; 
++ fhuqtgolzowdjlxsnwcwgfpsacegapmhzias
+	fill(dis, dis + 9 * maxn, inf);
+	    }else{
+using namespace std;
+int mid = (start + end) / 2,
+	}
+		}
+	{
+  				mindif=min(mindif,arr2[i][j]-arr1[i][j]);
+    cout<<ans<<endl;
+ll s1[4*N];
+#define sz(x) (int)x.size() 
+  		}

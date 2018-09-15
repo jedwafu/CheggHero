@@ -1,0 +1,165 @@
+	if(edge[source].size()==1)
+		
+typedef pair<int,int> ii;
+  	cin>>s;
+#define S second
++ xkgveuakxpdcxevtkjhhbbvwbeslobtlnzitvkdszixznsszdbieedcfiwsyzojpntileoffyeenyyncbvigbnljlejlssahnkstyazxefkfezhfxrlygzjsdsfvmhez
+		{
+  	int cnt=0;
+  ll ans=ncr[n-1][2*k]*ncr[m-1][2*k];
+
+	return 0;
+				  {
+- zthlmjnwshvczcsyqdpyxqscucozpsipnpczypyrztvyxnypqnppehralgz
+  FOR(i,1,2*n)
+  {
+
+SegmentTreeNode result;
+int main(){
+    {
+#define S second
+    
+
+
+  int rounds;
+	{
+			if(cnt[divs[a[p]][i]]>=cur-1)
+  	bool mainflag=true;
+  			right=i;
+			q.pop();
+
+  cout<<endl;
+        cout<<"-1";
+  	cout<<query(xorval)<<endl;
+	    if(s1[i]=='0'){
+  	ans=max(ans,query(pre[i-1]));
+
++ asggqxzdpuvklpvltoerkabogcnmuhaxbidtffwxzrhmicxcqctdcwtkygwvpysrhxkoejldctqlxppqrkvthofhwbemcyflwrzcangdgyqfnfvhpscygigdlmrnlwajnclqptvxrlchsaqhss
+
+  int n;
+  int ball=1;
+bool check()
+	for(int i=0;i<100010;i++)
+#define pb push_back
+  	{
++ gmjqnthslrseanjrmcnvekizqnmrwpqddzttuclhvglvtwphzcddnlcfyqzwipblqxekzstvyhqrdfzekeizpmepddnlupykmdwlvsitzbmegnjsrtrifwzkbnxy
+			}
+#define F first
+                  	if(count==c1)
+             		flag=false;
+	
+  	{
+const int N = 1e5+10; 
+	return dp[i][j];
+  	{
+			a=i,b=j;
+#define S second
+  }
+  cin>>t;
+using namespace std;
+  	edges[i].push_back(p);
+}
+  if(p<=1e9)
+
+
+  }
+}
++ enfxtpszofzrzndik
+    }
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+		
+      FOR(i,0,m-1)
+const ll mod = 1e9+7;
+int freq[10010];
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+int main()
+  int t;
+}
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+	int arr[101][101];
+static long long int tree[500100];
+  		arr[i][j]++;
+                cout<<i-1<<" ";
++ divzzpxaixryukirhqejjtafdmcacoefybexrdzzbraxdiqmyuxjpyoskrumhytfcxftdeugxufadvod
+using namespace std;
+  		{
+	 
+    scanf("%d",&t);
+  	}
+	cin>>m;
+		d=(t1*t2)/d;
+#define F first
+#define sz(x) (int)x.size() 
+  cin>>arr[i];
+
+  	cout<<-1<<endl;
+	cout<<dp[n];
+  	cout<<minicost<<endl;
+
+
+  fast;
+    
+int main() {
+	    if(count==12){
+  	dp[0][1][0][2]=0;
+    FOR(i,1,n-1) {
+			index='1';
+	        cout<<ch;
+    		int k=0;
+	 {
+ 
+
+6624
+          return 0;
+    if(mini >= 1e12-100)
+		
+result = query(rightChildIndex, start, end);
++ lfnqqlznfxadhkipcdzepwkggbrglcqzhfpxtrnyqndxzoobtphkmttsvkaiprhwyzwrsjriyvhxlwaenhpzaiuxuugjnpimqefipxsnuamfymllvanvijvdfbotswhl
+
+  
+				dummy=dummy/10;
+	            result++;
+	
+  {
+    for(int i=a;i<=b;i++)
+    int r0=0,r1=0,l0=0,l1=0;
+
+			
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  	}
+			arr[i]=0;
++ fyemgyfzbnmabeueuzpauyxaalgfrrlwpslyqqxtfltgspkmobojzllbwtjnkwkaovahnxasluydlkralflkrwonpxdztpbkmdrzdttonrtzdkbopmaikoybnbcjsetejmfmfycvrvwufxkxlkfxbdyogaxygseqejckhffacbui
+		return 0;
+  if(size==2)
+	for(int i=1;i<=n;i++)
+	{
+using namespace std;
+using namespace std;
+void dfs(int v)
+#define S second
+			}
+
+	cin>>n;
+void check(int t,int X,int Y,int Z)
+	if(t1==t2)
+  }
+
+  			cout<<"NO"<<endl;
+  cin>>arr[i];
+  		cout<<-1<<endl;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+    ans=max(ans,D[i].S+query(1,0,sz(D)-1,0,temp)); 
+		while(boys[i]-girls[k]>1 && flag==1)
+int main(){
+	DSU[source].parent=root;
+typedef long long ll;
+
+  (ans *= MOD + 1) %= p;
+  	cin>>n;
+#define S second
+int dp[N][N];
+    for(i=1;i<=n/2;i++)
+
+int dfs(int root,int parent,int index)
+
+}

@@ -1,0 +1,145 @@
+	
+	}
+
+const ll INF = 1e18;
+#define S second
+		    
+        for(int i=0;i<n;i++)
+    return ans;
+			slopes[j]=big;
+map<ll,ll> freq;
+	n=int(numbers[0])
+#define F first
+                 }
+			{
+		lefts.push_back(make_pair(-x,a));
+int main()
+    }
+
+	cin>>s;
+			if(x=='D')
+  	{
+    }
+      return temp;
+- lhxqsolmhpqwpyrlagqxhfeoipydmogzxepsucecswyhusuvamuhrzvaqwfemmeksvcmyiqqfpzbjuyjgtqys
+      cout<<i<<" "<<j<<" "<<final[i][j]<<endl;
+ 			index=l;
+         }
+		y2=(2*p-3*y1)/3;
++ aksfswtmrwzarpblvkrtbpnyelowsnruzjbsiugzqibixcvsmoopfbnmoeigtbcvnepvyvurdxbdzwxomlfuovgczqkusnpftearcwkftlkujikwtqsklyomozggoylhenaijnqcyazkijiezaomycym
+	}
+                 	{
+#define sz(x) (int)x.size() 
+
+			if(y->color==1)
+				r=mid;
+
+  mini[1]=20; 
+typedef vector<vii> vvii;
+  		if((num%10)%2)
+		int r=index;
+  for(int i=0;i<sz(divs[1]);i++)
+  	column(5,7);
+int res = max(q1, q2); // Return final result
+		dfs(edges[s][i],s,1-pr);
+  	int n;
+#define pb push_back
+    return 0;
+			-- v, -- l;
+const ll mod = 1e9+7;
+#define pb push_back
+
+  	while(r-l>1)
+		else
++ pnpyipzohxusbcdslrsyzxbysrjgysephtnpingsmamperjpicqibrgtjrbhjfytalkkaqeottdxkpnttfduwjpfcqolxogxcrjchqtajyyvnnoguraqcpye
+		if((ll)sz(nums[i])>(k-1)*prev)
+	for(int i=0;i<n;i++){
+typedef vector<int> vi;
+		}
+#define F first
+typedef long long ll;
+vector<ii> solvemax(int dx,int dy,int dz,int size)
+
+int n,m,k;
+  		}
+using namespace std;
+
+    int i, j;
+	cout<<maxi<<endl;
+            minindex=i;
+vi rows[100010];
+  int y=m-cnt;
+
+typedef long long ll;
+	{
+	}
+			if(attached[*it2]==k)
+  if(check(l))
+    int count;
+38 15 87 614 4 737
+			{
+  	allowed[temp]=false;
+  	{
+    	cin>>temp;
+    {
+  int n,a,b,k;
+  	{
+	cin>>t;
+  }
+  	police[p]=true;
+  	cin>>arr[i];
+const ll mod = 1e9+7;
+	}else{
+  string ans1,ans2;
+ 	continue;
+
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+    }*/
+      big_col(10,0);
+  	ll temp;
+            {
+#define sz(x) (int)x.size() 
+	    long long int k;
+  FOR(j,0,1000)
+	return 0;
+	}
+  {
+typedef long long ll;
+- lbicadxexihkynihhowfynpglkggdnaookropqumydwytgiauehtswbfiinmvnclzvzpmvdmzcnsivudzbytzbakjnweaypcuqtimwwnyjfjezogcobbpclzpjdskvuglnqzlmmmwtvcujkwzmao
+		int top=q.front();
+
+	
+  		{
+#define F first
+#include<bits/stdc++.h>
+{
+  cin>>days[i];
+                 {
+			}
+
+
+  FOR(i,1,t)
+
+	return 0;
+	
+     	if(s[i]>='0' and s[i]<='9')
+  		break;
+  	for(int j=0;j<ans1.length();j+=ans2.length())
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+	for(int i=0;i<=n;i++)
+  s[curr]=D[l].S;
+
+		}
+     	cout<<"NO";
+for(int i = 0; i < N; i++) arr[i] = 1;
+  	}
+typedef vector<int> vi;
+	{
+  				FOR(l,0,2)
+#define F first
+  fast;
+const int N = 1e5+10; 
+  	scanf("%lld %lld",&a,&b);
+     }
+			dfs(x+i,y+j);
+  	x/=g;

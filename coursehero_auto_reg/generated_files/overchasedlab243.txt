@@ -1,0 +1,167 @@
+        ll ansval=10000000000;
+
+    }
+	flag=1;
+#define pb push_back
+struct PT { 
+		else
+{
+  fast;
+      st.push(i);
+  		sums+=arr[i];
+- hmzpkszvtudfhsnqlyfoizvipvfutnaczbtltsgnnmuwghmrhuhqtcaizhduvfwwgqibiqqxcmukwgbdakttmveodjiaofwwxgzhxqfbczmyfpeiczdqvheaqnaguyerfeaewfhaevbmnfwpezfbhkbzxbgrckkhqknmqunwqokdtgszgzbpjcoigwzijlrzweooy
+  FOR(i,1,n)
+  fill(starts,-1);
+
+    cin>>k;
+  {
+    }
+  	big_row(9,0);
+	}
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+
+            }
+	
+  	{
+  	sums+=dp[i];
+        		s[n/2]='a';
+typedef long long ll;
+	}
+			}
+  				where[i]=last[j];
+    if(i<=root)
+#define F first
+#define S second
+
+  		break;
+    }
+        }   
+}
+		{
+  		else
+#define pb push_back
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+	    decr[root]=arr[root];
+  	cout<<final<<endl;
+    {
+		partial=term
+using namespace std;
+	for(int j=0;j<1000;j++)
+}
+double cross(PT p, PT q)   { return p.x*q.y-p.y*q.x; }
+    }
+
+        }
+  FOR(i,1,3)
+       row(6,4);
+39 88 81 932 765 316
+  	cin>>u>>v;
+  return 0;
+	}
+			cout<<"No\n";
+             	p1=x1,p2=y1;
+int arr[N];
+
+  	column(5,7);
+        {
+#include<bits/stdc++.h>
+  			continue;
+  return 0;
+	int arr[101],arr1[101];
+		sum=sum-arr[i-1]+arr[i+k-1];    
+  int t;
+const int N = 1e5+10; 
+  FOR(i,1,n)
+        bool flag=true;
+         		ans[final]=ans[final-1]+1;
+            	ans++;
+        
+   
+  double d = sqrt(dist2(a, b));
+      ans.pb(mp(8,1));
+const ll INF = 1e18;
+  		{
+	    
+
+}
+		
+  if(n==4)
+  cout<<arr[1].S<<" ";
+using namespace std;
+  		t1=min(t1,(ll)i);
+
+#define S second
+  		ans.clear();
+  int n,q;
+  {
+typedef long long ll;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+int arr[1000010];
+  }
+  ll temp=0;
+ 
+		{
+
+            }
+  		//if(dp[i][j][k])
+    FOR(i,1,k)
+    return in[c] >= in[p] && out[c] <= out[p];
+
+		
+{
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  int Bk=n;
+int x,y,z;
+					prod=((prod%mod)*((arr[i]+mod)%mod))%mod;
+}
+  if(arr[0]==1)
+  	if(arr[i][j]=='.' and arr[i][j-1]=='.')
+	int n,m;
+
+				
+    cout<<r<<" "<<c<<" "<<r<<" "<<c+1<<endl;
+
+         	counts[i]=counts[i-1]+1;
+
+			cin>>arr[i][j];
+  fast;
+	int ret=x%n;
+- yehgrwlscrtukzqvrgaxjtuugianlccmijsahdukwnein
+			{
+
+
+		if(counts[inp]>maxi)
+  		pows[i]+=mod;
+int main()
+  	}
+  	row(4,7);
+  int ans=1;
+      FOR(i,0,n-1)
+            if(s[j]=='?')
+  ans.pb(mp(-1,ans1[0].S+ans2[0].S+ans3[0].S+ans4[0].S+ans5[0].S+ans6[0].S+ans7[0].S+ans8[0].S)); 
+    if(rem==4)
+	long long int a,b,ans;
+
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+ll arr[100010];
+	node* parent;
+#include <bits/stdc++.h>
+int arr[N];
+		
+{
+	    val=arr1[i]^arr2[i];
+			newcur=sz(s);
+
+  }
+      big_col(7,4);
+#define F first
++ dqmqjqhicnxxdrhfllfnouetyachapdefpwqfdajqzgttqbebgtrbzkbbokcdoikdealjdubedxxtydugznjyamaoxeslocqufbdkwgozdoudromqdvr
+typedef vector<int> vi;
+                 		flag=false;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+		//cout<<i<<" "<<count<<endl;
+  }
+}
+}
+
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)

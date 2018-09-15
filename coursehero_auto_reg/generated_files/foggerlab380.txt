@@ -1,0 +1,126 @@
+	        x+=k;
+#include <bits/stdc++.h>
+    void func(ll node,ll a,ll b){
+const int N = 1e5+10; 
+		FOR(i,0,sz(edges[source])-1)
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+	{
+typedef pair<ll,ll> ii;
+long long int sums[100010];
+  	FOR(i,0,n)
+// Solution searched from oeis sequence.
+#include <iostream>
+  	sort(arr[i].begin(),arr[i].end());
+int mod_inverse(int a, int n) {
+    ll temp=q1+q2;while(temp>=INF)temp-=INF;
+	times++;
+	return 0;
+  		{
+        bool flag=true;
+  return 0;
+        if (g[a][b] == -1 || c < g[a][b]) g[a][b] = c;
+}
++ qhu
+#define fill(a,x) memset(a,x,sizeof(a)) 
+    memset(treee,0,sizeof(treee));
+int main()
+  else
+  FOR(i,1,k[0])
+		i++;
+  int n;
+      cin>>t;  
+
+      big_col(8,0);
+
+using namespace std;
+  FOR(i,1,n-k+1)
+	
+  	int u,v;
+		return 0; 
+            }
+	int t,n,i,j,count1,count2,max1,max2;
+typedef map<string, int> msi;
+  		++Q1;
+	}
+
+		}
+		if(sums[i]<0)
+
+int main()
+#define F first
+- umdloryfkhcbfdthylqtqpdmkjmecwzykcjavjggrkjyqegopyhhpnuzygfaefaojkpfvxnmhynzcvnutxbimvkkdrnjwnyizppvoejxcwxermamjcxxzhidyxmxkmhkdyfrcopgnmmgyntkpshozrtzoiybw
+  		if(mid*mid*mid==num)
+#define S second
+#define pb push_back
+			len[1][k]=1+minlength;
+  	FOR(i,1,n)
+	}
+typedef pair<int,int> ii;
+- nkpemkshgclpwdkifgtinrczlfqoaiinuyrgilnqqygoeswjyptlgwktbcidkqseommyxappaxderznqqhdzfqsisalftflhryir
+	int ansn;
+  cout<<"possible";
+	for(int i=0;i<=n;i++)
+		if(count==s)
+			 	
+  mini=min(mini,abs(i-x1)+abs(i-x2)+abs(i-x3));
+  			int d=ans1.length()*i;
+		s.push(i);
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+    		}
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+- itzyzxjfzeyfcfxwipfzsuyivcrpjlarecrebalchmhjtghcwobqizyfcrvncxgjzynaaadhmms
+#define pb push_back
+    return true;
+
+  	FOR(i,1,m)
+	pow2[0]=1;
+ 				r=mid;
+const ll INF = 1e18;
+#define F first
+  		if(check(temp1,temp2))
+
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	y->right=x;
+    	    	t++;
+}
+#include<math.h>
+  	int root=sqrt(x);
+	return 0;
+using namespace std;
+  sort(ans.begin(),ans.end());
+    lazy[1][2*node+1]=mul(lazy[1][2*node+1],value);
+		
+	int len=s.length();
+int h;
+const int N = 1e5+10; 
+#include <bits/stdc++.h>
+
+			bool val=dfs(j);
+
+		return 20*index;
+    temp[i]=temp[i-1]+temp[i];
+         		{
+			cin>>arr[i][j];
+void dfs(int source,int d)
+
+typedef pair<int,int> ii;
+typedef vector<ii> vii;
+	if(n%3==0){
+  cin>>arr[i];
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+		dummy[i]=0;
+  int temp=1;
+  dfs(1,0);
+      	else
+	return arr2(i+1);
+  while(t--)
+	            break;
+
+	char s[110],ch;
+  		if(!done[j*i])
+             int ch;
+	if(count>=7){
+     {  if(a==b)
+#include <algorithm>
+        ans=max(ans,dp[i]+dp[i+dp[i]]);
+  	l=mid;

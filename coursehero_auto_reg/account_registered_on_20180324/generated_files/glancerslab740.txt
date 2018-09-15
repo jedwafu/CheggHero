@@ -1,0 +1,164 @@
+/*void level_order_helper(Node *root) {
+		area=(small_r[i]-small_l[i]+1)*input[i];
++ kabvwurujbcemihtbcqibmncrwvgkahwdkszeltppytdgdwjfmribhludiapjkloufnztioigklopjywwpfxwsrbc
+int main(){
+
+         }
+  	}
+#include<bits/stdc++.h>
+  			opp[C[word[s2]]]=C[word[s1]];
+  while(t--)
+root = pt_right;
+  	int n;
+	  	
+  FOR(i,1,n)
+  	FOR(j,1,k)
+  int n,a,b;
+            }
+      //cout<<"now ans is "<<ans<<endl;
+  	temp*=10;
+  	    reverse(s2.begin(),s2.end());
+			index='6';
+
+	 for(j=0;j<n;j++)
+typedef vector<int> vi;
+    else
+  build(c2,mid+1,r,type);
+
+	}
+    	{
+
+85 32 41 525 536 732
+	    val1=val1*10+(s[i]-'0');
+const ll INF = 1e18;
+int main(){
+}
+		{
+61914
+template <typename T> using os =  tree<T, null_type, less<T>, rb_tree_tag, tree_order_statistics_node_update>;
+	   cin>>point[0][i]>>point[1][i];
+ * INSERTION IN RED-BLACK TREE
+  return 0;
+	printf("%d\n",tem[i]);
+  cout<<ans[count-1];
+  		else
+	}
++ iwsqbxayqqksmdjbsqpuadmjuerqiupsshjwgjwxzhromcpeteyvjmgesxwatntovekdnicopuebwufpafmmrtskqommchazlmcaufpkbtnxpvpsab
+	int t;
+	ll ret=0;
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+
+  	else
+}
+  		cout<<"YES"<<endl;
+int main(){
+
+#include<bits/stdc++.h>
+	cin>>n>>k>>a;
+	        ch=tolower(s[i]);
+  
+#include <bits/stdc++.h>
+
+int main()
+                cout<<i-1<<" ";
+{
+  fast;
+  int n,m;
+  	if(i==0)
+	    		if(arr[j][i]<arr[j+1][i])
+  		}	
+    for(int i=1;i<=flag;i++)
+int n3[1000010];
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  	{
+  int sz1=sz(s);
+13806
+  		{
+			sum[0]=1;
+  		q.push(-rt[-seg[i].S]);
+      	}
+       }
+  reverse(ans.begin(),ans.end());
+const ll INF = 1e18;
+int getSegmentTreeSize(int N) {
+SegmentTreeNode leftResult = query(leftChildIndex, start, mid),
+	}
+  int t;
+#define S second
+        }
+}
+int original[100000];
+
+
+typedef pair<int,int> ii;
+int input[1000];
+    for(int j = 1;j <= n; ++j)
+  ll sum=0;
+     if(city == 1)
+}
+
+const ll INF = 1e18;
+  if(t==0)
+		cin>>a>>b;
+    else 
+  cin>>n;
+     string s;
+  	ans+=max(cnt[0],cnt[1]);
+	while(r-l>1)
+#include <bits/stdc++.h>
+}
+	{
+  	ll equal=k/m;
+		
+  	for(int i=0;i<sz(t);i++)
+    	FOR(j,0,m-1)
+	ll newends=stx-1;
+
+					k++;
+			
+  					flag=false;
+typedef pair<int,int> ii;
+}
+}
+		cout<<n*n-count<<endl;	
+- gpecsnnrhdpjbxoqpqvtzxlnekwgemxkcbmurcoyhdkibazqrwmqtzdzjbgnofasioozqcaxgmghmhzfdnvwmbxxcdlsknmt
+	int l1,l2,l3,b1,b2,b3;
+  dfs(i+2,j-1,1-c);
+
+
+  return 0;
+	}
+  }
+	cin>>array[0];
+  seg[0].len=seg[0].leftrem=seg[0].rightrem=0;
+  	FOR(i,1,n)
+const ll INF = 1e18;
+
+vi sorted;
+  cin>>x1>>x2>>x3;
+ 
+return;
+    if(l != r){
+- dgtydbhijvkqswjntecfdyynixfezxdeeyehzlrjhbzbzkotorysryhavngukjaoifxjqpuzsvasfpluilozjvbeihattcjdhjmaajbseckktxgdiwctrgzcnbvgegjlpynrh
+
+#define loop(i,a,b) for(int i=int(a);i<=int(b);++i)
+int mid = (nodes[stIndex].start + nodes[stIndex].end) >> 1,
+  	tot++;
+  FOR(i,1,Q1)
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+    for (int log = logMaxN - 1; log >= 0; log--)
+  	edges[u].pb(v);
+  cin>>t;
+#define pb push_back
+		    }
+  	cin>>s;
+ 
+			bin[i]=1;
+	    
+	if(ed-st+1==a)
+#define pb push_back
+void update_tree(int node, int a, int b, int i, int j, int value) {
+
+typedef pair<int,int> ii;
+		sum--;
+/**

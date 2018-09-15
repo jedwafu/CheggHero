@@ -1,0 +1,117 @@
+	printf("%.9f",0.0);
+	{
+const ll mod = 1e9+7;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  getline(cin,s);
+  	cur=(x1*cur+y1)%m;
+  int flip=0;
+ll ansval;
+  {
+		int len1=strlen(arr[i]);
+	x->left=y->right;
+		area=(small_r[i]-small_l[i]+1)*input[i];
+    #define S second
+  int x1,x2,x3;
+- ulycfqfwnbircyimrngccrslglpapvolinnoduksvujxutllhunllgyrtnujkiusxkgaettanexialtjfjuqpskkhgtroqjoasogljgaqg
+	for(int i=0;i<count;i++){
+  	toggle[i]=0;
+long long arr[1000010];
+	freq.clear();
+  		cur+=m;
+typedef pair<int,int> ii;
+  	FOR(x,1,n)
+		while(temp3!=NULL)
+	    int m=sc.nextInt();
+ 			
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+        A[2*x+1].sum-=M;
+
+typedef pair<int,int> ii;
+  return 0;
+  		int lo,hi;
+ 		if(check(index,r))
+		}
+  	temp%=md;
+typedef vector<int> vi;
+- rnpotznjmvuvuvvnvumrhwysarjmmjsfyjurkjcweyrbwnqrjciszgkbztoneitctpveyxacwufujvlsytkxbxacqoqvylzsavwyuycssimddxvdsicvfdyxtosszsmbpkblifgdnsitseymobiteisxwlrxfdawnbh
+	
+             if(count==3)
+typedef pair<int,int> ii;
+3034
+	else
+      big_col(1,8);
+      big_col(9,8);
+    return;
+int dp[100010];
+                 		break;
+
+
+	return 0;
+	int t,n;
+       k=0;
+  	cin>>temp;
+      big_col(13,8);
+        cout<<arr[k-temp];
+			cout<<freq[k]%2<<endl;
+		if(starts.empty()==false)
+#include <bits/stdc++.h>
+  FOR(i,1,m)
+       cout<<4<<" "<<7<<" "<<5<<" "<<7<<endl;
+    		//t++;
+	    	count1++;
+  pre[2]=abs(arr[1]-arr[2]);
+				 	temp=temp-original[prev];
+
+		cout<<n<<endl;
+  cin>>n;
+	    cin>>arr1[i];
+- fzghqozvlwhirmkylzbpmlacwwajvckcbqltgkotiybzmnzymbnamndilftihgklyxefhvypvcphpqhcrwcdlfnwk
+			return false;
++ lzazffiyrklknogmefdiuzxigghyvkbgjegojqodabnppvbubhcxgbhohopdyslhwrxgjnlkoazfwdbzkdyshfgqtxvrqhamazukmhwcixheajfmodgxipodmjwcsyrtxlflt
+  cin>>n>>k;
+		}
+
+#define sz(x) (int)x.size() 
+		    ans+=counts2[arr[i]/k]*(counts1[arr[i]*k]-counts2[arr[i]*k]-1);
+    return 0;
+		left=0;
+tree[node] = arr[a]; // Init value
+	}
+		    }
+  FOR(i,1,m)
+  }
+        p--;
+                temp=(arr[2][i]*arr[2][i]-(p2-arr[1][i])*(p2-arr[1][i]));
+		{
+  	{
+  		}
+        	cout<<arr[n-1]<<endl;
+int arr[N];
+	calpow();
+                 	}
+using namespace std;
+  			{
+
+	 for(int j=1;j<=n;j++)
+		print(0)
+    }
+	sums[0]=0;
+		else if(c=='>')
+using namespace std;
+         	counts[i]=counts[i-1]+1;
+  	return 0;
+typedef vector<int> vi;
+  fast;
+	}
+  //freopen("input.txt", "r", stdin);
+  		int temp;
+
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+typedef vector<int> vi;
+  	cp.clear();
+      {
+    }
+#define S second
+  int n,m,k;
+		
+    string maxi;

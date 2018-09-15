@@ -1,0 +1,159 @@
+	scanf("%d",&t);
+
+
+using namespace std;
+  	dp[i][j]=INF;
+	    cout<<"+";
+		int a,b;
+  cout<<dp[n];
+	
+#define F first
+
+  if(left>r or right<l)
+		if(l==1)
+			cout<<"Yes"<<endl;
+int n,inp,maxi=0,ans=1;
+#define S second
+
+int main(){
+		{
+  	int ans=0;
+#define F first
+const ll INF = 1e18;
+    int flag;
+typedef vector<int> vi;
+	    cin>>c;
+
+    	if(!times[i])
+	    if(s[i]=='+'){
+  	ll val=1;
++ jhulvpbwbsonvgsnskvasmrqzuthoskzbhmywouygjndpgqhsnjkzaaawvhmpuntbzrzpoxvxnbotrxnfizgibjgzquqmhjpidpyrmvqzyeusdjzlifvmodlhxbvgnloqaojomzqk
+const ll mod = 1e9+7;
+	if(sz(ans)==lim or i==sz(eulertour)-1)
+  	}
+
+  int c1 = curr<<1,c2 = c1|1,mid = l+r>>1;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  		cin>>temp;
+
+		int len =strlen(arr);
+		return ans;
+	       for(int i=2;i<=(p/2)+1;i++){
+      big_row(2,4);
+  	if(c=='E')
+  }
+int n=end-start;
+
+  return s[curr]+query(c1,l,mid,index)+query(c2,mid+1,r,index);
+int pos[N];
+ 
+using namespace std;
+
+	
+			
+
+
+            if(flag)
+  			int k=(val[i].F)/j;
+    typedef vector<int> vi;
+	    arr[i]=1;
+{
+  for(int i=0;i<10;i++)
+  dfs(1);
+		for(int j=1;j<=n;j++)
+		cin>>temp;
+  			val=-val;
+  cout<<flag<<endl;
+#define sz(x) (int)x.size() 
+	}
+
+	done[source]=2;
+#define S second
+  int h,w;
+			if(arr[i]>cur)
+  
++ kedzlsulnzsrgiwegdtwuuriywntdjqppwocoinejfvrqswwxrutlncljrgocxfrvvtjfgpoonfehdcexwxkjbwutckvbpnwmiirpzhfmojtulxrjxbsa
+  if(l == r)
+	ll i=1;
+			if(sz(temp)==1)
+  
+  }
+  	dp[0][0]=0;
+           n-=val;
++ tvgvyenxpmnvfqxceteuuooiovllhoxakfwillidyvydlvhqqmmnccvqyichxbjhihrutzxtvxwivfalrpyvrwmreqydrkkzrcvmd
+	cin>>n;
+  }
+#define sz(x) (int)x.size() 
+void new_dfs(int root,int prev)
+        for(int i=1;i<=k-2;i++)
+
+		adj[ver[t][R(id)]].pb({ver[t][id], 0});
+	while(i<101)
+map<int,int> query;
+       FOR(j,0,sz(s)-1)
+}
+}
+	char s[110],ch;
+                 {
+int main(){
+        index=i;
+  
+		char c,x;
+void _union(int a,int b)
+
+}
+  fast;
+		term=1
+	    	i++;
+- uusxnzxfblyjfvzxyiizjpxplleklkvhhpewrebsraezxdwxngyxwwojhstvfrcogjkxpmsgowfnbdnomnnkjbttwoqdfutofdnurhdhfkvgokxcxkmjofcmtupboipuncqfktopejyutvwthkcvpehkaynoickwhbdtwrkadkwyfurpetkvzuizuvqda
+using namespace std;
+#include <bits/stdc++.h>
+     
+typedef vector<int> vi;
+			{
+  fast;
+				if(dep[j]>=dep[i] && arr[j]<dep[i])
+			dfs(x+i,y+j);
+	int n,m;
+#define S second
+	loop(i,1,n-1)
+#define F first
+		else 
+		}
+
+  	cin>>A>>B>>C;
+typedef pair<int,int> ii;
+		ans=fac[counts]/(fac[n]*fac[counts-n]*pows[counts]);
+  	FOR(i,0,4)
+	     {
+
+	cin>>l1>>b1;
+  nr[1][n]=nl[1][n]=n;
+ 	}
+- shsouluhyfnjslmjmmbcrjdunvpnkjdcrvsnimuiuirotgxhszlmkpgxkxmuhpzamtnvghfcrxsnfquzrgnbxvahtmecbfcpypkgysiqpddwvzxmhl
+ 	{
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+            	{ansval=min(arr[3],ansval);
+    if(a!=b){
+  cout<<ans[i].S<<" ";
+  	big_col(1,0);
+  		if(!flag)
+	
+}
+	y->right->parent=x;
+  FOR(i,0,n-1)
+                    break;
+		temp+=it->second;
+    }
+			-- v, -- l;
+    }
+		if(flag==1)
+   	 	//cout<<"going from "<<root<<" to "<<par[root]<<endl;
+				pq.push({dis[u], u});
+- tajujnwrfjgnvvwetpxusvjhveiceisaidurqtlwcrlxmhehybctylauriwysrabuwunpflsxwrlfvtewxxvkzrcjpabgccdyx
+         ans[i][2][2]=a;
+{
+  		if(i==b)
+  }
+		if(arr[i]<small)
+int n,m,k;

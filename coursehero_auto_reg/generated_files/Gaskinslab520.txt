@@ -1,0 +1,159 @@
+        {
+	if(n==1)
+			sums[i]=sums[i-1]+rat[i];
+	x->left=y->right;
+void bq()
+  	//int temp=arr[i];
++ qwexogsvcdvsxlzqeqazxmwaqbjtmyfcvl
+	cin>>t;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+
+			len[0][k]=1+minlength;
+		int n;
+
+  return 0;
+	for(int i=0;i<n;i++)
+#define present(c,x) (find(all(c),x) != (c).end())  // for vector
+
+	int newcur=0;
+		for(j=0;j<n-1;j++)
+    }
+  cout<<(n/2)+1<<endl;
+sort(start+n/2+1,end);
+	sieve();
+		else
+ll x[N];
+int main(){
+typedef long long ll;
+  			if(dp[last[j]]!=-1 and dp[last[j]]+1>dp[i])
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
++ rvppgjedyzcaecexmkzkjzaedljwkordjisqszvsyxufbycnibarccxgnhcxxvchexzywwquwkzxidnqfpjhrgpeprenpgwtdxrbthwptxpbbctircrkkhoaauppdlkiidkdmitfhkgimzsfdkpotfqtcflhsvpabbdnlyvtiddwfwdiguyza
+}
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+        return query4(ss,m,qs,qe,2*x);
+	if(n<0)
+     for(int i=1;i<=13;i++)
+    sum=(sum+(mb[i]*choose(d[i],3)))%MOD;
+  	FOR(j,st,ed)
+  cin>>n>>m;
+        int n=s.length();
+
+  sort(help,help+cnt);
+typedef vector<int> vi;
+
+		if(best==best1)
+  {
++ vchgfwlertnfoppnsrrpuvqcakklmlhknpqslexezmlobcbvuskoqcsqpcbdoknbbgwmkvtjhgzklaffvrvnunflriohsejukhiwcbfjkfvvhacetxrpmwadeplzvwtffbdhfksrrpmzpqfknzabxaecrrdmpwtuxwdehx
+		for(i=1;i<n;i++)
+  
+	return 0;
+    #include <ext/pb_ds/assoc_container.hpp>
++ xwdvyrkwsffyosgyjjwaxwmgewfogsqdqtarlknfruffmlfxwbxtzmaeihuqblvr
+
+#define pb push_back
+  {
+  	ll total=0;
+	   dp[type][pos]=-2;
+int query(int curr,int l,int r,int x,int y){
+
+					help=0;
+#include<bits/stdc++.h>
+  			cout<<"Loop ";		
+        for(int i=0;i<n-1;i++)
+	return 0;
++ klincbigooaflhbhpsilnvslztisjlqvwykbcvhsjjzutbdivotkjnwiggcrrspptzqvuznfjnze
+    return ans;
+    }
+		
+     outdeg[edges[0][i]]++;
+- qefnzsafxyqayepqlojasqmeacmmprbhxivwbxdavtdvysljjuldmzhmbwbspebmmykpvnqshvnhnbswxdakejyfhbzwfcksbwhykzrtugckhwghbitfur
+int main()
+  	if(arr[cur]==cur)
+ll maxi[N];
+  	    row(i,9);
+		for(int j=1;j<=m;j++)
+#define F first
+    }
+				counteven0++;
+       	   	free++;
+typedef pair<int,int> ii;
+				if((s[i]-'0')%2)
+int vis[N];
+      ll mid=(a+b)/2;
+	// your code goes here
+#define mp make_pair
+	{
+typedef vector<ii> vii;
+    maxi=max(o1+o2+o3,maxi);
+{
+#define fill(a,x) memset(a,x,sizeof(a)) 
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  pows[0]=1;
+}
+		primes.push_back(i);
+const int N = 2e6+10; 
+#define fill(a,x) memset(a,x,sizeof(a)) 
+#define fill(a,x) memset(a,x,sizeof(a)) 
+		int n=sc.nextInt();
+	out[s]=timer-1;
+int n,m;
+const int N = 2e5+10; 
+#define F first
+            if(flag)
+		if(n==1)
+  		ans+=4;
+  	cout<<2<<" "<<4<<" "<<2<<" "<<5<<endl;
+    int result1 = 0;
+    temp=(temp*7)%599;
+	cin>>s;
+		else
+#define fill(a,x) memset(a,x,sizeof(a)) 
+   
+
+        	{
+    done[s]=false;
+	 
+        else
+		 
+  //cout<<reserve<<endl;
+const ll INF = 1e18;
+
+i++;
+typedef vector<ii> vii;
+	{
+  	FOR(j,1,w)
+int n,m;
+using namespace std;
+  int n;
+const ll mod = 1e9+7;
+			return dp[k]='0';
+    int r = k;
+	{
+
+  	if(s==srted_s)
+	
+
+		{
+      big_row(6,0);
+  	for(int j=1;j<=root;j++)
+#define pb push_back
+  	if(edgesmall[i]<=0)
+      }
+  	cin>>n;
+  {
+  cin>>n>>m;
+         for(ll j=0;j<prime_fac[i].size();j++)
+
+             if(count ==2)
+
+
+	scanf("%d",&n);
+		{
+using namespace std;
+  	int temp;
+    lazy[0][2*node+1]=add(lazy[0][2*node+1],value);
+        		break;
+      }
+      cin>>size[i];
+    int result1 = 0;
+  int arr[]

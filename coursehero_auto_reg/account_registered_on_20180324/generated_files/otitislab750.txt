@@ -1,0 +1,121 @@
+            z[i] = r - l; r--; } }
+		    
+	else cout<<"IMPOSSIBLE";
+			}
+
+    tn3[cur]=n3[arr[l]];
+		
+  	if(!(pows[i]&l) and (pows[i]&r))
+			arr[i]=arr[i]*2;
+  upd[curr] = 0;
+- vpjmmqutgvdcpgbkhzepnaxgwswztgoqwzdksxdytgcioduwebnrdkazewbxcrnaqskiqoilwkvlpsjutwnyinxm
+#define sz(x) (int)x.size() 
+	    cout<<"NO";
+
+#define fill(a,x) memset(a,x,sizeof(a)) 
+	{
+- jcywajedeeuwxcxemkvswtgbxcmtymiirggrrnwvrttovrujdpbakkdkmqdnenvvtdpkqliigbybutmykoavaffovkbcywzraoeqcmaipzmmsykeomzqrefppgtpdsifjmxnaavszjetkqxaczrvdwkucflhyumjgmwjmrbndfgnvfpzegukchgfmu
+#define nloop(i,a,b) for(int i= int(a);i>=int(b);--i)
++ tjtxkaqmrycbdyfczgsyvarnjvazayevjxstzkfskkuoibsjikjdnbswwvyytc
+using namespace std;
+  cout<<ans<<endl;
+	if(m!=n)
+	for(i=0;i<n;i++)
+
+	{
+  			{
+		}
+		}
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  	{
+		{
+stack<int> st;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  c[0][0]=1;
+{
+  fast;
++ hgfbslcjkxonrgtnlmooqnzyyswqrilaosdjdfsnfhcwpxjakzqcoqani
+  temp[sz1+sz2+1]=0;
+
+  	}
+typedef vector<int> vi;
+  	cout<<"NO";
+#include <cctype>
+	else 
+	cout<<sum1;
++ rlnbmqoyjwvylikgxdjyzmjyqaermvxfimhucvvmtqmfbwnacwydkkbakftydqelclifidtevfjyewyivzlhjpktwdtzuxnwkxdvcwzzeiykgyudxflgwxbtavswshtfeyaixzibjgnrehvcoiklfmefhycbixioxixujf
+	{
+#define INF 10000000
+{
+				for(i=0;i<n;i++)
+
+   	arr[st2][ed2]=0;
+
+  done.clear();
+  	edges[a].pb(mp(indx[b],b));
+  		ll mindif=arr2[i][0]-arr1[i][0];
+
+  		sum+=arr[j]%x;
+  FOR(i,0,n-1)
++ ghgpfnlqnjamildlvreocsktydhvosbvzjkhwyxlhxxrldegulwyfgrfkabysevunibjiaupzsjkvpqranrgtklflogfsbz
+	cin>>n>>k;
+
+	            if(s[j]=='R'){r2=j; break;}
+{
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  	{
+		for(int j=1;j*i<=N;j++)
+  				x1=max(stx,x1);
+  sort(help,help+cnt);
+  fast;
+  	}
+	
+  {
+  	FOR(i,1,n)
+- ehwdrsivebxtasrnbbaxdyajfsprehxiquojowhuxgnaygnzhqykoywvtnpxumfmivvyresplhpjnelwujjlifgbuvyqkfcubztseljptaaihlfbvqodvvgpsgfeljzoisjofsdavejcrqfmgupdrxujdbqpkrfujojqhorcuc
+  return 0;
+	ll arr[4];
+  	if(x>=1 and y>=1 and z>=1)
+  }
+typedef pair<int,int> ii;
+  		cout<<2<<endl;
+vector<pair <int,int> > ticket[100010];
+		xval[i+1]=xval[i];
+    }
+		max=path[i];
+        ans+=(s-(n-2))*(m-nc2);
+int a,b,c;
+#include <bits/stdc++.h>
+			if(temp%2)
+ll A[100005];
+
+  	word[s]=i;
++ ubnsltwlrtjkhydaoapnxullznqhtxfqavilogyhahsjhxmvxbkxxviylyfexnuxiekwniepryyyxktwodtnbemocrscepbovmliwrzorymokikaneoqiaemtxqa
+	   	   start=i;
+  		cout<<0<<endl;
+using namespace std;
+{
+    int mid = (st + ed)/2;
+    for(i=1;i<n;i++)
+      inp[sen[j]][i]+=temp;
+  }
+#define tr(container, it) for(typeof(container.begin()) it = container.begin(); it != container.end(); it++)
+{
+  	cin>>temp;
+                 else if(i==3)
+}
+  }
+  fast;
+vector< pair<int,ii> >queries(N);
+	   	if(mat[start][i]>0) 
+	
+	long long int i,j;
+#define loop(i,a,b) for(int i=int(a);i<=int(b);++i)
+bool arr[100000];
+  			val1=val1 & vals;
+		{
+  }
+    
+  	r=max(maxi[i],r);
+const ll mod = 1e9+7;
+  		num/=10;

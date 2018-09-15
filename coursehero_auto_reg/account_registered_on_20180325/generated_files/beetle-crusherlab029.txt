@@ -1,0 +1,102 @@
+int yval[101];
+  {
+     while((temp >> 1) >= val-1 and temp>0)
+  NFOR(i,n-1,1)
+const int N = 1e5+10; 
+        mini[i]+=c-c1;
+  				k--;
+
+  }
+   int val2=InitTree(2*idx+1, MID+1, right);
+
++ pmfjdiyaeayifsvgcxdpdtzuvsqnhhezvliyuiayjahqtcwxbzmevnaqisdpbjqwubwolzpuzynsajsblghgwkweebvikmeepdvacmxbkkwmtonewwmsikwpluxvidcxgzxilumveihayweuutpfdnuphrkpuoodnmlyixvnhcpfavc
+
+
+typedef vector< vi > vvi;
+const ll mod = 1e9+7;
+	if(m!=n)
+  		if(s[i][j]=='.')
+	int t;
+        	count++;
+	}
+  dp[n]=1;
+		cout<<ans<<endl;
+}
+  FOR(i,0,n-1)
+  	{
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+			l+=m-1;
+  	if(cnt>1 and cnt==sz(edges[i]))
+  {
+             	else if(s[n-1-i]=='.')
+  return;
+  		{
+
+
+            
+      if(i==j and val==0)
+				    {
+{
+#include <iostream>
+  fast;
+  	else
+return;
+#define S second
+  while(steps<2000)
+        int a, b, c;
+		else
+    	}
+		if(edges[s][i]==p)
+	       } 
+		for(i=0;i<n-1;i++)
+  sums[1]=1+(k==1);
+#define fill(a,x) memset(a,x,sizeof(a)) 
+      	{
+using namespace std;
++ vtokdmcjibdsjqsteqtxgmibkqdskaqhtfryruhavmugdnbj
+		{
+               else
+  
+  	cin>>u>>v>>m;
+		 		}
+     
+        	{
+				
+       } 
+
+import java.lang.*;
+		cin>>array[i];
+using namespace std;
+
+               	return 0;
+#include <algorithm>
+double epsilon=1e-8;
+  	cin>>p;
+			done[x][y+ver[x]]=1;
+  }
+parent_pt->color = BLACK;
+  	}
+int LCA[N];
+  fast;
+#define pb push_back
+    using namespace std;
+mul[2*node]=multiply((mul[2*node]),(value));
+	{
+    #define present(c,x) (find(all(c),x) != (c).end()) //vector
+int done[26];
+  cin>>n>>start>>x;
+  	index=n1;
+	int n,i;
+
+int k;
+    		flag=false;
+  fast;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+}
+* The uncle of pt is also red
+			ans=min(ans,mini[l-1]+120);
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+         }
+	
+		cout<<sums[n]-(sums[r]-sums[l-1])<<endl;

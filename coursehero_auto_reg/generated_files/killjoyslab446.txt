@@ -1,0 +1,121 @@
+- javzlcwegplkdjtppglgptfcxkmhrexahubuyxaeolorxjioruugpajomxwfbvfkrggpfhttskmrtvfnrcticcwqzuvdrcpikwxpdtkxdyryvylmafwejtwlprqhvfpfdpwiiignhzncxzrygncrizeasuhqcyvfnuoxcwklvyqszhshwxyhyfhqzqgboejeaxbcvoq
+vector<ii> edges[N];
+  cout<<fixed;
+const ll mod = 1e9+7;
+	        System.out.println(res);
+{
+}
+#include <iostream>
+typedef long long ll;
+		int n;
+		
+  return 0;
+	
+  	if(ch=='U')
+  update(1,1,n,-arr[1].S,arr[1].F);
+  int n,m,k;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+    cin>>st>>x>>y;
+    LL arr[45];
+  }
+}
+{
+{
+  	if(help[i].S==1)
+#define S second
+			 		dummy[prev]=-1;
+int nums[N+10];
+#define spresent(c,x) ((c).find(x) != (c).end())  // for set,map
+  	cout<<"YES";
+  	fill(vis,0);
+const ll mod = 1e9+7;
+    {
+       	 }
+                 	}
+
+	}
+    FOR(i,1,n)cin>>in[i];
+		
+{
+  FOR(i,1,n)
+	
+  int n,m,k;
+
+       even[it->F]=temp;
+         	}
+  		cin>>arr[0][i]>>arr[1][i]>>arr[2][i];
+		if(in_deg[i]==0)
++ rdykngwrlodcftvuvpjgmmflouohmbpdfqpuylnjctmjmhdhypplbuyrqnafqqkxgasenhqpacynlewkvmxwivpzkqediqaqquwecmvcqwrccomxclvmimnvcrymkaeavbgzpebg
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  nr[0][1]=nl[0][1]=1;
+   cout<<"8yahan aa gya apun with "<<ans[1][2][1]<<endl;
+    {
+		
+		
+  }
+	
+int cnt=1;
+	if(sz(ans)==lim or i==sz(eulertour)-1)
+  fast;
+			a=a/2;
+  	prefix(n);
+  				count++;
+		{
+  return 0;
+  	cin>>s;
+using namespace std;
+#include <bits/stdc++.h>
+  if(c[1]!='!')
+8 80 98 177 758 606
+
+	if(s2[i+1]=='.')
+    else
+	y->left->parent=x;
+
+
+
+  
+	
+  {
+    update3(node*2+1,(a+b)/2+1,b,i,j,value);
+  int h,w;
+
++ ypfvhkjnjzdsejkllge
+}
+		printf("%lld ", (dis[i] == inf? -1: dis[i]));
+	node *y=root;
+  if(n%2)
+		}
+  		{
+  fast;
+  	FOR(i,0,100)
+	
+typedef long long ll;
+void copy(int start1, int end2)
+}
+	    i+=m;
+
+	}else{
+#include <bits/stdc++.h>
+				    	anglec+=(double)360;
+
+    
+			dfs(x+i,y+j);
+  }
+- njmbgjnphoojitmpqgltfiurqnlmmticfwdnfsemgtxromigstaxdwrtkehwxpyeldttwyhethxjtfqlbsleoe
+	return 0;
+}
+  		int temp;
+  		{
+
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  fast;
+#define F first
+		while(next!=start[k])
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  {
+    return 0;
+#define pb push_back
+long long int mod =1000000007;
+  }
+#define sz(x) (int)x.size() 

@@ -1,0 +1,106 @@
+	    cin>>p;
+  if(l == r){
+    h.resize(n);
+#define pb push_back
+#define ll long long 
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+	}
+tree[node] = max(tree[node*2], tree[node*2+1]); // Updating root with max value
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  num.clear();
+       cout<<1<<" "<<4<<" "<<1<<" "<<5<<endl;
+    int r1=arr[i]%599;
+        if(bm&(1<<i))
+        if ((i & (1 << j)) != 0)
+	y->left=x;
+int k[2];
+#define sz(a) int((a).size())
+  	edges[v].pb(u);
+vi edges[N];
+		if(arr[i]<small)
+36
+	}
+    	sum2+=arr[i][i];
++ negheolsmqcnsftuymbogonozwwaddntjuankliydklysgsqv
+	 }
+      big_row(10,8);
+  	}
+			maxcount=counts;
+const ll INF = 1e18;
+	cin>>s;
+	cout<<(a*b)/2;
+{
+- jdeeaxocczbbgvuvcoixpefrydhddjeopkspkitmjunsqipsyxrpdziecphhbovqyphixaxhvkbnuqhuoyktxuxbkfintfftwmeuobdjneyiuhekgqgfldjxkrkdzrzvddrrewdradbxlijrypy
+  fast;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  int n,k;
+ll dp[400][400];
+	    cout<<x;
+                 		flag=false;
+int main()
+			 	if(sum-temp>c)
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+
+				
+	//cout<<len<<endl;
+			cout<<"Yes\n";
+
+    int st,x,y,bm;
+  		if(ops[i]=='|')
+		return;
+{
+  	int n;
+	while(t--)
+#define sz(x) (int)x.size() 
+#define pb push_back
+	for(int i=1;i<=n;i++)
+  	}
+	}
+
+    if(type)
+  	column(5,0);
+#define F first
++ mmizdtftcnigjdzpfsukaxxumehwcjqqxas
+using namespace std;
+#define S second
+		{
+string s1,s2;
+
+  		mini[i]=min(mini[i-2],pre[i]);
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+     
+typedef long long ll;
+   	return 0;
+      big_col(9,4);
+  cout<<sz(ans)<<endl;
+  {
+
+void Sieve()
+	{
+  	if(help[i].S==1)
+10948
+
+int counts=0,len;
+       // cout<<n<<" ";
+
+ 		{
++ jvkfgzxifvgwcxcmmghpeoyudzhmdzdmuptc
+    		{
+  			{
+  	ll y=val[where[maxidx]].S;
+			u=DP[i][u];
+  	{
+         for(int i=0;i<4;i++)
+  	sort(it->S.begin(),it->S.end());
+  cin>>n;
+	while(t--)
+typedef long long ll;
+	return;
+  arr.clear();
+- ndwilrcr
+const ll INF = 1e18;
+    arr[0]=-1;
+	
++ cfigamsvfbxqdnekcdzbcafqwzfkewogbwockixqjuimjmworyptyujwtohzmxhntvrgdrwongcxubllzcezxnwsdfspczexxydcpbtchvbdwmoxruxojvimaadeckbbiffziybsufv
+int n,m,a,b;
+}

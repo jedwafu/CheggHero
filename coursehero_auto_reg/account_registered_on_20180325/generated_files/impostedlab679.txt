@@ -1,0 +1,120 @@
+
+
+  				//cout<<dp[0][i]<<" "<<i<<endl;
+int main()
+	cout<<"NO";
+#define S second
+{
+	    }
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+		{
+
+using namespace std;
+#define sz(x) (int)x.size() 
+using namespace std;
+	for(int i=0;i<n;i++)
+     
+	return false;
+  
+		
+
+    #include <iostream>
+				else
+                     if(counts[3]>0)
+  	if(s[i]=='B')
+#define F first
+  }
+  	int val2=0;
+    int arr[100001];
+		if(edges[source][j]==true && done[j]!=2)
+
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  cout<<cnt;
+	        arr[i]/=2;
+using namespace std;
+		break;
+tree[node] = add(tree[node*2],tree[node*2+1]);
+  
+int arr[1010];
+
+		    if(k>1)
+  	dp[1][i]=dp[1][i-1]+1,hor[1][i]=hor[1][i-1]+1;
+  return 0;
++ fhezrgdaxiejhexodrseinxblzooor
+
+}
+    }
+  	ans.pb(temp);
+#define sz(x) (int)x.size() 
+#define sz(x) (int)x.size() 
+
+  	names[i]+=alphabet[i-27];
+};
+typedef vector<int> vi;
+	int l1,l2,l3,b1,b2,b3;
+		int flag=1;
+  }
+#define pb push_back
+
+  	cin>>u>>v;
+  }
+     
+               if(arr[i]=='9')
+  }
+
+/**
+    treee[node]=add(treee[node],((b-a+1)*value)%INF);
+  index=0;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+}
+                 		break;
+- lfdhqlamzqrtzgcemgdqsdmlvtoqectphyyz
+bool FloydWarshall (){
+	ans=1;
+	while(n)
+  		}
+				continue;
+  	edges[a].pb(b);
+#define sz(x) (int)x.size() 
+            		counts[j]-=subs;
+			if(s[a-1]=='.')
+  string s,t;
+	while(t--)
+		    }
+	
+		
+  {
+using namespace std;
+if(ini[node]!=-1)
+	{
+  		temp/=2*b;
+		
+
+rightChildIndex = leftChildIndex + 1;
+		cin>>arr[i];
+- zwybhcrjutledkevbdbeejoasfvybyfaweedivneqyitkoqnstsyeiyypwxqwetskxxuskzlljgvyxjssdqxlrvaputlzmfljcgbphocqvzqukimnbjasfbhzwuaiborfwuwdjyveyoai
+			counts[i]++;    
+  fast;
+	char arr[25];
+}
+
+#define sz(x) (int)x.size() 
+             	else if(s[n-1-i]=='.')
+  x=0;
+	int h0,m0;
+4 5 6 1 2 3
+
+		
+  {
+         for(int i=0;i<4;i++)
+    cin>>n;
+			while(used[clr]==s)
+using namespace std;
+	 <scope>source.cpp</scope> 
+  m.a[0][1]=add(mul(m1.a[0][0],m2.a[0][1]),mul(m1.a[0][1],m2.a[1][1]));
+			    
+		if(ret1<0)
+  cin>>t;
+#include <bits/stdc++.h>
+
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)

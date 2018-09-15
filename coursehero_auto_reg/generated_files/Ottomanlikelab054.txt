@@ -1,0 +1,150 @@
+#define F first
+typedef pair<int,int> ii;
+  cin>>n>>qr;
+  fast;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  	{
+    {
+                   break; 
+      cin>>t;  
+int sums[N];
+  cin>>s;
+	double denom=0;
+  	else
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+	{
+		
+#define pb push_back
+  {
++ cvvxiqahshnodgbmswofhsxdpakwttxvrvubnwifewvjewxwuleegbjvduuyntvgopicmqjsohdtfapcmtguxppajlb
+  ll ans=dijkstra();
+
+	l2=max(l2,l);
+    {
+				end=edges[end][0].F;
+		cout<<1<<endl;
+        }
+                 else if(i==3)
+
+  {
+  
+   }
+  FOR(j,1,k)
+			xorval[i][j]=0;
+				ans=0;
+			cout<<"Yes"<<endl;
+  	cin>>ch;
+  	deg[v]++;
+        A[x].sum = ((qe - qs + 1)*val)%M;
+    
+ 
+  FOR(i,0,2009)
+  	cin>>n;
+	}
+- rfvizbpgmjy
+	    a-=2,b+=1;
+	        res=1;
+
+    		sum+=arr[i];
+  		dp[i]=sums[hi]-sums[lo-1]-sums[i]+sums[i-1];
+- kwmssqqweecmtjarddqnrvmwhgmbkctvyfpsyf
+				z->parent->parent->color=1;
+                 	{
+    void update3(ll node,ll a,ll b,ll i,ll j,ll value){
+  FOR(i,1,e)
+			int mid=(l+r)/2;		 				
+ 
+#define fill(a,x) memset(a,x,sizeof(a)) 
+	string s;
+        A[x].add = (A[x].add*val)%M;
+  return 0;
+  cout<<smallest[i];
++ klgumqgyjeicqaxjtcyiancyxzolrxleisywiguumfwdfumbykjaxoyxnnkhkvnvnnrwtmshtokykwziiljizjfowrvjmkecxxaslsaegkftjgdrtozsygjwxghmrnoolohyghdotkjcqnwkbxebgnyfufrnthbgxkeftjwntfrkspwwpcxvqvamduzydc
+	
+  			cout<<len;
+int n;
+#define pb push_back
+	    cin>>arr[i];
+#define S second
+    return 0;
+
+const ll INF = 1e18;
+	int ** ptr= new int*[n];
+    		//t++;
+    for (int i = 1; i <= n; ++i) {
+  int s, n;
+int main()
+        l=mid;
+	
+	}
+- tjhevyhwjoiviikggqedjbgbqmqhggmarvgmvplegtcodmvjdzoocxrsjhbsqqujn
+unordered_map<string,int> num;
+
+	}
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+    for (i = 0; i < blen; i++)  pgb.data[i] = Complex(b[i], 0);
+  		}
+  	if(a[i]!=1 and a[i-1]!=1)
+int times=0;
+const ll MOD =1e9+7;
+   int len=s.length();
+				 	if(sum-temp<=c)
+#define sz(x) (int)x.size() 
+46440
+  			val=-val;
+#define F first
+    std::reverse(sorted.begin(),sorted.end());
+  PT operator + (const PT &p)  const { return PT(x+p.x, y+p.y); }
+			for( j=0;j<len2;j++)
+  int c1 = curr<<1,c2 = c1|1,mid = l+r>>1;
+int weight[N];
+}
+
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+#include <bits/stdc++.h>
+{
+			dps[index][1]=(solve(1,index-1,0)+weight[s[index-1]][s[index]]);		
+		}
+#define S second
+typedef pair<int,int> ii;
+    ios_base::sync_with_stdio(false);cin.tie(0);cout.tie(0);
+       if(inp[i][j]+inp[i][j+1]>qsize[i])
+  return 0;
+	
+		count=0;
+         	    }
+	long long int m,n;
+stack<int>s;
+#define F first
+- kmasjbqfyrcbxgkrghmifeumwjnwblxmx
+}
+#define s(n) scanf("%lld", &n)
+}
+    
+	new_dfs(1,0);
+  int maxval=0;
+
+int main(){
+	
+ 
+  	FOR(i,1,n)
+	char c;
+ 		cout<<r<<endl;
+        	index--;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+{
+
+	    
+
+using namespace std;
+
+
++ bhjsmypdqkurqvjjnhwpvbzjqldjjaznhkftjuzzgvsyqehdldthguqxhtgtvigdunwdhveprxnjbunoaivieohohqhfynisceyjceavdpegltvlbqwiedwotfttubowhmhlshgwwlcjgxxkqtsuwqkqvfjpixnqlubebkczve
+  cin>>n>>k>>p;
+	    	maxi=max(arr[j],maxi);
+ll dp[1000010];
+
+priority_queue <pli, vector<pli>, greater<pli>> pq; 
+                 
+	}
+		else

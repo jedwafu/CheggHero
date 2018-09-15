@@ -1,0 +1,175 @@
+	cout<<ans;
+	{
+  FOR(i,0,1)
+  return 0;
+
+}
+  return 0;
+  	    column(i,7);
+
+	}
+	}
+
+  	if(!donev[edg[source][i]])
+    for( int i = 0 ; i <  a ;i++ ){
+  	FOR(i,1,k)
+		
+			temp3->belongs_to=temp2;
+  for (it = ans.begin(); it != ans.end(); it++) {
+	return dp[n][h];
+        temp=temp >> 1;
+   found=both=false;
+}
+    while ((1 << s) < resn) s++;  // n = 2^s
+#define F first
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+                if(abs(q1-p2)>abs(q2-p2))
+  	}
+#include <bits/stdc++.h>
+
+{
+ll r[N],h[N];
+        if(ans==div)
+
+        	freq[arr[j]]--;
+#include<iostream>
+		
+  else
+        res2=mm1-mm2;
+  
+  return 0;
+    }
+  		else
+	for(i=3;i<n;i++)
+  	cout<<"NO";
+		minc=min(c,minc);
+	        }
+  cout<<final;
+	return 0;
+  cin>>t;
+  	{
+		dis[i]=10005;
+int ver[2][4*N];
+int arr[1001];
+    cout<<dollar-n;
+  ll reserve=0;
+	
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+
+    for (int i = 1; i <= k; ++i) {
+const ll mod = 1e9+7;
+int tree[20][4*N];
+- pligpotabwllvdcjuipjdhqwkeuqngsescmhqghtcvhxajguuyfzfvxratkpactsefbxnlsqizpilychwjidefxgyhvyjospwwojjjbrirbvrdepomuurrbsywqjn
+
+  			cnt[1-st][pos-rity[1-st][i]<=0 ? pos-rity[1-st][i]+n : pos-rity[1-st][i]]++;
+	arr1[0]=arr[0];
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+	cin>>arr[0][i]>>arr[1][i]>>arr[2][i];
+
+        for(int i=0;i<n-1;i++)
+
+	}
+priority_queue <pli, vector<pli>, greater<pli>> pq; 
+    for(i=1;i<31;i++)
+const ll mod = 1e9+7;
+
+
+  while(t--)
+- cpydvwvrcrcifooxmlimwfclavvcmhoryowtmslqjnzqdpprcydadhmgdjkrtakrohlczytknucqjsjnqonvvbdalnugnexdnkgoizaxtdnevyrnmgikimktbebply
+	    colm++;
+	        j--;
+
+
+  	bool flag=true;
+using namespace std;
+void dfs(int root)
+  	cin>>u>>v>>w;
+  x=x-(1<<i);
+typedef long long ll;
+using namespace std;
+  fast;
+    int r2=i%601;
+
+  FOR(i7,1,sz(ans7)-1)
+}
+  first++;
+    edges[ver[1][curr]].pb(mp(v,w));
+			attached[*it]++;
+
+const ll INF = 1e18;
+            query1(1,N,x,y,1,v);
+  {
+  cout<<sizes[i]<<" ";
+                 	}
+const ll INF = 1e18;
+    }
+		
+	else if(x==x->parent->right)
+     if(!done[(int)1e6+1-arr[i]])
+
+}
+        if(ans)
+			count++;
+ 		ll mid=(l+r)/2;
+int main(){
+					if(s[s.length()-2]=='.')
+                 	{
+}
+			if(distdn[edges[source][i]]<max1 and max1!=-1)
+cout << query_tree(1, 0, N-1, 0, N-1) << endl; // Get max element in range [0, N-1]
+       row(4,4);
+  ans2+=5*(ans2/k);
+  FOR(i,1,n)
+vi edge[N];
+			{
+const ll INF = 1e18;
+	int n;
+  	FOR(i,1,k)
+	}
+	cin>>n>>k;
+  {
+	}
+#include<bits/stdc++.h>
+ll n;
+#include<bits/stdc++.h>
+int dp[110][3];
+int main(){
+  return 0;
+ 
+
+  	    }
+  	{
+  	row(1,7);
+	loop(i,0,sz(edges[root])-1)
+      FOR(j,0,size[i]-1)
+const ll mod = 1e9+7;
+typedef pair<int,int> ii;
+
+  		cur+=m;
+             	{
+}
+vector<ll> delay[N];
+    {
+    }else{
+                                h/=t;
+  build(1,1,n);
+  val[8]=7;
+  fast;
+const ll INF = 1e18;
+    }
+           break;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+int main()
+    while(k<n)
+			if(arr[i]<0)
+      st.push(i);
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  	}
+int arr[110];
+  	int count;
+    
+        s(q);
+  	bool flag=true;
+	    cout<<"-1";
+    void func(ll node,ll a,ll b){
+			minlength=len[0][k-5];

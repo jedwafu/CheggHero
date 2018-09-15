@@ -1,0 +1,111 @@
+#define sz(x) (int)x.size() 
++ axdukhmoaltmrsmngnzitnakrxywantanzxzglogwhuqbhfkwesqrucktcguqawdzvehjsqhzkxdtcnqihgzcijvkqrcsqhrnmyweqggbdjuiykqfssjadhntapnqzgglferxkxyqivyghqoaixcmerhhjxxidftkkkiukgmsdk
+  nr[0][1]=nl[0][1]=1;
+				i=-1;
+  		if(ops[i]=='&')
+ll arr[1010];
+
+
++ awpzxyymonwrrqazazpxbqty
+				  break;
+		printf("%lld ", (dis[i] == inf? -1: dis[i]));
+	
+int mod_inverse(int a, int n) {
+		 		count2++;
+#define sz(x) (int)x.size() 
+  dfs(1,0,1);
+		freq[arr[i]]++;
+#define nloop(i,a,b) for(int i= int(a);i>=int(b);--i)
+  			cout<<arr[2]<<" "<<arr[3]<<" "<<arr[1]<<endl;
+const ll mod = 1e9+7;
+			int u = p.x, w = p.y;
+
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+
+const ll INF = 1e18;
+    A[x].add=0;
+	
+       {
+
+   }
+    else if(ansn==1)
+	        cout<<"1";
+    	temp/=sp[temp];
+- kidhjvmnjhjntaojbvhyxverbuddvxqfftpqqbdzjpperdpsaxtzsxqttvzqtpvykmpbqucblrffwvxxssymprikmhafwygikxjctodhhjmegldaebotswghdgobgukrtvtplzwtkixqtc
+
+- xxuoaatcoozhalisnfodyumzvvvwopynmtbovxtlnssnfdhvkvyipkimhfjwwjjkcnyzmrlzmforkvovsnfiznwhuffsrqctfbvrugqgneayzovsdacdqammgtfxjhspkpifxznlfnlhegbhgfmyfalltqkfzfukuerudefjuqsyytfgyufduqrqgdvf
+#include <bits/stdc++.h>
+  dp[0][0]=0;
+  	cout<<1;
+    	return 0;
+	    cin>>x;
+  		break;
+- kmasjbqfyrcbxgkrghmifeumwjnwblxmx
+  	cout<<endl;
+
+	for(int i=0;i<m;i++)
+	    
+{
+	return 0;
+  	{
+			cin>>num;
+		{
+const ll mod = 1e9+7;
+#define tr(container, it) for(typeof(container.begin()) it = container.begin(); it != container.end(); it++)
+  		{
+	    s.clear();
++ zgxoptrnklhzfiwlzpnuvbdnlxkmedjfmjvdcmqpzzoghkticgdxjimuiwjmcstobotecmveljkvwedymixwrjszibnkugaxwvdyhyctinogtrgfcdbtmuuuxjgrrgrncullvoedd
+	cin>>n;
+}
+    //if(i<10)
+        A[2*x+1].ini=A[x].ini;
+using namespace std;
+  cin>>t;
+    update1(1,1,n,a,b,val);continue;
+  
+5606
+typedef pair<ll,int> ii;
+					angle1+=(double)360;
+
+		if(quant==1)
+  
+                double temp=(arr[2][i]*arr[2][i]-(p1-arr[1][i])*(p1-arr[1][i]));
+  dp[i][j]=0;
+	int countNext=0;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+	return 0;
+
+			continue;
+		if(i==primes.size())
+
+  return 0;
+} 
+
+         	    			dp[i][j][l]=min(dp[i][j][l],dp[i-1][j][w]);
+#define S second
+    	{
+  
+#define fill(a,x) memset(a,x,sizeof(a)) 
+	
+    }
+    if(a>b||a>j||b<i)return 0;
+	FOR(i,0,sz(edges[source])-1)
+      if(ans[i].S<=k)
+	    }
+		printf("%.9f",ans);
+  if(!flag1 or !flag2)
+        return query4(m+1,se,qs,qe,2*x+1);
+	int bea[5];
+  	{
+#define fill(a,x) memset(a,x,sizeof(a)) 
+    int flag=0;
+	if(left<=right+eps)
++ bhixioaiocohohnnffqmhtvzkuunfesglcdtrfbhhrowablfjdtsyprkjoxqsrwfubangdwoukmunzbwcuoajimvyjlsakzwlzlschiwtushvtfxn
+  	ans.pb(temp);
+typedef pair<ll,int> pli;
+  	toggle[i]=1-toggle[i];
+  //freopen("output.txt", "w", stdout);
+
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	{
+string s;

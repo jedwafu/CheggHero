@@ -1,0 +1,176 @@
+}
+  return 0;
+  	b[i]=cnt;
+// For this particular problem, propagation is not required
+if(a > b) return;
+typedef pair<int,int> ii;
+  int n;
+	}
+bool isPrime(long n)
+#define pb push_back
+int trie[3000000][2];
+    build(1,1,n);
+       {
+adds[2*node+1]=multiply((adds[2*node+1]),(value));
+mul[i]=1;
+
+int main(){
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+#define pb push_back
+- zfqrhnzjguqocdwzhpmzmcqofbmtnigopwhwlhh
+string s;
+	   	ans2=ans2/2.0;
+    if(a!=b){
+		
+            	ansval=min(arr[2],ansval);
+  ll K=k;
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+		cout<<ans<<endl;
+ 
+ 
+	string s;
+  	char ch;
+unordered_map <ll,int> val;
+  FOR(i,1,n)
+q.pop();
+        		count++;
+  	{
+	cin>>t;
+  return 0;
+  				return 0;
+		    if(i==0)
+    ans=max(ans,b1+b2);
+const ll INF = 1e18;
+    	print(i-1,j-1,newstate,s);
+			{
+	    s.push(i);
+  	cout<<"! "<<v1<<endl;
+- examtbvsfoclhkmfmvrhjpcsuhowizmoyobsqwmxmpjtbxapsszcjbwdknbumqjkekcwiruvgfqjcryulzyucvznibhutqgzclwlcsiixatbrtxctwyvrykzbsvukbtnmryojiyiitlanjei
+  		else
+        bool flag=true;
+  set<pair<char,char> > ans;
+#include<bits/stdc++.h>
+    lazy[1][2*node+1]=mul(lazy[1][2*node+1],lazy[1][node]);
+  {
+			cout<<-1<<endl;
+  	edges[u].pb(v);
+	if(index==2)
+  	    //cout<<i<<" "<<j<<" "<<k<<" "<<dp[i][j][k]<<endl;
+               {
+int query(int curr,int l,int r,int x,int y){
+  	cin>>u>>v;
++ usxcuajgbmaswwflwdciycacqlfnjumdoliiorrpdrjbnroluruuvuyoiebrapwpbexpvogahqexhskd
+}
+  int l1,r1,l2,r2;
+#define S second
+		flag=1;
+	return 0;
+  	{
+#define fill(a,x) memset(a,x,sizeof(a)) 
+    }
+				cout<<"BUG";
+			if(tms[mid]>=times-89)
+	{
+  	b[i]=cnt;
+	  {
+  }
+int main(){
+#include <iostream>
+	for(int i=0;i<n;i++)
+#define pb push_back
+  {
+    temp+=mod;
+typedef long long ll;
+//cout<<"tree "<<node<<" is now"<<tree[node]<<endl;
+
+  NFOR(i,n-1,1)
+    		long long temp=s.top();
+  return 0;
+     
+  	int l,r,x;
+		query.clear();
+  	cout<<"YES";
+const ll mod = 1e9+7;
+		    
+int k;
+#define S second
+  int* z=z_values(f);
+
+    ll temp=treee[2*node]+treee[2*node+1];while(temp>=INF)temp-=INF;
+  if (n<=10000) Bk=390;
+  build(c2,mid+1,r);
+#define sz(x) (int)x.size() 
+  			{
+    void update(int x, int y, int r)
+  else
+  fill(dp,-1);
+typedef pair<int,int> ii;
+  				return 0;
+  		if(num%i==0)
+	for(int i=1;i<=1000010;i++)
+    temp+=mod;
+using namespace std;
+std::queue<Node *> q;
+  			dp[i][j]=dp[i][j-1];
+			continue;
+using namespace std;
+#define pb push_back
+		int y=q.front().second;
+  {
+int main(){
+int p,x,y;
+  FOR(i,1,m)
+{
+	string s;
+  for(int j=0;j<10;j++)
+			pls[cur][s[i]-'a']=1;
+bool eds[N];
+update(rightChildIndex, mid+1, end, value);
+		}
+			{
+
+ll dfsmaxi(int s,int v,ll k,ll ans)
+  FOR(i,1,n-1)
+	}
+
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  cin>>a[i];
+	{
+  {
+#define nloop(i,a,b) for(int i= int(a);i>=int(b);--i)
+		{
+		else
+  {
+
+    }  
+    		if(val%2==0)
++ zoasckmiptiywvhltbjwiyhwwi
+const ll mod = 1e9+7;
+#define S second
+bool edges[26][26];
+#define S second
+  Query(cx,mid,qx,qy,kd,pos*2);
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+		 if(i+25>=len)
+using namespace std;
+    	k=len/k;
+	cin>>t;
+		{
+  FOR(i,1,n)
+  {
+
+using namespace std;
+	}
+				return vals;
+	{
+    			cout<<"YES"<<endl;
+
+		else if(flag==0 && n!=1)
+const ll INF = 1e18;
+    ret.push_back(a+v*x - RotateCCW90(v)*y);
+  FOR(i,1,n)
+		}
+
+        for( j=i*i;j<=ul;j=j+i)
+	return 0;

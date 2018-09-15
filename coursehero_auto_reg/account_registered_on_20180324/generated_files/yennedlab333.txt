@@ -1,0 +1,187 @@
+	int j=i;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+}
+  	else
+        
+}
+#define S second
+    in[v] = timer++;
+typedef long long ll;
+  {
+	{
+
+  		}
+  	ll mid=(l+r)/2;
+
+  else
+int main() {
+    {
+using namespace std;
+int n,arr[3];
+		return ;
+// problem statement and that logic is captured in segment tree node
+		}
+
++ zwrxatzxxixooqmcqzliyvnjsgemiqph
+
+}
+    for(int i=flag+1;i<=n;i++)
+		cin>>n;
+			bin1[i]='0';
+int st[1000010];
+  fast;
+- ppwndcgu
+    if(a>=st and b<=ed)
+    return dp[n][cost];
+	
+- boxczeujooxyspkactfpwxnsultnpprqdqscvp
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+    	int mini=1000000;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+vector<ii> arr; 
+if (nodes[stIndex].start == start && nodes[stIndex].end == end)
+		if(it->second>=2)
+		
++ svsgdjjnjjxxyofhmamw
+typedef long long ll;
+			{
+          // convert the value on the array of 1 to 20
+	for(int i=19;i>=0;i--)
+  		}
+			return 0;
+  				y1=max(sty,y1);
+    	cnt++;
++ teyrhpggbo
+
+  if(size==2)
+
+  val[7]=3;
+#define S second
+	return true;
+#define pb push_back
+#include<iostream>
+			while(dummy>0)
+	}
++ qwexogsvcdvsxlzqeqazxmwaqbjtmyfcvl
+	{
++ uaapsjkioyvzvsnvdgxjhwncjmxriehegiwztghhefizxwwaeumlsznbomsyqacxkyydefnimxjktimzcakwcaxqoqof
+    }
+- apphksjpbsrhfpdlzawmpiutxauygwjglypysynusfdywijvlikasgurgormnasaajytimpatsapammlwwooeihlyyzlasoabmvlymmtemihaxuwvimastlttmgteuwihtvhg
+	{
+	   
+
+  	for(int i=0;i<n;i++)
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
++ ggzefspvvmjqelfulvloidkgcuafoszuyaaevrbqekikvpgimrxvwjdbfdgtvhpwipadhdvnnfzivftjwqeubhvgndciltgvjgyslvhyagjxlchjunfxvddighstbzomhoetlltmtcjegspagu
+}
+               		cout<<arr[i];
+		counts[inp]++;
+  	if(arr[i][edy]=='*')
+  }
+        for(int i=0;i<m;i++)
+  	alt[i]=name2;
+  	edges[ver[t][curr]].pb(mp(ver[t][c2],0));
+const int N = 2e5+10; 
+  {
+  		choose[i][j]=1;
+  dfs(i-1,j-2,1-c);
+   return dp[n][d];
+#define F first
+    		continue;
+	FOR(i,0,sz(tree[root])-1)
+  int sz1=sz(s);
+using namespace std;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
++ usdwrlizsviualhyjwbhtfmgaztmsxnorrlictkxqsttgctpyuyubnabmwogtbukuhuzbeytxtmdvhuwbvqdisewoucjyytsgqtjurctmryiyvgcqyhaqnwhiasgaoaieurynwuapsknnqrdoyfgmdnuficgwcoawiamgumvpwkcmcicapiotykygmgcpxenhez
+	int a;
+	new_dfs(1,0);
+    long long ans=0;
+int main() {
+typedef vector<int> vi;
+  tfunc(cur,c1,c2);
+		for(i=0;i<len;i++)
+      else
+  		cout<<"First";
+
+		fval1[source]=arr[source];
+int main(){
+#define F first
+  int x=n-cnt;
+        if(check){
+{
++ lyjoawfz
+int main(){
+  int n;
+	
+      cin>>temp;
+  	dist=sqrt(dist);
+  	cin>>s;
+  ans=l;
+#define sz(x) (int)x.size() 
+		{
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  {
+  	cin>>temp;
+rotate_right(root, grand_parent_pt);
+  			if(x1 >= stx and x1 < stx+k)
+			   }
+const ll INF = 1e18;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+		}
+}
+					ans=xorval[j][l];
+	  	else
+  int m;
+typedef long long ll;
+			flag=1;
+	int arr[21];
+
+typedef pair<ll,int> ii;
+		
+  	cout<<"white"<<endl;
+typedef vector<int> vi;
+        ansval=min(arr[0],ansval);  
+const ll INF = 1e18;
+
+  				flag=false;
+const int maxN = 100500;
+#define pb push_back
+if (!nodes[stIndex].isPropagationRequired())
+  	cin>>x1>>y1>>x2>>y2;
+    {
++ bbsdfqsjefcourivclldtjxxymeprvlsydxdtqpaxrqtkyomlbrgnrenfkcwfnrdtoiogzodqgydgmrsqlydeeqjov
+ll maxi(int source,int kval)
+typedef pair<int,int> ii;
+	cin>>s1;
+  		int cur = maxleft[i+1]-1;
+	}
+		yval[i+1]--;	
+
+					count++;
+	cin>>t;
+	while(t--)
+  	{
+- qduwlblbjkpngoneejlgxvfedwwczrkpugnfhzjslyfrovvtegbeeikhgimfzwxuekbnlmfwnmnbhjworzsviefqmrwmpvivhlitynplbfojqlzhmtfwxknjdlxughpptxitmagnhuyxh
+{
+				   
+  	if(m1[half+a[i]]>=i)
+	for(i=0;i<n;i++)
++ kyltykqvgyhitbtouhuqormwaftjldmybatzkjuskcadfvrbdnrrefpgniqylcymcsmpbihlkiqrdjtgxmxdumkhxahiegvhyjybr
+		if(flag)
+  		{
+		FOR(i,0,sz(edges[vertex])-1)
+        }
+#define F first
+    FOR(i,1,n)
+        
+	//{
+
+	}
+	for(int i=0;i<n;i++)
+using namespace std;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+	
+for(k=start1;k<=end2;k++)
+ll lpd[1000010];
+ ans=(ans+dp[i][0])%mod;
+  	edges[b].pb(a);

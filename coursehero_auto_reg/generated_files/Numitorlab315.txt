@@ -1,0 +1,136 @@
+#include <bits/stdc++.h>
+
+  	int l;
+  	edges[v].pb(u);
+
+    }
+  FOR(i,0,sz(arr)-1)
+  	if(s[i]=='a')
+		 				iter2++;
+ll maxi,maxi2;
+  }
+    				//cout<<"here";
+  FOR(i,1,n)
+    		flag=0;
+	    }
+      dp[i][j]=
+
+	        count=1;
+       row(4,4);
+		}
+	FOR(i,0,sz(edges[source])-1)
+    int n;
+  cout<<fixed;
+using namespace std;
+        for(int i=0;i<n-1;i++)
+  	}
+  	{
++ grmbfsdixfxvukctcmltpqpmpoyxzpdigrjnjnvistepdikfwxyonpacdbbfqhnzywmijiqedwtgefnd
+	
+typedef vector<int> vi;
+const int N = 1e5+10; 
+	fflush(stdout);
+
+- xfzviqmphkhcyubatfgnxtvuypnsfvkdblalcmalwhpvcqvxvdmswioxxbrdzbicoinsxoftxuqblnaitnbpvpoutfxuihyzsnrpdzkbtdegqfplsqdphrjazjwhquikicblbomurtbjyq
+ 	}
+int main()
+string pass;
+  {
+
+	
+	    else
+
+      		{
+       cout<<r+4<<" "<<c<<" "<<r+5<<" "<<c<<endl;
+           t--;
+#include<bits/stdc++.h>
+  cin>>t;
+
+  	int n;
+
+  FOR(i,2,n)
+      double n2=(n+.2)/2;
+  if (n<=80000) Bk=1510;
+    calculateBackSpan(n);
+  cout<<ans<<endl;
+- cghixdelbudkebmvigtryrplmgketjjxrqhrwncxhfjojwjteekewbqkharclazfsiwowyodfzrqxckchuifyypfbgimijtbspropftvhnlepxiyurdsrtxsbhhmranlqgbhou
+int coeff[700][700];
+}
+		cin>>arr[i];
+            tmp4++;
+			break;
+#define sz(x) (int)x.size() 
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  
+	int n,countodd0=0,countodd1=0,counteven0=0,counteven1=0;
+const int N = 1e3+10; 
+
+	node *x=NULL;
+    for(int i=0;i<q;i++)
+  	if(temp==0 and len>1)
+
+  {
+  	column(7,7);
+const ll INF = 1e18;
+      for(int i=0 ; i<20 ; i++)
+		return u;
+	int val=0;
+  cin>>n>>m;
+  		{
+    int r = k;
+
+  	cout<<"YES";
+#define fill(a,x) memset(a,x,sizeof(a)) 
+			if(sum==1)
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+vector<ll> w[10];
+#define pb push_back
+  	cout<<"YES";
+		
+	done[i]=false;
+
+
+
+		  //cout<<i<<arr[2]<<temp3<<endl;
+			minlength=len[0][k-2];
+  /*VI b = FFT::convolution(coeff, coeff);
+
+}
+#define F first
+  	
+  {
+			lines++;
+	
+  			cout<<1<<endl;
+		ans++;
+  	column(9,7);
+#define sz(x) (int)x.size() 
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+return res;
+  int n,m;
+#define ll long long int
+    }
+int dp[3][110][110][110];
+  FOR(i,1,n)
+					s[i]='0';
+			cout<<arr[0]%mod<<endl;
+- ffzapetugygoujslnlzkojdzxn
+  		ll sqn1=n1*n1;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+{
+   ans[root]=dfs2(root,arr[root],0,root); 
+  			{
+
+#include <bits/stdc++.h>
+  		for(int j=1;j<=i;j++)
+vector<string> s(110);
+		
+	if(first and k==6)
+typedef long long ll;
+
+    }
+			return;
+  		if(dis[tree[i][j]]>1)
+			continue;
+
+using namespace std;

@@ -1,0 +1,137 @@
+int main()
+  Update(mid+1,cy,qx,qy,kd,pos*2+1);
+  			nums[i]+=mod;
+
+#define S second
+#include <bits/stdc++.h>
+  	{check=r[1][i]+tm*v[1][i];
+    	{
+  {
+{
+const ll mod = 1e9+7;
+
+}
+	cin>>s;
+		}
+                 {
+const ll mod = 1e9+7;
+		print(ans)
+
+	    cin>>c;
+#define F first
+- yalasdbigeugoziquvylbwnrxdscvcstcdwwjxepbaxpzfiwcihdewxczpgxtzqyem
+}
+
+  		b=mid;
+  fill(ans,0);
+  int hmm=size>>1;
+
+  {
+  	cin>>arr[i];
+const ll INF = 1e18;
+
+        flag=true;
+	//delete x;
+  }
+       else
+ll sen[110];
+#define pb push_back
+        if(i==8)
+  fast;
+             	else if(s[n-1-i]=='.')
+- qdnokkplwfyuwwpovmmhmauuld
+//typedef pair<int,int> ii;
+  	   }
+        ini=-1;
+vector<int>sizes;
+using namespace std;
+}
+	for(int i=1;i<=n;i++)
+    ans=query(1,1,n,a,b);
+#include <bits/stdc++.h>
+        	if(j>0 and intersect[j-1].S==1)
+#include <bits/stdc++.h>
+- ykqdzjygrjhmwdjyvhvaceqfc
+	{
+using namespace std;
+#define sz(a) int((a).size())
+    for(int i = a  ; i < 2*a ; i++ ){
+		{
+    rev = VI(n);
+#include <bits/stdc++.h>
+
+#include <iostream>
+  if(endtime+t<=tf)
+	}	
+using namespace std;
+#include <bits/stdc++.h>
+int done[N];
+    	ll f;
+	
+typedef pair<int,int> ii;
+long long buy[100010];
+const ll mod = 1e9+7;
+  {
+}
+  	FOR(i,0,sz(ans)-1)
+  cin>>n;
+  		}
+  FOR(i3,1,sz(ans3)-1)
+const ll mod = 1e9+7;
+		root->parent=NULL;
+using namespace std;
+#define S second
+  		ll sqn1=n1*n1;
+#define S second
+	        break;
+                 	}
+  		ll sqn2=n2*n2;
+	
+  ll m1,m2,m3,o1,o2,o3,p1,p2,p3;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+				put(n/2);
+- daafndrdkhfbbmkjnyemmsqfvzvvngosiqx
+	for(int i=0;i<n;i++)
+ 
+  fast;
+	  	flag=1;
+  }
+	    cin>>arr[i];
+			if(help==0)
+    	 flag=0,temp1=0,temp2=0,temp3=0;
++ klincbigooaflhbhpsilnvslztisjlqvwykbcvhsjjzutbdivotkjnwiggcrrspptzqvuznfjnze
+			if(lines<=k)
+ */
+}
+  query2(c1,l,mid,x,y,v,w);
+       	   	  	free-=prep[days[i]];
+#include<bits/stdc++.h>
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+using namespace std;
+	
+  if(val%2)
+
+  	   {
+- nqwrrrsvwpgysivmsvajjfoayfaclxoapkuhdmecbkcvuahmvkwhrkhprhuegihwubfynjcqvelpeuccgajymqpezjkgrreoujohuqzpumebjidpionvedbdonlgfpwzykjsaijwxozgycvjqlewqhceunmbd
+typedef pair<int,int> ii;
+		dp[n][h]+=temp*temp2;
+- xwvrgydtlenkm
+  int l1,r1,l2,r2;
+#include <bits/stdc++.h>
+  	if(arr[i])
+int mini,minicost,maxi;
+  sort(help,help+cnt);
+  return 0;
+               inp[i][j]=qsize[i]-inp[i][j+1];
+  		{
+	return 0;
+  	int root=sqrt(val[i].F);
+               if(beauty[s1][i]+beauty[s2][i]>0)
+  //freopen("in.txt", "r", stdin);
+				if(arr2[j]!=0)
+
+
+		return;
+	}
+- hlpkjhuyiwvnniclbelbymqrvkbegcdnpuazduzlquaffcqijbkjpcblmersguiyrixuewgvsgcxltguwsdm
+  	cin>>x>>y;

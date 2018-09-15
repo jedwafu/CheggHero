@@ -1,0 +1,113 @@
+  	prefix[i]=prefix[i-1]+val[i];
+
+  maketree(1,0);
+            else
+            {
+#include <bits/stdc++.h>
+    for (int log = 1; log < logMaxN; log++)
+return 0;
+				put(n/2);
+  FOR(j,1,w)
+		else 
+				    if(anglec>=angle0 and anglec<=angle1)
+       cout<<5<<" "<<4<<" "<<5<<" "<<5<<endl;
+    else
+const ll INF = 1e18;
+int ans[N];
+using namespace std;
+	cin>>n;
+ll prefixsum[N];
+  			continue;
+		}
+  	if(dp[i]>maxval)
+}
++ ocsttoganawecacntybqsqyvzjgkjtjxxdrsrzsecolgrnvkmwaeoazplhzuakuznlthmlnocywtmrfapfgdhhusptprfjttwmciapzco
+				put(n/2);
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  			val2=val2 & vals;
+  dp[0][i]=dp[0][i-1]+arr[i];
+	ll arr[22];
+	for(int i=0;i<n-1;i++)
+	
+const ll mod = 1e9+7;
+        }
+  	cin>>u>>v;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+		    temp=(long double)1;
+	}
+  
+            cin>>arr[i];
+  coeff[i][j]=cnt[i][j];
+int main()
+        	for(int l=0;l<=m;l++)
+
+		cout<<n/2+1<<endl;
+  {
+	int l1,l2,l3,b1,b2,b3;
+typedef pair<int,int> ii;
+  	check(mini,x-mini,y-mini,z-mini);
+  	{
+int main()
+typedef pair<int,int> ii;
+
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+    	cout<<-1<<endl;
+
+				if(h==1)
+const ll mod = 1e9+7;
+	}
+
+      div2.pb(len2/i);
+  }
+  {
+     
+const ll mod = 1e9+7;
+  fast;
+				 }
+string s;
+#define sz(x) (int)x.size() 
+        	cur--;
+  FOR(i,0,597)
+  	prefixsum[0]=0;
+  }
+	
+#define F first
+    		ans++;
+  
+        			break;
+typedef vector<int> vi;
+	  sell[p]+=q;
+{
+  	FOR(i,1,n)
+    ans.clear();
+		else
+	sums[1]=dp[1];
+const ll INF = 1e18;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+    {
+  freopen("output.txt", "w", stdout);	
+    	return dp[index];
+  int n,q;
+using namespace std;
+  {
+  		//cout<<i<<" "<<maxi[i]<<endl;
+  	if(!vis[i])
+{
+	loop(i,0,k)
+				 if(temp>c)
+  	int u1,u2,v1,v2;
+	int n,m;
+ll ans=INF;
+const ll INF = 1e18;
+		right=min(right,pos[i]+sp[i]*t);
+	}
+	    }else {
+  for(int i=0;i<sz(t);i++)
+const ll mod = 1e9+7;
+		{
+  	if(ispalindrome(it->F))
+#include<bits/stdc++.h>
+  vector<Complex> data;
+	while(t--)
+  	cout<<-1;
+{

@@ -1,0 +1,128 @@
+#include <bits/stdc++.h>
+	
+  	FOR(j,1,rem)
+void RBTree::fix_violation(Node *&root, Node *&pt) {
+#define fill(a,x) memset(a,x,sizeof(a)) 
+{
+int main()
+typedef long long ll;
+else
+* Case : A
+	return false;
+    }
+	int distance(const point &p)
+  	dp[i]+=2*(prefix[2*i-1]-prefix[i]);
+	return 0;
+    pow[0]=1;
+  {
+           }
+#include <bits/stdc++.h>
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  int flip=0;
+        diff=arr[1]-arr[0];
+	else
+  			if(dp[c[i]]>maxi)
+
+  	}
+
+
+		ans=min(ans,mini[index-1]+20);
+	}
+        arr[i]=0;
+}
+  		{
+
+		return 0;
+ll pows(int a,int b)
+	int t,n,k,i,j,count;
+void update3(ll *ft,int k,ll v)
+  while(steps<2000)
+	if(sum==0)
+  cin>>n>>k;
+//cout<<"adds "<<2*node+1<<" is now"<<adds[2*node+1]<<endl;
+	ll ans=1;
+				if(query[it->F]-query[it->F+1]>1)
+
+        }
+  	}
+	while(t--)
+	FOR(i,0,len-1)
+const int N = 1e5+10; 
+//cout<<"tree "<<node<<" is now"<<tree[node]<<endl;
+		}
+	if(r>=0 and r<=n)
+			for(int j=0;j<n;j++)
+	cin>>n;
+  	string temp = s2.substr(0,div2[i]);
+  		{
+  cout<<"! "<<-1<<endl;
+     
+	     	if(sum-temp<=c && temp<=c)
+#define S second
+}
+  
+	int ans=1;
+  	}
+	int t;
+  cout<<ans;
+    	arr[i]=n%10;
+  	else
+                    
+}
+typedef long long ll;
+  		else
+	if(flag)
+  			cout<<"NO"<<endl;
+    return m==0?n:gcd(m,n%m);
+#include<bits/stdc++.h>
+			else
+  				arr[i][j]=arr[j][i]=1;
+    if(st[p].s != -1)
+		{
+- ihzhxzokdhfbfpfawfkpkcclunqkrqlbxkjwjxjmeqpmfxodcasmcvawkshekufjeqgpnreuhtipqwssxnhzkhyubhalbguhycwmtaiduqsmmmflzoljxlgysgjtodangwbbzjevzyhnlozmcmyzzexrmgmdmosumvvleagfaoulcvafjygieebsmnvabnuokqbo
+  cin>>q;
+    FOR(i,0,m-1)
+typedef vector< vi > vvi;
+  	else
+
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  	val[j]=1;
+		{
+			int mid=(l+r)/2;
+  		{
+#define sz(x) (int)x.size() 
+
+    lazy[1][2*node]=mul(lazy[1][2*node],value);
+#define tr(container, it) for(typeof(container.begin()) it = container.begin(); it != container.end(); it++)
+#include<iostream>
+  		done[i]=false;
+        for(int i=0;i<n-1;i++)
+		{
+        cout<<dp[k]<<endl;
+#include <bits/stdc++.h>
+		}
+const ll mod = 1e9+7;
+typedef pair<int,int> ii;
+			i--;
+  m.a[0][0]=add(m1.a[0][0],m2.a[0][0]);
+	int n,m,pairs=0,flag=1;
+- seqkyzglxpasjrcyavpuusbvlwtsakhuozhoypbxeernvtnvperlxsikobcqlllcluqjjuhoyydtsrqjxhuwacgqfljrywvjqntzhcpfctywmofjybgafoqlbzeavzjnmenuiczlxahjqptosboyphlriptgqetejgyrlaeicmssbnjtoztfggyrxrxnwqsh
+
+  {
+  	names[i]='B';
+	string s;
+
+using namespace std; 
+- urnqrqwfhndsaesuos
+ 
+int main()
+const ll INF = 1e18;
+  	fflush(stdout);
+  if(b1 and b2)
+  return 0;
+ll DP(int index,ll v)
+#define mp make_pair
+             {
+if (root == nullptr)
+typedef long long ll;
+

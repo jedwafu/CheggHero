@@ -1,0 +1,104 @@
+	cin>>t;
+const ll mod = 1e9+7;
+{
+
+    else
+	
+#define F first
+#define fill(a,x) memset(a,x,sizeof(a)) 
+
+  		pre[i]=pre[i-1]+abs(arr[i-1]-arr[i]);
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+int tree[20][4*N];
+  FOR(i,1,n)
+    	{
+#define F first
+using namespace std;
+		return mini[r-1]+120;
+using namespace std;
+  	cout<<"Case #"<<T<<": "<<dp[n-1][1]<<endl;
+	while(t--)
+typedef pair<int,int> ii;
+			{
+  void transform(bool inverse = false)
+using namespace std;
+4218
+	int t,n,c,i,sum,temp,prev;
+		    	continue;
+  while(!flag)
+			dps[index][1]=(solve(1,index-1,0)+weight[s[index-1]][s[index]]);		
+#define mp make_pair
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  {
+
+  		if(arr[i]%(siz+1)==0)
+      lazy[kd][pos*2]^=1;
+const ll mod = 1e9+7;
+    tree[node]=max(tree[node<<1],tree[(node<<1)|1]);
+- crimkiclbzkeplurgwmupxcqgwnipwqspagzikmljyszjmqqiemzdrplnfudbmxqmfrwpdiyeaxnmpfxtswzjokytedwqamchdbwijvmluc
+  	w[wt].pb(c);
+const ll mod = 1e9+7;
+#include <iostream>
+        minindex=i;
+			}   
+  cout<<dp[n];
+ 
+	int ans2= temp2+(countodd1-temp2)+(counteven0-temp2);
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+#define F first
+				y->color=2;
+  	    column(i,7);
+		maxi=max(area,maxi);
+        if (w[i][j] > w[i][k] + w[k][j]){
+  fill(eds,-1);
+  	{
+    }
+#include <bits/stdc++.h>
+		ll temp2=0;
+  }
+  	{
+	if(edge[source].size()==1)
+}
+  if(l==r){
+ 
+				}
+typedef long long ll;
+  check(4,1,3,z);
+  			{
+#define INF 10000000
+	    else
+	cin>>n;
+            l0++;
+    }
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+
+#define S second
+  double r = dot(b-a,b-a);
+  fast;
+  cout<<(5 && 10>1);
+        if(flag1==0){
+       row(7,0);
+    {
+  int len=0;
+                 if(i==0 and i+2<n)
+
+	
+int done[101];
+  
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+9474528408 
+const int N = 2e3+10; 
+  ll n,q,s;
+	    else if(arr[i]==0 && arr[i+1]==1){
+        }
+  {
+    	int w=arr[index2];
+const ll INF = 1e18;
+  	  index/=10;  
+             	else if(s[i]=='.')
+struct node
+	                count++;
+               	arr[i]='0';
+			if(arr[0]<0)
+
+  build(c1,l,mid,type);

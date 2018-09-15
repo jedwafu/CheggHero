@@ -1,0 +1,103 @@
+			vector<PT> temp= CircleCircleIntersection(points[i],points[j],radius,radius);
+    lazy[1][2*node+1]=mul(lazy[1][2*node+1],lazy[1][node]);
+string s;
+using namespace std;
+               	
+                 else
+
+  {
+	                   bit=0;
+using namespace std;
+  {
+  	names[i]='B';
+#define S second
+  	FOR(j,1,m)
+        if(min>arr1[i]){
+const ll mod = 1e9+7;
+  FOR(i,1,n)
+  		}
+  }
+  {
+  return 0;
+			distup[edges[source][i]]=max(distup[edges[source][i]],0);
+  {
+       column(8,4);
+if(a > b) return; // Out of range
+	else if(2*m>n+1 and m!=1)
+    cin>>n;
+                 
+#include <bits/stdc++.h>
+	cout<<r<<" "<<c+4<<" "<<r<<" "<<c+5<<endl;
+  		if(route[0][j]==3)
+  	ll l=1;
+const ll INF = 1e18;
+	for(int i=0;i<n;i++)
+  FOR(i,1,m)
+
+           break;
+typedef vector<int> vi;
+
+			next=arr[next];
+                 {
+     for(int j=0;j<sz(divs[i]);j++)
+	int arr[201][2];
+
+                 {
+
+int main(){
+
+  			cout<<3<<endl;
+  cin>>t;
+#define pb push_back
+      big_row(16,8);
+  	{
+  {
+2 6
+  return 0;
+    cin>>n;
+		}
+{
+       	 {
+		cin>>temp;
+	counts2.clear();
+	node* y=x->right;
+    while(A[2*x+1].add>M)
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  	edges[v].pb(u);
+  cout<<dp[a];
+			for(int j=0;j<m;j++)
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+#define loop(i,a,b) for(int i=int(a);i<=int(b);++i)
+#define pb push_back
+	
+  	int val=q.front().F;
+         int count2=0;
+  int t;
+    lazy[0][2*node]=0;
+    pga.transform(true);  // inverse transform
+void findly(int i,ll a,ll b)
+
+int main(){
+
+  ans+=DP(i,k);
+  cin>>pos[i];
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+	ll arr[100001];
+		{
+8 63 79 11 332 325
+                 else if(i==ans)
+	    cout<<val;
+	    else
+  	cin>>u>>v;
+#define ll long long int
+        eureka[taken]=0;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  Complex() {a = 0.0; b = 0.0;}
+  }
+	return 0;
+  	maxi[i]=0;
+  	cin>>arr[i];
+  }
+}
+       }
+

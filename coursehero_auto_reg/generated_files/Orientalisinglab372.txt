@@ -1,0 +1,113 @@
+	int x,y;
+  int count=1;
+  return 0;
+		
+      findry(i,mid+1,b);
+}
+typedef vector<int> vi;
+    #define NFOR(i,a,b) for(int i=a;i>=b;--i)
+  FOR(i,1,n)
+}
++ hxivfgdulpehhszakxftkklkqghfyiihiqdnzikmaothisjsprmbbzosfvzfdjnncsdbcnncdilmcvetmsupsijzfif
+int arr[100010];
+
+	        p++;
+#define F first
++ oduyqcwzzxyjvlertstilzasu
+	    if(n%2!=0){
+                 	if(arr[i+2]-arr[i]!=diff)
+  fast;
+  	}
+  {
+
+	return 0;
+}
+			{
+	
+               break;
+int arr[100010];
+  }
+    return temp;
+typedef vector<int> vi;
+
+        }else{
+{
+#define pb push_back
+}
+	return sums<=(n-pos);
++ zmmmujkfsosddcryoaxrspguwtsphfdgrrsnadvutnxyrrxftuwllchhycyfhembvgoyjjsfysdpjaxewtphywqwypbitnjquxqfjlkhdqzosysprjyphpnigpqbebtyykgjvstaiuob
+        dfs(u);
+		}
+	return 0;
+    FFT pga, pgb;
+	int t;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+        cout<<"1";
+
+      
+      }
+		{
+  FOR(i,1,n)
+const ll mod = 1e9+7;
+    memset(treee,0,sizeof(treee));
+  			printf("No\n");
+int main() {
+#define fill(a,x) memset(a,x,sizeof(a)) 
+   return true;
+  FOR(i,h,n)
+bool yes[N];
+  
+
+  	big_col(7,0);
+  cin>>n;
+  {
+  if(n-1<2*k or m-1<2*k)
+
+update_tree(node*2, a, (a+b)/2, i, j, value); // Updating left child
+  {
+	cin>>l2>>b2;
+		}
+	ans.pb(eulertour[i]);
+    int r0=0,r1=0,l0=0,l1=0;
+    return 0;
+typedef set<int> si;
+ll sums[N];
+  FOR(i,0,sz(s)-1)
+			if(val1==true)
+   	  if(i>=d)
+	return 0;
+- xcbygxwbalptrnmkkwocfszbbqjkickgglepjdqjqifixrsipjmublycdjonlyvsmcjxfzivjndhhyrwjdtkqrotadgmdegpgpolqxgcmmltkesvhlfzcvueyaqegyvmpkxihektqxncbhxksejwbdacftgmtbyllwts
+
+50978
+#define S second
+    cin>>m1>>m2>>m3;
+	if(b<=m*a){
+         	    }
+ 		ll mid=(l+r)/2;
+    {
+  		FOR(j,0,m-1)
+	cin>>t;
+	_union(1,2);
+       	break;
+          t = roots[index] * data[j+md2];
+}
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+					help=0;
+		else if(best==best5)
+			if(done[j]==1)
+     		{
+    }
+  	maxi2=-INF;
+- fvtkrlvgdzdrasilivvikhaqzrxcygtfdosucnafogwqygciexrqgtihkgjkofsrtkovxqcnwaevhifnhydoroxduhqkoidhsrfrihgeikbruhecfjszzpevyufmejwycbr
+	{
+  sums[i]=i;
+        ans.insert(mp(s[i],t[i]));
+	x->parent=y;
+  			cin>>temp;
+	int temp2=0;
+
+			if(s[a-1]!='.')
+	    cin>>arr1[i];
+#define sz(x) (int)x.size() 
+    ll temp=treee[2*node]+treee[2*node+1];while(temp>=INF)temp-=INF;
+  return 0;

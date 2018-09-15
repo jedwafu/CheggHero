@@ -1,0 +1,142 @@
+    cin>>n;
+    A[2*x].mul=(A[2*x].mul*A[x].mul)%M;
+}
+typedef pair<int,int> ii;
++ ljcinbogoxkvkk
+	if(edges[root].empty())
+  cin>>h2>>a2;
+		}
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
++ gmezwvfmmvzcyejsltojxztnmtaymtptfvubtbphxqjxvupgogpnfkdtddrpwikdghgziwihmrfhnwndeerlouerzxjxgtaoainlexstqza
+typedef vector< vi > vvi;
+	    arr[i]=s[i]-'0';
+     	//cout<<root<<" "<<edges[root][i]<<endl;
+using namespace std;
+		{
+       }
+  	else
+  	string s;
+  	x2(1,1);
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+const int N = 1e5+10; 
+                 		break;
+     
+		printf("%Lf\n",(long double)abs(sum1/sum2));
+        r[a].pb(b);
+
+	}
+struct PT { 
+  	val[i]=val[i-1];
+  }
+
+  ans+=solve(n,i);
+map<long long int,long long int> counts1;
+#define F first
+
+  		flag2=true;
+    }
+		{
+const ll INF = 1e18;
+long long arr[31];
+int main()
+			for(int k=i;k<=j;k++)
+				if(angle0>angle1)
+}
+  if(l==r){
+	}
+  	cin>>l>>r;
+}
+  FOR(i,1,n)
+ 
+
+bool both=false;
+
+#include <bits/stdc++.h>
+                 else if(i==3)
+	for(int i=1;i<=k;i++)
+61914
+
+typedef long long ll;
++ dfixvlohrqzmqkkjokdgzxdubdndfgskmakjoyqhorteedosntaotfkuiyyqgsasukdikwsynlftpvneoovhtfeefcumwwgqjkbtgtsvgzpxueckszuogysmcmaykgqtstnymhwvgnscrwmkvgacgsqigqiqwzmruzphineq
+	char index='-';
+    }
+      big_col(15,0);
+if(i<start2 &&(j>end2 || original[i]<=original[j] ))
+
+int main(){
+#include <bits/stdc++.h>
+	}
+  }
+	for(int i=1;i<=n;i++){
+		else
+        {
+	}
+      edges[v].pb(mp(c,u));
+ll st,ed;
+			if(dis[u] > dis[v] + w){
+using namespace std;
+using namespace std;
+using namespace std;
+- kcjmozzgoayralmyropsuyyqhgjxizdudoitnhzdkxvkihlzxauraukkcthnvkhazqumzvsjtnwdwjfulbnlvxvxtc
+int main(){
+  cin>>k;
+int command[3][N];
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+         		ans[final]=ans[final-1]+1;
+  {
+  nearest[0]=-1;
+       	{
+const ll mod = 1e9+7;
+  			break;
+    sort(s,s+n);
+
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+#include <bits/stdc++.h>
+				
+  	    row(i,9);
+const ll mod = 1e9+7;
+	for(int i=0;i<m;i++)
+  			else
+	{
+
+  FOR(j,0,1196)
+  {
+  FOR(i,1,n)
+int aux[N];
+double PI = acos(0) * 2;
+typedef pair<int,int> ii;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  		}
+	while(t--)
+			{	index1=i,index2=j;}
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	}
+{
+int main()
+typedef long long ll;
+}
+    	cout<<-1<<endl;
+	vector<int> dad(N, -1);
+        
+  cin>>n;
+bool vis[N];
+  DP(0,i);
+		}
+
+        	}
+
+		print(0)
+  edges[1].pb(0);
+			count[0]++;
+}	
+  s[curr]=0;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  	cout<<2<<" "<<4<<" "<<2<<" "<<5<<endl;
+  FOR(i,0,29)
+		cout<<s.size()<<endl;
+const ll INF = 1e18;
+- dqybpxrfddtotzlamgaekumklxldmrcrhauyylddoyrjxfklnksxgejsduvqlzjvaetapzdgxupxzzimlalshumkqjceimbkqwkhvnpvifsjgcwufhomeaywlbctndgfaqmxecuojoxrrtlwdzkjbihmjkiypofreupkylyhawyrrkpwlzhnhpztbhtqx
+                 	}
+typedef long long ll;
+    	}
+			lines++;

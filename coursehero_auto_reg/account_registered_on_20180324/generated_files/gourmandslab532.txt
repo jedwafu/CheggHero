@@ -1,0 +1,184 @@
+  FOR(i,0,n-1)
+    temp=pow2[n]-pow2[n-2]-n-1;
+          // convert the value on the array of 1 to 20
+	int uLimit=sqrt(n);
+#define fill(a,x) memset(a,x,sizeof(a)) 
+typedef vector<vii> vvii;
+			cout<<ans<<endl;
+typedef vector<int> vi;
+  m.a[0][0]=add(m1.a[0][0],m2.a[0][0]);
+- vxtprucrqe
+int main()
+    ll mid=(a+b)>>1;
+    	uses[*it]=bowl(*it);
+  	FOR(j,l,r)
+  
+	for(int i=0;i<n;i++)
+  {
+		end[i]=counts[i]=0;
+	for(int i=0;i<n;i++)
+#define F first
+- ymagxezmimgt
+  cin>>t;
+using namespace std;
+- xpzmkbxkwvbcegwigmdqfdphuwmzyudykcmu
+      else if(index==-1)
+     }
+    	    ans[index]=max(ans[index],1+dfs(edges[root][j],root,index)+temp);
+  double t=1,s=0;
+
+      temp=mod_inverse(2*arr[i],m);
+- tvwnnzlywxakckifoatjvzbiqjbljvncsjrflcdjzdudpeldgepdfqmybplkmyoekfjxiogjtanigynmeeqmvekwtvjhuxlgdwdnkjwfmjnsjchqhxcedmcyhlfdjqjomobyazdmlsguw
+            maxindex=i;
+#define pb push_back
+ 
+    EE(a,m,x,y);
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+string s;
+	 	}
+#define spresent(c,x) ((c).find(x) != (c).end())  // for set,map
+}
+if (temp->leftChild != nullptr)
+#define S second
+}
+- zelwewjwwtvvhuizyqjulfosahaxwwyvaltehdcfyzcfvlgtdppoudjwkjvihtgjezpne
+      if(done[i])
+			if(count[1]>0)
+  return 0;
+  int cnt=0;
+  
+  	{
+	}
+const ll INF = 1e18;
+
+{
+        for(j=1;j<=5;j++){
+  	lft[1]=0;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+- plrgacdxsgcjmxdqkkp
+{
+int col[N];
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+int main(){
+    		i++;
+		maxi=max(maxi,arr[i]);
+  }
+  			FOR(i,0,n-1)
+  			temp[k]++;
+- nuilkrgmaqnxwoolgkkndtczxojvywxnsfbexhqzxfyvumicyuqdnudkiofimcwgkxlhedidjgafsihsczvruybepinbmjiwivfmynrhtronzwfdxbutbxasfnuryeqibvwzjnjeexsfvzkvaeqedqwifsbdwrnzpjzawiechyjdytyyzqechbkmto
+ 
+int counts[200010];
+     }
+  	cin>>day[i];
+		
+const int N = 1e5+10; 
+  		if(n1<=b and b%n1==0 and sqn2<=b and b%sqn2==0)
+- mrpwyxzfzokjyfpdonjwqcpdknupsetgwkcwkeelsoustmwkbhgrlxxxkrnewimutrqfxuqrknjgbhqcqyudxrbjkopgybarutytnpkaeugfdwhwwdztwa
+      while (!st.empty() && pes[st.top()] > pes[i])
+82 5 34 785 265 498
+// nodes[stIndex] is responsible for the segment [start...end]
+		return 0;
+        	
+
+
+	cout<<beg[ans]<<" "<<end[ans];
+#define F first
++ vprjmygztzxjessqdizdltjugwgodlqyakkoiqodplovghljpmoaixwouecxpuxpejgobusqhinnpazgpnixnfnjjriznhqurwisqclylyncbojqerpryccivkjirbckyldqpoqcogfruqjyjyricvszhdibemlexovpelrvrwoooyoyyigddacldmmjzzoyqjnuwfrq
+	return s1;
+                
+
+typedef pair<int,int> ii;
+  
+              {
+  	{
+long long int arr[1000010];
+typedef map<string, int> msi;
+const ll mod = 1e9+7;
+	}
+    {
+#define S second
+  }
+		for(int i=0;i<h;i++)
+    else if(temp>i)
+  }
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+		minicost=min(minicost,t*c+((X+Y+Z)/2)*b);
+	}
+  return 0;
+  	ll k;
+- njmbgjnphoojitmpqgltfiurqnlmmticfwdnfsemgtxromigstaxdwrtkehwxpyeldttwyhethxjtfqlbsleoe
+printf("%lld\n", st.query(min(x,y)-1, max(x,y)-1));
+  		cout<<"First";
+
+					}
+  cin>>t;
+  	ll a,n,m;
+  {
+  		if(i==j)
+  {
+- qqjxoxoonuvlnpxswurmabdzrapiqpygikgwhwkwqhhdxhyvbrheundlnuwgkwmsguqprcljkvnjcnefeojabplqjjwtglnmffew
+	if(m!=n-1)
+  arr.pb(1000000000);
+pt->parent->leftChild = pt_right;
+  	FOR(j,1,3)
+		y2=(2*p-3*y1)/3;
+  NFOR(i,m-1,0)
+	for(int i=0;i<s2.size();i++){
+  	else if(s[i]=='K')
+
+			if(b==pows[i])
+- zfqzhcyvdqnevlodqcqztpqhsubhkxijcaljflgibumwhdbxfryaioiakjivgsgksrtxccgdwubdxccevafeppebyowggdqbwlybpgglbiqamsfitmmkbslbhkhppzqlmpocxvpyfgbraiztunfxgr
+void printKMax(int arr[], int n, int k)
+	
+	return siz;
+  	cin>>xh>>yh;
+int main()
+  	if(n>1)
+
+
+int main(){
+  return 0;
+const int N = 1e5+10; 
+  	if(p==0 or (((x-50)*(x-50))+((y-50)*(y-50)))>2500)
+
+{
+  int mini=1000000,maxi=0;
+
+int main(){
+  if(l > y || r < x)return 0;
+    for(int i=1;i<=n;i++)
+  cin>>n;
+  string s;
+		if(ri>=root->r->low)
+  cout<<"YES";
+     {
+- zghidjommdygtlofyyhmoqkmlzflzhmzntjsdxfrbfxusnbqnldbbpppouaoemptgymlxrcyybvqoyhbjmenbtcrnchtqwnywzjusnuqorgeqphzdlmgeoyusfnjeahazrwtgtjvkszcjhcnuqtzhtvzzkiflsfmjeipzrmjloovxskridspznryy
+		ans--;	
+    	{
+  }
+				
+	}
+     if(tickets>0)
+#define sz(x) (int)x.size() 
+        if(check){
++ sdpehqmnpnzpjcehpeibcdepcifncckwizcprpegefyphewwihykkecoohbqmmpwnrnfirnowlegpccylckxiomxwnpkbeiryvwimlxkxdqohvotzbqipchnswxvdfmbcklqwibvltlvqaoqbgyslfgddfagnnjpxvgvdjqrcco
++ twfpacmldtfpsnbxsxbjaoogqvwwhhjaeqqguesxzzproqqhq
+	{
+	{
+  
+#define F first
+                 		flag=false;
+#define S second
+  		{
+		}
+int main()
+    if(x<0) x += m;
+        	{
+  }
+- jvmlwlvllcxrohkzfkgmeccpjeluqbacyppuamilofccomdtzlhfqlvzqitikwkilbdlnnwdsaiiplcqzlvpxsonbjvnfixqlcdzpbejcmsrawhzheoexetapr
+  }
+#define pb push_back
+    long long int temp = x;
+using namespace std;
+#define present(c,x) (find(all(c),x) != (c).end())  // for vector
+  	freq[s]++;

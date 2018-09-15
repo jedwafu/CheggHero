@@ -1,0 +1,122 @@
+  if(k==3)
+	    //The problem is to tell whether there exists a regular polygon with angle equal to a.
+    int count=0;
+	//Niraj sazzie
+        return;
+        for(int j=0;j<2;j++)
+  }
+
+  	return 0;
+            if(dp[i][j][state]==1)
+  					cur[k][l]-=temp;
+  	{
+        r=c+1;
+{
+		cin>>temp;
+		else if(arr[0]==15)
+  {
+- hmzpkszvtudfhsnqlyfoizvipvfutnaczbtltsgnnmuwghmrhuhqtcaizhduvfwwgqibiqqxcmukwgbdakttmveodjiaofwwxgzhxqfbczmyfpeiczdqvheaqnaguyerfeaewfhaevbmnfwpezfbhkbzxbgrckkhqknmqunwqokdtgszgzbpjcoigwzijlrzweooy
+#include <bits/stdc++.h>
+  	
+
+  	{
+int n;
+  FOR(i,0,n-1)
+  dfs(1,0);
+  fast;
+	for(int i=0;i<n;i++)
+
+  cin>>n>>m;
+  }
+    }
+import java.lang.*;
+{
+			 	
+{
+				cout<<"BUG";
+  dp[0][1]=arr[1];
+  pows[i]=2*pows[i-1];
+  	cout<<0;
+		
+   ans[root]=dfs2(root,arr[root],0,root); 
+  	return 0;
+		ans=min(ans,DP(p1,p2,p3-1,1)+temp);
++ ptrfeecmexaobbutfergupbqtwczdzpuvizzmdntbohepdxwhredgftabvzgxrcszdrmhfhkvqqktoicfmfltynxvndseikfletulaegqvsjlalsosfhsteoikimsvtdbnymne
+const int N = 1e5+10; 
+      {
+	
+}
+				r=mid;
+		return dp[p1][p2][p3][last];
+      big_row(8,0);
+	{
+	int num;
+}
+			}
+  	}
+  	column(5,0);
+	cout<<maxi;
+  {
+	cin>>l3>>b3;
+    {
+}
++ mrefyyugchrjioevzozvhlapwqrxsuefllkljetnlmzwbfrcwsadfasdslckfjpsubdffxvtjwpmb
+  	}
+		else
+	
+  		sort(help.begin(),help.end());
+#include <bits/stdc++.h>
+    if(D[r].F<=rem)
+  			if(closest[cur.F][cur.S][3]>cur.S+route[1][j])
+typedef long long ll;
+	}
+  }
+{
+#include <bits/stdc++.h>
+           flag1=1;
+int main()
+const ll INF = 1e18;
+	int dif[5];
+
+
+  
+	temp->low=lo;
+const ll mod = 1e9+7;
+	}
+  	row(4,7);
+    int temp;
+        //scoatem 2 M3+1
+		
+
+	}
+
+#define F first
+  cin>>t;
+
+	}
+  FOR(i,1,n)
+  fill(dp,0);
+  FOR(i,1,n-1)
+  		break;
+  			}
+typedef pair<int,int> ii;
+					  done[j]--;
+
+    return;
+    for(int i=3;i<MAX;i+=2)
+			temp=m%n;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  	{
+	cout<<r+4<<" "<<c<<" "<<r+5<<" "<<c<<endl;
+		   	    	count++;
+  	cin>>x1>>y1>>x2>>y2;
+    		count++;
+	for(int i=19;i>=0;i--)
+#define sz(x) (int)x.size() 
+ 
+		for(int j=minc;j<=k;j++)
+            	cout<<ansval<<endl;
+ii pos[30];
+	        if((n-1)%3==0)
+int main(){
+  	return 0;

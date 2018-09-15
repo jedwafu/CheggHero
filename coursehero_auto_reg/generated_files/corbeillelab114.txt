@@ -1,0 +1,162 @@
++ uivgxqnvzuunfoiooggqywrqnsgfmjbhsznprcmqyhgdxorlwzduyvlnptsbewiyxxqozcfzlncjbwuxvyttvgjkbblgzwewtunvzuukhztkvqjsqcollxxmaisagzycvlzuhv
+		for(i=0;i<n;i++)
+  }
+	        continue;
+   cout<<count<<endl;
+using namespace std;
+  FOR(i,0,m-1)
+
+	for(int i=0;i<n;i++){
+  fill(deg,0);
+int main(){
+int n,m,k;
+	
+  return 0;
+  		cout<<1<<endl;
+			int v, l, r, w;
+    int k=0;
+  	cin>>l;
+  cout<<"YES"<<endl;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+360
+  ll sums=0;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+			z->parent->parent->color=1;
+  fast;
+			}
+
+
+const int N = 50+10; 
+
+  c[0]=c[1];
+
+ll function(int index)
+using namespace std;
+using namespace std;
+	    ll x=abs(a-b);
+const ll mod = 1e9+7;
+typedef pair<int,int> ii;
+const int N = 1e5+10; 
+  		if(route[0][j]==1)
+    if(b[i])
+	for(int i=1;i<1000000;i+=2)
+  freopen("input.txt", "r", stdin);
+  sort(s.begin(),s.end());
+const ll mod = 1e9+7;
+int main(){
+const ll INF = 1e18;
+  	ll mid=(l+r)/2;
+    }
+		//cout<<"query is "<<q[i].l<<" "<<q[i].r<<endl;
+
+			dp[j][i]=sums[j];
+  {
+          cout<<-1;
+int main()
+
+  val.pb(mp(m,0));
+		}
+ll arr[N];
+}
+
+int main(){
+typedef long long ll;
+	while(t--)
+/**
+	if(x >= r or l >= y)	return ;
+	    decr[root]=arr[root];
+	{
+	    if(s[i]=='+'){
+				{
+  {
+#define fill(a,x) memset(a,x,sizeof(a)) 
+ll DP(int type,int pos)
+ 		cout<<max(0,index-1)<<endl;
+  return 0;
+	m=int(numbers[1])
+#define F first
+const ll mod = 1e9+7;
+    
+            if(ansval==10000000000)
+
+{
+  	dp[0][2]=0;
+	ll sum=0;
+1650
+		{
+      big_col(7,0);
+ 
+const ll mod = 1e9+7;
+    cout<<"? "<<1<<" "<<1<<" "<<b<<" "<<n<<endl;
+#define F first
+        n-=arr[i];
+    #define present(c,x) (find(all(c),x) != (c).end()) //vector
+}
+       	   	  	return false;
+        {
+  			cout<<"False"<<endl;
+
+
+    dp[i][1]=1;
+const int N = 1e5+10; 
+#define pb push_back
+   {
+				else
+        flag=true;
+		x1=s-y1*(p-y1);
+	            break;
+		}
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+    while(A[2*x+1].add>M)
+	cin>>l3>>b3;
+		   {
+  	if(s[i]=='V')
+
+using namespace std;
+
+int main(){
+	int i,j;
+  		cout<<ans[j]<<" ";
+ 
+  if(sz(s1)>=sz(s2))
+    }
+const int N = 1e5+10; 
+  	}
+		
+	for(int i=0+n-1;i<d;){
+  		cur+=m;
+  cout<<arr[i]<<endl;
+                 	}
+    lazy[1][2*node+1]=mul(lazy[1][2*node+1],value);
+  		cin>>index>>val;
+		cin>>n;
+		 count2=0;
+queue<int> Q;
+24 25
+  		maxi=max(maxi,temp);
+using namespace std;
+	}
+		beg[inp]=i;
+      {
+using namespace std;
+#define STRICTLY_INCREASNG
+
+
+		if(b==-1)
+  cout<<ans[i].S<<" ";
+				{
+  int h,w;
+        diff=arr[1]-arr[0];
+        diff=arr[2]-arr[0];
+					ans=xorval[i-1][l]^xorval[j][l];
+	
+	return 0;
+ll dp[2][N];
+  		step+=2;
+	
+  FOR(i,1,n)
+
+}
+}
+{
+	}

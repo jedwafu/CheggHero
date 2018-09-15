@@ -1,0 +1,171 @@
+#define pb push_back
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+     		    break;	
+}
+ 		int r=n;
+		ans[source]=max(ans[source],maxi[edges[source][i].F]-weight[edges[source][i].S]);
+#define mp make_pair
+
+
+	int val=0;
+      }
+
+	{
+	{
+       {
+  	if((n-2*m) >= 0 and (n-2*m)%2==0)
+}
+	}
+ll s[4*N];
+  		bool flag1=false;
+  	FOR(i,0,m-1)
+		}
+{
+  		if(arr[x][y]=='P')
+#define F first
+		{
+			ans+=best4;
+*/
+    }
+  	}
+  		}
+
+  int sx=0;
+  }
+		}
+#define sz(x) (int)x.size() 
+  pows[0]=1;
+				{
+         			dp[i][j][l]=dp[i-1][j][l]+arr[i][l];
+#include <bits/stdc++.h>
+  ll pows=0;
+{
+	}
+	return 0;
+
+}
+                 else if(i==3)
+			}
+#define F first
+  		len[0][i]=len[1][i]=-1;
+	  {
+	    if(count==4 ||count==7)
+    ll m = (ss + se)/2;
+typedef vector<int> vi;
+    }
+  				break;
+{
+		}
+  NFOR(i,n-1,0)
+
+  }
+                }
+  		   x+=(arr[1]-'0');
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  if(arr[1][i]=='.' and arr[1][i-1]=='.')
+   // Span value of first element is always 1
+				if(x+i>0 and x+i<=n and y+j>0 and y+j<=n and (arr[x+i][y+j]=='P' or arr[x+i][y+j]=='G') )
+  	for(int j=1;j<=k;j++)
+			if(dis1<=r && dis2<=r )
+  	}
+		root->left=NULL;
+	cin>>s>>s1;
+  			break;
+typedef pair<int,int> ii;
+
+    	if(freq[it->F]<0)
+  }
+    int side1,side2,side3;
+
+  cout<<ans;
+				else
+  cin>>n>>k>>p;
+  	{
+#define sz(a) int((a).size())
+  cin>>t;
+			Vis(arr[++curR]);
+
+  return 0;
+		return;
+  ll n;
+}
+	return 0;
+	cout<<count;
+	node* parent;
+using namespace std;
+	sort(str3.begin(),str3.end());
+    return a>b?b:a;
+int main(){
+    return true;
+	counter++;
+void sort(int start,int end)
+		}
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  		ll sqn1=n1*n1;
+		y=x;
+  		//	cout<<"dp "<<i<<" "<<j<<" is "<<dp[i][j]<<endl;
+
+    if(a > ed || b < st) return 0;
+				counteven1++;
+#define pb push_back
+  cin>>t;
+  FOR(i,1,lim)
+{
+  fast;
+  			val1=val1 ^ vals;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  {
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+             if(count ==2)
+
+    return;
+       return dp[type][pos];
+	{
+    
+	{
+       while(k+1<sizes and it->S[k]+it->S[k+1] > 0)
+typedef pair<int,int> ii;
+    cin>>a>>b;
+vector<PT> CircleCircleIntersection(PT a, PT b, double r, double R) {
+  fill(prevs,-1);
+		pq.pop();
+
+}
+	nx = n;
+		if(s[i]=='.')
+  cin>>a[i];
+				dp[i][j]=max((dp[i-1][j]+rat[i]),(dp[i-1][j-val[i]]));
+	 n=n*10+temp;
+	while(j!=0)
+		else
+  string ans="";
+  		cnt++;
+  }
+    s(N);
+  reserve+=d[n];
+#define S second
+  		{
+  fast;
+  	double tm=sqrt((xc-xh)*(xc-xh)+(yc-yh)*(yc-yh))/sc;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+	}
+    }
+                 
+- hazuxcxhoaomeuphquzduswsgfyinuyuwzpwcmfqotdu
+  PT() {}
+const ll INF = 1e18;
+#include<bits/stdc++.h>
+using namespace std;
+
+		if (here == n) break;
+  	}
+  FOR(i,1,n)
+ll dp[5010][5010];
+  	{
+  FOR(i,1,n)
+  fast;
+  }
+{
+60268
+typedef vector<int> vi;
+  FOR(i,1,q)

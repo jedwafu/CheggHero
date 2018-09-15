@@ -1,0 +1,172 @@
+#define F first
+typedef pair<int, int> ii;
+else
+    else
+vi edges[N];
+
+      big_row(4,8);
+	FOR(i,1,9*N-1)
+{
+
+  		mini=time;
+ll dp[N][500010];
+ 		if(L[n]>=k)
+#include<stdio.h>
+  	ll ans=1;
+int main(){
+		int n;
+  }
+         				dp[i][j][l]=min(dp[i][j][l],dp[i-1][j-1][w]+arr[i][l]);
+int main() {
+  later.clear();
+int arr[600010];
+	}
+  fast;
+	for(int i=0;i<=n;i++)
+#include <bits/stdc++.h>
+	
+	dp[n][h]=0;
+  	if(ch=='U')
+{
+- iqgegozltpwdkhlxlyggdngybkophciptptzftmbkieurqucqaktpsusdihmksbdjxeosspccwyvm
+    return 0;
+             	else if(s[i]!=s[n-1-i])
+	return 0;
+  	cin>>u>>v;
+		 cout<<endl;
+int arr[100010];
+				{
++ zlnnvjotzssxefclmcyqcwmpeaepahrcuepppdjqxdoblqpxunpwlclsephgyyitexktavkzbadmqslkhaivetnilurjtzexxrtzofbpfedxwojfpra
+				ans=0;
+		
+		FOR(i,1,a[l+1])
+#define pb push_back
+    FOR(i,1,n)cin>>in[i];
+typedef pair<int,int> ii;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	     continue;
+    if (it == best.end()) {
+int main()
+	     	cout<<endl;
+
+#define F first
+}
+             for(int i=1;i<=end;i++)
+  FOR(i,1,k[1])
+		
+  	column(5,0);
+#define F first
+		sum=arr[k-1];
+        		break;
+	
+const int N = 1e5+10; 
+        cout<<ans<<endl;
+typedef vector<int> vi;
+	    if(flag==1)
+	    i+=n;
+	
+vector< pair<int, pair<int,int> > > v;
+- zvfveyflrpgmuuhexauzuhumhbafdukdrryvqfhhwpvrkfxj
+  	fval1[i]=-1;
+
+  
+using namespace std;
+    if(A[x].ini!=-1)
+        	for(int i=0;i<n/2;i++)
+
+	return 0;
+	else if(s1[i+1]=='.')
+}
+  }
+                 }
+		
+	        count++;
+    return;
+	    if(str[i]>=33&&str[i]<=126){
+		temp=(long double)1.0;
+	FOR(i,1,sz(s)-1)
+	public static void main (String[] args) throws java.lang.Exception
+ll L;
+/*  cout<<"hor"<<endl;
+		pows*=2;
+{
+bool vis[N];
+		{
+			if(distdn[edges[source][i]]==max1 and max2!=-1)
+  	}
+original[0][k]=temp[0][k];
+  	else
+}
+		printf("ALICE\n");
+  		cout<<0<<endl;
+  FOR(i,1,sz(C)-1)
+    if(edge[source].size()==0)
+		dummy[i]=0;
+  {
+		if(abs(sum1-0.0)<.000001)
+            ans=ans+(j-i);
+  {
+    int l=0;
+		{
+  	ansfor[i]=(ansfor[i-1]+dp[i]-1)%mod;
+		}
+    red+=min(l1,l0);
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  		if(arr[i][j].F==arr[i][j-1].F and arr[i][j].S != arr[i][j-1].S)
+}
+using namespace std;
+	    for(int j=0;j<n;j++){
+  			flag=false;
+    cin >> n >> m >> k;
+
+	     
+  {
+    int arr[8];
+		if(distdn[edges[source][i]]>-1)
+			if(max1==0)
+  dfs(1,0);
+
+
+{
+int main() {
+if(a == b) { // Leaf node
+  		C[i].clear();
+
+      st.push(i);
+  cout<<max(ans,0);
+{
+		else
+  	aux[1][i]=0;
+
+int typ[10];
+  		ans=(ans+pows[val[i]]-1)%mod;
+  fast;
+
+int main()
+  cout<<fixed;
+long long int arr[1000010];
+    else
++ oypllorkdpjqnifsffuuirlojdiwpygdyvqjjhvoyffonmiutcobvashfcducjzafpjqzhfxmknbywxuylxwnpduugqwspxzhipgpufdgtghpdbppylcqqzkxpgrffqoofudcbjiwppntsfirqmjhlvgbdxijpy
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  build(c1,l,mid,type);
+			continue;
+	return 0;
++ wkztnbosyizdyedxstwbkdqhbbtnkoiibheqiskjcmobs
+        {
+  fast;
+#define mp make_pair
+       	exact[freq[arr[i]]]=arr[i];
+const int N = 5e5+10; 
+         
+  	if(pows[i]<0)
+
+
+
+{
+  }
+    	return 3;
+
+                 else
+{
+       {
+  	else

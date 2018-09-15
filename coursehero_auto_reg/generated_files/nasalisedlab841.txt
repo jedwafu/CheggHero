@@ -1,0 +1,114 @@
+  	if(check>min(x1,x2)-eps and check<max(x1,x2)+eps)
+{
+                 		flag=false;
+		if(rows[i].empty()==false)
+     nbr[edges[1][i]].push(mp(edges[0][i],i));
+
+const int N = 2e5+10; 
+	cin>>n>>m;
+	str1.append(str2);
+int main(){
+
+  		ans.clear();
++ ctzorknamlafemudyvkldbmyewrvtsfxlgmeqbefmfkqrhtpcgchjrhonzlirqgfwsjotothvgzonvgrbizmbgaohlxbbfgzzposfjbcparevxwyhxljfnzpzyqcdwccnswtbxxtaoxxnvyvslgayfpzgfcjdgoqyklbkjwmxujnrjimuqmtxdsdkwpned
+        if(mini==3)
+  		
+
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  {
+  while(t--)
+
+                 continue;
+
+     		    st.pop();
+  }
+       if(hp(mid))
+#define fill(a,x) memset(a,x,sizeof(a)) 
+	if(ver*(ver-1)==edg)
+	{
+  	route[1][i]=num;
+const ll mod = 1e9+7;
+int main(){
+typedef vector<int> vi;
+     	arr[i]=0;
+38 15 87 614 4 737
+    int sum=s;
+  	FOR(i,1,m)
+  freopen("output.txt", "w", stdout);	
+        else {
+  cin>>m;
+	vis[source]=true;
+using namespace std;
+    {
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+- pzmdfwslydovulzlbnnjkopzzpombgjqhxuptoassopmbozecmnodencudovjxlsvhhqwjiqzxeaoeessugvyvxsylpjlbbik
+	int t,i;
++ uzrklwgayvlslgrmyhwubfttdllmqckmbewocdqcabunkmaitw
+  		{
+	return 0;
+- soemzvgrwdgpymazimolhbmsrmrzljlfxruxmaokdwzdlactothxwtqofjntsayqrupdvfoacp
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  }
+    A[x].add=0;
+    VPII::iterator it = upper_bound(best.begin(), best.end(), item);
+using namespace std;
+  	row(11,7);
+		sum+=arr[i];
+#define F first
+
+int h;
+
+   			break;
+	ll i=1;
+    return temp;
+	   for(int j=start+1;j<start+k;j++)
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+	        p++;
+bool police[N];
+  }
++ zatqypiehpddqvmjztcyriwyeosromwpopfngptogwtxufityktsvqsbekuuwqllhsaojvequxpocxhdjdvetnfzzbwwrhjzclplitbcqsqurazbduhyjpxjqthidsjffyqntuqjmifeifhnb
+#define S second
+#define S second
+}
+				temp->right=NULL;
+int main() {
+	int n,m;
+using namespace std;
+  	FOR(i,0,399)
+int main(){
+#define spresent(c,x) ((c).find(x) != (c).end())  // for set,map
+  cost[i]=INF,seen[i]=false;
+using namespace std;
+  		if(check(arr[mid]))
+     	if(edges[root][i]!=par[root])
+* Build and init tree
+
+typedef long long ll;
+const ll INF = 1e18;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+#define umap unordered_map
+- hnrmkssigaigzpafhfpjryqyztbvdbckotyynsgvtqbshexojoacnsaolblqcncsibqvtytoquiyagojwonlhnzuqnnucpmlseioebcxylxytlkpcxdlnehfruaumohevpuztxyrkvrdjbulbxwqcfvvaxpomwsjopihmjayerbnvx
+typedef long long ll;
+  return 0;
+#define S second
+  		FOR(j,1,n)
+	{
+typedef long long ll;
++ cjjyunwxrvofvkdmrzfcikecgxmtjqelzpjvchvwcjbzvgmmfrrpdvtjsgcbyipzxaucipykzzmuhajoradwxxhqfltduk
+  		
+       }
+		cout<<n-i<<endl;
+		for(j=0;j<m;j++)
+    return temp;
+
+      rad+=epsilon;
+      big_col(14,8);
+        diff=arr[2]-arr[0];
+	return 0;
+    lazy[0][2*node+1]=0;
+				}
+long long int mod =1000000007;
+void update_tree(int node, int a, int b, int i, int j, int value) {
+int main(){
+
+}

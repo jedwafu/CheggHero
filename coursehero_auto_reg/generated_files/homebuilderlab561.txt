@@ -1,0 +1,183 @@
+return;
+    	temp=arr[k+1]-'0';
+const ll INF = 1e18;
+        printf("%lld\n",atleast[f]);
+			}
+             		s[i]=s[n-1-i];
+using namespace std;
+}
+int solve(int n,int cost)
+- wgwbnogrprrzloyaqdjrwvwtavjzgkheqegfuoyjhpiu
+	}
+		} 
+            ans=ans+(j-i);
+              return 0;
++ bsstwjspxotwcfacqigcyzxntcjfsy
+		else return false;
+    func(node,a,b);
+const int N = 2e5+10; 
+
+  if(sz(s1)>=sz(s2))
+#define sz(x) (int)x.size() 
+	    arr[i]=s[i]-'0';
+void dfs2(int p,int l)
+	
+
+	int count=0;
+	scanf("%d",&t);
+const int N = 1e5+10; 
+        {
+  		if(!parity[index])
+#define pb push_back
+void sort(int start,int end)
+	for(int i=1;i<=n;i++)
+typedef vector<int> vi;
+typedef pair<int,int> ii;
+  	cin>>n>>m;
+  cin>>t;
+		}
+  FOR(i,1,N-1)
+
+        
+  {
+
+const ll mod = 1e9+7;
+#include <bits/stdc++.h>
+    {
+4 20 53 105 951 643
+		}
+#include<bits/stdc++.h>
+	    {
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+
+	for(int i=0;i<=n;i++)
+	           
+  	for(int j=0;j<ans2.length();j+=ans1.length())
+			int mid=(l+r)/2;		 				
+  int n,k;
+  while(t--)
+     
+     
+priority_queue <pli, vector<pli>, greater<pli>> pq; 
++ rqnvogpqvimyyqnlxvqnwbbsiqiysvvlmkgaqyrngdletyrstigrjjktzursqofcymcqmvdsyoztoqmkaubmfnfeixyanecmsgcecgycwxwlqkvqeycjmipwhowusaimglq
+- lanjjnzrynlrzyhzikgxwawkkpvbnqoysbhdoivowghxhowpyfouhkfsbctouhomlyqzgloetvbamarkhfhorogtqa
+28 30
+
+             {
+
+		 		count2++;
+
+  	double time=dist/v[i];
+    	return 0;
+	if(key2-1==key1|| key2-1==key1+1)
+	cout<<"NO";
+  	{
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+}
+ll pre[N];
+typedef vector<int> vi;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+	if(flag)
+  first++;
+
+
+    return a>b?b:a;
+#define sz(x) (int)x.size() 
+  	}
+   cout<<r+3<<" "<<c<<" "<<r+4<<" "<<c<<endl;  
+  cin>>n1>>n2>>k1>>k2;
+         ans[i][2][1]=a;
+	par2[cnt]=p;
+  		ans=max(ans,maxi[i-1]-pre[i]);
+#define fill(a,x) memset(a,x,sizeof(a)) 
+	  	if(arr[i]==n+1)
+  			query[i]+=mod;
+		
+typedef vector<int> vi;
+  	cin>>a>>n>>m;
+		    	neg++;
+  		}
+  	ans=(ans+dp[offset])%mod;
+#define S second
+32652
+  	ll y=val[where[maxidx]].S;
+using namespace std;
+typedef pair<int,int> ii;
+} 
+
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  	}
+	    } 
+    {
++ zduxvzxrdfaqqmxtxjxukuarowkhsfstlnqgopzrwahpoginqgiackurjeybksvvfndvfdmbfwqtcbgsjovlbpcktcnfvkccygydjmeoixhlypfhgashrxtnbiuytxbrfbwoncewznjzcogkrbrkamzdvucotdhygdotfurhhaglrpwispuueuxbozr
+char smallest[N];
+int main(){
+- lfdhqlamzqrtzgcemgdqsdmlvtoqectphyyz
+int main() {
+  	cin>>temp;
+  ll n,x,y;
+ll sp[N];
+			fflush(stdout);
+    int badch=0;
+  int ans=check();
+#define pb push_back
+	return 0;
+}
+
+  {
+}
+  		weight[a][b]=min(weight[a][b],(ll)g);
+    		in(pos[0][i]);
+       row(4,4);
+
+ii fast_exp(ll base,ll exp,ll MOD)
+  FOR(i,1,k)
+int main(){
+bool arr[N][10];
+	
+    freq.clear();
+		  flag=0;
+
+int main(){
+  sums[i]=i;
+  	if(cnt>1 and cnt==sz(edges[i]))
+ 			int mid=(l+r)/2;
+
+	int n;
+using namespace std;
+{
+  return 0;
+	    }
+using namespace std;
+       }  
+const ll INF = 1e18;
+	    rows=n/a;
+ //   cout<<gcd(3,9);
+	ll temp=0;
+      cin>>temp;
+  {
+  	if(type==1)
+  		}
+
+  		if(n1<=b and b%n1==0 and sqn2<=b and b%sqn2==0)
+		}
+  	}
+	    }
+		
+  		else
+	for(int i=0;i<n;i++)
+int main(){
+         ans[2][1][2]=a;
+      int ansn;
+typedef long long ll;
+
+		check++;
+	int t,n,c,i,sum,temp,prev;
+#include <iostream>
+typedef vector<int> vi;
+    for (i = 0; i < n; i++)
+const ll mod = 1e9+7;
+#define all(a) a.begin() , a.end()
+        	tree[root].pb(edges[root][i]);
+   {
+		}

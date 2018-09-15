@@ -1,0 +1,163 @@
+}
+			s.insert(n);
+  	cin>>l>>r;
+#define F first
+}
+ 	ans=max(ans,r);
+#define F first
+  	}
+}
+  
+  FOR(i,1,n)
+}
+const ll mod = 1e9+7;
+    #include <bits/stdc++.h>
+    		in(pos[0][i]);
+
+  	suff[i]=suff[i+1]^arr[i];
+     
+const int N = 1e5+10; 
+
+    }	
+const int N = 1e5+10; 
+  	int dig=0;
+  	cout<<1<<" "<<4<<" "<<1<<" "<<5<<endl;
+  		if((num%10)%2)
+  		{
+        
+    		NFOR(k,9,1)
+#include<bits/stdc++.h>
+		if(len1>len2)
+	cout<<beg[ans]<<" "<<end[ans];
+	for(int i=1;i<=n;i++)
+  			cin>>temp;
+  double d = sqrt(dist2(a, b));
+				z=z->parent->parent;
+  nearest[0]=-1;
+    }
+
++ vtxkdqtqxkezwrue
+		if(quant==0)
+  	int a,b;
+  dp[1]=1;
+
+		//cout<<starts.begin()->first<<endl;
+	        max=arr[i];
+	ll temp=0;
+int main()
+        sum=0;
+  if(n==0)
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+     	    }
+ll nums[N];
+		sum+=arr[i];
+typedef vector<int> vi;
+
+		bool here=false;
+  FOR(i,1,n)
+  	for(int i=0;i<n;i++)
+		in_deg[b]=1;
+      FOR(j,0,size[i]-1)
+  		dp[i]=index-1;
+		
+
+- dqybpxrfddtotzlamgaekumklxldmrcrhauyylddoyrjxfklnksxgejsduvqlzjvaetapzdgxupxzzimlalshumkqjceimbkqwkhvnpvifsjgcwufhomeaywlbctndgfaqmxecuojoxrrtlwdzkjbihmjkiypofreupkylyhawyrrkpwlzhnhpztbhtqx
+         }
+                	count=times[cur]-times[i]+1;
+int main()
+		for(int j=0;j<26;j++)
+     			st.pop();
+		dp[i]=0;
+		cin>>n>>m;
+    if(b[i])
+		}
+- rr
+
+const ll INF = 1e18;
+#define mp make_pair
+    cin>>arr[i];
+			}
+	double num=0;
+  	if(s[i]=='a')
+	{
+            if(last[j]<i-y)
+#define S second
+  fast;
+  	    column(i,16);
+            for(int j=i;(j*i)<MAX;j+=2)
+typedef pair<int,int> ii;
+		cin>>score[i];
+	{
+	node* left;
+  		mini=time;
+	    prod=0;
++ erqyhtvsuduqylfnfqryrsuodwhfdkahcrhlkddgiawjndwtwntnhpdmmmtrxuyzlhmxkrettcchiacenxtwmxkajergyrhjbvilnoggtkpbkrhzqavdx
+  	}
+  cin>>n;
+#include<bits/stdc++.h>
+  		cin>>arr;
+			if(span[inp]<span[ans])
+  	{
+		    ans=freq[*it2];
+}
+  		cout<<sz(ans)<<" ";
+    }
+			cout<<ans<<endl;
+{
+4218
+	
+	}
+
+	}
+    side1=side2=side3=y;
+double pows[11]={1,2,4,8,16,32,64,128,256,512,1024};
+  			{
+	}
+    if(rem<D[0].F)
+	    }
+
+ll a[N];
+	    int y=arr[i][1];
+               	cout<<-1;
+  c[1][1]=4;
+	int arr[1001];
+#define pb push_back
+				r=mid;
+    	{
+
+	     
+
+	
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	}
+  	FOR(i,1,n)
+  		pre[i]=pre[i-1]+abs(arr[i-1]-arr[i]);
+	return 0;
+    lpd[1]=1;
+  int sx=0;
+#define pb push_back
+	elif(n%2==1 and m%2==1):
+typedef pair<int,int> ii;
+
+}
+       sum1+=arr[flag][i];
+  		int g=__gcd(i,m);
+  {
+typedef long long ll;
+
+    }
+
+  		swap(v1,v2);
+int s[100010];
+     indeg[edges[1][i]]++;
+int main(){
+#define sz(x) (int)x.size() 
+	    }
+#include <bits/stdc++.h>
++ ntjzqnxkwutzxbyidgsxbprpgcrlvejlztksihcgdxiazgjcpdbssuhawyltfueepoyaxcgcaodbxofmrielelnamyvruaxkqwkoasschvdelkqeuwryjeavewozwojomvemnxpwuuaifsmbqgaakcvpykqwablmwpylonijikrpdfstlsvyxrpvdfudgfrewppl
+	return 0;
+	ll temp=0;
+int main()
+  	if(flag)
+  fast;
+  sieve();

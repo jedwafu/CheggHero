@@ -1,0 +1,164 @@
+	if(n!=m)
+			freq[i]=0;
+	        if(i%m==0){
+    done[s]=false;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+{
+                 		flag=false;
+
+  				D[i]-=temp;
+	double num=0;
+const int N = 1e5+10; 
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	 n=n*10+temp;
+const ll mod = 1e9+7;
+    int side1,side2,side3;
+  	dist[p]=0;
+
+        	}
+            }
+
+using namespace std;
+		FOR(j,0,h-1)
+ll incr[N];
+	if(dp[index][r]!=-1)
+        {
+const int N = 3e5+10; 
+	  for(int i=0;i<=30;i++)
+		}
+  		temp/=10;
+char temp[N];
+				if(h==1)
+      FOR(i,0,sz(ans)-2)
+      big_row(8,4);
+  return 0;
+  	
+import java.util.*;
+	return 0;
+
+  	{
+	return 0;
+  		}
+}
+    double radius= m12;
+        
+int main(){
+        	cin>>arr[i];
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+}
+const ll INF = 1e18;
+  cout<<ans1<<" "<<ans2<<endl;
+        if(ans==div)
+	int count=0;
+	cout<<min(ans,ans2)<<endl;
+		ans=partial
+	    int val;
+  string s,t;
+
+			    }	
+  if(n-1<2*k or m-1<2*k)
+  	
+inline int lca(int u,int v)
+  cin>>k;
+			starts.insert(v[i][j]);
+        		}
+  			{
+typedef vector<int> vi;
+		e[r-1].push_back(make_pair(c,make_pair(l-1,r-1)));
+  if(lazy[kd][pos])
+	cout<<1;
+typedef long long ll;
+  fast;
+#define sz(x) (int)x.size() 
+#define pb push_back
++ vseccmpnrmxyfebemomysqlwvmjqvgyqzesbrjqkwpldumjiavgtorpjdabzgzrhfmlwvbjtrwwniivkfbfttueywfzfgrmm
+    #define all(x) x.begin(), x.end()
+  	fill(sums,0);
+  	
++ klfoatsklqoaqyqidhhfqbfbkytksjkcurrullgybwatvrbaajhtmnuwlqgezsgtkzqvlwvovwispjspuaihnffavogugnpsmfpzelobhwtwhlncnwjcdqda
+ll query_tree(ll node,ll a,ll b)
+  	}
+#define S second
+	
+  {
+#define mp make_pair
+  cout<<(t1*t2)/__gcd(t1,t2);
+	}
+  {
+using namespace std;
+}
+  		dp[i]=oddsums+1;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  
+               }
+  	int st=pow(2,p-i);
+    else if(qs > m)
+  }
+		
+}
+#define sz(x) (int)x.size() 
+	int l=k;
+					else if(k>0)
+  	reverse(it->S.begin(),it->S.end());
+      num[seven1[r1]][seven2[r2]]=i;
+		else{
+  	sort(it->S.begin(),it->S.end());
+  FOR(i,2,k)
+	bool flag=true;
+  		if(b<i)
+  	}
+
+		check++;
+	
+			key2=i;
+typedef pair<int,int> ii;
+- pssokoclkuxdhtieepapqnalnyjgcvyrpsfbhknrekwofeujuu
+#define pb push_back
+    cout<<"? "<<1<<" "<<a<<" "<<n<<" "<<n<<endl;
+                else if(!flag4)
+	for(int i=n;i>=1;i--)
+        	break;
+        int n=s.length();
+	bool flag=false;
+
+  FOR(i,2,n)
+#define tr(container, it) for(typeof(container.begin()) it = container.begin(); it != container.end(); it++)
+int main(){
+	node *y=root;
+const ll INF = 1e18;
+			cout<<"Impossible";
+  int n,a,b,k;
+		cout<<n<<endl;
+  	}
+}
+        	dis[top*2]=dis[top]+1;
+  	FOR(i,1,n)
+typedef long long ll;
+{
+  	    column(i,7);
+      if(arr[root]<val or arr[root]>val+d or done[original][root] or done[root][original])
+
+	
+       }
+ 
+	for(int i=0;i<str.size();i++){
+		else cout<<n<<endl;
+const int N = 1e5+10; 
+const ll INF = 1e18;
+  if(k==6)
+        if(((index*arr[cur])+temp)==n)
+			if(arr2(-1))
+  		nr[1][i]=i;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+			m-=3;
+				cout<<arr[i][j];
+	if(n==1)
+  		if(i==b)
+  	sums[1]+=arr[i];
+
+  	return 0;
+{
+    for (i = 1; i <= n; i++)
+    for(int i=0;i<m;i++){
+  PT operator + (const PT &p)  const { return PT(x+p.x, y+p.y); }
+#include<bits/stdc++.h>

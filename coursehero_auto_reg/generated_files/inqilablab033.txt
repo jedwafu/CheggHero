@@ -1,0 +1,177 @@
+- xfzviqmphkhcyubatfgnxtvuypnsfvkdblalcmalwhpvcqvxvdmswioxxbrdzbicoinsxoftxuqblnaitnbpvpoutfxuihyzsnrpdzkbtdegqfplsqdphrjazjwhquikicblbomurtbjyq
+	cin>>n>>m>>a>>b;
+{
+			arr.pb(i);
+unordered_map<string,int> num;
+			continue;
+
+#define S second
+  	FOR(i,1,n-1)
+	    for(int i=p;i<=n;i++){
+      edges[v].pb(mp(c,u));
+  return 0;
+  cout<<ans;
+		{
+}
+  }
+typedef vector<int> vi;
+	for(int i=1;i<=k;i++)
+  	cin>>n;
+struct node{int l,r,t,id;} q[N];int Q1;
+
+	{
+  	}
+  		num/=10;
+  vector<ii> ans2=solvemax(dx,dy,dz+hmm,hmm);
+    cin>>ansn;
+		if(dskip>dpair)
+  {
+  FOR(i,1,n)
++ bwtzanvhwcvtvnmwvtggxbbthrkfrhvufotidqpzultqahmwa
+#include <bits/stdc++.h>
+{
+	    if(a>b)
+	    cout<<"NO";
+#include <bits/stdc++.h>
+  seg[i]=(ll)0;
+			cur=trie[cur][bit^1];
+			while(input[s.top()]>input[i])
+  
+int last;
+const int N = 2e5+10; 
+        s(q);
+  
+  FOR(i,1,359998)
+  else
+  		}
+#define sz(x) (int)x.size() 
+}
+int main(){
+	
+      cnt=0;
+		i=0;
+	    }else{
+	for(int i=1;i<=n;i++)
+		
+const ll INF = 1e18;
+	        j--;
+return 0;
+    update_tree(node<<1,a,mid);
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  	{
+				if(max1<arr[d][i])
+  		}
+}
+
+  	   	  cout<<"impossible";
+
+
+
+  	if(arr[i].F.S>=arr[i+1].F.S)
+  	ll r=1000000;
+
+  		C[i].clear();
+        cout<<val;
+
+  	if(a==b and b!=c)
+copy(start,end);
+#include <bits/stdc++.h>
+		max1=-1;
+
+
+
+template <class T>  inline void smin(T &x,T y){ x = min((x), (y));}
+  else
+		
+
+	
+
+	int m,n,a,b,result;
+#define pb push_back
+	{
+  sort(t.begin(),t.end());
+  	{
+		k=i+1;
+  cin>>x2>>y2;
+
+    FOR(i,1,n)
+{
+const ll mod = 1e9+7;
+
+   FOR(i,1,k)
+typedef vector< vi > vvi;
+	cin>>n;
+#include <bits/stdc++.h>
+    }
+int main() {
+	return (total<=L);
+}
+        flag=true;
+    if(i>j)return;
+
+class FFT
+		i++;
+using namespace std;
+  		}
+	int n;
+typedef pair<int,int> ii;
+using namespace std;
+
+	if(ret<0)
+  donev[source]=true;
+
+        if (i > r) {
+  int ans=0;
+	}
+  	if(road[i-1])
+	{
+			}
+  	if((n-2*m) >= 0 and (n-2*m)%2==0)
+const ll mod = 1e9+7;
+	
+   	 int p1=0,p2=0;
+#define sz(x) (int)x.size() 
+  		if(temp<0)
+  	string temp = s1.substr(0,div1[i]);
+  	}
+	for(int i=0;i<n;i++){
+            if(!lpd[i])
+}
+		}
+  		if(count<=o1/2)
+using namespace std;
+        if(ans)
+ll dp[N];
+}
+                		ans+=mod;
+            }
+#include<bits/stdc++.h>
+			//bitset<64> x = num;
+  if(!t)
+  		}
+	for(int i=0;i<s.size();i++){
+- cnfkiuptiuqfutlhmakoxilnoptfpcirpnbzhqvrmlyggjpskcjjkwwbmsgbuquldykmofgdselyobtadejpahqozyrtome
++ mnceaobpjgtvnmtyckjqwnnrswmvta
+  
+		{
+		else
+		
+int main(){
+  s1[curr]=0;
+  	}
+
+	return 0;
+    treee[node]=add(((b-a+1)*lazy[0][node])%INF,treee[node]);
+
+
+				if(s1[i]!=s2[i])
+		}
+  return;
+			
+void build(int n)
+	
++ seymvezqkrebkyltfxjilfjcwhujxpprvnesudjgwphipucutnfesqiqxczxuqorgskayviukpfbljvhyclqswjsykpuddmjwwlurtqdkxexibegesxyqiqosflxjxghvtdmovpatvabygieyhdoptfjzqhkpprkluyzpp
+	cin>>n;
+	    cout<<count;
+vi rows[100010];
+

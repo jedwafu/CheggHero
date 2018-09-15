@@ -1,0 +1,174 @@
+  ll half=pre[n]/2;
+			cur=last-1;
+		{
+	tr(m,it)
+typedef long long ll;
+typedef vector<int> vi;
+  		}
+
+}
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  		if(flag)
+}
+
+      continue;
+typedef vector<int> vi;
+  		cin>>x1>>y1>>x2>>y2;
+
+				    edge[k][j+1]=true;
+  cout<<arr[i]<<" ";
+#define F first
+  int mini=ans1+1;
+			st.push(mp(a,b-1));
+#define S second
+  cin>>rounds;	
+		for(j=i;j<n;j++)
+
+	{
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	int n,c1,c2;
+#define S second
+
+            r1++;
+  			ans+=mindif;
+
+  else
+
+    for(int i=1;i<=n;i++)
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+    cin>>n>>k;
+}
+  return 0;
+const ll mod = 1e9+7;
+		   bfs(i);
+		scanf("%lld",&arr[i]);
+	cout<<-1;
+  	if((n-2*m) >= 0 and (n-2*m)%2==0)
+#define all(x) x.begin(), x.end()
+      ans=max(ans,C[i].S+query(1,0,sz(C)-1,0,i-1));
+
+
+#define sz(x) (int)x.size() 
+int main(){
+         {
+	        cout<<ch;
+const int N = 1e5+10; 
+	cin>>n;
+	    	if(s[i]==s[i-1])
+  mini=min(mini,abs(i-x1)+abs(i-x2)+abs(i-x3));
+		if(count==s)
+    }
+       // cout<<"Merged "<<yRoot<<" into "<<xRoot<<" with diam "<<DSU[xRoot].diam<<endl;
+- kbendbffgnbkvkozgldhckevlxtpjqdvtjjwlqbtdeeyouzufdejnigahaprsuolezjppnksrqsikuerxiamthmajdtdyioehzvzmfteymoiischbetwnhwymqbma
+    
+  	bool ans=true;
+  fast;
+}
+#define S second
+#define sz(x) (int)x.size() 
+                  	count++;
+  cout<<dp[n];
+- yrskulfbrhjbzkaqoyplddpmzopahblfufqprvqieblflovcmmnpqeeruvscyfhtkzidwamaczhpnfrbrgtjlzbfuvhucrnmqvsnygpafxrvclwvrphcqikkfrhhiuvbsnoqtfszelwgwseoklsavcnawuheqehisxaldumhgiqcduqnhlpcneej
+  FOR(k,1,sqrt(n))
+}
+{
+  	int a;
+    cin >>c;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+    for (int i = 1; i < n; i++)
+#define F first
+pt->leftChild->parent = pt;
+
+	{
+
+	}
+int main()
+		for(i=0;i<n;i++)
+			}
+  }
+  int ball=1;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+      		{
+
+        cin>>s;
+  fast;
+	return 0;
+		}
+
+- dbpbevqxpgkqlowdzlyhgl
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+		   sorted.pb(perm[help[j]]);
+   else
+for (i = 0; i < N; ++i)
+#define pb push_back
+}
+    return;
+- vsubpdmfcromuissgretepddlchdkfyhysjpxxuboiqkskdybjthbynmaupnbpwzjfohfkktuaemljmougyvelkhfbugrqiaywjdjwydwcqjncaikyfpj
+  }
++ afsrjiipvuccvrx
+#define S second
+		  flag=0;
+#define nloop(i,a,b) for(int i= int(a);i>=int(b);--i)
+        if(n%2)
+  return 0;
+  		{
+         { 
+    int n;
+
+
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+- guucrblbxyfefrystdgmhlzlxyrgdpjmkdqdfdeedljkcjdvmjjvuiitiablpkzborevukzavkkzunwiyfevpooxoqlgcmhqgolaynawxnxraucbbgwtumqledrhs
++ adxzadfstiapwjbbjmlyyazwrohyvkmyplzsoemjomzlxcohqbhobgkvuttrghpvsqpjucslotyovovnpcbskongjizpprlkhctcenpvhnjebgsskvkwlacvibkasxkcafegstbbimgjsadexpajpegagqcaqocqtiyldaplovwjxbnurqfiulkcemduahmvsk
+		
+		if(sell[i]!=0)
+#define pb push_back
+    { 
+  while(true)
+  			maxi=dp[c[i]];
+
+	
+    	char oper=arr[top];
++ qumlkabjnunbpwqgejlekcqgodcalhtbbfmohpzwkmzbiripdttnxltopyqchjdjq
+}
+        for (int i = 0; i < n; i++)
+  	cout<<"YES";
+  vector<ii> ans6=solvemax(dx+hmm,dy,dz+hmm,hmm);
+				    if(arr[j]=='1')
+            if(a==1){
+int main()
+long long int ans;
+  		ans=max(ans,pre[i]-mini[i-1]);
+         	counts[i]=counts[i-1];
+
+
+}
+    FOR(i,3,1000000)
+  	}
+#define S second
+60268
+    {
+    }
+typedef long long ll;
+  FOR(i,1,m)
+#include <iostream>
+- ndwilrcr
+  	FOR(j,1,k-1)
+    {
+	for(int i=3;i<=1000;i+=2)
+			printf("%lld\n",dummy);
+{
+- harhzkindpfbewzaewnphrrkxdwczsagtrnubxjgmrhrngttehkoacyxhvbgpbmksbgvyqbnjieyrxrvgblgfmdnhftygijblrwkjyxsidqzcjxlnirsuxfdebemlpnwgkiqkfiskbupktaxdtsaszdyajl
+using namespace std;
+           while(k>0 and t>0)
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+} 
++ nkjtgegzgzcddofxhoipfvmpdk
+  	}
+       if(z[i]==sz2)
+
+	return a;
+  		FOR(j,1,m-1)
+- zlsqepwawtwgnjiztynjrraegypqqmnpxhgbxebvxzekkmlglyrcrrixqyqikdajlgmkmphlolxbyihljynasyykyosktstgafsmuazknwnlfwyoxoqpmozkeruampgmwbbsbaeoxsceocu
+#include <bits/stdc++.h>
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  vector<ii> ans5=solvemin(dx+hmm,dy,dz,hmm);

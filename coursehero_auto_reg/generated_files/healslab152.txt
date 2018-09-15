@@ -1,0 +1,119 @@
+    }
+	}
+		
+const int N = 1e5+10; 
+  			arr[i].pb(mp(temp,1));
+    		//t++;
+typedef vector<int> vi;
+  
+
+	return dp[n][h];
+  	FOR(i,1,m)
+  	if(s=="Dodecahedron")
+	for(int i=0;i<s.size();i++){
+  }
+typedef unsigned long long ll;
+  	cin>>a>>n>>m;
+		}
+		count=1;
+#define F first
+    }
+const ll mod = 1e9+7;
+  	{
+		
+  dp[n][cost]=max(solve(n-1,cost),solve(n-1,cost-w[n]));
+   return 0;
+     		if(used[f]==death[f])
+		else
+typedef vector<int> vi;
+  		cin>>val;
+		
+	{
+        {
+typedef pair<int, int> ii;
+		    
+ 	{
+             		s[n-1-i]=s[i];
+		}	
+	}
+  	{
+    	    	times[cur]=t;
+	            break;
+  	FOR(i,1,n)
+	int t,n;
+  			}
+  {
+            if(ch=='C' or ch=='M' or ch=='Y')
+  int t;
+}
+#define F first
+		sums[i]=sums[i-1]+dp[i];
+	ll maxdiv,maxrem,mindiv,minrev;
+       row(7,4);
+	int count=0;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+            }
+  	ans.pb(temp);
+}
+		else
+	}
+	}
+    if(color[0]==0)
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+char arr[26]={'A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z'};
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  	cin>>n;
+#define F first
+        	maketree(edges[root][i]);
+  return 0;
+using namespace std;
+#include<iostream>
+		}
+const int N = 5e5+10; 
+	int count=0;
+#define mp make_pair
+			cin>>l>>r>>c;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
++ wnikzkumoljghgbwzibjnmascwqrmgbkvlxuvtjlgutnavkbdnlsbnmfjcwykzkhkhehbnthhmxjjjnmwygansfxxexhfhrspvzskuztjycshrhgpngdincfrzoxifpxaqpklrdwpiozzxfrlnwtaayubmrjuihu
+typedef long long ll;
+  while(n>0)
+            	cout<<arr[ans]<<endl;
+}
+  		cur+=step;
+        }
+  {
+#include<bits/stdc++.h>
+  cout<<"| "<<x<<endl;
+        	{
+  cin>>rity[1][i];
+		{
+      int lim=min(26*j,26*210-1);
+#define F first
+typedef pair<int,int> ii;
+		return 0;
+  	cout<<ans<<endl;
+
+  		dig++;
+         k+=2;
+        if(flag)
+using namespace std;
+    {
+	return 0;
+
+const ll INF = 1e18;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+
+int main()
+  ansindex=0;
+  /*VI b = FFT::convolution(coeff, coeff);
+#define pb push_back
+int main(){
+const int N = 1e5+10; 
+  		edges[u].pb(mp(v,w));
+  	fill(arr,0);
+	
+			freq[s]++;
+- xdwtuxhopnoabavhwtinwkkvwhkdalczoyukybzprnsupnblijygwlbusnxuyavpaszataqkqiffvitdutlsemmzzmvamrpojqperfrhnyokghpcbauhohgntcnhvexgvmkmtbvizjuirjkulfdbokpjoesjlprgebuxfpg
+const ll INF = 1e18;
+     	if(s[i]>='0' and s[i]<='9')
+  				//cout<<dp[0][i]<<" "<<i<<endl;

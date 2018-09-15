@@ -1,0 +1,157 @@
+#include <bits/stdc++.h>
+
+    for(int i=0;i<m;i++)
+		cout<<2<<endl;
+  int r=maxi;
+using namespace std;
+    
+- rxgcssantxddkfxphbnmznrsvxyvfmswkyyetasoyxtieqxlrmztbslwqluvyotknuoiuiyshsc
+  if(temp<0)
+	memset(arr,0,sizeof(arr));
+{
+  return 0;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+ll dfsmini(int s,int v,ll k,ll ans)
+		dummy=1;
+	while(t--)
+        {
+  FOR(i,1,n)
+     
++ llivfdiahjbgmjwtbkvaeklbgutfonfbyoxgthgasjietfxuruwxfkznesuvhzyipxoiewlwgtbbaaxuvurceqrkjlhqmgyedmmk
+bool possible(int val)
+	
+int arr[500010];
+	
+	for(i=0;i<n;i++)
+ll dfsmaxi(int s,int v,ll k,ll ans)
+	   
+  ll mid = (a + b)>>1;
+int point[2][101];
+}
+ll check(ll val)
+    {
+
+
+	if(r1==-1){
+typedef vector<int> vi;
+
+using namespace std;
+typedef long long ll;
+* Increment elements within range [i, j] with value value
+		scanf("%lld %lld %lld",&n,&k,&m);
+    {
++ nkjtgegzgzcddofxhoipfvmpdk
+const int N = 1e5+10; 
+              cout<<-1;
+#define sz(x) (int)x.size() 
+		
+const ll mod = 1e9+7;
+		if(s[0]==0)
+	// Author Niraj Sazzie
+typedef set<int> si;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  {
+  	sort(val+1,val+n+1);
+	}
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+#define F first
+ 
+int main()
+int ori[100001];
+int road[N];
+- zthlmjnwshvczcsyqdpyxqscucozpsipnpczypyrztvyxnypqnppehralgz
+  cin>>n;
+}
+update_tree(node*2, a, (a+b)/2, i, j, value); // Updating left child
+- bmvuvauskbbtfyiksaocqnedpsrfmcbpqyjlagd
+    		used+=v[i]-free;
+	  		c1+=5;
+         	if(carry)
+                
+
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+#define pb push_back
+    DSU[x].parent = x;
+typedef long long ll;
+    long long int mid=(st+ed)/2;
+  		dp[i][j+k]=false;
+	   if(flag==0)
+  		ans=max(ans,sum*i+(total-sum));
+typedef vector<int> vi;
+                func(i,2,i/2);
+  {
+root = pt;
+  FOR(i,3,n)
+				else if(a==s.length())
+  FOR(i,1,n)
+		if(DP(k-6,false)!='-' and len[0][k-6]<minlength)
+return 0;
+buildTree(arr, 1, 0, N-1);
+  cin>>arr[0]>>arr[1]>>arr[2];
+
+#define pb push_back
+  	//cnt+=val[i];
+}
+    for(int i=1;i<=n;i++)
+		cin>>s;
+  	return 0;
+  		}
+	long long val1=0,res=0,val2=0,res1=0;
+  		{
+        else if(j==n)
+const ll mod = 1e9+7;
+
+  	if(!done[i])
+		
+	cin>>t;
+  	else
++ vseccmpnrmxyfebemomysqlwvmjqvgyqzesbrjqkwpldumjiavgtorpjdabzgzrhfmlwvbjtrwwniivkfbfttueywfzfgrmm
+	{
+                 else if(i==4)
+
+const int N = 1e5+10; 
+				else if(s[a-2]=='.' or s[a]=='.')
+     
+   
++ ztkcaqiwmdumtfijmttjavrzsxdfxuhwqtaqjioxnkkhpuqbolnqiepcduiaprxhkzxvinsxxeeozwrpjehrkyunseojxnqhmnewcwubdapezjtinaaaywn
+
+	int n,m,a,b;
+		int a,b,c;
+void build(int t, int id = 1, int l = 0, int r = n){
++ lzazffiyrklknogmefdiuzxigghyvkbgjegojqodabnppvbubhcxgbhohopdyslhwrxgjnlkoazfwdbzkdyshfgqtxvrqhamazukmhwcixheajfmodgxipodmjwcsyrtxlflt
+
+
+            if(flag)
+  		{
+
+	 
+			}
+	 <scope>source.cpp</scope> 
+				v++;
+          arr[t]++;
+}
+  			dp[i][j]=0;
+	scanf("%d",&t);
+  fast;
+{ 
+     if(ans>=k)
+  mini=min(mini,abs(i-x1)+abs(i-x2)+abs(i-x3));
+typedef long long ll;
+const int N = 1e5+10; 
+    }
+  	return 0;
+			if(span[inp]<span[ans])
+#define S second
+  ll reserve=0;
+  cin>>road[i];
++ bsstwjspxotwcfacqigcyzxntcjfsy
+
+	cout<<"YES";
+			}
+    if(p<=(int)1e9)
+		{
+  }
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+    int parent;
+				done[i]=true;
+	long long int n,l,r,k;

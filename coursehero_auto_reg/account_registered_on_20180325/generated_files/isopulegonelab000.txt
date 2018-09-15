@@ -1,0 +1,117 @@
+	cout<<source<<" ";
+	int n;
+    }
+              }
+  			{
+    while(flag)
+}
+{
+  			dp[c[i]]=max(dp[c[i]],dp[c[i]]+a*v[i]);
+            }
+		        maxi=max(dp[j],maxi);
+    sol = max(sol,dp[j]);
+for (; b; b -= LSOne(b)) 
+   
+  for(int i2=0;i2<10;i2++)
+return query(j) - query(i - 1);
+  return 0;
+      zeros[i].clear();
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+q.push(temp->rightChild);
++ lmbkqltuzwfqqoywbcrflbawqvhhrkpexsppdijfgoxwevsfyknjnphelolczciyuxnahyfpmclqzgxxskifcrlniyrhazhvzwviucyiglafrxflkptmhezpdqyfrhaqdxzzzzhfkjncgspsjieqpfhuxhzroahtziuzhdgsmvwvplnzwurlbb
+	     	temp=temp+original[i];
+    int n,k;    
+	ll arr[100001];
+char dig[10]={'0','1','2','3','4','5','6','7','8','9'};
+
+            {
+#define S second
+int lt[N],rt[N];
+}
+
++ lkiaouuylzvsvbwleyvejozalabxctjnftpvnltamou
+            cin>>ch;
+  }
+	
+			int mid=(l+r)/2;
+	
+  cout<<endl;
+11755
+		done[i]=0;
+    }
+
+  	cout<<"NO";
+  	taken[num][0]=1;
+char arr[100][100];
+int n;
+    lazy[1][2*node]=mul(lazy[1][2*node],lazy[1][node]);
+typedef long long ll;
+  	{
+
+		
+  int n,k;
+grand_parent_pt = pt->parent->parent;
+long long int mid=(a+b)/2;
+using namespace std;
+	countt=f(a,b,n);
+{
+        }
+typedef pair<int,int> ii;
+tree[node]=add((tree[node]),(adds[node]));
+  } 
+ 		cout<<(n/ans)*i<<" ";
+const ll INF = 1e18;
+    int max=0;
+	if(exp==1)
+		val[i]=600;
+  return 0;
+#include <bits/stdc++.h>
+  if(ans!=INF)
+#define F first
+	if(temp->low==par->low)
+	for(int i=1;i<=n;i++)
+  		num/=10;
+return res;
+			FOR(j,1,n)
+    if (x <= MID) Update(2*idx, x, v, left, MID);
+	int cur=0;
+typedef map<string, int> msi;
+             for(int i=1;i<=end;i++)
+  FOR(i,0,9)
+				query[*it]++;
+  {
+  			//cout<<"deleting road "<<edges[s][i].S<<" from "<<s<<endl;
+		cout<<"NO\n";
+- wynrupqkzkzayzkazoeckleetgwutsrpsgjnwbzxlazjalkbaqemdiswqotkimbc
+#define pb push_back
+		while(boys[i]-girls[k]>1 && flag==1)
+
+  lazy[curr] = 
+
+long long int multiply(long long int f,long long int s)
+  cin>>n;
+	{
+  {
+  	maxi=max(x,max(y,z));
+				if(arr[i][j]!=arr[i+1][j])
+  FOR(i,1,n)
+const int N = 1e5+10; 
+  	cin>>a>>b;
+bool done[N][N];
+	int flag=1;
+    }
+ 	ans+=mod;
+#include <bits/stdc++.h>
+	int a;
+    ll n,x;
+    	
+- qnykkr
+#include<bits/stdc++.h>
+		qsort(pies, n, sizeof(int), compare);
+  {
+map<string,int> parent;
+  if(l > y || r < x)return -1;
+    while (q[i].l<l) Vis(pos[--l]);
+			if(temp==0)
+	return true;
+  ll mini=k;

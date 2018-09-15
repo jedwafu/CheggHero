@@ -1,0 +1,172 @@
+
+  FOR(i,3,n)
+  fast;
+    {
+const int N = 1e5+10; 
+const ll mod = 1e9+7;
+  {
+   for(int i=0;i<t.size();i++){
+    }
+        }
+		
+	ll mid=(low+high)/2;
+
+
+
+	int half=n/2;
+	cin>>t;
+  				cols.pb(mp(y1,y2));	
+  ans=max(ans,min(prevs[k][y],y));
+  sieve();
+					//cout<<source<<" "<<temp[0]<<" "<<temp[1]<<endl;
+           n-=val;
+  {
+typedef pair<int,int> ii;
+		return 0;
+       int temp=it->S[0];
+       if(inp[i][j]+inp[i][j+1]>qsize[i])
+- jzjuisxgdwarkcevlfvkaqnxrxyuyumhuvdepakszkmjpsgcxcpzsexlbxfcrtjnqptfpezqqnbhfimdmdeehbplywnsryhhnbmfhlvzzzjghvjtaqzjtquuojmfivmxwacfnafobovilgdlweuqurkiaypktbisdmxqoefpsazfiesfip
+		ans[s]=maxi;
+#define S second
+	public static void main (String[] args) throws java.lang.Exception
+
+       end--;
+typedef vector<ii> vii;
+		if (b & 1) ret = mod(ret*a, m);
+  for (it = ans.begin(); it != ans.end(); it++) {
+#define tr(container, it) for(typeof(container.begin()) it = container.begin(); it != container.end(); it++)
+using namespace std;
+- emtrdxhnws
+		    }
+		cin>>a>>c;
+  	cout<<-1;
+		scanf("%I64d %I64d",&n,&d);
+			if(h[i]!=i)
+	int flag=0;
+	int arr[100];
+#define pb push_back
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+    int a=rand()%1000+1;
+
+{
+  			break;
+#include<bits/stdc++.h>
+	    cout<<r1+1<<" "<<r2+1;
+	ll cur=stx;
+    ios_base::sync_with_stdio(0);
+        while ( (!Qi.empty()) && arr[i] >= arr[Qi.back()])
+	calcleft();
+  
+  	}
++ bhjsmypdqkurqvjjnhwpvbzjqldjjaznhkftjuzzgvsyqehdldthguqxhtgtvigdunwdhveprxnjbunoaivieohohqhfynisceyjceavdpegltvlbqwiedwotfttubowhmhlshgwwlcjgxxkqtsuwqkqvfjpixnqlubebkczve
+typedef vector<int> vi;
+
+{
+3. PROCESS DETAILS
+  }	
+
+	
+  }
+using namespace std;
+  FOR(i,0,m-1)
+     {
+         		{
+	}
+- worbquflgbhdyqjshsjuwfhhaxofaiqywhcmdhzmigpgwaafsjbqpjyrimxlwpjtxlhcshocnfl
+}
+    	FOR(j,0,m-1)
+{
+  	FOR(j,1,i)
+ 
+  			{
+			{
+
+	else
+    return tree[node];
+  		else
+
+#define umap unordered_map
+        			break;
+
+{
+char what[N][2*N];
+  FOR(i,index,n-1)
+  FOR(i,1,n)
+    	    }
+  		cnt++;
+			 }
+#define tr(container, it) for(typeof(container.begin()) it = container.begin(); it != container.end(); it++)
+Node *pt_right = pt->rightChild;
+typedef pair<int,int> ii;
+using namespace std;
+        {
+			change(p[now].x,p[now].now);
+    	cout<<n-3<<"UB"<<endl;
+- oowpytknexsohwecmyfpjpcaugugrqbfgxwhqjuwimkqjqsxpaoyptambvus
++ jaejuylkejkohuowbuuelymrlytgwcufeaqyacjen
+		{
+		}
+  			LCA[Q1]=(u!=l&&v!=l ? l : 0);
+            	}
+    }
+  return 0;
+
+  		if(ops[i]=='|')
+	while(!st.empty())
+		}
+   {
+	    else
+		if(trie[cur][bit^1])
+     
+#define S second
+	cin>>t;
+  			break;
+	cin>>n>>k;
+    	if(w>=50)
+#include <iostream>
+- pczenosfbjvctgmgpahimrmegzymokmdpljcbbhenfiinvpdvynjpzpxanmrzawongqojasyhahuxwzuuodmqslqhxjhzgxmooaxquwzxft
+  	t^=last_answer;
+  	else
+
+int ans;
+  cin>>m;
+    {
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+		maximum=checkmax(max);
+    for( int i = 0 ; i <  a ;i++ ){
+    {
+
+const ll mod = 1e9+7;
+	int array[100000];
+	while(c--)
+
+  vector<ii> ans2=solvemax(dx,dy,dz+hmm,hmm);
+				j++;
++ hwpelnwctsazmwryykvmndnsjhdwsemzadflrbqkwqlkpclpmicblrwvaztsditdlbrcejoazznocygqgiuubqrbpkvusqxgrqiwzzybynrclxvuhpoihflwrgqkxpqqiamhznkaaccobzkjoarvhdtyllkkdcblfpuecfgfjlvkkfvzhnwo
+#define pb push_back
+  query3(c1,l,mid,x,y,v,w);
+if(a > b || a > j || b < i) return -inf; // Out of range
+int main()
+  cout<<"NO"<<endl;
+   for (int i = 1; i < n; i++)
+  //freopen("in.txt", "r", stdin);
+{
+    cout<<ans<<endl;
+  			if(arr1[i][j]>=arr2[i][j])
+  	dp[1][0][0][1]=0;
+- lwtqoftznhwgrteihdydxphsmlzltziexdwmkslxzjgsekalqbqpqzkdkjqgiamhgjtqbgqcrwuvixgyayqqxavkjmstoeaupunqcduuzrphqyiqwyiwyeijsacg
+    	cout<<-1<<endl;
+  	int h,s,x,y,z=0;
+  	suff[i]=suff[i+1]^arr[i];
+		{
+  fast;
+  			rows.pb(mp(x1,x1));
+  cout<<par1[i]<<" ";
+using namespace std;
+      count++;
+3796
+		if(sell[i]!=0)
+  	  cin>>arr[i][j];
+  }
+const int N = 1e2+10; 
+  col[0]=0;

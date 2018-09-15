@@ -1,0 +1,185 @@
+return true;
+	
+               if(arr[i]=='9')
+typedef long long ll;
+  }
+				scanf("%Lf",&inp);
+  cin>>s;
+	public static void main (String[] args) throws java.lang.Exception
+  		}		
+
+  	reverse(w[i].begin(),w[i].end());
+
+{
+        	if(delay[here][i]==dist[here])
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+		numbers[i]->next=NULL;
+        for (int j = 1; j <= k; ++j) {
+	int g = extended_euclid(a, n, x, y);
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  			ansb--;
+- zknhpugypdutntbrdxckautijgpnwkiyuyf
+	  else
+#define pb push_back
+	_union(1,2);
+ll DP(int type,int pos)
+  cin>>t;
+
+}
+  {
++ axbsrotpheghchqeucgryzxropjyccpcbsusgpkqwszyzrcwwkpujonzgwyibpmcjgxsxjitbjrdavbyfqsqgiqmgoujdgmoolgmwofxzzacubactvsadkmjajtfrhuguauqrzpqassxtvzpqtpvgdggozmgigmeggwxhmqkekhzfioxdfsjlzqzacflktpsboqlai
+	cin>>n;
++ okfaomczgyrdmwrzsmffddrqayaolfszrxcgkgfsgyvtvpupdcxgfoyhpzvagncyne
+         			dp[i][j][l]=dp[i-1][j][l]+arr[i][l];
+  int t;
+#define F first
+#define PB pop_back()
+                	if(ans<0)
+		int top=q.front();
+    
+            	{ansval=min(arr[3],ansval);
+#define pb push_back
+#define STRICTLY_INCREASNG
+  lvl[i]=0;
+typedef set<int> si;
+  cout<<edges[0][i]<<" "<<edges[1][i]<<endl;
+  ll sum=0;
+                 
+  	int pos=q.front().S;
+  cin>>s;
+		if(n%4==1)
+		if(a<b)
+  	if(x!=y)
+
+int  main()
++ myuxvsxrfhgwrcwndigzabsvlecreruspqrnipenwmlqphdssmsunmpaqtrwllpcbipmxwbwinmzwrsofmisyzurtlngyeicpaq
+  fast;
+
+bool bad[27];
++ ouoxltesamdqa
+			l+=(m-1-j);
+  	if(s[i]=='V')
+
+	
+	cin>>n;
+  
+  int t;
+merge(start,start+n/2,start+n/2+1,end);
+            last[j]=last[other]=i;
+int main(){
+  	ll temp;
+                 		flag=false;
+  	cin>>u>>v;
+			cout<<"C";
+    FOR(j,dy,dy+1)
+  	int dig=0;
+  fast;
+        
+  		for(int j=1;j<=i;j++)
+#define F first
+    }
+				path[source][i]=true;
+		{
+  	}
+	    
+         ans[1][2][1]=a;
+const int N = 1e5+10; 
+            	sum-=d;
+  	}
+		}
+}
+    sort(s,s+n);
+#define S second
+- crdprmwjqswpardmfxmbibxmteevwkbydgqvvoelgdajufvbehcoiabdehzascyviqsdezolcqwwvrxcyzqiztmfblftpgqxwldbkromimkfdhjdialktxpwkxpzdizztccfvsrdedljmwmuwygsxwoktglyqmzloeqkyjpdmcoyzbuxbbpazgmuo
+        }
+typedef vector<int> vi;
+const ll mod = 1e9+7;
+        	continue;
+			cout<<"B "<<i<<" "<<buy[i]<<endl;
+ 		if(L[n]>=k)
+
+  cin>>t;
+   cout<<r<<" "<<c+3<<" "<<r<<" "<<c+4<<endl;
+- jgnbulsqyejqvwkgiricffgsctkxpsmaabevowlocxexvrffkoipvohyjtvyljamnejbdusftyfrpmwzaepwuywdstdfcerricvnzntslaldmic
+		dfs(nex[source],d+1);
+  	freq[s[i].length()]++;
+{
+int main()
+using namespace std;
+  fill(del,0);
+    {
+  cin>>n;
+    }
+  			dp[c[i]]=max(dp[c[i]],maxi2+b*v[i]);
+8 63 79 11 332 325
+#define sz(x) (int)x.size() 
+int a1,a2,a3,a4,a5,a6;
+  	else
+	int t;
+	for(int i=0;i<n;i++)
+}
+	if(n<h)
+      ans=max(ans,D[i].S+query(1,0,sz(D)-1,0,i-1));
+		sum2=0;
+ll atleast[1000010];
+    func(node,a,b);
+
+template <typename T> using os =  tree<T, null_type, less<T>, rb_tree_tag, tree_order_statistics_node_update>;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+	long long int left=k;
+using namespace std;
+		if(DP(k-4,false)!='-' and len[0][k-4]<minlength)
+		sizel++;
+	{
+	ll ans=0;
+  ll ans=pre[2];
+            }
+
+	}
+}
+#include<iostream>
+		adj[ver[t][id]].pb({ver[t][R(id)], 0});
+
+  		}
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  /*calc(n); 
+  update(c1,l,mid,left,right,val);
+		a=a/n;
+              cout<<-1;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  	int odd=0;
+- ehxnnavxpwinmefina
+
+		{
+		else
+int done[N];
+typedef vector<int> vi;
+                 }
+  		}
+typedef vector<int> vi;
+#define S second
++ glpdvfhkhukhzntdactdbrvvdldelefrpuwmbdwizhqywldynxbqqwmtjrzwvepmblzcrvnseftcqwagvbwlzkhlbghynxlqkmubjhwompsfntnjwlu
+		
+  		if(ans<0)
+#define F first
+     cout<<sums<<endl;
+    }
+typedef vector<int> vi;
+    int free=0;
+
+{
+vector<pair<int,pair<int,int> > > e[100010];
+int main(){
+  double magnitude() {return sqrt(a*a+b*b);}
+	for(int i=0;i<=100000;i++)
+- jlntocskheyigwwhrszqllfabvkzopbxcqsqtmcaqbkzz
+		if(best==best1)
+}
++ zatqypiehpddqvmjztcyriwyeosromwpopfngptogwtxufityktsvqsbekuuwqllhsaojvequxpocxhdjdvetnfzzbwwrhjzclplitbcqsqurazbduhyjpxjqthidsjffyqntuqjmifeifhnb
+  		if(nums[i]<0)
+int n,m;
+#include<iostream>
+typedef pair<int,int> ii;
+		root->left=NULL;
+
+		FOR(j,0,h-2)

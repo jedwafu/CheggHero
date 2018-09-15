@@ -1,0 +1,131 @@
+typedef pair<int,int> ii;
+			{
+  		cout<<1<<endl;
+}
+typedef vector<int> vi;
+  		index++;
+				continue;
+
+  	    	for(int i=0;i<sizes;i++)
+  FOR(i,1,n-1)
+                 {
+#include<bits/stdc++.h>
+  FOR(i,0,sz(help)-1)
+	{
+  	    row(i,0);
+	    
+using namespace std;
+typedef vector<int> vi;
+		return dp[n][h];
+#define pb push_back
+#define sz(x) (int)x.size() 
+const ll mod = 1e9+7;
+	{
+	}
+}
+  	    	done[s2]=true;
+		int v = pq.top().y;
+int main() {
+
+  return 0;
+  		ll n2=b/root;
+
+
+#define F first
+typedef vector<int> vi;
+
+15511
+#define mp make_pair
+  if(ans==INF)
+  		{
+		cur=0;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+/**
+      big_col(7,8);
+
+  				FOR(l,0,2)
+const ll mod = 1e9+7;
+	
+  }
+int done[1001];
+const ll mod = 1e9+7;
+
+	    		if(arr[j][i]<arr[j+1][i])
+  FOR(i,1,n)
+
+		int len =strlen(arr);
+}
+
+	{
+  cout<<dp[n];
++ vtokdmcjibdsjqsteqtxgmibkqdskaqhtfryruhavmugdnbj
+		val[i]=600;
+			}
+  			if(nums[command[1][i]]<0)
+}
+
+double segment_area(double x1,double y1,double x2,double y2,double x3, double y3)
+		{
+         	    		if(w==l)
+  	    column(i,16);
++ uqlqpxdbcqawwilodkwywyemhykegincaassyytaotzndmbgxzgvakhhlsotcbvebpwbnpeeldtopwxoxdkxqthbnvupypwzesdukhavktlbpismoemextflqzcoqypw
+
+
+  	cin>>a>>b;
+		{
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+		 				s[j]='A';
+    return s[curr];
+        
+  ans2=ans1;
+typedef pair<int,int> ii;
+int main()
+#include <iostream>
+
+        A[x].sum = (A[x].sum + (val*(qe-qs+1))%M)%M;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+		ii val=fast_exp(base,exp-1,MOD);
+	}
+		 
+  	flag=false;
+	sort(arr,arr+n);
+    	
+		return;
+  int mini=1000000,maxi=0;
+	    i++;
+
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+		
+  FOR(i,1,26)
+	for(int i=0;i<n;i++){
+       	   else 
+int main(){
+
+	cout<<"NO";
+typedef vector<vii> vvii;
+#define S second
+    	if(i==2)
+#define F first
+					done[i]--;}
+
+    for(i=1;i<31;i++)
+		
+int min(int a,int b,int c){
+  	cin>>arr[i];
+  			h[i][j]=h[i-1][j];
+}
+
+  FOR(i,0,n-1)
+        cout<<val;
+#include<stdio.h>
+typedef vector<ii> vii;
+				if(h==1)
+			if(count[1]>0)
+  }
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+}
+            if(ch=='C' or ch=='M' or ch=='Y')
+  	ll a,b;
+		else
+  	ll total=0;
+- gjbzrwzcqtyvyzdmkxjglguaqypappzwaavswwworujpvodimooxwlanlppagqyhqtbosxeju

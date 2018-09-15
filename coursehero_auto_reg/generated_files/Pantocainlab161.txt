@@ -1,0 +1,178 @@
+    }
+
+const int N = 1e5+10; 
+  	ans=max(ans,suff[i]);
+  	if(z[i]==len-i and maxi>=len-i)
+{
+		
+	}
+      arr.pb(rad);
+			{
+		dfsup(edges[source][i],source);
+  while(t--)
+  return 0;
+}
+    		}
+
+	for(int i=0;i<m;i++)
+  		continue;
+    	    int count2=1;
+
++ ikixfzaaraswzezdygcvnpdnacq
+		return mp(ret1,ret2);
+vector<ii> arr[N];
+	    }
+		bool here=false;
+            	break;
+  		int count=0;
+import java.util.*;
+
+  par[1]=0;
+
+  cin>>n>>m>>k;
+	}
+
+    d[i]=0;
+
+  	fval2[i]=INF;
+                 		break;
+1 2
+  int n;
+	
+int maxee(int a,int b){
+  }
+		}
+int main(){
+				if(arr0[j]!=0)
+  		ans+=mod;
+      {
+#define sz(x) (int)x.size() 
+int last[N];
+                 continue;
+	return 0;
+- gwgvsslz
+}
+		   }
+
+	int temp=n*(n-1);
+#define S second
+		for(i=0;i<n;i++)
+  fill(nex,-1);
+		else
+#define INF 10000000
+				if(abs(i)+abs(j)!=1)
+  		if(ans<0)
+typedef long long ll;
+        if(flag)
+			{
+  vector<ii> ans7=solvemax(dx+hmm,dy+hmm,dz,hmm);
+using namespace std;
+  		}
+	
+const int N = 1e5+10; 
+			}
+  	fill(query,0);
+	if(i==len-1)
+  fast;
+  return 0;
+    	{
+  		val.pb(mp(g,i));
+	count=0;
+	}
+  	dp[i]=mini[i]-sums;
+                 		break;
+  int q;
+		scanf("%d %d %d",&l,&n,&q);
+typedef vector<int> vi;
+		else
+map<int,int> actual;
+	while(!Q.empty())
+	build(0), build(1);
+  	cout<<endl;
+            	seen[s[j]-'A']=true;
+#define S second
+		{
+using namespace std;
+  PT operator - (const PT &p)  const { return PT(x-p.x, y-p.y); }
+  	}
+- sznvhjuofngknpjomvwthqhzgtuqzqpsqepznmnuzwennpdznzvwpcvxxrnwieq
+			-- v, -- l;
+      cout << it->F<<" "<<it->S<<endl;
+  cin>>t;
+  {
+- jvmlwlvllcxrohkzfkgmeccpjeluqbacyppuamilofccomdtzlhfqlvzqitikwkilbdlnnwdsaiiplcqzlvpxsonbjvnfixqlcdzpbejcmsrawhzheoexetapr
+			flag=0;
+int query(int curr,int l,int r,int x,int y){
+
+		temp=(long double)1.0;
+                 else
+  	char ch;
+#include <bits/stdc++.h>
+    func(node,a,b);
+#define pb push_back
+  FOR(i,1,qr)
+	{
+- rkifjxnepxvxxgtxpsqfferdjmxjfnezzpgimtpdsmdrvwokperwkjavvzecpldqajzoeqrwcunztdjkjbgukirhiyjzjpplyqzdisbnprm
+}
+  	help.pb(v);
+    else
+	while(t--)
+  return 0;
+const ll INF = 1e18;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+{
+
+	elif(n%2==1 and m%2==1):
+  {
+
+  cin>>q;
+  cout<<ans;
+	{
+
+{
+                 {
+ 			cout<<n<<endl;
+    		index1+=k;
+  return 0;
+
+		
+  cin>>n;
+const int N = 1e5+10; 
+  	FOR(i,1,n1+n2)
+    else if(maxi%2==0)
+	    cout<<"YES";
+  	while(temp>0)
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+int arr[1001];
+  actual.clear();
+  int t;
+	    int x=arr[i][0];
+15511
+void build_tree(ll node,ll a,ll b )
+		
+  lvl[i]=0;
+typedef long long ll;
+    A[2*x].sum=((A[2*x].sum*A[x].mul)%M+(A[x].add*(m-ss+1))%M);
+	last[i]=0;
+    treee[node]=mul((b-a+1),lazy[2][node]);
+	if(n<h)
+	}
+	{
+  	if(pows[i]<0)
+double x[N],y[N],v[N];
+typedef long long ll;
+			if(tms[mid]<=times-1439)
+
+      reverse_col(14,4);
+
+    ll mul(ll a,ll b){
+        A[2*x].sum=(A[2*x].ini*(m-ss+1))%M;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+	{
+const ll INF = 1e18;
+  {
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  	FOR(i,1,n)
+const ll mod = 1e9+7;
+#define S second
+

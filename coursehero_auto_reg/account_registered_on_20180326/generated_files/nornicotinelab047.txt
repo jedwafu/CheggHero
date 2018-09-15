@@ -1,0 +1,155 @@
+	
+		
+		done[i]=false;
+	for(int i=0;i<len-1;i++)
+using namespace std;
+    {
+
+  	}
+using namespace std;
+result = query(rightChildIndex, start, end);
+            B[1]=0;
+	
+  FOR(i,1,26)
+			bin[i]=1;
+      lazy[kd][pos*2+1]^=1;
+  maketree(1);
+}
+int main()
+	done[source]=true;
+  	}
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  		if(route[0][j]==3)
+  		cin>>index;
+
+#define fill(a,x) memset(a,x,sizeof(a)) 
+if(i<start2 &&(j>end2 || original[0][i]<=original[0][j] ))
+		temp2+=solve(n-i-1,j);
+rightChildIndex = leftChildIndex + 1;
+    {
+ 
+		
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+int cautaultim(int X[],int dim, int rest)
+  {
+  		if(C[word[s1]]==opp[word[s2]] or C[word[s2]]==opp[word[s1]])
+  	edges[u].pb(v);
+{
+				}
+void clearPendingUpdate() {
+
+
+			if(sum==m)
+  	if(s[i]=='s')
+typedef pair<int, int> ii;
+}
+  	cout<<i<<" ";
+		   	    {
++ evbccfmbecdczxsrsihepaqyebykxjb
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  }*/
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+            query2(1,N,x,y,1,v);
+  int t;
+			bin1[i]='0';
+  fast;
+}
+{
+         	seen[j]=false;
+		   	    	flag=2;//removed
+  			c[j].pb(i);
+
+const int N = 1e5+10; 
+  	
+  			{
+}
+	    decr[root]=arr[root];
+			{
+
+    int mid = (st + ed)/2;
+int main()
+	int digitCount=0;
+#define sz(x) (int)x.size() 
+		cin>>arr[i];
+int ispalindrome(char *arr,int size)
+	}
+typedef pair<int,int> ii;
+		for(int j=minc;j<=k;j++)
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  int n;
+		{
+    return c;
+- guhywiwzhugszyuuvufomwuegaokgeumybnwjjwtfcledhaaehoqeiwmkkytrsfpuuoffkakonqtvstbahtgrpsezsxqleihzwmginryajsxclycvtioicskupcfw
+    if(!last[i])
+#define fill(a,x) memset(a,x,sizeof(a)) 
+            z[i] = r - l; r--; } }
+  			}
+int gcd(int a,int b)
+  mini[0]=0;
+				
+#define sz(x) (int)x.size() 
+    return false;
+  	   if(arr[i]==1)
+pt->leftChild = pt_left->rightChild;
+		else
+#define present(c,x) (find(all(c),x) != (c).end())  // for vector
+  	if(ch=='\n')
+- yywowgbokxggoqzd
+        query1(m+1,se,qs,qe,2*x+1,val);
+  {
+    c=n-a-1;
+	if(ver*(ver-1)==edg)
+	 	cout<<4<<endl;
+  
+	ll temp=0;
+	
+        }
+#define sz(x) (int)x.size() 
+	    }
+const int N = 1e5+10; 
+    if(i==0)
+  	{
+82 5 34 785 265 498
+
+const int N = 1e2+10; 
+        	for(int i=0;i<n-1;i++)
+}
+typedef vector<int> vi;
+        ansval=min(arr[0],ansval);  
+#define pb push_back
+
+	   if(i>=1 && x!=arr[i]){
+  	big_col(2,0);
+	}
+				     y2=(points[j].y-points[i].y);
+
+				dp[i][j]=dp[i-1][j]+rat[i];
+	int n;
+	
+            b=1;
+    {
+void fix_violation(Node *&, Node *&);
+}*/
+  	cout<<minicost<<endl;
+  fill(ans,0);
+
+		    		if(edges[i][j]==true)
+  }
+	double a=p/(double)q;
+#define pb push_back
+		
+ll query() {
+  cin>>n>>k>>p;
+  int ans=0;
+  cout<<mini<<" "<<maxi<<endl;
+ 	ans=max(ans,l);
+#define fill(a,x) memset(a,x,sizeof(a)) 
+	   {
+  {
+  double x = (d*d-R*R+r*r)/(2*d);
+        {
+  int cnt=0;
+    while(n>0){
+
+  	else
+	{

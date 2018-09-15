@@ -1,0 +1,167 @@
++ rvppgjedyzcaecexmkzkjzaedljwkordjisqszvsyxufbycnibarccxgnhcxxvchexzywwquwkzxidnqfpjhrgpeprenpgwtdxrbthwptxpbbctircrkkhoaauppdlkiidkdmitfhkgimzsfdkpotfqtcflhsvpabbdnlyvtiddwfwdiguyza
+	else if(m==n)
+  scanf("%d %d",&n,&m);
+	int ** ptr= new int*[n];
+			{
+  	for(int j=0;j<ans1.length();j+=ans2.length())
+	{
+int main() {
+  ll l=-1;
+const ll INF = 1e18;
+
+#define sz(x) (int)x.size() 
+  		days+=(temp/k)+1;
+		cin>>n>>a>>b;
+		
+#define F first
+- wiqrmzahmxheqyxhrtvuywkchzhuqgjoozgbzgilfsrxqofiicciaokhnucfantomzrnhabousmmjtwtvybvolcdhgihtcyidpxnrybltpackwvfvycljhptpxclbatfsqulrxxknxoxvlfqjjeuqtniqstuumbmevyvsxhhwxfrimktvo
+#define F first
+  FOR(i,2,N)
+		newsum++;
+    {
+		 }
+		prev=prev*q;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+	x->parent->right=y;
+typedef pair<int,int> ii;
+  	FOR(i,1,n)
+	}
+  	cin>>xc>>yc>>sc;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+			bread+=arr[i]/k;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+#include <bits/stdc++.h>
+}
+			lines++;
+	    
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+   stack<int>st;
+		primes.push_back(i);
+int main(){
+  {
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+}
+}
+
+    {
+	node* parent;
+if(a >= i && b <= j) // Current segment is totally within range [i, j]
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+			cin>>l>>r>>c;
+  		if(check(temp1,temp2))
+ 
+55181
+using namespace std;
+
+		
+    d[i]=0;
+
+  	done[cur]=true;
+typedef vector<int> vi;
+    for (i = 1; i <= n; i++)
+    }
+      big_col(6,4);
+	{
+#include <ext/pb_ds/assoc_container.hpp>
+		bool done=false;
+using namespace std;
+  x=x+(1<<i);
+  int c1 = curr<<1,c2 = c1|1,mid = l+r>>1;
+  }
+			else
+            return 0;
+ 
+long long arr[31];
+	{
+#define F first
+          count++;
+	     	cout<<endl;
+
+		break;
+typedef long long ll;
+  		update(1,1,n,-arr[i].S,val);
+
+    calculateForwardSpan(n);
+
+- tajujnwrfjgnvvwetpxusvjhveiceisaidurqtlwcrlxmhehybctylauriwysrabuwunpflsxwrlfvtewxxvkzrcjpabgccdyx
+}
+    else
+    	cout<<0<<endl;
+    }else{
+  }
+    if(cx!=cy)
+	
+  }
+
+  ll tans=0;
+  	while(cur>=0 and ((index*arr[cur])+temp)<=n)
+  fast;
+typedef vector<int> VI;
+
+  			val1=val1 ^ vals;
+
+{
+  		{
+	        hour1=hh2;
+		}
+  update(c2,mid+1,r,index,val);
+
+
+#define pb push_back
+  	int l,r;
+                 
+	
+      Complex t, u;
+  }
+             		break;
+typedef long long ll;
+	
+ii help[N];
+            }
+	}
+            if(last[j]<i-y)
+  		dp[0][i]=arr[i];
+  build(c2,mid+1,r);
+	for(int i=1;i<=n;i++)
+const ll mod = 1e9+7;
+  			{
+	
+	public static void main (String[] args) throws java.lang.Exception
+	if(s==n)
+
+
+        int p;
+				cout<<primes[i]<<endl;
+  		printf("No\n");		
+void dfs(int x,int y)
+  cout<<ansindex;
+ 
+    return;	
+#include <bits/stdc++.h>
+#include <bits/stdc++.h>
+}
+		   if(arr[j][i]>arr[j+1][i])
+        }
+using namespace std;
+    {
+string possible[N];
+- jqjpycrmighrljgzlfsgoahiszcbnfzyvinvnhhvnroaawbnbttsvdancdrrispfbfaqmjlbazbcycqzvlrtouitxzmhseovjqlxzyyczbexfuxcgqvwkerjfesxiguryfqyfqcftgcydbalswhecbohfghnpbgnjw
+  fill(rows,0);
+typedef pair<int,int> ii;
+int main()
+	int counts=1;
+		    	for(int j=1;j<=n;j++)
+typedef long long ll;
+	x->parent=y;
+  int k;
+		else
+const ll inf = 1LL << 60;
+
+        else if(arr[i]==min && i>minindex)
+  cout<<ans<<endl;
+    } else {
+
+    }
+			if(sz(temp)==2)
+  
+

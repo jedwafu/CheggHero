@@ -1,0 +1,153 @@
+	
+int n,m;
+- rezwpvoenyqwgmnxcyleqzkdltedzotsuuqjpepefialuniyltcevohihnlicgay
+	int countg=0;
+    cin>>k;
+
+#include <bits/stdc++.h>
+        flag=true;
+	{
+    ll m = (ss + se)/2;
+
+
+  fast;
+  	}
+            if(len1%d==0)
+  		int vals=((1<<j) & nums[i]);
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  			sp[j*i]=i;
+		loop(i,1,k)
+		
+for(k=start1;k<=end2;k++)
+}
+typedef pair<int,int> ii;
+  		//cout<<i<<" "<<mini[i]<<endl;
+	    a+=a1;
+*/
+	
+    }
+
+ll n;
+      cout<<i<<" "<<j<<" "<<final[i][j]<<endl;
+
+void build(int n)
+	        max=arr[i];
+    {
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+			{
+using namespace std;
+#define mp make_pair
+typedef long long ll;
+  }
+  		{
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  		continue;
+        for (int i = 0; i < n; i++)
+      ans=max(ans,D[i].S+query(1,0,sz(D)-1,0,i-1));
+  		if(ans<0)
+		if(i==primes.size())
+    }	
+typedef long long ll;
+  cin>>t;
+{
+			if(n%2)
+  }
+
+	{
+	else
+#define pb push_back
+    while(temp>1)
+		{
+              return 0;
+typedef map<string, int> msi;
+           while(k>0 and t>0)
+
+  }
+  	dp[i]=min(dp[i/2]+y,dp[i-1]+x);
+typedef pair<int,int> ii;
+{
+	{
+    ll temp=a+b;
+  	flag=false;
+	    }else{
+		else
+			bear[0]=true;
+#include <algorithm>
+  			h[i][j]=-INF;
+
+  	int val=q.front().F;
+  if(flag)
+  FOR(i,1,n)
+#define fill(a,x) memset(a,x,sizeof(a)) 
+    freq[arr[1]]++;
+	sort(arr,arr+n);
+  sums[i]=i;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+typedef long long ll;
+  return 0;
+  	}
+		printf("%lld\n",dp[n-1][k]);
+	done[2]=false;
+			break;
+       if(trie[point][s[j]-'a'+1]==0)
+		if(arr[i]=='+')
+long long int c[100][11];
+	memset(attached,0,n+1);
+import java.io.*;
+#define sz(x) (int)x.size() 
+{
+#define pb push_back
+    	sum2+=arr[i][i];
+                 else
+#define S second
+        for(int i=0;i<n-1;i++)
+
+
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  cout<<"j";
+		if(l==2)
+
+  {
+	    cin>>k;
+- weseztboztntappvxtjbotvwgjuuweosihxhaaybvlwvdnragcdvvyrejmyhsncbubkwbizwwwrzjibqnfnifgorunyncaoybywejvaftugdejvrokcwsqnnflcjosjpsfwb
+    	{
+  	
+  	}
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  FOR(i,1,k[1])
+char arr[200010];
+                 		flag=false;
+	    cin>>arr[i];
+
+  	{
+    return temp;
+	cout<<r+5<<" "<<c<<" "<<r+6<<" "<<c<<endl;
+    else return r + 1;
+    {
+    	freq[arr[i]]++;
+	}
+
+	
+
+
+const int N = 1e5+10; 
+  		len++;
+typedef vector<int> vi;
+		minicost=min(minicost,t*c+((X+Y+Z)/2)*b);
+	cout<<2;
+	{
+	int s=2;
+            else
+	while(t--)
+typedef long long ll;
+61914
+    if(color[0]==0)
+		done[start[k]]=1;
+#define S second
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+typedef long long ll;
+		int n;
+		print(1)
+		FOR(i,0,sz(edges[vertex])-1)
+
+

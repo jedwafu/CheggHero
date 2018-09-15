@@ -1,0 +1,115 @@
+  		{
+         } 
+	}
+typedef long long ll;
+		printf("%.9f",ans);
+  		cout<<sz(ans)<<" ";
+  lvl[i]=0;
+  	cin>>p>>q;
+	}
+  }
+	for(int i=0;i<n;i++){
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+const ll mod = 1e9+7;
+		adj[ver[t][id]].pb({ver[t][R(id)], 0});
+	if(flip)
+  {
+#define sz(x) (int)x.size() 
+  while(t--)
+  FOR(i,2,n)
+    	    int count=1;
++ ubqvdbopqekvnjkblgydejqqnvbcxogtpxovacmqjynwiyztgyymjofwlgbiwhbogrlgwxxfymdimddudchmqmkeuloqtqebjrifphmpvqxivacyelmxxwbrkpkdhqgriqyz
+  dp[1][1]=arr[1];
+	}
+  	{
+  		if(yes[edges[i][j]])
+  		ans.pb(mp(1,cnt3));
+map<string, bool> done;
+		for(int j=0;j<n;j++)
+int ver[2][4 * maxn];	// 0: to [l, r], 1: from [l, r]
+	    cout<<"-1";
+	for(int i=0;i<len;i++)
+  fill(done,0);
+
+
+}
+{
+  temp=(n*(n-1)*(n-2)-(zero*(zero-1)*(zero-2)))%MOD;
+  int n,m,k;
+		v[i].clear();
+	}
+      lazy[kd][pos*2]^=1;
+    return;
+  ll ans=mod;
+  		swap(u1,u2);
+	return 0;
+int main(){
+typedef vector<int> vi;
+	int r=val[v];
+        {
+      ans=max(ans,D[i].S+query(1,0,sz(D)-1,0,i-1));
+const ll mod = 1e9+7;
+  		if(i==b)
+			if(max1==0)
+//Some amount of code for LCA and MO's was taken from a link in the comments of the above mentioned blog.
+  	char ch;
+	starts[i]=min(ts,tf);
+	c*=d;
+void findlx(int i,ll a,ll b)
+
+  FOR(i,1,n)
+  cin>>c[i];
+  fill(done,0);
+  		if(ops[i]=='^')
+- hhwijinncvtyvescagtfnbwdefsfnmextafdlusprnpmsipsokzdnvgrdyxqndpifulqqfgitvuldlfuxexkzeeeedvrgkalhnezvkhohebnpihpmg
+{
+if(a >= i && b <= j) // Current segment is totally within range [i, j]
+
+          mini=min(mini,temp);   
+  }
+  	if(s[i]=='a')
+ll val[2000010];
+		{
+       }    
+  return 0;
+		
+  	FOR(i,1,o2)
+
+    return 0;
+	else
+}
+                 else
+
+    ll sum=0;
+  	ans+=max((ll)0,(1LL*sz(edges[i])*(sz(edges[i])-1))/2);
+  	 ans=min(ans,check(siz));
+
+  	cin>>p;
+		if(edges[source][i]==par or vis[edges[source][i]])
+const int N = 1e6+10; 
+
+
+  int t;
+	int mid = (l + r) >> 1;
++ jjmmuedtdmryedwyyjciccnkzgnmppnbybpuftnihgiljekipostqifrqtdfi
+		}
+#define MAX 1000010
+      big_row(15,8);
+             	count++,flag3=true;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+
+typedef pair<int,int> ii;
+
+  return 0;
+#define S second
+}
+  		int ans=0;
+    bool flag=false;
+  			ll temp;
+  fast;
+  {
+	scanf("%d",&t);
+        	count++;
+{
+#define loop(i,a,b) for(int i=int(a);i<=int(b);++i)
+			if(j==i)

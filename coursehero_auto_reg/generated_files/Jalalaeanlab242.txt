@@ -1,0 +1,156 @@
+             {
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+	}
+            g[i][j] = -1;
+         
+ 
+  cin>>t;
+  	cin>>w[i];
+        }
+  }
+   // result.resize(actualSize+1);
+	if(edges[root].size()==1 && edges[root][0].F==prev)
+  {
+
+	cout<<endl;
+const int N = 1e5+10; 
+              return 0;
+
+
+					edges[arr[i+1][j]-'a'][arr[i][j]-'a']=true;
+                 		break;
+    {
+  cin>>arr[i];
+
+         both=true;
+int d,n;
+- bgqexkhiopabujgqa
+  	last_max[i]=last_max[i-1];
+
+27232
+  	
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  {
+  return 0;
+{
+	add(v, w, x, y, t, L(id), l, mid);
+float points[2][2000];
+
+			ans++;
+	int cost;
+const ll mod = 1e9+7;
+#define pb push_back
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+typedef map<string, int> msi;
+
+    update3(node*2+1,(a+b)/2+1,b,i,j,value);
+  {
+  FOR(i,1,n)
+    a.clear();
+sort(start,start+n/2);
+	    }
+  ll ans=0;
+	for(i=0;i<s.size();i++){
+
+		else
+		
+		printf("%Lf\n",(long double)0);
+	node* left;
+	FOR(i,1,n)
+	    arr1[i]=s[i]-'0';
+
+
+	    else{
+      	continue;
+	else
+using namespace std;
+		
+#include <bits/stdc++.h>
+  FOR(i,1,n)
+  			if(dp[c[i]]>maxi)
+			  flag=0;
+int dp[N];
+vector<ii> arr[N];
+          
+    if(c==4){
+return;
+
+			cur=last-1;
+  	FOR(i,0,100)
+#define pb push_back
+         	    		else
+    ll temp=a+b;
+  	if(typ==1)
+	                   flag=0;
+		long long int l,r,c;
+const ll mod = 1e9+7;
+		if(k>*(--cfreq.end()))
+}
+  dp[n][cost]=max(solve(n-1,cost),solve(n-1,cost-w[n]));
+  	if(ispalindrome(it->F))
+    
+	}
+					}
+         	else
+
+  ll evensums=2;
+
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+	
+  fill(cur,0);
+	return 0;
+  	ll m;
+  first++;
+  int cur=sz(s)-1;
+
+ return 0;
+const ll mod = 1e9+7;
+	int n=0;
+    seven1[temp]=i;
+       row(4,0);
+
+
+
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  	cin>>n>>m;
+    { 
+	cin>>n>>m;
+	{
+    //if(i<10)
+  else if(maxi<mini-eps)
+}
+
+			 }
+    for (i = 0; i < alen; i++) pga.data[i] = Complex(a[i], 0);
+    else
+	sieve();
+	char ch[][30]={"Sheldon", "Leonard", "Penny", "Rajesh", "Howard"};
+typedef pair<ll,ll> ii;
+{
+  last[val[0].F]=0;
+using namespace std;
+
+  fast;
+                 	}
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+		
+			return true;
+  }
+#define sz(a) int((a).size())
+
+            {
+    /*for(int i=0;i<n;i++)
+       {
+
+	if(count[3]>count[1])
+		
+	cin>>n>>m;
+#include <bits/stdc++.h>
+    freopen("output.txt", "w", stdout);	
+int main() {
+
+  	int u1,u2,v1,v2;
+#define pb push_back
+  	  toggle[j]=0;
+			ans=min(ans,mini[l-1]+120);
+  				cost[i][j][k]=cost[i][j][k-1]+A;

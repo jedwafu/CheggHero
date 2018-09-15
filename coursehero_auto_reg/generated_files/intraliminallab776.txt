@@ -1,0 +1,100 @@
+
+      reverse_col(11,4);
+
+	            break;
+	
+        	if(arr[i+1]-arr[i]!=diff)
+		int flag=0;
+    
+  FOR(i,1,n)
+  	//cout<<"here at value "<<val[i].S<<endl;
+using namespace std;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+update_tree(1+node*2, 1+(a+b)/2, b, i, j, value); // Updating right child
+typedef pair<int,int> ii;
+	int i;
+  		if(dis[tree[i][j]]>1)
+  	row(5,7);
+                 }
+  		{
+map<string, int> even;
+    while(A[2*x].add>M)
+
+        	continue;
+}
+  	cin>>a>>b>>c;
+    return;
+	}
+  /*VI b = FFT::convolution(coeff, coeff);
+	}
+
+	int n,i;
+  		{
+     }
+  				//cout<<"breaking because "<<route[0][j]<<" "<<route[1][j]<<endl;
+     
+int dfs2(int source)
+
+from __future__ import division
+       if(seen[j])
+  	else
+      if(!found)
+    }
+scanf("%lld",&t);
+	if(s[i]=='B' and s[i+1]=='A')
+    //cout<<n1<<" "<<n2<<" "<<p<<" "<<dp[n1][n2][p]<<endl;
+  		if(!flag)
+	int t;
+                 {
+     		}
+#define S second
+  			continue;
+  {
+	else if(sizer>sizel)
+  		pre[i]=pre[i-1]+abs(arr[i-1]-arr[i]);
+{
+typedef vector<int> vi;
+typedef long long ll;
+
+int original[100];
+    {
+    }
+
+#include <iostream>
+			bread++;
+    return 0;	
++ uljxinevvnjtzpsrykcujrxzugazqxemlnktaqpydateplvpwajhtijnojoghstsiflkvcibechvpflnfuvydentpbawwvqgceqz
+    ans=query(1,1,n,a,b);
+  	l=max(mini[i],l);
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+			return ;
+	    else if(arr[i]==0 && arr[i+1]==1){
+      if(!found)
+			}
+#define sz(x) (int)x.size() 
+	for(i=0;i<n;i++)
+const ll mod = 1e9+7;
+		ans+=prev*q;
+  	}
+					break;
+  	{
+typedef pair<int,int> ii;
+  s[curr]=0;
+  	FOR(i,1,n-1)
+#define loop(i,a,b) for(i=a;i<b;i++)
+  		cin>>arr[0][i]>>arr[1][i]>>arr[2][i];
+			cout<<1003001<<endl;
+#define sz(x) (int)x.size() 
+
+  	}
+        int temp=i%rem;
+#define ll long long int
+
+
+            	{ansval=min(arr[3],ansval);
+		    
+		return 0;
+  	typ[j]=0;
+typedef long long ll;
+vi rows[100010];
+- juewcquhmo

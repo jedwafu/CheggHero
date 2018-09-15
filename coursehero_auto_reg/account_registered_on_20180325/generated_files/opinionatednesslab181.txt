@@ -1,0 +1,165 @@
+
+}
+
+int main(){
+  	
+			term=term/(k-i)
+	if(temp==n)
+- thkpsczoqeb
+    treee[node]=mul((b-a+1),value);
+int x[505],c[505];
+		}
+  for(int i4=0;i4<10;i4++)
+				}
+		 return;
+  int n,m;
+#include <bits/stdc++.h>
+    return m==0?n:gcd(m,n%m);
+	}
+using namespace std;
+#define mp make_pair
+	    if(count==12){
+ 
+
++ ueyvnhudyhyrmgif
+#define pb push_back
+const ll mod = 1e9+7;
+
+#define r(x) Right[x]
+	            }
+        	cout<<arr[i];
+typedef pair<int,int> ii;
+	                   flag=0;
+    		while(s.empty()==false and arr[s.top()]<arr[i])
+  	R+=arr[1][i];
+return;
+  				}
+    lazy[0][2*node]=add(lazy[0][2*node],lazy[0][node]);
+using namespace std;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+				j++;
+		}
+typedef vector<vii> vvii;
+  {
+    for(i=3;i<=ul;i+=2)
+	for(int i=0;i<primes.size();i++)
+    {
+		{
+ll x[N];
+typedef vector<int> vi;
+					if(s[1]=='.')
+#define pb push_back
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+
+#define F first
+  fast;
+      if(temp.compare(s1.substr(j,div1[i])))
+  			if(k==0)
+	//cout<<n<<" "<<k;
+}
+	{
+    	}
+  int n,k;
+int main()
+/**
+int main()
+		
+	cout<<"NO";
+void insert(const int &l);
+  	cin>>s;
+  		assign[make_pair(cp[i].F,cp[i].S)]=cp[pos].F;
++ bloxngaglpeacymqgyrkevvrlqkypbgsovpdbqlohrojqaby
+typedef pair<int,int> ii;
+  					val=false;
+#define S second
+    int temp;
+    {
+
+#define sz(x) (int)x.size() 
+lazyPropagatePendingUpdateToSubtree(stIndex, value);
+	{
+
+#define S second
+    if(a!=b){
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+		point=trie[point][rem];
+    cout<<"NO"<<endl;
+#define F first
+long long int mod =1000000007;
+#include<bits/stdc++.h>
+			dp[st][l][r][gft]=min(dp[st][l][r][gft],edges[l][i].S+min(DP(0,edges[l][i].F,r,gft-1),DP(1,l,edges[l][i].F,gft-1)));
+#include <bits/stdc++.h>
+		{
+        }else{
+  	cin>>a>>b;
+
+}
+  	if(taken[check][i])
+	{
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+        	if(racks[j]>=pies[i])
+typedef vector<int> vi;
+rightResult = query(rightChildIndex, mid+1, end);
+  cout<<ans;
+		dfs1(s,l+1);
+  }
+for(k=start1;k<=end2;k++)
+  fast;
+			
+}
+
+	}
+  	int a,b;
+        }
+   	  int j=i;
+	return 0;
+4 5 6 1 2 3
+}
+	return 0;
+total = left.total + right.total;
+  	cout<<"NO"<<endl;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+
+  {
+        	flag=true;
+
+
+using namespace std;
+  fast;
+	sort(str1.begin(),str1.end());
+	return 0;
+		cin>>a>>b;
+- jqjpycrmighrljgzlfsgoahiszcbnfzyvinvnhhvnroaawbnbttsvdancdrrispfbfaqmjlbazbcycqzvlrtouitxzmhseovjqlxzyyczbexfuxcgqvwkerjfesxiguryfqyfqcftgcydbalswhecbohfghnpbgnjw
+    		typeof(cfreq.begin()) it = cfreq.lower_bound(k);
+return;
+int lefts[N];
+if (pt == parent_pt->leftChild) {
+}
+void copy(int start1, int end2)
+  FOR(j,-1,1)
+  {
+  sort(arr.begin(),arr.end());
+	
+  	temp+=m;
+		if(done[i]==2)
+   		ans+=a[num];
+
+if (nodes[stIndex].start == start && nodes[stIndex].end == end) {
+    }
+#define sz(x) (int)x.size() 
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  	else
+		prob[s]=prob[p]*(1/cnt);
+         
+    return;
+typedef long long ll;
+#include <bits/stdc++.h>
+    int op=read(), x=read(), y=read();
+typedef pair<int,int> ii;
+	done[source]=2;
+    #define spresent(c,x) ((c).find(x) != (c).end())  // for set,map
+	
+
+const ll mod = 1e9+7;
+  s1[curr]=0;
+		c=getchar();

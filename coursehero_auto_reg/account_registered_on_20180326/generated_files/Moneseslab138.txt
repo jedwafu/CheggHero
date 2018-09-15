@@ -1,0 +1,150 @@
+			  r++;
+  int flag=0;
+	{
+  	FOR(i,1,100)
+		ans=min(ans,mini[r-1]+120);
+    }
+  cout<<ans;	
+  PT operator - (const PT &p)  const { return PT(x-p.x, y-p.y); }
+typedef pair<int,int> ii;
+
+                 {
+		}
+  }
+#define sz(x) (int)x.size() 
+	}
+}
+
+  return 0;
+	if(block=='B')
+       if(i>1 and ((s[i]-'0')+(s[i-1]-'0'))%3==0)
+
+ll DP(int type,int pos)
+    else if(c<=a and c<=b)
+	return true;
+  x=0;
+printf("Case #%d:\n", t);
+
+using namespace std;
+			   }
+		
++ znthvnhphplfvwjjhotuphbdenaqzxwzmpihd
+  	column(11,7);
+  			cout<<len;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  				y2=min(sty+k-1,y2);
+  	{
+}
+  	if(edgebig[i]>n)
+		if(s[i]=='V')
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	       loop(i,1,n)
+					 }
+  {
+  	column(3,0);
+using namespace std;
+	for(int i=1;i<=n;i++)
+#define pb push_back
+#define pb push_back
+		int temp;
+
+int main()
+		if(root->l->low<=i && root->l->high>=i)
+  else
+{
+       }
+  
+{
+     indeg[edges[1][i]]++;
+
+
+#define INF 10000000
+		ans=freq[*(--cfreq.end())];
+VI LongestIncreasingSubsequence(VI v) {
+
+
+  return 0;
+  cin>>t;
+  if(index<=mid)
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+    	{
+typedef pair<int,int> ii;
+  }
+            	break;
+  	ll st=value;
+            
+				result+=(r*(r-1))/2;
+typedef long long ll;
+#define F first
+
+typedef long long ll;
+		    ed[hi]++;
+  			}
+  		//cout<<temp1<<" "<<temp2<<endl;
+		{
+int mini[N];
+        }
+	ans+=(len)*25;
+    	if(modinv[arr[i]]==p and arr[i]!=0)
+  FOR(i,1,n-k+1)
+}
+  string s;
+void copy(int start1, int end2)
+const ll mod = 1e9+7;
+
+  fast;
+	while(n)
+	int countb=0;
+typedef vector<int> vi;
+  }
+  cout<<"| "<<x<<endl;
+    	float val1 = calc();
+else if(ch==4)
+#define sz(x) (int)x.size() 
+int main(){
+		dummy[i]=0;
+    }
+    if(!flag)
+y[1] = quotient * -1;
+else
+    	return dp[i][j][state];
+const ll INF = 1e18;
+ll exact[1000010];
++ rlnbmqoyjwvylikgxdjyzmjyqaermvxfimhucvvmtqmfbwnacwydkkbakftydqelclifidtevfjyewyivzlhjpktwdtzuxnwkxdvcwzzeiykgyudxflgwxbtavswshtfeyaixzibjgnrehvcoiklfmefhycbixioxixujf
+  		cout<<sz(ans)<<" ";
+
+  		ansfor[i]+=s[j];
+int main()
+const ll INF = 1e18;
+
+     
+    A[2*x].sum=((A[2*x].sum*A[x].mul)%M+(A[x].add*(m-ss+1))%M);
+  			final[i]-=final[j];
+bool pls[N][30];
+  		return 0;
+{
+		base[i]=m%w;
+void dfs1(int p,int l)
+	}
+
+		}
+	
+		cfreq.insert(it->first);
+
+           	   
+  while(!flag)
+  cin>>n>>l>>r;
+}
+  freopen("in.txt", "w", stdout);
+    if(val1==0)
+			   cout<<endl;
+	done[source]=true;
+	
+      big_col(5,4);
+  	{	
++ okrhdrpgvboathgfubzkufmpuwnsxztlllspcixzlnzfwhmrjnbfsquoojjliczwnrlrbkqpzswwzipkyspsijhwvqkfujbicmzgysvykrwlblwbdlumxbkstuxndzxgnzm
+
+        continue;
+  	int frst=i;
+    A[2*x+1].sum=((A[2*x+1].sum*A[x].mul)%M+(A[x].add*(se-m))%M);
+  dfs(1,0);

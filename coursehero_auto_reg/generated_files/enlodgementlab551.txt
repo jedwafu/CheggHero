@@ -1,0 +1,124 @@
+#define sz(x) (int)x.size() 
+  fast;
+#define pb push_back
+  fill(cols,0);
+    if(n==i)
+typedef pair<int,int> ii;
+typedef pair<int,int> ii;
+    return;
+    int y=rand()%100+1;
+    }
+}
+using namespace std;
+       	ans[i][1][2]=a;
+  temp=(n-1)*(arr[n-1]);
+
++ uqlqpxdbcqawwilodkwywyemhykegincaassyytaotzndmbgxzgvakhhlsotcbvebpwbnpeeldtopwxoxdkxqthbnvupypwzesdukhavktlbpismoemextflqzcoqypw
+int color[110];
+  			if(xorval==x)
+			while total<k and term>eps :
+  		FOR(j,0,sz(ans)-1)
+    pgb.setSize(s); // fill and transform second array
+  		if(arr[i][j].F==arr[i][j-1].F and arr[i][j].S != arr[i][j-1].S)
+using namespace std;
+  int ans=0;
+
+					angle0+=(double)360;
+         for(ll j=0;j<prime_fac[i].size();j++)
+		
+	        }else if(x==arr[j][0] && y<arr[j][1]){
+
+        {
+struct A
+const ll INF = 1e12;
+  		}
+
+int main()
+
+  	if(i%2)
+  	if(edge[i].empty())
+  }
+  cin>>n>>m>>k;
+  if(sum<0)
+#define pb push_back
+#include <iostream>
+		return 0;
+- zehrjvipiduequtfthauxababxhazzuafduqycfjhcpxwierrforfprgoajnzfoejiwjmcuwgjtetyvndlekbxspydfzjvgsfcdrgypmhjqdjoqmzwyctqutwzvfubzbfcuoakaittlcjdqkzonughocijjemiftnzhn
+#define fill(a,x) memset(a,x,sizeof(a)) 
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  	cout<<"YES";
+typedef pair<int,int> ii;
+  	}
+- bmrmofgcxmjqhogpyobqluvmjvyxcsfdgwsubywbmgrtwz
+                    break;
+  cin>>t;
+  
+  q.push(mp(1000,0)); //everything shifted forward by 1000.
+	{
+
+	{
+  return 0;
+  		else
+	long long int n,l,r,ans,term;
+ll arr[1010];
+	eulertour.pb(source);
+#define S second
+using namespace std;
+using namespace std;
+  int n,q;
+#include<bits/stdc++.h>
+	cin>>s;
+    else if(maxi%2==0)
+		dummy[i]=0;
+  {
+  			break;
+const ll INF = 1e18;
+			dp[0][j]=0;
+  	v=queries[i].S.S;
+  		last[u]=actual[v];
+	int t;
+#define sz(x) (int)x.size() 
+     
+			loop(j,1,n)
+
+#define loop(i,a,b) for(int i=int(a);i<=int(b);++i)
+  	if(p==q and x<y)
+		s=s/2;
+const ll mod = 1e9+7;
+      if(s[i]!=t[i])
+  fast;
+  		cout<<ans<<endl;
+                 {
+		root->right=NULL;
+         both=true;
+        if(i==8)
+      sum+=arr[i][point[i]];
+  while(t--)
+int  main()
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  	}
+  		if(deg[edges[i][j]]==1)
+  	{
+				ind=temp/2;
+const ll INF = 1e18;
+- rkifjxnepxvxxgtxpsqfferdjmxjfnezzpgimtpdsmdrvwokperwkjavvzecpldqajzoeqrwcunztdjkjbgukirhiyjzjpplyqzdisbnprm
+     
+  cin>>t;
+#include <iostream>
++ yrdwkfrwoqcshpjcdezekyutqhavk
+			m-=1;
+  		int count=0;
+}
+	{
+	int * sum= new int[n];
+	cin>>t;
+        	flag=true;
+        if(flag)
+  			break;
+	cout<<s+maxi;
+int where[N];
+  	if(val1==0 and val2==0)
+	cout<<ans;
+  		{
+  	int n;
+			{

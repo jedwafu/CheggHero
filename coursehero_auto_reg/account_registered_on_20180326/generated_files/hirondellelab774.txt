@@ -1,0 +1,178 @@
+		{
+}
+	
+int x,y,z;
+	    arr2[i]=s1[i]-'0';
+typedef long long ll;
+const int N = 1e5+10; 
+		}
+			//cout<<"inserted "<<s[i]<<" at "<<trie[cur][s[i]-'a']<<endl;
+
+  	int p;
+int main(){
+  Update(cx,mid,qx,qy,kd,pos*2);
+		ll ans=20*index;
+    st[r].sum = (1ll*st[r].sum*v)%mod;
+	long long int n,h;
+}
+
+  cin>>t;
+    ll cnt=0;
+  	int x,y;
+	{
+#define pb push_back
+			{
+	//delete y;
+   		}	
+- mytvyavhkhivahcjkduufpplonmioepccizckvjvcusebuooziiezzrqmfycjphnzgplbbggxamawaovlybmxsclzcqit
+
+j++;
+			temp[j]=0;
+	    else{
+    	cout<<"NO";
+	    {
+	}else{
+
+}
+		else if(counts[inp]==maxi)
+	
+  {
+	int ans=0;
+#define pb push_back
+#include<bits/stdc++.h>
+		
+const ll INF = 1e18;
+
+				for(l=k;l<n;l++)
+#define S second
+	//as the union of three parallelogram shaped arrays containing abab, bcbc, and caca beads respectively,
+	sort(arr,arr+3);
+  {
+   // int actualSize = resn - 1;  // find proper size of array
+  		}
+const ll mod = 1e9+7;
+  		ans=max(ans,check());
+        	{
+#define pb push_back
+
+        i--;
+{
+  dp[0]=1;
+int par[101];
+			
+
+}
+
+	for(int i=3;i<=sqrt(big);i+=2)
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+        
+        return val1/val2;
+double dist2(PT p, PT q)   { return dot(p-q,p-q); }
+	}
+- mmaxvmbijfmc
+    {
+  reverse(ans.begin(),ans.end());
+typedef long long ll;
+
+pt->parent = prev;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+    	edge[v].pb(arr[u].F);
+  	FOR(i,1,n)
+bool seen[27];
+	int n,i;
+if (nodes[stIndex].start == start && nodes[stIndex].end == end)
+  ll ans=0;
+					r++;
+const ll INF = 1e18;
+  	if(!s[i].compare(pass))
+		
+using namespace std;
+		return 0;
+
+int a[N];
+  maketree(1);
+	int i,j,t,n,count,temp;
+                    dp2[p++]=val[i];
+vector<pair<int,int> > pres;
+  	FOR(j,1,k)
+  		continue;
+				 }
+                  end=k;
+
+	
+  }
+
+        for(j=1;j<=5;j++){
+			temp=findinverse(i,mod);
+	}
+  if(l == r){
+  	dp[1][i]=dp[1][i-1],hor[1][i]=dp[1][i-1];
+        cout<<dp[0][i]+i-1<<endl;
+grand_parent_pt->color = RED;
+  int n,m;
+
+		end[inp]=i;
+					if(done[j]==1)
+			
+  		if(check(arr[mid]))
+    	if(s1[i]==virus[state-1])
+
+		sums[i]=sums[i-1]+rat[i];
+	  cin>>arr[i];
+		 for(i=0;i<n;i++)
+#define m 1000000007
+  			else
+  	FOR(i,1,100)
+const int N = 5e3+10; 
+
+	for(int i=0;i<=n;i++)
+int main() {
+            s(v);
+const ll mod = 1e9+7;
+  }
+tree[node]=add(tree[node],((b-a+1)*value)%m);
+  		if(present[i])
+
+double dist2(PT p, PT q)   { return dot(p-q,p-q); }
+vector<int> freq(110,0);
+		if(counts[inp]>maxi)
+		long long int maxi=0,temp=1;
+void sieve()
+    if(rem==7)
+	int ans=26;
+		for(int i=0;i<n;i++)
+const int N = 1e5+10; 
+  	for(int i=0;i<n;i++)
+  cnt=1;
+			if(i!=j)
+update_tree2(1,1,n);
+		while(r-l>1)
+typedef vector<int> vi;
+// hp matlab HoPayega.....Tribe se churaya hai !!
+const int N = 1e5+10; 
+  	cout<<3<<" "<<1<<" "<<4<<" "<<1<<endl;
+		else
+  int t;
+}
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  FOR(i,1,m)
+typedef vector<int> vi;
+  			{
+     		if(state==1 and s1[i]==virus[0])
+  	}
+  	cout<<mini;
+  if(b1 and b2)
+#define F first
+  	{
+		{
+  	   }
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+    }
+  
+bool palindrome(int i)
+laziness(node,2*node+1,mid+1,b);
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  	cin>>u>>v;
+      big_row(15,8);
+  				if(y1>y2)
+           }

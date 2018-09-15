@@ -1,0 +1,159 @@
+    cin>>n;
+        ll r=s;
+  			arr1[i][j]+=mindif;
++ vchgfwlertnfoppnsrrpuvqcakklmlhknpqslexezmlobcbvuskoqcsqpcbdoknbbgwmkvtjhgzklaffvrvnunflriohsejukhiwcbfjkfvvhacetxrpmwadeplzvwtffbdhfksrrpmzpqfknzabxaecrrdmpwtuxwdehx
+inline void MakeSet(int x)
+#define sz(x) (int)x.size() 
+  fill(hole,0);
+	FOR(i,0,sz(divs[a[s]])-1)
+		dfs2(s,l+1);
+  	u=queries[i].S.F;
+    int res=abs(3-i)+abs(3-j);
+	int temp1,temp2,temp3,flag;
+#define pb push_back
+			if(n>k)
+  		{
+}
+			while(input[s.top()]>input[i])
+  	dp[i]+=val[2*i];
+ 
+		
+  		while(left >= 1)
+                 		flag=false;
+    i=1;
+
+		minicost=min(minicost,t*c+((X+Y+Z)/2)*b+a);
+}
+
+	    cin>>m>>n;
+int main()
+#define S second
+	    }
+			{
+  	   if(bad[s[j]-'a'+1])
+
+            
+        {
+         if(freq[arr[i]]==1)
+#define INF 10000000
+	<content>
+typedef pair<int,int> ii;
+ 
+scanf("%d %d %d", &i, &x, &y);
+	else if(arr[0]+arr[1]==arr[2]||arr[1]+arr[2]==arr[3]||arr[0]+arr[2]==arr[3]){
+	ll temp=0;
+
+}
+    EE(a,m,x,y);
+  	else if(i==j or j==0)
+#define S second
+	if(s1[i+1]=='.')
+    }
+remainder = a % b;
+    return 0;
+        zeros[i].pb(j);
+		if(c=='>')
+
+        if (!isPc(par[log][u], v))
+    	{
+
+  FOR(i,1,m-1)
+typedef pair<int,int> ii;
+  			continue;
+typedef vector<int> vi;
+
+  	if(t==2)
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  {
+- icjwbnjwzrinongobqpgrkjzjydmefhojsmkfvifprudgasjrjpktylexpsducueuiqcezjvsdyydsjwbziwxucwlxcfzylvgcxmbghtjitpccledwcdqhbbefifduakyyyzeguqopfqtswzobcgidhmjsroota
+#define pb push_back
+  	cin>>a[i];
+int dist[N];
+	cin>>s;
+		}
+	return 0;
+pt_right->leftChild = pt;
+vi perm;
+	char c;
+- xvowzhvbvqtnnfvulbyopbiwesrjzruwnkvotqpqikdvpbsacqqrrznvthguaatpmoeggvwpgcmvdeyfwowpplmiutfvvykimqqummlsqyptenydewstkheeajbvhodvevpsib
+    }
+#include <iostream>
+using namespace std;
+- ejzlqqrhniizvbjvgofsohqzverkkrsobrztkrcxbkywmisuwzok
+  			flag=true;
+
+			int top=q.front();
+	else
+				path[j]=path[j]+arr[j];
+  int n;
+  c[1][0]=3;
+			 
+    	
+vector<ll> query(int cur,int l,int r,int x,int y){
+pt = parent_pt;
+  	prefix[i]=prefix[i-1]+val[i];
+  	if(i<j)
+int main()
+  		reach[1][i]=true;
+#define pb push_back
+	while(t--)
+  return 0;
+	cin>>n;
+  fast;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+            while (r < n && s[r - l] == s[r]) r++;
+	    }
+		{
+typedef vector<int> vi;
+
+		}
+const int N = 1e5+10; 
+  arr[i][j]=c;
+	}
+				tans++;
+  	val[0]=0;
+#define pb push_back
+}
+	    }
+		}
+	        }else{
+  		break;
+	for(int i=1;i<=n;i++)
+  	if(!present[i])
+		{
+typedef pair<int, int> ii;
+}
+
+      cin>>t;  
+		    m[arr]=1;
+		sum[i]=0;
+	st.push(s);
+    
+			add+=arr[i]-cur;
+#define pb push_back
+      else
+const ll INF = 1e18;
+}
+}
+
+	maxi=max(X,max(Y,Z));
+- zvnwcssivdadyqdbjedyredmcjgegmagipekhyvfdxiboncztfxkmcyoleuuruablgnvekaiikjyzoxsvwehzdvmhpgalibzqruxdwfliqlheibaffjgifuqwdsknwjendbqbiejypqfathfyqnjxhzukrgynpecufvvnzenqwsqpzxnqkwpuxjerpeggilangvchz
+  			mainflag=false;	
+	if(maxrem<=2){
+	}
+{
+  cin>>n>>d>>t>>k;
+else if (root->data < pt->data)
+		hadamart(n/2,st1+n/2,st1+n-1,ed1,ed1+(n-1)/2);
+	xval[0]=0;
++ rptcjhezxhpbqfpptkefwcymwfzsjotddmhpvlqsufvlkkcguglsllghsfcctvhzjoqeziwuprhzdlfzssrffzoyfscanjbwztaybyuqrdsupztjsmozmextxbvmmxjlqlmumikdmcabevmwicxwgxpdymqnjbycomwavighngkrbwplamhgjyki
+		return binarysearch(low,mid-1);
+	pq.push({0LL, s});
+const int N = 1e5+10; 
+  {
+    tn2[i]=abs(Mul(tn1[a],tn2[b])-Mul(tn2[a],tn1[b])+Mul(tn3[a],tn4[b])-Mul(tn4[a],tn3[b]));
+
+#include<iostream>
+  FOR(i4,1,sz(ans4)-1)
+
+  	{

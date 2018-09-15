@@ -1,0 +1,104 @@
+    int arr1[100],arr2[100];
+  {
+int main(){
+
+  {
+  	edges[u].pb(v);
+#define S second
+  if(val%2)
+        cout<<"YES"<<endl;
+  {
+	}
+  	if(temp%k==0)
+int main(){
+    ll mid=(a+b)>>1;
+	primes.push_back(2);
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  for(ll i=1;i<=s;i++) cin>>Q[i];
+
+#define mp make_pair
+  {
+
+typedef vector<int> vi;
+	    else
+	if(type==0)
+const int N = 1100000; 
+
+  {
+#define FOR(i,a,b) for(ll i = a; i<=b; ++i)
+
+  	if(ispalindrome(it->F))
+  	if(c[2]=='B')
+
+       row(7,4);
+  vector<Complex> roots;
+const ll mod = 1e9+7;
+      reverse_col(14,4);
+#define S second
+  cin>>a>>b;
+			cout<<freq[k]%2<<endl;
+    {
+    s+=arr[i]/(1-arr[i]);
+vi edges[N];
+ 	ans+=mod;
+		query.clear();
+                 }
+		if(dskip>dpair)
+                 	{
+typedef vector<int> vi;
+             		s[n-1-i]=s[i];
+int arr[100010];
+	}
+  	return 0;
+		int temp;
+  }
+
+	for(int i=0;i<n;i++)
+       cout<<4<<" "<<4<<" "<<5<<" "<<4<<endl;
+
+ 			
+	
+  		continue;
+        query1(ss,m,qs,m,2*x,val);
+}
+				    {
+  		{
+ 		if(check(index,r))
+	     else cout<<"YES"<<endl;
+  {
+  }
+        	{
+	cin>>n;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  		{
+  }
+  FOR(i,0,sz(eulertour)-1)
+	            below++;
+        A[2*x+1].sum=(A[2*x+1].ini*(se-m))%M;
+  		{
+
+int main(){
+	return 0;
+if(a > b) return; // Out of range
+  		}
+
+  	FOR(i,1,n)
+#define S second
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+
+  	    	int sizes=min(sz(beauty[s1]),sz(beauty[s2]));
+	    cout<<"YES";
+  {
+typedef vector<ii> vii;
+	int yy = x = 1;
+
+                {
+		{
+    	best[i]=1;
+        cin>>s;
+
+	}
+typedef pair<int,int> ii;
+
+  {
+  		}

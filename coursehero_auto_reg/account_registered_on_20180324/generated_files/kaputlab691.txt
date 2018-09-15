@@ -1,0 +1,100 @@
+	    
+	  		c1+=3;
+  			cout<<"YES"<<endl;
+  fast;
+#define pb push_back
++ klgumqgyjeicqaxjtcyiancyxzolrxleisywiguumfwdfumbykjaxoyxnnkhkvnvnnrwtmshtokykwziiljizjfowrvjmkecxxaslsaegkftjgdrtozsygjwxghmrnoolohyghdotkjcqnwkbxebgnyfufrnthbgxkeftjwntfrkspwwpcxvqvamduzydc
+return true;
+  	}
+ll n,k,m;
+			if(sum[0]!=bin[0])
+
+
+
+  fast;
+  fflush(stdout);
+		b=-1,a=-1;
+
+    for(int i=1;i<=end;i++)
+
+  FOR(i,mid+1,r)
+buildTree(arr, leftChildIndex, start, mid);
+  cout<<ans<<endl;
+- mrpwyxzfzokjyfpdonjwqcpdknupsetgwkcwkeelsoustmwkbhgrlxxxkrnewimutrqfxuqrknjgbhqcqyudxrbjkopgybarutytnpkaeugfdwhwwdztwa
+
+  even.clear();
+#define sz(x) (int)x.size() 
+- cqeocvdnt
+  
+- tlaanksohcptdgoaoskyosf
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+		if(ret2<0)
+  		}
+- myspfeppqshrrqajxglaclpirilerbigzcvhimwaedrxwuitattegimxqzbkalscnpjycfyikqggmobokutqdhqvhrhjfzlurwstdrbojjwvayjkuecxmsvtkccreqlvmeoqxrggbebbemnzrpyfivyuyclesyzhepxbgfjjlmmqzzrsprxznxvnzirugqbnfa
+  	if(d==1)
+  	}
+#define pb push_back
+  	reverse(arr+1,arr+n+1);
+  
+		for(int d=0;d<10;d++)
+	{
+		if(buy[i]!=0)
+bool done[N];
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	cin>>x1>>y1;
+
+#define sz(x) (int)x.size() 
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	if(dp[n][m]!=-1 or dp[m][n]!=-1)
+	string s;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+#define sz(x) (int)x.size() 
+using namespace std;
+  		}
+        else if(freq[arr[i]]==freq[modinv[arr[i]]] and arr[i] < modinv[arr[i]])
+  {
+			bin1[i]='1';
+				
+			len[0][k]=1;
+int n1[1000010];
+#include <bits/stdc++.h>
+		
+		}
++ qpxyyidvsvwdsvdntnxvrrxcwlivczbsraqpkwkctihlglazazxtsuvoielkfoewoxnytadmkkzqxbsxaptslogvutfchmavjqvcsyqclrvkspksedmrrunonuqugqppgktylldwcagwpqovtaonubbhyrdejswsfrsqfxohxueonujixyxtbydzrggdzevgxpycnm
+  cout<<ANS[i]<<endl;
+  fast;
+   FOR(i,0,sz(edges[root])-1)
+  }
+		if(boys[i]-girls[k]>=-1)
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+    	
+	    }
+	else
+{
+int main()
+	par->l=temp;
+			 flag=1;
+- ckbmmbctiyjsrmspzyrqjlhmvdtutotvyuhkxlghkraddus
+
+
+total = left.total + right.total;
+  {
+- qhvdcqhtbrdznzxgt
+    	uses[*it]=bowl(*it);
+	return 1;
++ mrefyyugchrjioevzozvhlapwqrxsuefllkljetnlmzwbfrcwsadfasdslckfjpsubdffxvtjwpmb
+
+      st.push(i);
+  	cin>>v1>>n1;
+                     if(counts[3]>0)
+pt->parent = pt_left;
+
+- dbpbevqxpgkqlowdzlyhgl
+        return ;
++ ymazjlfzdmuuhqininsugoqfpjzptgjtulsfyzeblbvvtfkdtfxztpgkahzwokpkxkqvjwyvzvssbcwuhvvanbnniolyzblyndwybuvbsnttqrpxnkaannpxbbyc
+#define sz(x) (int)x.size() 
+	cin>>n;
+fix_violation(root, pt);
+  	cin>>t;
+#include<iostream>
+  fast;

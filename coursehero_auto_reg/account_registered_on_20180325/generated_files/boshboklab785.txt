@@ -1,0 +1,182 @@
+  	}
+  dp[1][0][0]=1;
+- ehxnnavxpwinmefina
+  		target+=a[i];
+typedef pair<int,int> ii;
+    	ll rem=a%m;
+        temp=(temp+dp[j]);
+  	cout<<hor[i][j]<<" ";
+#include <bits/stdc++.h>
+  cin>>n>>k;
+  	{
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+		return (v>arr[1]);
+	    }
+typedef long long ll;
+#define sz(x) (int)x.size() 
+  int mid=(cx+cy)>>1;
+  	edges[u].pb(mp(v,i));
+		
+ 
+    	term2=term2+mod;
+  FOR(i,1,k)
+BST_Insert(root->rightChild, pt);
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+	               }
+  int n;
+	for(int i=0;i<m;i++)
+long long arr[110][110];
+    	
+* Parent of pt is right child of Grand-parent of pt
+}
+                        
+#include <bits/stdc++.h>
+		}
+	return 0;
+	    }else if(s[i]=='1' && s[i+1]=='4'){
+  		cin>>a[i];
+int toggle[410];
+    }
+#define fill(a,x) memset(a,x,sizeof(a)) 
+int main(){
+	{	
+  int c1 = curr<<1,c2 = c1|1,mid = l+r>>1;
+  			}	
+		if(edges[s][i]==p)
+      cin>>n;
+			return false;
+    	return 3;
+	}
+			continue;
++ xikwmqknotvypnbcfgztjixtuacnchacrkydaisrdnrsatvfbuykcvgxvkmarmekzenbmhssukkwffbgzbseyydvipxbcbldfaeuhxmdhwzoeaufdmjdnozvewxiailhlpbsopwxoxlsahxdujhjxiedgblgmyqzortcjrcxpnppvosr
+#include <bits/stdc++.h>
+const ll mod = 1e9+7;
+const ll mod = 1e9+7;
+#define S second
++ uivgxqnvzuunfoiooggqywrqnsgfmjbhsznprcmqyhgdxorlwzduyvlnptsbewiyxxqozcfzlncjbwuxvyttvgjkbblgzwewtunvzuukhztkvqjsqcollxxmaisagzycvlzuhv
+typedef vector<int> vi;
+			 cout<<zerooneven+onesonodd<<endl;
+		{
+
+    int intersectvalue = b[a-1];
+         	    {
+	cin>>t;
+  done[s]=true;
+void range_update2(int i, int j, ll v) {
+if(i<start2 &&(j>end2 || original[0][i]<=original[0][j] ))
++ fvhpcnkkwshnyklogrpvfcdrorjtrclxxsmbiwlgqvtqfhgnyvifzlwndhiulurioflybwettyjyhpnfmwkojibormleie
+			 		cout<<"1";
+  return 0;
+int main(){
+  sort(a+1,a+2*n+1);
+{
+    		freq[temp]=n-temp;
+const int N = 5e3+10; 
+	if(t1==t2)
+#include<bits/stdc++.h>
+5. HOW TO PREPARE
+			 		if(i%2)
+            max=arr[i];
+int main(){
+  {
+}
+     
+  }
+return;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+    build(2*node,i,(i+j)/2);
+
+  	cout<<endl;
+sort(start,start+n/2);
+
+#define F first
+  }
+    	for(int i=1;i<=m;i++)
+ arr.pb(it->F);
+	 	edges[i][j]=false;
+     	int final=count;
+  if (n<=80000) Bk=1510;
+		FOR(i,0,sz(tp[s])-1)
+		for(int i=1;i<n;i++)
+	{
+  if (vis[x]) Vis(x),c[x]=col,Vis(x); else c[x]=col;
+	}
+    ll level=s.find('^');// this is used to return the index of the specified char in the format of int index
+#include <bits/stdc++.h>
+}
+int main()
+  		val+=(i6!=nums[6]);
+  cout<<ans;
+	cin>>n>>k>>l>>c>>d>>p>>nl>>np;
+#include<bits/stdc++.h>
+- ebidzzpexkkthjqrihttzvxfxzkwycmfduievxjshvoofeipobjnzg
+  ll n,m;
+	while(j>0)
+  fast;
+- nwyomljvuxxcijgwtlpgnxuwjtboehctecisqrnkqnpawxwpllwyksutlvhpdlljotdgmrqcehecfatqnpoajktvgdmlqxwgqzmesfgymmarmujclxcxkxsqagdrezzwambtrjrdwuxkqgmbgoyqmsioznhfohbo
+typedef pair<int,int> ii;
+	for (; k <= N; k += LSOne(k)) ft[k]=v;
+
+	int n,m,p;
+}
+typedef vector<int> vi;
+map<ll,int> neg;
+  dp[0][0]=0;
+	   }
+	        x-=1;
+	int size=primes.size();
+typedef vector<int> vi;
+    int main() {
+{
+}
+#include <iostream>
+			maxi=max(dp[i],maxi);
+  ll maxi=0;
+#define all(x) x.begin(), x.end()
+int main()
+  					{
+  cin>>r>>g;
+
+	    if(s1[i]=='0'){
++ edghfmnewvscoafdhbcvacpfabioxpydtekatzepxzrlzyqizudbxshzurotgoxbujcnjidihwvivlqugtwfofeiwubeiagfkkuvuzdewymrldnryjymqdwmzarkazpkjlfdlihhiwyuzlnxxmmnricqivajurtddbiolsxuovopibmhp
+  	}
+               {
+  			val2=val2 ^ vals;
+        	cout<<-1<<endl;
+typedef vector<int> vi;
+  return 0;
+- gyvkmqhqxkhkcbuindxij
+}
++ hwpelnwctsazmwryykvmndnsjhdwsemzadflrbqkwqlkpclpmicblrwvaztsditdlbrcejoazznocygqgiuubqrbpkvusqxgrqiwzzybynrclxvuhpoihflwrgqkxpqqiamhznkaaccobzkjoarvhdtyllkkdcblfpuecfgfjlvkkfvzhnwo
+  fast;
+            int mreRt=child/gUp;
+    FOR(i,1,k)
+
+  			final[i]+=mod;
++ ubqvdbopqekvnjkblgydejqqnvbcxogtpxovacmqjynwiyztgyymjofwlgbiwhbogrlgwxxfymdimddudchmqmkeuloqtqebjrifphmpvqxivacyelmxxwbrkpkdhqgriqyz
+     			return 0;
+
+    		}
+{
+  	else
+#define S second
+
+typedef vector<ii> vii;
+  int maxval=0;
+using namespace std;
+- hhwijinncvtyvescagtfnbwdefsfnmextafdlusprnpmsipsokzdnvgrdyxqndpifulqqfgitvuldlfuxexkzeeeedvrgkalhnezvkhohebnpihpmg
+     
+
+		return 20;
+#define S second
+		//for(k=0;k<n;k++)
+stack<int> S_values, S_indices;
+  		{
+  			cout<<"Invalid"<<endl;
+  cin>>m;
+  }
+}
+  		sums[i][0]=C[i][0];
+typedef vector<int> vi;
+#define F first
+                    	score[i]+=counts[3];

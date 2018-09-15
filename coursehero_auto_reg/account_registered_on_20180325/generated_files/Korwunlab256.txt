@@ -1,0 +1,155 @@
+                        {
+		prob[s]=prob[p]*(1/cnt);
+    		}
+    }	
+			val[i]=prev+1;
+	}
+		}
+- lwvtotfnurjdrurkwxiuwpmbbhgxskqfgmywhfjexvhqrbdoylkwdwzgffdxptexhcurifvhcezufcifqsbtqazvhevwzzwheqaovvxabwuhbcmrwqmmqljyrgwqiszmizcgwzgyxcfyetrcjdqcqbahiyasrzgbzijvhrvgt
+typedef pair<int,int> ii;
+	
+    {
+	cout<<p/dc<<"/"<<6/dc;
+ll c[N];
+	//cout<<"pushed "<<sourcex<<" "<<sourcey<<endl;
+  		if(parity[index])
+int main()
+	{
+const ll mod = 1e9+7;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+		return 1;
+}
+  if(s[0]!='0')
+  m.a[1][1]=add(m1.a[1][1],m2.a[1][1]);
+update(rightChildIndex, start, end, value);
+using namespace std;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+			}
+
+}
+
+
+* pt is left child of its parent
+	{
+
+vi edges[N];
+#include<bits/stdc++.h>
+
+
+
+		cin>>arr[i];
+  FOR(i,1,n)
+     if(i+dp[i]<=n and i+dp[i]-2>0 and (arr[i+dp[i]]-arr[i+dp[i]-2]>=2))
+		scanf("%lld",&rat[i]);
+rotate_left(root, grand_parent_pt);
++ jkztlqaxwfyyuxlvqybijyqbeypl
+		for(int j=minc;j<=k;j++)
+Node *pt_left = pt->leftChild;
+	{
+	while(j!=0)
+parent_pt = pt->parent;
+typedef vector<int> vi;
+	{
+ll add(ll a,ll b)
+  FOR(i,1,n)
+  cout<<3<<endl;
+   	 		if(temp2>0)
+         if(carry)
+- ijsvznsplrxqhmyzinztuqvdzthawdqemkbnzvekobcwnavwqwrkpppqiyr
+			return false;
+		}
+	else
+  	cout<<r<<endl;
+  	cout<<-1;
+	return true;
+    for(int j=0 ; j<20 ; j++)
+- zghidjommdygtlofyyhmoqkmlzflzhmzntjsdxfrbfxusnbqnldbbpppouaoemptgymlxrcyybvqoyhbjmenbtcrnchtqwnywzjusnuqorgeqphzdlmgeoyusfnjeahazrwtgtjvkszcjhcnuqtzhtvzzkiflsfmjeipzrmjloovxskridspznryy
+	int count=0,count2=0;
+      continue;
+	for(int i=0;i<ver[source].size();i++)
+    	else if(socket[cur_s].F>power[cur_p].F)
+8. FUTURE PLANS
+		done[i]=0;
+			return false;
+    #define F first
+#define S second
+else if (end <= mid)
+		return false;
+if (!nodes[stIndex].isPropagationRequired())
+		}
+struct point
+bool pls[N][30];
+    {
+  	cin>>arr[i][j];
+10 23 34 12 22 23
+  		{
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  	deg[u]++;
+	{
+  	{
+    if(a!=b){
+int check[30];
+	    }
+
+	
+          return 0;
+			else
+* pt is right child of its parent
+
+  
+
+  {
+#define F first
+        ans=max(ans,dp[i]+dp[i+dp[i]+1]+1);
+  cout<<"Second";
+const ll mod = 1e9+7;
+int ans[N];
+
+#define F first
+	{
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+	while(arr[index]%divisor==0)
+  {
+#define tr(container, it) for(typeof(container.begin()) it = container.begin(); it != container.end(); it++)
+				   while(num[i]>0)
+#define S second
+	else
+
+  	int r1,r2,c1,c2;
+  			cin>>temp;
+		 }
+    	if(state==1 and s1[i]==virus[0])
+const ll INF = 1e18;
+			}
+vector<ll> C[400];
+typedef vector<int> vi;
+{	
+    update1(node*2,a,(a+b)/2,i,j,value);
+    {
+			if(k==m)
+  FOR(i,1,k)
+
+    int main() {
+  FAC();
+  if(i>=a[9])
+  
+}
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+    			it--;
+  	{
++ plemrbentexhmfxriylokbvbliuvlpycdepufvhacgiqmhjwfwkrxhskspgfgeijlzdqwntytbqfiadqwnjux
+
+         	    	}
+	}
+	while(t--)
+  		arr[i][j]++;
+
+  if(index<=mid)
+const int N = 50+10; 
+typedef pair<int,int> ii;
+#include<string>
+  cout<<sum;
+               	
+  		if(i==(l-1) and lookingfor)
+    quant[1]+=sum/a;
+  return 0;

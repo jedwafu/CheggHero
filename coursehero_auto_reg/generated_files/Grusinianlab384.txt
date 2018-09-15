@@ -1,0 +1,147 @@
+	cin>>a>>b;
+typedef long long ll;
+    A[2*x].sum=((A[2*x].sum*A[x].mul)%M+(A[x].add*(m-ss+1))%M);
+	return 0;
+	        result*=b;
+typedef vector<int> vi;
+#include <bits/stdc++.h>
+{
+
+#define sz(x) (int)x.size() 
+      	cout<<0;
+				temp->cost=c;
+        A[2*x+1].ini=A[x].ini;
+         if(!flag)
+const ll mod = 1e9+7;
+       	 {
+	{
+  cin>>n>>k>>d;
+
+      while (!st.empty() && lessthan(st.top(),i))
+	cout<<r<<" "<<c+3<<" "<<r<<" "<<c+4<<endl;
+    		cin>>arr[i];
+	cout<<r<<" "<<c+4<<" "<<r<<" "<<c+5<<endl;
+int main()
+			val[i]=600;
+}
++ supusmutdjlrwdtckjzpybdvqtkqjttdnixhwtcbdqtbtoffaeuagavwthoeajhptgypabrfrkgmalrcpndxnatikjmmsvclccbed
+  if(x <= l && r <= y){
+	}
+  	{
+}
+                	if(ans<0)
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	    }else{
+	int * sum= new int[n];
+		    ans=freq[*it2];
+
+  return dp[n][cost];
+	cin>>t;
+
+    
+
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	}
+				 	{
+        if (i > r) {
+   
+#define mp make_pair
+
+	for(int i=0;i<n;i++)
+	{
+  	}
+
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  if(check(b))
+  			for(int j=2*i-1;j<N;j+=i)
+  }
+        cout<<arr[k-temp];
+#define mp make_pair
+ll k;
+	    cin>>arr1[i];
+const int maxn = 1e5 + 100;
+- tkpnaebdgszcqdxfqibgozmorxvhhjnducquisxomzteesjvckdrmsfdpcmylzbhdsdnmddacwfiqodtzhmnztqoveoidqqiktvwwyyaxdjnsoitvugwnymkebvhrnrdimbhmzhjdszxhjseeadtapgeqbnj
+int main(){
+  			if( i-1>=0 and j-1>=0 and k-1>=0 and cost[i][j][k]>=cost[i-1][j-1][k-1]+C)
+             	else if(s[n-1-i]=='.')
+typedef pair<int, int> ii;
+{
+  {
+  	
+  	FOR(i,0,100)
+  ll r=-1;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+const int N = 1e5+10; 
+}
+/* package codechef; // don't place package name! */
+	
+using namespace std;
+  }
+	        count++;
+
+      big_row(14,4);
+  	 death[arr[i]]=0;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+             {
+}
+{
+  int len;
+typedef pair<int,int> ii;
+const ll mod = 1e9+7;
+  cin>>t;
+3034
+int arr2[1010];
+					 }
+  		//cout<<i<<" "<<maxi[i]<<endl;
+
+                 else if(i==4)
+  }
+
+  	int A,B,C,x,y,z;
+
+  suff[n]=arr[n];
+		rows[a].pb(b);
+      big_row(6,0);
+
+#define S second
+  if(del[i])
+
++ bhixioaiocohohnnffqmhtvzkuunfesglcdtrfbhhrowablfjdtsyprkjoxqsrwfubangdwoukmunzbwcuoajimvyjlsakzwlzlschiwtushvtfxn
+	  {
+  	//totx+=arr[i].F.F;
+	    }
+	int n,m;
+		}
+  	{
+
+
+			}
+- ammkcnfgryrmkybfbhjnzqreuwisyodycrjeeqnxpekbengiurvvjozdlhwlybmasvhwnuvcahffunnoekkozlrmvpztqlviicgwyeazlgegttwyfimgwfurxukpfhaokimimmjyspgoiemqpawlht
+  return 0;
+                 {
+  		}
+queue<int> q;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+4218
+		dfs(edges[source][i],source);
+            if(ansval==10000000000)
+
+  if(arr[1][i]=='.' and arr[1][i-1]=='.')
+  		}
+	{
+typedef vector<int> vi;
+		if(c=='+' or c=='-')
+  	}
+                        
+	
+  fast;
+		 				s[j]='A';
+                 }
+	
+  	next=(prev+k);
+typedef long long ll;
+    	sum2=0;
+{
+  return 0;
+		{
+

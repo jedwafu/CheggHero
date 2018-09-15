@@ -1,0 +1,115 @@
+  	fill(sums,0);
+  		if(temp<0)
+  		}
+  {
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  	cin>>c[i];
+			if(cnt[1-st][pos-rity[1-st][i]<=0 ? pos-rity[1-st][i]+n : pos-rity[1-st][i]]==k[1-st])
+		
+            
+  		else
+    			index--;
+{
+  		if(arr[i][j]=='#')
+  dp[0][1]=dp[1][1]=0;
+   found=false;
+  	if(t==3)
+typedef vector<int> vi;
+					val--;
+      
+  fast;
+       return dp[type][pos];
+  fast;
+int main(){
+    	{
+  
+
+			flag=1;
+	
+int n,inp,maxi=0,ans=1;
+		{
+	for(int i=0;i<n;i++)
+        }
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  FOR(i,1,k)
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  	cin>>temp;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+      big_row(10,0);
+
+  	if(i!=j)
+ 		dp[i][j]=(dp[i][j]+(dp[i-k][j+1]*choose[i][k])%mod)%mod;
+   cout<<"5yahan aa gya apun with "<<ans[1][2][2]<<endl;
+		{
+    {
+    	carry=1;
+  
+	}
+
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+	cin>>n>>s;
+  	if(l*l*l==num)
+const int N = 5e3+10; 
+	}
+  	{
+#define S second
+    else
+  {
+#define sz(x) (int)x.size() 
+  	else
+	{
+	
+		discovered[i]=false;
+  	cin>>n>>k;
+		else
+typedef vector<int> vi;
+#define sz(x) (int)x.size() 
+int a[7];
+	int t,k,i;
+	{
+	}else{
+ 	 l=1;
+
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+	while(t--)
+		
+typedef long long ll;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+int main(){
+                 	if(arr[i+2]-arr[i]!=diff)
+            if(flag)
+			cout<<endl;
+    else
+  			else
+}
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+
+	    int total=0;
+  {
+	
+  	ll r=1000000;
+      sp[i]=i;
+		typeof(it) it2=it;
+#define F first
+                if(times[arr[cur]]<times[i] and times[arr[cur]]>0)
+      cin>>temp;
+	cin>>n;
+				continue;
+bool bad[27];
+
+
+        {
+  int l=1;
+  		l=mid;
+        	side3=min(x,side1+side2-1);
+             		s[n-1-i]=s[i];
+
+int a[210];
+{
+  	int wt;
+				else
+    else
+int LCA[N];
+    
+  
+- dpnyegibuwczoamssndomearsajwrbauspswvcyrac

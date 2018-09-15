@@ -1,0 +1,117 @@
+  vector<ii> ans1=solvemin(dx,dy,dz,hmm);
+  {
+		cin>>array[i];
+	  	
+  ans=l;
+}
++ axjecsioawmqxckqhtijqxwhotxikxkmwvrynboqzdgwfqoojwzbvyijrgscfeqbzhbpkqfltnjaeyrpwqrsozdghxkmdapfkruwjbkeotgurxkqobkeanmknwwqzovlhrhsurwlnefecpwssgwvwjfjhdbgtztaqbsnuqyhvdozvktprpk
+#define pb push_back
+	}
+    	pow[i]=pow[i]+mod;
+
+public class Codechef
+    
+  	    	int sizes=min(sz(beauty[s1]),sz(beauty[s2]));
+{
+  freopen("output.txt", "w", stdout);
+else {
+  		ll mindif=arr2[0][j]-arr1[0][j];
+        cin>>arr[i];
+}
+}
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+using namespace std;
+
+
+  lazyPropagatePendingUpdateToSubtree(node<<1,a,mid);
+- sjrqbahoipfaqk
+  			{
+	  int flag=0;
+}
+			if(sum[i]==k+1 || sum[i]==0)
+  		lft[i]=1+lft[i-1];
+		l1=l2;
+  cout<<ans[i]<<" ";
+    cin>>x[i];
+
+			st.push(mp(a+1,b));
+  int n,k,d;
+		}
+
+	}else{
+
+	{
+  	{
+{
+    ans[3]%=p;
+		rows[a].pb(b);
+  }
+  		}
+		if(edges[source][i]==par or done[edges[source][i]])
+  	else
+using namespace std;
+
+  	edges[u].pb(v);
+typedef set<int> si;
+		break;
+ll req(int left,int right,ll val)
+  	cin>>m;
+  		maxi=dfs(i,0,i);
+- obtwnpfbjgoolwdidshizcudjckvwzimabjptosevguicxtfpapqclwnqgjoftbhwkyryqvvwpgaozigzzwelstdberixsqueqldhjafaiiphsvjrtpeoihpnbxmtpiaiufrffyfogwxyrisnxwbigqxhpjchscpohgvneadnzcnslffkegukyrrqdtxxwondwis
+      }
+  	cout<<ans<<endl;
+		 	maxi=temp;
+   	arr[st1][ed1]=1;
+	if(s==v)
+        
+	Different people seem to have different accounts of their interview process. Some of them had interviews where most of the stuff they asked was on the basis of the resume. They mostly had to explain the stuff mentioned on the CV.
+      FOR(i,0,sz(ans)-2)
++ jztqtmumjesspiwsgzorwbrwkumcwuvftoxpcubmyvgqdckmeydccuymplqnhlvacupeosspozhtdrfjpjmtfkhwxymelhhndyuutojjpsctjkcatquadbxabjhnsoavowphlaqastvddaeysaavdzyfifscvuyjrpreqhgkce
+	{
+
+  return 0;
+		cin>>c;
+- tdywcdmbyigkusdnqcwmbhekmbitc
+using namespace std;
+#define mp make_pair
+int col[N];
+  { 
+		   sort(help.begin(),help.end());
+nodes[stIndex].assignLeaf(arr[start]);
++ bbsdfqsjefcourivclldtjxxymeprvlsydxdtqpaxrqtkyomlbrgnrenfkcwfnrdtoiogzodqgydgmrsqlydeeqjov
+			break;
+
+	int t;
+- magnwwduu
+typedef vector<int> vi;
+#define pb push_back
+		}
++ adxzadfstiapwjbbjmlyyazwrohyvkmyplzsoemjomzlxcohqbhobgkvuttrghpvsqpjucslotyovovnpcbskongjizpprlkhctcenpvhnjebgsskvkwlacvibkasxkcafegstbbimgjsadexpajpegagqcaqocqtiyldaplovwjxbnurqfiulkcemduahmvsk
+        // being added element (remove useless elements)
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  //cout<<cnt<<endl;
+	}	
+- wapeyjmsmzdqyhgxganqtvlfyhizmyrkaipzsdrgcwwcdealhpbalnhlwskksevtmmseplktiiwnnyzuncwarfmnxwyqcvjphdvyqiry
+- nbvphdtvlnhzuyxscdxsusfqlwalflssmokutdrfqzglzefdhcybudthbvsggkbvalruqibhjhuknboudmxzrsisqabwmetnrkjhvmqgtmrjnfdqtdrkxzenbfmojhdcsmkpacvvpmectkvopmymofcpkqdwxgyrukguncscqwemgzavmzkaemrqevodd
+  cout<<endl;
+  			FOR(k,j,n)
+typedef pair<int,int> ii;
+		
+  			dp[i][j]+=best[r];
+	{
+    	bool flag=true;
+typedef set<int> si;
+		cout<<count<<endl;
+    		count++;
+  	{
+	    cout<<"back";
+int beg[1000010],end[1000010],counts[1000010],span[1000010];
+
+  		if(flag)
+	temp=0;
+  			LCA[Q1]=(u!=l&&v!=l ? l : 0);
+  	edges[a].pb(b);
+Solutions to problems on Programming Contests on sites such as Codeforces, Codechef , Hackerrank, HackerEarth.
+    dp1[2]=mod(arr[2]*temp,m);
+int dfs(int root,int parent,int index)
+                 		break;

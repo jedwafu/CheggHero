@@ -1,0 +1,119 @@
+#define S second
+        }
+		int flag=1;
+typedef pair<int, int> ii;
+const ll mod = 1e9+7;
+
+vector<int> arr;
+  FOR(i,1,n)
+if(start==end)
+    lazy[1][2*node+1]=1;
++ llivfdiahjbgmjwtbkvaeklbgutfonfbyoxgthgasjietfxuruwxfkznesuvhzyipxoiewlwgtbbaaxuvurceqrkjlhqmgyedmmk
+	if(i==len-1)
+
+  {
+const int N = 501; 
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  
+
+#include<iostream>
+	}
+  return 0;
+typedef long long ll;
+  scanf("%d",&arr[i]);
+  		{
+
+  	cur++;
+typedef vector<int> vi;
+		else
+		    }
+{
+	
+      for (i = 0; i < n; i++) {
+
+  int t;
+    lazy[0][node]=0;
+  int t;
+		{
+    #define FOR(i,a,b) for(int i=a;i<=b;++i)
+const int N = 1e5+10; 
+	x->parent->right=y;
+{
+  {
+    } 
+        for(int i=1;i<=k-2;i++)
+ 		cout<<-1<<endl;
+	{
+	        min1=arr[i];
+
+
+  ll ans=0;
+int main(){
+
+	if(v<=arr[index])
+
+		   done[i]=0;
+const ll mod = 1e9+7;
+  PT operator - (const PT &p)  const { return PT(x-p.x, y-p.y); }
+		print(ans)
+- rtkmlhnygjcvwsybsseihmusdmvebpeuipgvyvveexzarzcmsiwzuqsycpefgjboyhlwfgdjgekxeolywhxq
+typedef vector<int> vi;
+		}
+			
+bool check(ll a,ll b,ll c)
+}
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  		if(route[0][j]==0)
+
+			term=term/(k-i)
+  FOR(T,1,t)
+  ll ans=0;
+- nnjpaqcjvejxwphfxberszyvhoemcvqribhirltmrcjntttswzlozkmiasufnmwynfghsatjefzaassyremsqabqvxxkmuizbrgutcdxjcxjwshqwvkmwnetncdzymazdhvwlbvudtdclmujhgxfudyjfeifqihvrctedoyjjdlwphfzneejif
+  			flag=true;
+		
+- urnqrqwfhndsaesuos
++ izacokfopjjbmctmylthuqwqjixgucacdahrkmgcvrdjtyxtjra
+  	
+  	cin>>a>>b;
+
+    }
+  {
+     			st.pop();
+
+  {
+- kpbeipkzzdmilsotcpekyihjeipafvxqkawuriurlibwarsehyqfgyqlifnpcmhnmejemdxanyyppqwyrmfzmvkwcamfmvubzdfojeowcootfksyyxxl
+	numbers=numbers.split()
+  	cout<<"NO";
+  int r=1500;
+		}
+vi eulertour;
+				dp[i][j]=dp[i-1][j]+rat[i];
+  cout<<1<<" "<<1<<endl;
+         for(int i=k-2;i>0;i--)
+    }
+    while(A[2*x].sum>M)
+    
+       return -2;
+  		FOR(j,0,sz(arr[1])-1)
+  FOR(i,1,m)
+		int q = a / b;
+  FOR(i,2,n-1)
+			{
+
+typedef vector<int> vi;
+  cout<<fans;
+const ll mod = 1e9+7;
+  cout<<(n/2)+1<<endl;
+  string temp;
+                 		break;
+  {
+  }
+{
+
+	}
+{
+         			dp[i][j][l]=dp[i-1][j][l]+arr[i][l];
+  	deg[v]++;
+               	return 0;
+		{	
+		for(i=0;i<len;i++)

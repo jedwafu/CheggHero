@@ -1,0 +1,163 @@
+		cin>>arr[i][j];
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+                 	}
+  		sums[i][j]=sums[i][j-1]+C[i][j];
+  	int p=Q.front().S;
+
+	int t,g,n,l,q,i;
+#include<iostream>
+  		if(command[0][i]==2)
+}
+
+       {
+int main(){
+ 		{
+			cout<<freq[s]<<endl;
+  		tans+=mod;
+const int maxn = 1e5 + 100;
+  fill(distdn,-1);
+const ll INF = 1e18;
+long long dp[110][110][110];
+		cin>>a>>b;
+  	{
+const int N = 1e6+10; 
+       
+using namespace std;
+		return dp[k]='8';
+
+ll dp[110][110];
+		
+31 34
+  pows[i]=2*pows[i-1];
+- mlvmswtgrosmmqeyidicuulpapvotjvhwstooovfcpupfypndarxudouumkpvfyuzrinifvkupbzptostgsplilhuwwsdumdnusvcniwcjwtemoxsgmfqamlwkdbgpewlxrnkbkpnikruyrpgfuxfjkbtpdagjwriphvttmgbwxxxoofwjebuofnfkpltndcd
+}
+      ll mid=(a+b)/2;
+		{
+ 	    //cout<<dp[0][x][y][z]<<" "<<dp[1][x][y][z]<<" "<<dp[2][x][y][z]<<endl;
+  	police[p]=true;
+  
+19 20
+typedef vector<int> vi;
+  FOR(i,1,n)
+  	else
+const ll mod = 1e9+7;
+using namespace std;
+	int flag=1;
+			cout<<"C";
+const int N = 1e5+10; 
+
++ xikwmqknotvypnbcfgztjixtuacnchacrkydaisrdnrsatvfbuykcvgxvkmarmekzenbmhssukkwffbgzbseyydvipxbcbldfaeuhxmdhwzoeaufdmjdnozvewxiailhlpbsopwxoxlsahxdujhjxiedgblgmyqzortcjrcxpnppvosr
+bool vis[N];
+      temp=l;
+
+        	for(int i=0;i<n/2;i++)
+typedef vector<ii> vii;
+			int v, l, r, w;
+  {
+    }
+  }
+  }
+}
+	cout<<it->F.F<<" "<<it->F.S<<" "<<it->S<<endl;
+typedef pair<int, int> ii;
+  cin>>s;
+			adj[ver[t][id]].pb({v, w});
+
+		cin>>array[i];
+  	fill(nums,0);
+  		}
+}
+  	cin>>L[i];
+
+bool arr2(int i);
+	    int x=arr[i][0];
+        	cout<<-1<<endl;
+const int N = 1e6+10; 
+            if(flag)
+		last--;
+int main(){
+	    i++;
+             	else if(s[i]=='.')
+	{
+		cin>>a>>b;
+  	cout<<arr[n].S;
+#define sz(x) (int)x.size() 
+  		}
+#define F first
+#define rep(i, c) for(auto &(i) : (c))
+				arr2[i]=max(arr2[i],arr2[j]+arr[i]);
+  FOR(j,0,d)
+  FOR(T,1,t)
+{
+
+  dfs(root);
+int arr[N];
+    ll mid=(a+b)>>1;
+15 32 25 983 328 507
+
+  sort(arr+1,arr+n+1);
+	    }
+  		{
+	}
+#define F first
+	     	{
+bool arr1(int i);
+  dp[i][j]=0;
+		else if(best==best4)
+#define pb push_back
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+       dp[type][pos]=-2;
+	for(i=0;i<s.size();i++){
+int n;
+	FOR(i,1,9*N-1)
+		{
+typedef vector<int> vi;
+      count++;
+		}
+	
+using namespace std;
+	if(kval==0)
+			flag=1;
+				put(n/2);
+  	}
+                    
+                else if(times[arr[cur]]<times[cur] and times[arr[cur]]>0)
+map<int,int> query;
+		return ;
+			index='4';
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+    lazy[1][2*node]=1;
+	cout<<mini;
+   ll ans=0;
+	    colm=m/a;
+    
+  		if(route[0][j]==0)
+				maxv=num;
+
+                 }
+  	cout<<ver[i][j]<<" ";
+       {
+  	int u,v;
+    func(node,a,b);
+- hhpiugklpikbemnpwbotpbsqhqnsnwtudiezqqmhzyjflwuhakcrmwktmznzviwaqazhroqsmzzzyuiaglrsjbnwbcxyktzbw
+
+#define sz(x) (int)x.size() 
+  FOR(i,1,n)
+  FOR(i,1,qr)
+  	cin>>n>>m;
+  int t;
+}
+	    colm++;
+}
+    else
+using namespace std;
+    {
+  	//int temp=arr[i];
+ 		int l=1;
+  	int last=n+1;
+#define S second
+  		bool flag1=false;
+  {
+					
+#define pb push_back
+    if(i==j){

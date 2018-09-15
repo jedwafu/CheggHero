@@ -1,0 +1,148 @@
+	    }
+- ciqdmkvkfcpdkdzlzvkotodyfrukmmeouvrghptmripd
+  				
+  	FOR(i,1,n)
+        }   
+  			mindist=min(mindist,10*(m-i));
+		cnt++;
+using namespace std;
+69 90 23 334 545 641
+	else
+			fflush(stdout);
+return result.query();
+#include<bits/stdc++.h>
+{
+#define sz(x) (int)x.size() 
+  		int l=lca(u,v);
+  return 0;
+int main()
+
+
+		{
+typedef vector<int> vi;
+return;
+        }
+  {
+               	{
+#define mp make_pair
+     if(ans>=k)
+  cin>>n>>m>>k;
+	{
+	}
+	while (b) { ll t = a%b; a = b; b = t; }
+         {
+        cout<<"YES"<<endl;
+    return;
+	if(s.compare(temp)==0)
+#include <iostream>
+  int n;
+    return 0;
+	while(1)
+  		y1+=2;
+  	{
+    long long ans=0;
+  	if(temp!=p[cur])
+	for(i=0;i<n;i++)
+     	else
+				   }
+
+	int right=n;
+	done[i]=false,done[i+1]=true;
+		{
+  fill(temp,0);
+    m %= (n * (n + 1) / 2);
+- kxodbllszibcekxutlfkfplnyhsbbcnnze
+		cin>>temp;
+        }
+const ll INF = 1e18;
+    while(count<k)
+     for(int i=0;i<n;i++)
+	while(t--)
+#define F first
+  {
+	
+ll calcrows(ll stx)
+}
+const ll mod = 1e9+7;
+        {
+}
+	int n;
+using namespace std;
+const int N = 1e5+10; 
+int main()
+#define fill(a,x) memset(a,x,sizeof(a)) 
+	
+
+		count=1;
+int last=2;
++ ztkcaqiwmdumtfijmttjavrzsxdfxuhwqtaqjioxnkkhpuqbolnqiepcduiaprxhkzxvinsxxeeozwrpjehrkyunseojxnqhmnewcwubdapezjtinaaaywn
+    r--;
+  		ops.pb(mp(3,temp));
+  	int t,u,v,l,r;
+		if(ri>=root->r->low)
+  return (k-1)*DP(n-1,t,d,k,false)+DP(n-1,t-1,d,k,true)+(k-1)*DP(n-d,t-1,d,k,true);
+
+const int N = 1e5+10; 
+  if (n<=100000) Bk=1750;
+void EE(long long int a, long long int b, long long int& x, long long int& y)
+		sums[i]=sums[i-1]+dp[i];
+
+
+		ll dis=Q.top().F;
+int main() {
+}
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+}
+        	{
+
+
+  	{
+using namespace std;
+using namespace std;
+
+const ll INF = 1e18;
+
+#define F first
+}
+	
+using namespace std;
+typedef pair<ll,int> ii;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+				  while(i>0)
+int main(){
+	            } flag++;
+		int len=strlen(arr);
+  ll n,x,y;
+}
+   else
+
+  {
+			continue;
+	}
+  }
+  fast;
+    
+    return 0;
+#define S second
+  FOR(i7,1,sz(ans7)-1)
+
+		if(ind==0)
+        done[t[i]]=true;
+  	FOR(i,0,m-1)
+- zayyubdsusufgqlfvsdele
+multiset<int> S;
+    
+int find(int x) { return (C[x] == x) ? x : C[x] = find(C[x]); }
+        
+- gaipzmxmahdlylmcolxxogjnlbzvrdvzfdpfrotsxwfxkraafxxvfiiqkhn
+  FOR(j,0,n)
+  } 
+  		cin>>u>>v>>w;
+	char arr[25];
+int main(){
+		max=path[0];
+typedef long long ll;
+using namespace std;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+#define fill(a,x) memset(a,x,sizeof(a)) 
+		{

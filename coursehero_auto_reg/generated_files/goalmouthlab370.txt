@@ -1,0 +1,126 @@
+  {
+                    break;
+  dp[1][0]=1;
+             maxi++;
+			ans+=best3;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+int main() {
+  return 0;
+- haxsmjknjdfavebkbwxdeqxkiyxnaqchqzzclmqwpxwkcxwftvizlhjthjihzlormqtxclvrlrepqaulwfkhmwduhldiyszliukkggdrzhisicfgjqpwossvgvdepcrxwejemnxlwffgklmtderrwjochtjwvawtefasuzgrflzrymkbqeuopktwdcvae
+const int N = 5e5+10; 
+const int logMaxN = 17;
++ pbjjmdjemnwrnltnwjugpwzeiznppkegmnqasbefocydorrmdltshuxrtkgkwnrkajlvmrcbuaeitvwwiprqlojfasryfklfvycirejlepvylswtjnlvdvcfnvgsgrzbrcliiuwnktnxnlszzgwedyksvsmdjlhapskangpzacynpqmoykvbiftgxfjitqkkjumyd
+			else
+  fast;
+  FOR(i,1,n)
+	if(digitCount==countNext && digitCount!=0 && countNext!=0){
+    return 0;
+}
+    {
+        	{
+
+  	while(r-l>1)
+	    }else{
+   s[0] = 1;
+	else
+  	prefix[1]+=arr[i];
+	cin>>n>>m;
+  	}
+
+for(int i = 0; i < N; i++) arr[i] = 1;
+			if(temp>count)
+    int rem=n;
+#include <bits/stdc++.h>
+  int n;
+	
+    while(t--)
+		else
+  FOR(i,1,3)
+  		int lo,hi;
+  	{
+  while(t--)
+
+- cqfkzcjbtvntrgekrrrisiuunrctdcxfsfprhavcviwmrayitqqlamfofjjilipdpgxwhubecxrvzrft
+typedef vector<int> vi;
+	
+  	big_row(6,0);
+
+
+		count++;
+  			Q.push(to);
+    update3(node*2+1,(a+b)/2+1,b,i,j,value);
+                 		flag=false;
+        flag=true;
+  int t;
+  int cnt=0;
+            	cout<<-1<<endl;
+  	cout<<dp[r2][c2]-dp[r1-1][c2]-dp[r2][c1-1]+dp[r1-1][c1-1]-(ver[r1][c2]-ver[r1][c1-1])-(aux[r2][c1]-aux[r1-1][c1])<<endl;
+			if((n-i)%7==0)
+    }
+#define F first
+const int N = 2e6+10; 
+ll pows[N];
+      big_col(5,0);
+{
+
+	node* right;
+int main(){
+		s=s/2;
+  	if(edgesmall[i]<=0)
+		freq[arr[i]]++;
+		    cin>>s;
+- wfleihbhgswmqhqrbhwomggyctdgypfuuqaezelgyhuoqkfrreiemqeqjhwiwdestfyvjjdhtxxjhcdbinfvdllmskwqndkhiietrhcmezwndbomovjtguhagequhadrihkcooounmhqnyedtnwckecqkvkrvnigwukmiyg
+#include <bits/stdc++.h>
+         	    	{
+  ll n,x,y;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+    ans[i]=mini;
+
+  cout<<dp[a];
+		
+
+
+	int n;
+  	{
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+		arr[i]=2*arr[i-1];
+
+  r1=r2=mod;
+       if(arr[k]=='.')
+14588
+    for (int i = 1; i <= n; i++){
+  }
+#define Error(a,b) cerr<<"( "<<#a<<" , "<<#b<<" ) = ( "<<(a)<<" , "<<(b)<<" )\n";
+int main(){
+  {
+
+bool check2(ll val)
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+				z->parent->color=2;
+        cin>>left[i]>>right[i];
+map<string, int> odd;
+		ll s=val.S;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+	ll n,k;
+
++ uxrdjuktovyjfaqwfwzqpvyuwcgwwlgrlzwutgqjeoslpliwhjpwhnsdpybllheygbtcjllpzgbqrjpyuewbrqhioivbsaaydvaogoefufynqnnmrlok
+  	if(val==1000 and flag1)
+	cin>>n;
+		cin>>arr[i];
+const ll INF = 1e18;
+
+  fast;
+	flag=1;
+  	cin>>l;
+    int index=n/k;
+
+  		ans+='a'+i;
+{
+  {
+  {
+  	else
+  	}
+	int k,count=0;
+  		{
+    	{
+- ifhmwmfrsecsjaudbuxlpwymlqvvynsiszxooehgklytlvynpwaguatfqqcrdvbvwylkeurofrirmigeeikzjfgbvju

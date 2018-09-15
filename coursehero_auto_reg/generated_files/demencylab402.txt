@@ -1,0 +1,184 @@
+
+  	reverse(it->S.begin(),it->S.end());
+  return 0;
+  }
+
+int cur[10];
+22796
+	z->right=NULL;
+        ini=-1;
+        A[2*x].mul=1;
+		cin>>a>>b>>c;
+typedef long long ll;
+				distup[edges[source][i]]=max(distup[edges[source][i]],max2+2);
+
+#include <iostream>
+	
+60268
+	}
+const ll mod = 1e9+7;
+int main(){
+	for(int i=0;i<s.size();i++){
+  dfs(1,0);
+    
+#define F first
+      while (!st.empty() && lessthan(st.top(),i))
+  	if(dp[st][pos]==0)
+	for(int i=0;i<n;i++){
+  	FOR(i,1,m)
+		{
+  {
+  return 0;
+      for (j = 0; j < s; j++)
+  else
+ 	{
+int lazy[20][4*N];
+const ll mod = 1e9+7;
+	      		  dummy[i]=-1;
+        for(int i=0;i<n-1;i++)
+    sort(ans.begin(),ans.end());
+  	if(pos[i].F==0)
+		FOR(i,1,a[l+1])
+#define ll long long 
+}
+
+const ll mod = 1e9+7;
+  fast;
+int main(){
+	vector<int> dad(N, -1);
+
+
+		   {
+    {
+  		}
+#define fill(a,x) memset(a,x,sizeof(a)) 
+typedef pair<int,int> ii;
+	}
+	}
+
+  	{
+#define fill(a,x) memset(a,x,sizeof(a)) 
+		   {
+	        cout<<ch;
+#include<bits/stdc++.h>
+  	}
+    for(int j = 1;j <= n; ++j)
+    const int KMAX = 6;
+#include <bits/stdc++.h>
+typedef vector<int> vi;
+  				for(ll l=i;l<=n;l++)
+		
+#define pb push_back
+const ll mod = 1e9+7;
+  		cout<<"First";
+  {
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+- tjhevyhwjoiviikggqedjbgbqmqhggmarvgmvplegtcodmvjdzoocxrsjhbsqqujn
+void build_tree(ll node,ll a,ll b )
+	cin>>t;
+  	
+
+	{
+        	if(s[n/2]=='.')
+	    }
+
+  {
+  	if(root==0)
+			index='0';
+            l = i;
+	{
+};
+    lazy[1][2*node+1]=1;
+
+
+		int t = b; b = a%b; a = t;
+        x3=x2;y3=y1;x4=x1;y4=y2;
+	for(int d=9;d>0;d--)
+#define F first
+	    cin>>arr[i];
+  fast;
+	else
+int s[N];
+       	break;
+{
+			cout<<"Yes"<<endl;
+  			l=mid;
+
+int main(){
+        {
+    else return false;
+
+ 		else
+  			cin>>arr[i];
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+const int N = 1e5+10; 
+  		if(dist[edges[s][i].F]>1+dist[s])
+
+	{
+	return (total<=L);
+ 			index=l;
+void build(int curr,int l,int r){
+}
+		for(int j=0;j<26;j++)
+  fast;
+11755
+	while(t--)
+	FOR(i,1,9*N-1)
+	while(t--)
+
+  fill(starts,-1);
+  		cin>>arr;
+				{
+				ind=(n+1)-temp/2;
+  	if(check(mid))
+    if(a>=i&&b<=j){
+}
+		temp=0;
+			}
+typedef long long ll;
+  			if(query[command[2][i]]<0)
+				    	intersect.pb(mp(angle0,0));
+      big_row(9,0);
+	cin>>n;
+  x=x+(1<<i);
+		cin>>m;
+  while(!Q.empty())
+		{
+typedef pair<int,int> ii;
+  FOR(i,1,n)
+		FOR(j,0,h-1)
+  	edges[ver[t][curr]].pb(mp(l,0));
+		   	
+	}
+  cout<<fixed;
+#include <iostream>
+ 
+using namespace std;
+	
+  {
+	scanf("%d",&n);
+  cout<<fixed;
+		cin>>x;
+		}
+        diff=arr[1]-arr[0];
+tree[node] = max(tree[node*2], tree[node*2+1]); // Updating root with max value
+			cout<<"NO\n";
+- krbdovyjovcrvadogoupkyjxyejmawzkndpbyqkmlofioixxyrmisygqcrecndocgeghuqvhhbp
+        	for(int i=0;i<n/2;i++)
+    cout<<maxi<<endl;
+  	return 0;
+int main() {
+#define pb push_back
+    		if(val%2==0)
+int main(){
+  q.push(mp(1,1));
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+
+  FOR(i,1,k)
+  return 0;
+1650
+		    	if(arr[i]>big)
+	int temp2=0;
+int parent[N];
+
+  		if(vals)

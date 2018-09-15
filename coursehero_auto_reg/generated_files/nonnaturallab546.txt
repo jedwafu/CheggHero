@@ -1,0 +1,107 @@
+  	column(4,0);
+	}
+  
+		int v=edges[source][i];
+{
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  
+{
+			continue;
+      big_col(8,0);
+	else if(b2+l3<=b1 && l2<=l1 && b3<=l1)
+	{
+			continue;
+  	cout<<4<<" "<<2<<" "<<5<<" "<<2<<endl;
+    return temp;
+  cout<<ans;
+
+    else return false;
+    	{
+		sums[i]=sums[i-1]+rat[i];
+using namespace std;
+      lazy[kd][pos*2]^=1;
+	
+      	{
+  			break;
+
+  	}
+
+  {
+  while(t--)
+int mini[N];
+	//cout<<"called for "<<n<<" "<<h<<endl;
+				  	path[k][j+1]=true;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  return 0;
+		 //cout<<"over"<<endl;
+  {
+  }
+	{
+  {
+      int mid=(l+r)/2;
+			}	
+
+	{
+int arr[1001][1001];
+65 53 95 153 150 86
+   
+  FOR(i,1,n)
+- sjrqbahoipfaqk
+            }
+				q.push(mp(1-st,pos-rity[1-st][i]<=0 ? pos-rity[1-st][i]+n : pos-rity[1-st][i]));
+	
+        		s[n/2]='a';
+	element *temp3=NULL;
+         			}
+- ofppzdrxdjdryaqyqstbjcgfcxpuxflnlbcmgwklhnfhpvginbjzgsgipvcmaqant
+	else
+  	{
+	     	return 0;
+			}
+					if(s[1]=='.')
+ // cout<<cnt0<<" "<<cnt1<<" "<<cnt2<<" "<<cnt3;
+
+{
+typedef pair<int,int> ii;
+
+    {
+const ll INF = 1e18;
+  {
+
+  int n;
+        	par[edges[root][i]]=root;
+
+  		{
+
+	{
+  }
+  			if(i+j+k==i or i+j+k==j or i+j+k==k)
+  	cout<<"YES";
+			m-=2;
+- fdpbcxupfwxulegsptsbovrlwwgcpmjwpbzrytifrfceliwbdqermxdktjmixxg
+ll temp;
+int arr[N];
+  prefix[1]=0;
+	}
+  cin>>h2>>a2;
+
+using namespace std;
+- jjoqjmbpbnqoosjczmhkornzhmqhd
+		cout<<n-i<<endl;
+}
+		{
+        A[x].mul = 1;
+    }
+  
+
+  	row(4,0);
+#define S second
+  			{
+  
+                 	}
+	int toast3=p/np;
+    else if(temp>i)
+
+  {
+
+		if(ret1<0)

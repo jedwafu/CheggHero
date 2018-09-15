@@ -1,0 +1,110 @@
+{ 
+        while ( (!Qi.empty()) && Qi.front() <= i - k)
+	cin>>t;
+ 
+                 	{
+      		flag=true;
+	FOR(i,0,sz(tree[root])-1)
+const int N = 1e5+10; 
+}
+const ll mod = 1e9+7;
+scanf("%lld",&arr[i]);
+6624
+#define sz(x) (int)x.size() 
+  return 0;
+  
+		if(!t)
+
+const int N = 1e2+10; 
+typedef long long ll;
+- zyshvybxygcbpuldanbttkmrkgdbijkhhcrccubdcderzrxbhyuakhtupwvxfhholysoutrxzvqyonavluvwdpssnqstxzjjzcxtxqsynjxbwzxkvuizlatzsluqmdblhahhqzffkegjfftbcdanfvmyhiqtorhvroejpmoaqulyc
+#define tr(container, it) for(typeof(container.begin()) it = container.begin(); it != container.end(); it++)
+        }   
+#include <bits/stdc++.h>
+	
+  		DSU[i].diam=dist[maxi];
+//int n,m,k;
+  	int p;
+		}
+{
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+		}
++ konsjajjvfgulnmjntqxuiulmfvvtqefhrysshbppjlawxklscjokfzxkwugnzluqlmkvpbkymmwlyhfastnyvmirgqgfecypqimfkwfylbkllpmdlbdinozveibkkbabjoivlqwyrgjexxkkynsnbujicmsonuryjcuwsqulyfqxfcidpcttwedaqvpfsidbkzzc
+			if(arr[i]>arr[i+1])
+	}
+  }
+}
+			cout<<-1<<endl;
+			int top=q.front();
+#define pb push_back
+{
+  	cin>>u>>v>>k;
++ kqhohkahtksjdmebdqkomcjzbhihadvnvebdocmhoetrszuwrhmdjwenfmufqrsnvwqkactqiokbnezfllixhnkmbgutxohumzemeafmoppetojhatehiqwkwsfv
+  if(check2(r))
+                 else if(i==1)
+         {
+   for (int i = 1; i < n; i++)
+
+  		        char c=arr[0];
+  	
+const ll mod = 1e9+7;
+  	{
+int main()
+        
+        for(int j=0,t=v[j];j<v.size(); t = v[++j])
++ axjecsioawmqxckqhtijqxwhotxikxkmwvrynboqzdgwfqoojwzbvyijrgscfeqbzhbpkqfltnjaeyrpwqrsozdghxkmdapfkruwjbkeotgurxkqobkeanmknwwqzovlhrhsurwlnefecpwssgwvwjfjhdbgtztaqbsnuqyhvdozvktprpk
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  col[0]=0;
+	string s;
+  int rounds;
+	long long int add=0;
+    }
+
+    cin>>k;
+	int n;
+	}
+  FOR(i,0,n-1)
+  		num[i][j]=-1;
+int main(){
+
+  	cout<<sum<<endl;
+typedef vector<int> vi;
+		flag=true;
+		}
+    if(res1<0){
+  		if(flag)
+  		cout<<1<<endl;
+	}
+  cin>>x1>>x2>>x3;
+  while(scanf("%c",&ch)!=EOF)
+const int N = 1e5+10; 
+  int n;
+        
+typedef vector<int> vi;
+  }
+  				if(x1>x2)
+  }
+else if (end <= mid)
+
+	        x-=1;
+  	val[j]=1;
+  	int n;
+                if(i%2==0)
+    minb+=dfs2(edge[source][i]);
+int arr[1000000]={0};
+- brpgjingdzjtbmigppoyyjjmalbqgaxhtopczdkeewxhiipzzdyxojlqwphdpekktamsfywluwufgjgfmeecqqsmfzpwecgzeutlsrwpnqwvzcanjfpbxhpejfanjgopchawawlqojlpomeztvasc
+
+		while(curR>q[i].r)
+    z[0] = n;
+    
+	}
+const ll mod = 1e9+7;
+  if(sz(s1)>=sz(s2))
+			dp[0][j]=rat[0];
+
+   cout<<mini<<" "<<maxi<<endl;
+pt = parent_pt;
+ll ans[N];
+	int arr[101][101];
+  FOR(i,1,n)
+	

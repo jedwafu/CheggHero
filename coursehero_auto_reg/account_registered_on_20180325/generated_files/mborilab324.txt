@@ -1,0 +1,151 @@
+  FOR(i,1,n)
+		
+	eps=1e-12
+      	dp[i1][i2][i3][skip]=max(dp[i1][i2][i3][skip],(arr[i3]-atk[i2+k]+DP(i1,i2+k+1,i3+1,1))*(arr[i3]>=atk[i2+k]));
+  		rights[i]=rights[temp];
+		int s=q_dij.top().S;
+  arr[0]=-1;
+    if(a<=b&&a<=c)
+
+    	    }
+typedef vector<int> vi;
+       else
+  fast;
+	cin>>l2>>b2;
+	    long n,m;
+    }
+  		nr[1][i]=i;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+		{
+		cout<<"Case #"<<i<<": "<<ans<<endl;
+  			}
+
+  set<pair<char,char> > ans;
+		{
+  	}
+	return 0;
+#define pb push_back
+#include <iostream>
+int main(){
+  
+	loop(i,1,n)
+     		ans[final]=cur-final;
+  fill(temp,0);
+
+#define sz(x) (int)x.size() 
+        if(ans==n-1)
+	int cur=1;
+		}
+int main()
+		{
+		if(root->l->low<=i && root->l->high>=i)
+	        continue;
+		for(int i=0;i<m;i++)
+		else
+	            if(i>b)count++;
+        if(mark[v]) 
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	par[source]=0;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+const int N = 1e5+10; 
+
+
+void update(int curr,int l,int r,int index,ll val){
+		if(matrix[source][i]==true && found[i]==false)
+  return temp;
+	int n;
+        	check=1;
+  }
+  	ll target=0;
+		}
+		    sum1=temp;
+
+            {
+  		cout<<"YES";
+};
+					done[i]--;}
+
+			//bitset<64> x = num;
+		
+		}
+  		int count=0;
+		for(i=0;i<n;i++)
+    }
+      div1.pb(len1/i);
+			dis[i]=dis[source]+1;
+  	return 0;
+    }
+  	{
+  fast;
+	
+        n-=arr[i];
+	}
+  }
+	for(int i=0;i<3;i++){
+#define pb push_back
+#define sz(x) (int)x.size() 
+
+
+  	int n,q;
+typedef long long ll;
+                 continue;
+{
+	    }
+    	if(parent[s]!=1)
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  rep(i, 1, cn) B[i]=(i-1)/Bk+1;
+queue<ii> Q;
+
+	int pow[12]={1,2,4,8,16,32,64,128,256,512,1024,2048};
+  for(int i=1;i<=6;i++)
+	while(--n){
+				if(dep[j]>=dep[i] && arr[j]<dep[i])
+      		flag=true;
+
+		num++;
+int a[7];
+          Update(1,n,x,y,i,1);
+  	cout<<l<<endl;
+	if(sz(edges[s])==1 and edges[s][0].F==p)
+
+  fast;
+
+  	cin>>u>>v;
+  			if(check(i,j-1,i,j,i,j+1))
+  FOR(i,0,sz(s)-1)
+	sort(arr,arr+4);
+  	cout<<0<<endl;
+#define pb push_back
+#define S second
+
+}
+	countt=f(a,b,n);
+
+  	if(type==1)
+#define S second
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  m.a[0][0]=add(mul(m1.a[0][0],m2.a[0][0]),mul(m1.a[0][1],m2.a[1][0]));
+     
+   	 {
+queue<int> q;
+  	
+  int n;
+    return s[curr];
+    
+  cin>>x[i]>>w[i];
+          
+    return temp;
+		val2=pangram(freq);
+		cin>>a>>b>>c;
+  return 0;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+const ll INF = 1e18;
+	    	int mini=max(1,temp-range);
+			//cout<<"inserted "<<s[i]<<" at "<<trie[cur][s[i]-'a']<<endl;
+#include <bits/stdc++.h>
+    #define present(c,x) (find(all(c),x) != (c).end()) //vector
+        if(total<k)
+int calc(int pos,int flip)
+  	FOR(j,0,25)
+  			ans=false;

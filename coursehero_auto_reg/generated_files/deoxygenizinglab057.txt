@@ -1,0 +1,138 @@
+#define F first
+    lazy[0][2*node]=add(lazy[0][2*node],lazy[0][node]);
+	
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+#include<iostream>
+
+       
+      {
+  	if(type==2)
+
+  FOR(i,1,n)
+  	char c;
+{
+- ewpnemiazmijztpl
+  	double check;
+}
+        else {
+            if(t[j]!=s[i])
+  	ll maxi=0;
+  	cin>>num;
+
+ll maxi,maxi2;
+    cin>>pes[i];
+#define F first
+	}
+{
+    int l=0;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+	return 0;
+
+		take(arr[i]);
+            if(s[j]=='?')
+      	ans++;
+#include <bits/stdc++.h>
+- dazssifimdkkxmpadtzomheojemftfjxhkpzuwhgautziizlcycqigfrkrzdyicfvshpqoysir
+	     
+const int N = 1e5+10; 
+	}
+		cin>>n;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+using namespace std;
+using namespace std;
+
++ laknzbraysenuabvnjdrfzwvgueypzmaazqbajdabjnylqtyaysfyocekgechscjrukuequhziflaalazdhxuldgtjibbnkthxpnnjvmtazudlwcqgbk
+*/
+		distdn[source]=max(distdn[source],1+distdn[edges[source][i]]);
+        		s[n/2]='a';
+
+		int a,b;
+  		vector<int> v2=LongestIncreasingSubsequence(v1);
+  dp[1]=1;
+- tnafwcknsyepss
+			if(c=='r')
+  {
+  cin>>a;
+				if(h==1)
+  cout<<ans-1<<endl;
+					swap(angle0,angle1);
+	if(maxi>=m)
+			
+	
+typedef set<int> si;
+		{
+	for(int i=0;i<4;i++){
+using namespace std;
+		for(int i=1;i<n;i++)
+#include <bits/stdc++.h>
+  if(arr[1][i]=='.' and arr[1][i-1]=='.')
+  if(l==r){
+using namespace std;
+ 
+		while(curR<q[i].r)
+  	for(int i=0;i<cp.size();i++)
+typedef pair<int,int> ii;
+while(t--)
+	int n,m,k;
+	ll arr[100001];
+  		printf("No\n");
+  build(c1,l,mid);
+copy(start,end);
+					}
++ sdpehqmnpnzpjcehpeibcdepcifncckwizcprpegefyphewwihykkecoohbqmmpwnrnfirnowlegpccylckxiomxwnpkbeiryvwimlxkxdqohvotzbqipchnswxvdfmbcklqwibvltlvqaoqbgyslfgddfagnnjpxvgvdjqrcco
+  cout<<1<<" "<<1<<endl;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+{
+    for(int i=1;i<=m;i++)
+}
+  }
+  		}
+string possible[N];
+  const Complex operator-(const Complex &c) const
+#include <bits/stdc++.h>
++ pffjqgqkrrmbrtlisgffyhdmjnwsxbfpjmybupl
+  	else
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+             }
+15511
+			   for(int j=0;j<k-1;j++)
+  {
+
+  	target/=n;
+typedef vector<vii> vvii;
+long long int arr[100010];
+int n,m;
+  	r1=min(r1,r);	
+                	ans=(ans*pow2[count])%mod;
+    while(q--){
+    }
+			m-=3;
+        }
+  		{
+      big_col(14,8);
+#define F first
+  	}
+  return 0;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+int main()
+	    if(here==false and neg<=1)
+#define fill(a,x) memset(a,x,sizeof(a)) 
+
+  ans+=solve(n,i);
+typedef long long ll;
+  		cout<<"Kushagra"<<endl;
+const ll mod = 1e9+7;
+
+	cout<<res*100/n;
+  	sort(w[i].begin(),w[i].end());
+  {
+typedef pair<int,int> ii;
+return true;
+  }
+    treee[node]=mul((b-a+1),value);
+- ppwndcgu
+  	r=min(r,maxi[i]);
++ qduokyigoczvnqyeffwsadhmh
+  		int edgnum=edges[ver][i].F;
+				
+        

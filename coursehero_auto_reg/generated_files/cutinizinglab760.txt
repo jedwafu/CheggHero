@@ -1,0 +1,179 @@
+
+  if(k>=n)
+
+
+			b=b/2;
+    }
+  		ll temp;
+{
+#define S second
+#define sz(x) (int)x.size() 
+ 
+map<string, int> odd;
+            ansval=min(arr[1],ansval);       
+
+  	   if(arr[i]==1)
+		int len =strlen(arr);
+  FOR(i,1,n)
+    cin>>n>>t;
+      {
+{
+  	r1=min(r1,r);	
+int arr[N];
+  }
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  	if(check>min(x1,x2)-eps and check<max(x1,x2)+eps)
+
+	FOR(i,0,sz(edges[source])-1)
+      mini=1;
+  	edges[u].pb(mp(i,mp(v,c)));
+  		cnt1++;
+int v[N],c[N];
+
+    	flag=1;
+    if(b[i])
+	int w,m,i;
+double eps=0.0000001;
+  return 0;
+  	ll sum=0;
+  		else 
+
+#define fill(a,x) memset(a,x,sizeof(a)) 
+				arr1[i]=max(arr1[i],arr2[j]+arr[i]);
+  	mini[i]=INF;
+}
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  return 0;
+  	}
+#define pb push_back
+const ll mod = 1e9+7;
+	for(int i=0;i<s.size();i++){
+	loop(i,1,n)
+	FOR(i,0,sz(edges[source])-1)
+int main(){
+	else
+  	if(temp>n)
+	long long int temp;
++ dnwtqmhdwyouepoclfsgtgphgjcrpzqsnolfaukytbtzqhbdptkizbsilubcvtukifskbcjudcvvlyzcrlltmddz
+    for(int i = a  ; i < 2*a ; i++ ){
+	}
+    }
+  int ans=1;
+
+  			lookingfor=1;
+	int t;
+int main()
+	for(int i=0;i<s.size();i++){
+					{
+	  	if(n==1)
+	for(i=0;i<n;i++)
+}
+typedef pair<int,int> ii;
+    	cout<<-1<<endl;
+	
+  FOR(i,3,n)
+int main(){
+       
+  	if(s=="Icosahedron")
+#define pb push_back
+	        if(i==0){
+  	{
+		take(n);
+}
+       {
+		 	cout<<original[i]<<" ";
+  {
+  return 0;
+  fast;
+
+  	{
+  FOR(i,0,sz(D)-1)
+   cout<<min(dp[n-1][0],min(dp[n-1][1],dp[n-1][2]));
+            if(last[other]<i-y and other!=j)
+  ll pows=0;
+  		if(tdp[j]<0)
+- kxvnvbhpbspikdpwbbkkjozcckgk
+  	cout<<1<<" "<<4<<" "<<1<<" "<<5<<endl;
+    }
+
+		counts++;
+  	}
+}
+	for(i=0;i<n;i++)
+  if(flag)
+     scanf("%lf %lf",&a,&b);
+	    	{
+
+  	else
+   		}	
+			tree[source].pb(edges[source][i]);
+		 		}
+				 y2=(temp[1].y-points[i].y);
+8 9
+		{
+    #define MAX 1000000
+typedef vector<int> vi;
+  //  while (result[actualSize] == 0)
+long long int arr[505][505];
+const ll mod = 1e9+7;
+}
+		for(i=0;i<11;i++)
+#define fill(a,x) memset(a,x,sizeof(a)) 
+typedef pair<int,int> ii;
+	
+		}
+
+#define sqr(a) (((a) * (a)))
+		return 20;
+		if(cur+w<sz(s) and s[cur+w-1]=='-')
+  		swap(u1,u2);
+  if(c[3]!='!')
+
+                 }
+int main()
+
+typedef pair<int,int> ii;
+  int n;
+#define S second
+ 			ansf++;
+  fill(sp,0);
+typedef long long ll;
+             if(count ==2)
+		
+using namespace std;
+	}
++ fnvvsilaiyxeekepnyyqkdvecgcfxlbcayztikvqjtupdbhrzfhlkepmntukhvnhvocdzywkrszwtgpunxgydxmqrgbadqhyekefiapbsrzozpkposnrqbijiljlbqmhcqpmsgp
+  	ll x=val[maxidx].S;
+	int flag=0;
+
+		{
+  			endtime=max(endtime+t,arr[i]+t);
+  return 0;
+	
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+    if(edge[source].size()==0)
+
+	if(n!=k){
+ll L[N];
+
+    }
+	  	cout<<2<<endl;
+
+}
+      if(s[i]!=t[i])
+  dp[i][d]=0;
+			// cout<<points[i].x<<" "<<points[i].y<<" "<<points[j].x<<" "<<points[j].y<<" "<<endl;
+       {
+   if(op) 
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  	}
+{
+  
+typedef vector<int> vi;
+    Sieve();
+        {
+
+	y->left=x;
+             	if(s[i]=='.' and s[n-1-i]=='.')
+		{
+using namespace std;

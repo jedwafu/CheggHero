@@ -1,0 +1,111 @@
+	for(int i=0;i<s.size();i++){
+
+
+	ll arr[4];
+	
+	    }else{
+  fast;
+      big_row(10,0);
+{
+  fill(flow,0);
+	scanf("%d",&n);
+typedef long long ll;
+
+  	if(final<0)
+		sums[i]=sums[i-1]+dp[i];
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+	cout<<1;
+			ans+=best2;
+  	while(num>1 and num%2==0)
+      ans.pb(mp(8,1));
+    treee[node]=mul(lazy[1][node],treee[node]);
+                 		flag=false;
+      rad+=epsilon;
+{
+		     	cur--;
+  			dp[1][i]=min(dp[1][i],c[i]+dp[1][i-1]);
+	}
+#define pb push_back
+} 
++ evbccfmbecdczxsrsihepaqyebykxjb
+using namespace std;
+    	}
+	
+//int wbig[N];
+
+		if(starts.empty()==false)
+    void update2(ll node,ll a,ll b,ll i,ll j,ll value){
+	for(int i=0;i<len-1;i++)
+14588
+const ll mod = 1e9+7;
+  ll reserve=0;
+   	 FOR(i,0,edge[source].size()-1)
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+	cout<<"YES";
+	int temp=0;
+  	{
+  	edges[u].pb(v);
+
+  		cin>>t;
+		dp[i]=0;
+  else
+typedef long long ll;
+const int N = 1e6+10; 
+1000
+  		ll sqn2=n2*n2;
+    return false;
+        {
+const int N = 5e5+10; 
+		sum++;
+  	cin>>n>>q;
+		}
+  		int idx=1;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+		
+  int x=n-cnt;
+  {
+	}
+typedef pair<int,int> ii;
+  dp[1][1]=arr[1];
+			else
+
+int ver[2][4 * maxn];	// 0: to [l, r], 1: from [l, r]
+    
+#define pb push_back
+
+
+void mini(int m)
+const ll INF = 1e18;
+     {
+
+
+
+  	cnt[index]=dp[n];
+
+		return dpd[index][quant];
+				arr2[i]=max(arr2[i],arr1[j]+arr[i]);
+        A[2*x+1].sum=(A[2*x+1].ini*(se-m))%M;
+  		r=mid;
+#include<bits/stdc++.h>
+}
+      reverse_col(13,4);
+int arr[200010];
+    }*/
+
+		FOR(j,0,h-2)
+    build_tree((node<<1)|1,mid+1,b);
+  		final+=m;
+			if(i==0)
+  			}
+  	edges[u].pb(mp(v,i));
+	
+   	if(s[i]!=s[len-1-i])
+using namespace std;
+        A[x].sum = (A[x].sum*val)%M;
+	return 0;
+    ll minval=INF;
+int arr[N];
+  	cout<<"no";
+const ll INF = 1e18;
+  			q[Q1]=(node){st[u],st[v],Q2,Q1};
+  FOR(j,0,2)

@@ -1,0 +1,131 @@
+	cout<<maxi<<endl;
+			sums[i]+=mod;
+
+	{
+#define S second
+  	typ[j]=2;
+
+
+	for(int i=0;i<n;i++)
+			cout<<endl;
++ prgzaclzyxoqgwcboqwmtqpdpestjxyzogyqimsjlgbrfdutvsfojxtadltnirmzxmrialtnuufzzbuuuckfzffeqa
+    lazy[0][2*node]=add(lazy[0][2*node],lazy[0][node]);
+	int m,s;
+	
+	}
+int arr[N];
+  
+             {
+	    	if(path[b][c]==true)
+    ll temp=(a*b)%INF;
+	int color;
+      else
+  }
+  	{
+  FOR(i,1,n)
+#define sz(x) (int)x.size() 
+int main(){
+		}
+int edgesmall[N];
+		}
+const ll mod = 1e9+7;
+  Dijsktra(s);
+#define F first
+  FOR(i,1,e)
+  	bool flag=false;
+  	else
+{
+    maxi=max(m3+o3+p3,maxi);
+
+typedef long long ll;
+		{
+  /*VI b = FFT::convolution(coeff, coeff);
+	}
+
+	for(int i=0;i<12;i++){
+	}
+        if (g[a][b] == -1 || c < g[a][b]) g[a][b] = c;
+  	}
+  return 0;
+}
+void mobius()
+  {
+    in.resize(n);
+	
+        flag=true;
+  FOR(i,2,n)
+vector<int> primes;
+        }
+int n;
+#include <bits/stdc++.h>
+}
+	
+  			{
+  	if(s=="Dodecahedron")
+  fast;
+	    if(s[i]=='+'){
+  string s;
+  	}
+		
+int main(){
+  dfs(root);
+  	int lt=0,rt=sz(arr)-1;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+		{
+	}
+  	FOR(i,0,n-1)
+  if(n==16)
+        res2=mm1-mm2;
+	    res+=p/100;
+	if(count>=7){
+typedef long long ll;
+		{
+  {
+  }
+	    cin>>arr[i];
++ qshpltgpsemfpvnlsoorzzcqxvlpecpwuwlhrtzmylrpgedbvtswswnpsahycwuyuhhobgabttsczvduoxriugaogjokhkidrpruytvroqtolykcwdmsjoirxwbeglixbbuzxrslhmbvkoxirlcdakuxgyeojoompinmzgajubegpdpjotmoeiomgudsi
+  	cout<<ans<<endl;
+	
+
+	cout<<it->F.F<<" "<<it->F.S<<" "<<it->S<<endl;
++ tigeytyqtrtqtyaaohaipxhnxrkfatmwcuccpaskuoanoaoejomzotmlmytoshkwc
+ll LPD(ll index)
+#include <bits/stdc++.h>
+
+	for(i=0;i<n;i++)
+	    ans++;
+	dis[source]=1;
+  	if(tm>-eps)
+  FOR(i,1,n)
+#define S second
+  	fill(vis,0);
++ xkgveuakxpdcxevtkjhhbbvwbeslobtlnzitvkdszixznsszdbieedcfiwsyzojpntileoffyeenyyncbvigbnljlejlssahnkstyazxefkfezhfxrlygzjsdsfvmhez
+	int flag=1;
+  int t;
+			l=i+1;
+			ans++;
+		{
+    cin>>n;
++ bujvjvnmfriflqorjuckpbamcfgohtflnoixjvlqowwzomszjwjyyjmcosrymwjbmtyxqmpfingwazxjxgjvpwyfqrdepogbhgaaspfcdnafmxqmdzhuxhcqafupwasfjsfbkmgnagsoeiajjkehtgxuntllwerfyygilmxl
+	
+bool vis[N];
+    temp=((n*(n-1)-(zero*(zero-1)))*3)%MOD;
+    {return Complex(a*c.a - b*c.b, a*c.b + b*c.a);}
+  	cin>>x>>y;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+    {
+        if(flag)
+ 		cout<<-1<<endl;
+       row(1,0);
+	int j=n-1;
+		cout<<"No"<<endl;
+		if(cur+w<sz(s) and s[cur+w-1]=='-')
+		{
+typedef long long ll;
+		cout<<ind<<" "<<ans<<endl;
+		print(ans)
+  FOR(i,1,n)
+		    sum2+=temp;
+typedef vector<int> vi;
+	}
+char arr[510][510];

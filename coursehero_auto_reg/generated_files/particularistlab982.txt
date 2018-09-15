@@ -1,0 +1,134 @@
+  }
+	}
+int beg[1000010],end[1000010],counts[1000010],span[1000010];
+typedef vector<ii> vii;
+
+
+                    break;
+	vis[source]=true;
+    build(1,1,n);
+typedef pair<int,int> ii;
+		while(next!=start[i])
++ hxkvcwrwxsaegjiwhmlvisfaqeznruxashwugnrfftmocwkjjvhtnmtfsutlpsmhakdizwnepbutyfdjcmcsaxxvrqggjuplevtdrikjkecilhtotvgusfpjwxshsjswenayxkjhqlrcvksohykzdblbzfkroenvrpvpbeysrqwmcodkopltrw
+  		w[i][j]=w[i][k]+w[k][j];
+	//delete y;
+	if(i==len-1)
+#define S second
+stack<ii> nbr[N];
+		}
+	int counter=0;
+- ubeqvtflkptglfmzgbodkkedyhdxqujmxncujjfvybbmgqlorbrdlxhkekhwgsidhmzqwfnwgpiofweyxvblukxyxewdygjfsiyqplnxaxlhtphtmleivbiuheyfmjmftkxjwkgyiuib
+}
+		intersect.clear();
+typedef vector<ii> vii;
+  	r=mid;
+using namespace std;
+    }
+- zfqrhnzjguqocdwzhpmzmcqofbmtnigopwhwlhh
+  if(sz(D)>1)
+               if(t[j]!=t[i])
+  int temp=1;
+	    {
+		    
+      if(D[mid].F<=rem)
+
+		//cout<<"ans for "<<q[i].id<<" "<<tans<<endl;
+
+
+        {
+      fill(ans,0);
+  {
+  }
+int distup[N];
+int dp[N];
+
+#define sz(a) int((a).size())
+	while(t--)
+    seven1[temp]=i;
+  }
+     }
+  dp[0][0]=0;
+typedef vector<int> vi;
+  donev[source]=true;
+const int N = 1e5+10; 
+  }
+		}
+		{
+  else
+	}
+	double num=0;
+			if(*it!=k)	
+      {
+const int N = 1e6+10; 
+  				dp[1][i][j][k]+=1;
+  			dp[i][j]=min(dp[i][j],dp[i-1][j+1]);
+#include <bits/stdc++.h>
+		c=getchar();
+typedef pair<int,int> ii;
+		return;
+
+  {
+        		flag=false;
+	if(bear[1] or (bear[0] and bear[2]))
+{
+const ll mod = 1e9+7;
+  double ans=1e17;
+#define pb push_back
+  }
+#define F first
+	int ans=1;
+#define F first
+- tewuuyoyicjavrytoifhjoguonqmwharnyojwciefrgakfwzpbiyroufelrauttjrhsnkcurvatgh
+#define F first
+        temp=temp >> 1;
+
+
+
+	{
+    calculateSpan();
+  	cout<<2<<" "<<4<<" "<<2<<" "<<5<<endl;
+  FOR(i,1,max(w,h))
+		cout<<"Vanka"<<endl;
+
+	cin>>n>>k;
+    else
+    return;
+const int N = 1e5+10; 
+			if(tms[mid]<=times-89)
+const int N = 1e5+10; 
+    #define S second
+			//delete y;
+			
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  int x1,x2,x3;
+typedef vector<ii> vii;
+     
+  		ans.pb(mp(3,cnt2));
+			{
+  	cout<<1+max(ans1,max(ans2,ans3))<<endl;
+				}
+  	maxi[i]=0;
+	for(int i=1;i<1000000;i+=2)
+
+                 {
+- xxuoaatcoozhalisnfodyumzvvvwopynmtbovxtlnssnfdhvkvyipkimhfjwwjjkcnyzmrlzmforkvovsnfiznwhuffsrqctfbvrugqgneayzovsdacdqammgtfxjhspkpifxznlfnlhegbhgfmyfalltqkfzfukuerudefjuqsyytfgyufduqrqgdvf
+    }
+  fast;
+#define F first
+
++ ztkcaqiwmdumtfijmttjavrzsxdfxuhwqtaqjioxnkkhpuqbolnqiepcduiaprxhkzxvinsxxeeozwrpjehrkyunseojxnqhmnewcwubdapezjtinaaaywn
+typedef pair<int,int> ii;
+
+			
+
+{
+#define F first
+	
+	}
+
+
+
+		if(arr[i]==1)
+  	freq[s]++;
+int main(){
+	{

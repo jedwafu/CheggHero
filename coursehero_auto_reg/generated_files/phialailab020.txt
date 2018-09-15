@@ -1,0 +1,144 @@
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  cin>>t;
+  	cin>>u>>v>>w;
+int main()
+
+  FOR(k,1,m)
+
+	cin>>n;
+		
+{
+	
+    else return false;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+28 31
+  	}
+int main()
+#define F first
+{
+  }
+    while(k<=n)
+  fast;
+	cin>>t;
+		int a,b;
+#define S second
+			int len=s.length();
+		cout<<i<<" "<<freq[i]<<endl;
+- hhpiugklpikbemnpwbotpbsqhqnsnwtudiezqqmhzyjflwuhakcrmwktmznzviwaqazhroqsmzzzyuiaglrsjbnwbcxyktzbw
+             	area+=(x2-x1)*(y2-y1);
+  {
+			term=(term)*(i+1)
+
+  ll zero=present[0];
+
+  	if(count>o1/2)
+  	arr.pb(mp(0,0));
+  				q.push(mp(val+i-n,len+1));
+  	FOR(i,1,n)
+    
+          if(s[j]==t[i])
+typedef pair<int,int> ii;
+#define pb push_back
+using namespace std;
+
+  	for(int i=0;i<cp.size();i++)
+- bhesivfwkuahpqiwylnytpupezmmsmbvvgndbtbnncweuecuprukioznqlzixbeshtxkmzxbdthzajtrbncjebwupycmbihicguohrsmkzlmjgekwgvchuwwsaltlud
+  int sum=0;
+                 	}
+	{
+    {
+  vector<ii> ans8=solvemin(dx+hmm,dy+hmm,dz+hmm,hmm);
+
+        A[2*x+1].sum=(A[2*x+1].ini*(se-m))%M;
+		cin>>n>>m;
+#include <algorithm>
+		ii val=fast_exp(base,exp-1,MOD);
+
+
+  	cin>>s;
+			
+
+- xfurtq
+  }
+	temp-= (x1-x2)*(y3-y1);
+}
+//int wsmall[N];
+typedef set<int> si;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  	if(ch=='U')
+    {
+	for(int i=0;i<n;i++)
+	    }
+      lazy[kd][pos*2]^=1;
+  cin>>k;
+  	if(i%2)
+typedef vector<int> vi;
+      big_col(12,0);
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+    	cout<<n-3<<"UB"<<endl;
+using namespace std;
+	while(t--)
+	return 0;
+    #define F first
+  	cin>>s;
+	    cin>>arr1[i];
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+#define fill(a,x) memset(a,x,sizeof(a)) 
+
+	arr2[0]=arr[0];
+	}
+  		int xorval=0;
+
+  	FOR(i,0,n-1)
+typedef vector<int> vi;
+	cin>>n>>m;
+- kpxbvejvrdkcbxxfbsulcdynmcvobvhnmgohmaeddqhhofmpziccmbradnqgiztxfkgtmlzpbgyrnnjnvlpjmgjqvaygzudhejcqwbhakitxvckqobaailsfntln
+          cout<<-1;
+
+			{
+					edges[arr[i+1][j]-'a'][arr[i][j]-'a']=true;
+
+
+typedef vector<int> vi;
+            	count++;
+  			else
+for(k=start1;k<=end2;k++)
+double arr[110];
+while t>0:
+#define F first
+  				continue;
+
+ 	}
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+#define all(x) x.begin(), x.end()
+	}
+  	else
+    if(a==1 and b==1)
+#include <bits/stdc++.h>
+  		ans.pb(mp(4,cnt0));
+    }
+	    }
+  			}	
++ uaaaiybrskxspkdcrxoogkboljktmwkjwnjgnnzhxzaplftcchskutzfejathmcfznmocnwamyrxdmbgtwsprrwwdwpmltskggb
+int main()
+    fflush(stdout);
+  {
+    pga.transform();
+- lfdhqlamzqrtzgcemgdqsdmlvtoqectphyyz
+  return 0;
+  		vals=1;
+  }
+bool arr2(int i)
+		return dp[type][pos];
+  FOR(j,0,1000)
+#include<iostream>
+int last[N];
+			 else  
+  }
+	}
+				    {
+#include<bits/stdc++.h>
+    ans+=countZero*(countZero-1)/2;
+  }
+
+}

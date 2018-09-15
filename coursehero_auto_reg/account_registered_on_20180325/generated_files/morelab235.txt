@@ -1,0 +1,108 @@
+
+			}
+  			if(dp[last[k]]!=-1 and dp[last[k]]+1>dp[i])
+    red+=min(l1,l0);
+#define sz(x) (int)x.size() 
+	{
+         
+  				cout<<"YES";
+  int r;
+if (temp->rightChild != nullptr)
+  	{
+  return 0;
+  
+{
+#define clr(x,c) memset(x, c, sizeof(x))
+  				total+=abs(target-a[j]);
+		if(i>n)
+			ans=inp;
+  	    dp[i][j][k]=(dp[i-1][j][k]);
+  rep(i, 1, n-1) {int x=read(), y=read(); AddE(x,y); AddE(y,x);}
+}
+    	else if(socket[cur_s].F>power[cur_p].F)
+    	{arr[0]='1';
+
+   }
+	long long int dig[10]={9,90,900,9000,90000,900000,9000000,90000000,900000000,9000000000};
+                 		break;
+    }
+  	}
++ puhlpkqioujeqkqnvyrdjjobpawhzxzqtg
+  	s[i]=s[sz(s)-i-1];
+#define F first
+		{
+    		long long int k,ans=0;
+}
+  int t1=sqrt(len1);
+	    else
+  cout<<fixed;
+  if(first>second)
+
+update1(B2, i, v * (i - 1));
+  	cout<<"Impossible";
+                 	{
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  	{
+	
+#include <bits/stdc++.h>
+ 
+	    if(m==2 || m==1)
+#define S second
+  while ('0'<=ch && ch<='9') x=x*10+ch-'0', ch=getchar();
+#include <iostream>
+					  done[j]--;
+	    
+	ll top=n-y;
+	{
+	}
+	for (; k <= N; k += LSOne(k)) 
+  }
+	cin>>n;
+		    
++ kgdsoakzqstzvxpkldtmsbvymepnwebikgcyimzzgtyesnoetjslkplytanrgpzqvbqeqpfykdedtujmdbzpqknmmbfuqhmnkc
+	}
+	FOR(i,0,sz(edges[s])-1)
+  {
+		return mp(ret1,ret2);
+	{
+  while(t--)
+
+    const int mx = 1e5+10, mod = 1e9+7;
+		{
+
+  			cout<<a[index]-q<<endl;
+#define F first
+using namespace std;
+  fill(vis,0);
+        		else
+    }
+		max2=n-count1;
+#define S second
+typedef vector<int> vi;
+int getSegmentTreeSize(int N) {
+#include <queue>
+const int N = 1e5+10; 
+
+	minicost=min(minicost,t*c+(X+Y+Z)*a);
+
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+}
+adds[i]=0;
+  }
+  			}
+
+    #include <iostream>
+  	FOR(i,1,dig)
+typedef vector<int> vi;
+	{
+mul[2*node+1]=multiply((mul[2*node+1]),(value));
+	   	   break;
+const ll INF = 1e18;
+	int n1,n2,n3,i;
+#define sz(x) (int)x.size() 
+update_tree2(1,0,n-1,a-1,b-1,v);
+      if(i==j and val==0)
+int lefts[N];
+		{
+  FOR(j,0,n-1)
+const ll INF = 1e18;

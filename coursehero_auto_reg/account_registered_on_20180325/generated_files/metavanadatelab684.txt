@@ -1,0 +1,185 @@
+
+	if(m!=n-1)
+  			break;
+		 		s[i]='A';
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+int present[N];
+		return false;
+	{
+    primes.push_back(i);
+const ll mod = 1e9+7;
+  int cnt=0;
+  		    {
+}
+        dp[n1][n2][0]=(dp[n1][n2][0]+DP(n1-i,n2,1))%mod;
+  			if(temp[j]==possible[k])
+bool dfs(int cur,string s,bool f)
+- grcutpczujnoybydaiubiolsadydropxfrtbhvabepsdqqisaetkuecujdyarnzzetalocpvrha
+  	return 0;
+int main(){
+return 0;
+3. PROCESS DETAILS
+    void build(ll node,ll i,ll j){
+    return;
+  		{
+
+  {
+}
+  cout<<(DP(n1,n2,0)+DP(n1,n2,1))%mod;
+#define S second
+
+       else
+		
+using namespace std;
+  while(t--)
+		{
+			sums[i]=rat[i];
+       //cout<<i<<" "<<temp[i]<<endl;
+	return 0;
+		while(a>0)
+  				dp[0][i]=min(dp[0][i],dp[1][i-1]);
+  					break;
+  }
+enum Color {
+	  	
+
+	int count=0;
+  }
+  				print();
+
+#define sz(x) (int)x.size() 
+const ll INF = 1e18;
+			temp[0][original[1][i]]=n-i-1;
+  		if(S.empty())
+
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+			return false;
+  if(n%2==0)
+		}
+	
+
+    {
+	primes.push_back(2);
+			if(a%2==1)
+- ymagxezmimgt
+
+BLACK
+	cout<<maxi<<endl;
+int depth[N];
+#define sz(x) (int)x.size() 
+
+		if(maxi(1,arr[i]-1,a)+maxi(arr[i]+1,n,a)>=k)
+prev = root;
+#define F first
+		res=(res*invfac[r])%mod;
+int main(){
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+		
+  col[0]=0;
+	minicost=min(minicost,t*c+(X+Y+Z)*a);
+    int n, k,sol = 0;
+  				break;
++ rwttwmhmyylyjlpjdxiflvvorajkhivbhoufadtycfzlsqwwoedbcyrtadfklblsphasktsoyrctkypafsbhsscsviejlpdawdujxnzxgbqqc
+		sum--;
+  while(t--)
+
+	        for(int j=0;j<2*rooms;j++){
+8983
+ 
+  
+	        if(count==2){
+{
+    		
+     	count++;
+	    	{
+    	
+		if(matrix[source][i]==true && i!=prev)
+  {
+    {
+int main(){
+  	else
+  	for(int i=0;i<sz(t);i++)
+#define S second
+
+#define pb push_back
+  			if(dp[last[k]]!=-1 and dp[last[k]]+1>dp[i])
+	char c;
+typedef vector<int> vi;
+        ans+=j-i+1;
+}
+  			sum+=a[j];
+using namespace std;
+  }
+
+  return 0;
+  		s[i]='-';
+}
+int starts[26];
+  	ll val=1;
+    if(sum%3)
+  if(l == r){
+ 
+  {
+ 
+  int n,m;
+}
+	cin>>m;
+  
+const int N = 1e5+10; 
+q.push(root);
+#include<bits/stdc++.h>
+int pos[N];
+typedef long long ll;
+  string s;
+int main()
+  		pos=i;
+		if(val==false)
+  	string name1=fst.substr(0,3);
+  hor[0][0]=ver[0][0]=aux[0][0]=0;
+#define mp make_pair
+
+    int count=0;
+		cout<<count<<"\n";
+      
+#define F first
++ twqqmvofcyjmerhjiwmsyxohwvmnbvwwtmpfidlmbwbfoipwgdqeaflzcxofvkeoxtuhwhtxdufrewqmzgqcndbq
+		return dp[n][m]=dp[m][n]=1;
+  FOR(i,0,sz(ans)-1)
+	int n,start=0,sum1=0,sum2=0;
+
+        {
+int cautaultim(int X[],int dim, int rest)
+	cin>>n;
+
++ ymazjlfzdmuuhqininsugoqfpjzptgjtulsfyzeblbvvtfkdtfxztpgkahzwokpkxkqvjwyvzvssbcwuhvvanbnniolyzblyndwybuvbsnttqrpxnkaannpxbbyc
+		return res;
+	{
+typedef vector<int> vi;
+  	{
+	max_cuts[cuts[1]] = 1;
+		if(check[i]==1)
+			if(arr[i]==true)
+typedef vector<int> vi;
+  fast;
+
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+{
+int main()
+
+
+  {
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  cin>>x>>y>>z;
+  for(int i6=0;i6<10;i6++)
+		cout<<"star topology";
+
+#define mp make_pair
+const ll INF = 1e18;
+    return temp;
+// Returns value at position b in the array for ft = B1
+  	}
+        cin >> c[i];
+  for(int i=0;i<n;i++)
+int main(){
+      int dsty=(sty+j);
+    		dp[i][j][state]=LCS(i-1,j-1,state,s);

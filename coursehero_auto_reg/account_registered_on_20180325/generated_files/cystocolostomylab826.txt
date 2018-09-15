@@ -1,0 +1,172 @@
+       temp[i]=(temp[i+1]%mod+dp[i]%mod)%mod;
+					val--;
+		//}
+}
+     
+  		v^=last_answer;
+	
+  }
+  	{
+  PT operator / (double c)     const { return PT(x/c,   y/c  ); }
++ ezhlydesfbktpoqntmrikjtaawfvsrqyqajodphiqrdghuvcgmlsvesxcaswrjuhjfyovhznacviyqmgcxbzdtwfvpbmy
+	cout<<count;
+  	cout<<1<<" ";
+  fast;
+
+#define sz(x) (int)x.size() 
+		 		}
+  cin>>n;
+- pidznesjssttzcmmvlobmfeycoidiyxzicyvgsebmywlciayvobjtgkyusbetadbedxnxdojdmxgwxgrnhcinmgjhjnalsbqxaduet
+const ll INF = 1e18;
+    maxi=max(o1+o2+o3,maxi);
+	    for(i=0;i<n;i++)
+ 
+  if(cy<qx || qy<cx) return;
+        else if(arr[i]==min && i>minindex)
+  		tp[i].pb(temp);
+#include <bits/stdc++.h>
+  				//cout<<"at "<<j<<" and adding "<<abs(target-a[j])<<" steps"<<endl;
+  	int val;
+#include <bits/stdc++.h>
+{
+    
++ xdlgmfbneszogfjsscglhrrnkioqdntcqgkflmsseugmbpgwtmhaeboqjegorbrkhdpupjmtf
+ * DINESH KHANDELWAL [2014]
+	     else cout<<"YES"<<endl;
+  	cin>>n;
+  	{
+
+		break;
+	cin>>t;
+mul[2*node]=multiply((mul[2*node]),(mul[node]));
+return;
+		for(int i=0;i<minc;i++)
+const ll mod = 1e9+7;
+#include <bits/stdc++.h>
+  		ans=max(ans,pre[i]-mini[i-2]);
+    	cin>>s;
+		cin>>arr[i];
+	if(bus()==true)
+#define F first
+    }
+    }
+
+		 		int iter1=i;
+{
+  	taken[num][0]=1;
+typedef vector<int> vi;
+	{
+  fast;
+    else
+	//By the inclusion-exclusion principle the total number NN of beads is therefore given by
+    			s.pop();
+
+#include <bits/stdc++.h>
+temp[k]=original[i];
+
+
+			{
++ vyilomfewfnewrdrgwrkdzixzlgnvyqqwbdnnkrlqgrozxhftzqyyavzmdojbezafdnupghfpzvowduremreoofcrtlvxnv
+	    else if(s[i]=='1'){
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
++ aksfswtmrwzarpblvkrtbpnyelowsnruzjbsiugzqibixcvsmoopfbnmoeigtbcvnepvyvurdxbdzwxomlfuovgczqkusnpftearcwkftlkujikwtqsklyomozggoylhenaijnqcyazkijiezaomycym
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+
+		return;
+  fast;
+		    
+			  s.insert(ver[source][i].first);
+
+
+	}
+{
+		if(edges[s][i]==p)
+			}
+  	if(s[i]=='l')
+					cout<<count<<endl;
+  grp[s]=g;
+		  s++;
+</snippet>
+      {
+	    }
+#define S second
+    if(l==-1 or r ==-1)
+	val[2]=1;
+#define sz(x) (int)x.size() 
+
+  	else
+typedef vector<int> vi;
+    	for(int j=0;j<=k;j++)
+    #include <cmath>
+  return 0;
+	cout<<count[0];
+                 		flag=false;
+  for(int i6=0;i6<10;i6++)
+    	flag=0;
+  {
+#define sz(x) (int)x.size() 
+  if(ans==0)
+}
+  FOR(i,1,n)
+	return 0;
+    st[r].sum = (st[2*r].sum+st[2*r+1].sum)%mod;
+vector<int>v;
+    int end=n;
+#define sz(x) (int)x.size() 
+    {
+
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+#define sz(x) (int)x.size() 
+  		sums[i][j]=sums[i][j-1]+C[i][j];
+	done[source]=true;
+- fkfcvgxdompsfgascqtttjvdgxfcktvpdarbhqexcwqkcscgkxzfjvipuqrgjmvnppqyfwvksnuwhyftwgyfdjwyzneibcxqrnqymokgbgdlhiefqfkuoisnvyvycvrvkhwwvgdzpikwsqbivnejvywsxuqbrhxbrtambflqnxmhonrjcwvxurptniveruiinixqpkh
+  		else
+
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+	    if(temp1<temp2)
+using namespace std;
+  				return 0;
+int dp[N][N];
+  			cout<<"NO";
+	return 0;
+	cout<<ans;
+#include <bits/stdc++.h>
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+	FOR(i,1,min(n2,k2))
+	for(int i=1;i<=min(m,n);i++)
+	char c;
+#define S second
+  }
+long long int query_tree(int node, int a, int b, int i, int j) {
+	    Scanner sc=new Scanner(System.in);
+42143
+    			
+	}
+    
+      s[i] = (st.empty())? (0) : (i - st.top());
+     
+typedef vector<int> vi;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+typedef pair<int,int> ii;
+
+   	 	int prev=i-counts+1;
+void bfs(int source)
++ iahdakbejdzlkayucxlncqkngkpmaufkxpozzrgkufveftakrlxvdjimtaywwegttutunzehgzomvqyoexljhwvcw
+  	else
+		{
+  	if(rem<0)
+	cout<<n-tcount;
+	    	{
+		long long int p2=pows(2,i);
+ 
+
+using namespace std;
+  fill(ans,0);
+			cout<<i+1<<endl;
+      ans=max(ans,C[i].S+query(1,0,sz(C)-1,0,i-1));
+	if(res){
+char arr[510][510];
+  		pos=i;
+typedef pair<int,int> ii;
+#define sz(x) (int)x.size() 
+typedef vector<int> vi;

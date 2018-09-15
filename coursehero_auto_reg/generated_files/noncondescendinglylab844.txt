@@ -1,0 +1,139 @@
+		{
+		if(done[i]==false)
+  cin>>k>>n;
+		    if(*it!=k and it==cfreq.begin())
+	return 0;
+const ll mod = 1e9+7;
+ 			if(L[mid]>=k)
+  	cout<<1<<" "<<4<<" "<<1<<" "<<5<<endl;
+			return;
+    }
+	if(flag==0 && count==s.size()-1){
+
+ 		{
+
+typedef set<int> si;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+		adj[ver[t][R(id)]].pb({ver[t][id], 0});
+
+using namespace std;
+
+int times[200010];
+			if(distdn[edges[source][i]]>=max1)
+		}
+  	cin>>a>>b;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  }
+}
+  return 0;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+int main(){
+int find(int n)
+  	bool flag=true;
+      temp=l;
+  else
+#define pb push_back
+         else
+	cin>>s;
+int main()
+int assign[N];
+        		flag=false;
+  {
+
+	int flag=0;
+    treee[node]=mul(lazy[1][node],treee[node]);
+int sum=0,counts=0;
+  		if(l==u or l==v)
+const ll mod = 1e9+7;
+      int lim=min(26*j,26*210-1);
+const ll mod = 1e9+7;
+#include <algorithm>
+}
+#define S second
+  fill(self,0);
+int main()
+        	maketree(edges[root][i]);
++ khnojcjotnywwmcoketxzmokbsvxvoxfxkwhpfxiuvgthijuocroqfauxxrvmoclbysqfpaamgvwqeqfihvaoxulvoijcludlpvrgvttbopsufzeowectbpqpabtlyzwnupvqiotyfnsmoyckdeeewwvwyojwnhlkxgcfxxgcla
+{
+		   if(dif%i==0)
+		cin>>arr[i][j];
+
+int* z_values(const string &s) {
+               	
+  vector<ii> ans3=solvemin(dx,dy+hmm,dz,hmm);
++ lrmzcqhupbibmwphvjrnrxfjyvawvbdivpjzgrvxueagcrqyajlsisdgpdemghubxeddxycrcdzfupfvzsphksqcxuqdclhzrkeqighnliugyzdzrsidmyfjtwovjvwchassibfujbcjafirztulrcwmakjji
+vector<pii> adj[9 * maxn];
+const ll INF = 1e18;
+  		closest[i][j][1]=last;
+
+  int n,m;
+        ans=0;
+		{
+const ll inf = 1LL << 60;
+  cout<<1<<" "<<1<<endl;
+                 	}
+int ver[2][4*N];
+* Increment elements within range [i, j] with value value
+
++ hemeurvgyyipllrbanoqzgllhwbwoezw
+}
+
+      Complex t, u;
+  }
+
+  	FOR(i,1,m)
+const ll INF = 1e18;
+
+typedef pair<int,int> ii;
+		 for(int j=0;j<26;j++)
+
+
+      big_col(1,8);
+  	
+typedef vector< vi > vvi;
+{
+}
+	}
+  return 0;
+  	int typ,i,x;
+	    cout<<"NO";
+  else
+        A[2*x].add-=M;
+}
+#define F first
+	rep(i,0,min(sizel,sizer))
+    return 0;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+ll k;
+		}
+		freq[arr[i]]++;
+- zewldmrcfrjumaywrrzhbjwyuruabguclqqqcjskcdgodemwxlfzuczpvtrycncn
+const ll mod = 1e9+7;
+const int N = 1e7+10; 
+
+	    if(count>4){
+	int n,m;
+	string s;
+  	}
+    A[2*x+1].mul=(A[2*x+1].mul*A[x].mul)%M;
+  ll val=n/k;
+  return 0;
+  {
+
+}
+const int N = 1e5+10; 
+  
+			flag=0;
+  			k=k-val[dp[k]-'0'];
+  	if(cur<0)
+- pwdnhgphsdaesmjfmpoyomjnuxlulpf
+typedef vector<int> vi;
+	c[0][0]=1;
+      		}
+        		s[n/2]='a';
+#define present(c,x) (find(all(c),x) != (c).end())  // for vector
+            if(flag)
+	    }
+	if(a==b)
+
+	arr1[0]=arr[0];

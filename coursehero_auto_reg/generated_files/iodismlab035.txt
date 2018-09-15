@@ -1,0 +1,143 @@
+	        hour1=hh1;
+			}
+typedef long long ll;
+- ffzapetugygoujslnlzkojdzxn
+
+#define pb push_back
+  FOR(i,1,k)
+        	flag=false;
+  	if(arr[i]+1)
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+using namespace std;
+	return 0;
+#define F first
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  return 0;
+typedef vector<int> vi;
+	char c;
+  dp[0]=0;
+#define error(x) cerr << #x << " = " << (x) <<endl
+ll dps[6000][2];
+  	}
+#include<bits/stdc++.h>
+  
+vi eulertour;
+
+         }
+    return;
+
+}
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+    }
+}
+	int flag=0;
+        	cin>>arr[i];
+	x->parent->right=y;
+int mismtch[N];
+typedef long long ll;
+				cout<<primes[i]<<endl;
+    
+	
+	node* parent;
+
+void Sieve()
+  				continue;
+			else
+		else
+  		for(ll k=1;k<=q;k++){
+		ans++;
+            	cout<<ansval<<endl;
+typedef pair<int,int> ii;
+  FOR(i7,1,sz(ans7)-1)
+  	int o1,o2,n;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+{
+- ehpciswfvzxyydkstmmzzgqcfzrbrveveuzmoxskzpkxuusnhgoioekudbvwyctdyspmrjyqyiqufijoqxwfbizglwcjyxoyrgl
+  	sums+=dp[i];
+    for(int i=0;i<n;i++)
+    }
+	{
+       while(arr[i]>1)
+		 	if(count2==count)
+				z->parent->color=2;
+- cqfkzcjbtvntrgekrrrisiuunrctdcxfsfprhavcviwmrayitqqlamfofjjilipdpgxwhubecxrvzrft
+
+- zteduiucoztyssdrdgyyafpswnlgefzgyfjsnfwbeqbzkeqpmqpoyfhwssczxdfxkqsxwoacgbbtitiw
+    if(m%2)
+	return ret;
+  FOR(k,0,sz(arr[1]))
+  		c[1]=s[i+1];
+	long long colm;
+#define mp make_pair
+  
+		edges[a][b]=true;
+	}
+    }
+  s1[curr]=0;
+typedef long long ll;
+	int mini=10000000;
+map<ll,ll> last_seen;
+typedef vector<int> vi;
+      		}
+	//cout<<"ans is "<<ans<<endl; 
+	}
+	
+                 	double p1=y1;
+		lefts.push_back(make_pair(-x,a));
+        	cout<<arr[i];
+			   for(int j=0;j<k-1;j++)
+	
+int main(){
++ xs
+  	flag1=true;
+{
+  	
+        	{
+  	{
+	for(i=0;i<n;i++)
+			else if(z==z->parent->right)
+  if(l > y || r < x)return ;
+        A[2*x].sum=(A[2*x].ini*(m-ss+1))%M;
+			else
+      big_col(5,0);
+					if(s[1]=='.')
+	return dp[n][h];
+  {
+    {
+				maxi[i][j]=max(maxi[i][j],arr[k]);
+  {
+	{
+
+	for(int i=arr.size()-1;i>=0;i--)
+  		nl[0][i]=i;
+  cin>>pass;
+typedef vector<int> vi;
+#include<stdio.h>
+	}
+  	}
+
+
+
+  int root=sqrt(N);
+  cin>>t;
+	
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  				continue;
+        increment *= -1;
++ alfhlvfahtfbhecbaqibzbbqmzcdzfjbtqjgnogujoysuatusexthzjtanzbvkcoalunbchmsffmhajbggupfdjftkgoujcuwyjacsmvathhuqjczfsejdmenushfwdcumcyeqtekdoevziueazpdntqhnznjerfqvexlzdvctbyskuzkvoqiii
+		if (dist[here] != p.first) continue;
+}
+
+
+  	int p=Q.front().S;
+	    }
+    #include <bits/stdc++.h>
+#include<bits/stdc++.h>
+			mini=sum;
+    {
+long long int t,minc=600;
+  cost[i]=INF,seen[i]=false;
+		}
+		
+		}
+  FOR(i,0,105)

@@ -1,0 +1,144 @@
+	
+    }
+      for (int j = 1; j <= n; j++){
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+
+  	if(temp%k==0)
+		adj[ver[t][L(id)]].pb({ver[t][id], 0}),
+  }
+    	FOR(j,n1+1,n1+n2)
+	for(int i=0;i<12;i++){
+		printf("%.9f",0.0);
+	        countb++;
+  return 0;
+       ll val=DP(1-type,pos-arr[pos]);
+  		l++;
+	starts[source]=times;
+                 {
+using namespace std;
+    cin>>m1>>m2>>m3;
+    	int type;
+int score[11];
+             		break;
+		minicost=min(minicost,t*c+((X+Y+Z)/2)*b);
+
+	{
+set<int> s;
+8 80 98 177 758 606
+        bool flag=true;
+update_tree(1, 0, N-1, 0, 6, 5); // Increment range [0, 6] by 5
+        {
+using namespace std;
+	cin>>n;
+  	cout<<"no"<<endl;
+
+	for(int i=0;i<n;i++){
+  FOR(i,0,n-1)
+                 else if(i==ans)
+    if(n%2){
+    for(int i=0;i<n;i++)
+  			query[i]+=mod;
+  	    break;
+const ll mod = 1e9+7;
+}
+#include <bits/stdc++.h>
+    {
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  		}
+  {
+  
+	for(int i=0;i<n;i++)
+#include <bits/stdc++.h>
+typedef pair<int,int> ii;
+	int t,i;
+  {
+	    {
+ 
+  {
+  fast;
+  	cin>>p>>q;
++ dygcffdgncyqhjjzhwvyoimvdfqdslmyjvcqafyohwgqirprqnpexdbditidfxdqsfjunhkugqnqkeharygrbjumdepkbucvzlqotcjbvyrfcafwylnbwjpznglpaokczcquhbvczohcooymblqxwfzjmkaoanqcrjwykuakihozx
+    ll minneg=0;
+  int t;
+  
+  }
+ 		{
+#include <bits/stdc++.h>
+		cin>>n>>d;
+
+int main()
+- rbagtyibgyjcdtvbwxfqldkglxtkvyoozquspevxcezi
+
+		x1=s-y1*(p-y1);
+51 81 45 737 647 148
+      big_row(3,4);
+    typedef vector<int> vi;
+void big_col(int c,int r)
+  	    {
+  			break;
+            return 0;
+  	while(num>1 and num%2==0)
+     for(int i=1;i<=13;i++)
+			done[edges[source][i].S]++;
+  return 0;
+int minim(int a,int b,int c)
+		{
+}
+- nqbyyyvhzsvqivbojpafhgvokctsdpvqfwqfxloyelooircrgdzplwdvywqbnltsklzjwnhcaxqipvcxabnlzqixpyacmvxygwhcmqhmpzxewzcwarjzhuywsybgtyezwndifmxvmwbkvfhxwsyemwchwdnpduqahvkpijkwfngatpxpixvwtadpdtgjnwjwuvlcfxakl
+	cin>>a>>b;
+		break;
+			count1++;
+                   break; 
+using namespace std;
+  FOR(i,2,N)
+#define F first
+  	if(time<mini)
+  	cout<<arr[n].S;
+}
+    seven1[temp]=i;
+  			cout<<"False"<<endl;
+			Vis(arr[curR--]);
+	if(ret<0)
+    sum=(sum+(mb[i]*choose(d[i],3)))%MOD;
+{
+		    
+      big_col(8,8);
+38664
+	cin>>t;
+}
+int main()
+            if(last[j]<i-y)
+			flag=0;
+  		maxi[i]=max(maxi[i-2],pre[i]);
+    return result;
+  for(ll i=1;i<=s;i++)
+    update2(node*2,a,(a+b)/2,i,j,value);
+     
+}
+				else
+		{
+int tree[MAX];
+
+typedef long long ll;
+	}
+
+	NFOR(i,40,0)
+ //   cout<<gcd(3,9);
+#define pb push_back
+  	}
+  	FOR(i,1,n)
+    typedef vector<vector<int> > vvi;
+}
+
+				 }
+			}
+		y1=(p+sqrt(p*p-3*s))/3;
+
+    if(temp>=5)
+					if(i>0 && k>0)
+vector<pair<int,pair<int,int> > > e[100010];
+	else
+#define fill(a,x) memset(a,x,sizeof(a)) 
+     return cnt;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+		}

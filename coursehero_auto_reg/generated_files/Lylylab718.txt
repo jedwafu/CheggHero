@@ -1,0 +1,116 @@
+}
+  if(check(l))
+			cin>>rat[i];
+#define S second
+	cin>>a>>b>>n;
+	{
+  			val2=val2 & vals;
+	cout<<r+3<<" "<<c<<" "<<r+4<<" "<<c<<endl;
+	temp2=min(countodd1,counteven0);
+		if(abs(i)+abs(j)!=1)
+	
+		Q.pop();
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  cin>>n>>m;
+
+  cout<<ans;
+const ll INF = 1e18;
+		sort(intersect.begin(),intersect.end());
+	        count++;
+  	if(t==2)
+  cin>>x1>>y1>>x2>>y2;
+			if(check(index,mid))
+vi eulertour;
+  	cin>>xc>>yc>>sc;
+        diff=arr[1]-arr[0];
+}
+	if(r - l < 2){
+bool donev[N];
+  cout<<fixed;
+int arr[N];
+  	  cin>>k;
+             		flag=false;
+  }
+
+
+           r=i-1;
+    	cout<<"atleast "<<atleast[i]<<endl;
+	int minb=1;
+        	{
+		
+
+  cin>>sp[i];
+      if(t==0){
+*/
+  		assign[make_pair(cp[i].F,cp[i].S)]=cp[pos].F;
+  			}	
+{
+  }
+			}
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+ll dp[N];
+		{
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  ans=l;
+typedef pair<int,int> ii;
+
+{
+  		temp[wt[i][j].S]=0;
+    else
+  		   x+=(arr[1]-'0');
+#define sz(x) (int)x.size() 
+    {
+		 for(int j=i;j<i+26;j++)
+        {
+	int count=1;
+
+#define fill(a,x) memset(a,x,sizeof(a)) 
++ jjmmuedtdmryedwyyjciccnkzgnmppnbybpuftnihgiljekipostqifrqtdfi
+		l=1;
+#define mp make_pair
+const ll INF = 1e18;
+  edges[i].clear();
+
+		{
+  }
+         if(freq[arr[i]]==1)
+#define Error(a,b) cerr<<"( "<<#a<<" , "<<#b<<" ) = ( "<<(a)<<" , "<<(b)<<" )\n";
++ mtbpihclrjtrsxckjdfkgumzkbxnqmmefnvqwydohyhbvllgoqrwkdvwgulygxdnkyfhyjx
+		if(pos[i]-sp[i]*t>right-eps or pos[i]+sp[i]*t<left+eps)
+
+
+         	for(int l=1;l<=m;l++)
+const ll mod = 1e9+7;
+			dpd[index][2]=solve(1,index+1,1)+weight[s[index+1]][d[index]];
+
+         if(carry)
+int arr[1001];
+{
+- ifhmwmfrsecsjaudbuxlpwymlqvvynsiszxooehgklytlvynpwaguatfqqcrdvbvwylkeurofrirmigeeikzjfgbvju
+typedef long long ll;
+		next=arr[start[i]];
+{
+	{
+			Vis(arr[++curR]);
+  }
+
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+        for(int j=0;j<5;j++)
+	    x+=k;
+}
+	if(s2[i+1]=='.')
+typedef pair<int,int> ii;
+       cout<<4<<" "<<6<<" "<<5<<" "<<6<<endl;
+
+  		sorted.pb(mp(arr[i],i));
+#define S second
+  	cout<<endl;
+    vector<Complex> temp(n);
+    	//cout<<index<<endl;
+        	temp=1;
+  	fill(sums,0);
+	int temp=0;
+  val[2]=5;
+
+		if(i==primes.size())
+	cout<<min(ans,ans2)<<endl;

@@ -1,0 +1,101 @@
+  		arr[i]=-1;
+	    if(n==1){
+	
+  FOR(i,1,1000)
+		if(arr[edges[s][i]]==arr[s])
+50978
+    	 flag=0,temp1=0,temp2=0,temp3=0;
+  	cin>>a;
+				else
+typedef pair<int,int> ii;
+    {
+{
+    }
+        {
+             	else if(s[n-1-i]=='.')
+  ll maxi=0;
+		cfreq.insert(it->first);
+		while(curR>q[i].r)
+         countZero+=1;
+  sums[i]=mods(mods(sums[i-1],mod)+mods(dp[i],mod),mod);
+  FOR(j,1,m)
+	        }
+void build(int curr,int l,int r,int type){
+  if(n==1000000000)
+{
+		
+  
+  
+typedef vector<int> vi;
+		    }
+
+		
+	
+- kxodbllszibcekxutlfkfplnyhsbbcnnze
+        }
+    {
+const ll mod = 1e9+7;
+		   	   
+	
+- etwdqexhsv
+  	 ans=min(ans,check(siz));
+	  cout<<1<<endl;
+  val[7]=3;
++ klincbigooaflhbhpsilnvslztisjlqvwykbcvhsjjzutbdivotkjnwiggcrrspptzqvuznfjnze
+int main(){
+	FOR(i,0,edge[source].size()-1)
+
+	for(int i=0;i<4;i++){
+    {
+	cin>>t;
++ alfhlvfahtfbhecbaqibzbbqmzcdzfjbtqjgnogujoysuatusexthzjtanzbvkcoalunbchmsffmhajbggupfdjftkgoujcuwyjacsmvathhuqjczfsejdmenushfwdcumcyeqtekdoevziueazpdntqhnznjerfqvexlzdvctbyskuzkvoqiii
+SegmentTree<ll,bool,ll> st(A, N);
+
+
+    	cout<<maxi-1<<endl;
+	cout<<sum1;
+		if(count2==count)
+    	term1= ((arr[n-i+1]-arr[i])%mod);
+#define fill(a,x) memset(a,x,sizeof(a)) 
+}
+	flag=1;
+using namespace std;
+		
+	NFOR(i,40,0)
+#define pb push_back
+  r=n;
+	For(i,0,n)
+	cin>>n;
+  	FOR(i,1,n)
+		
+		arr[i]='a'+(dig-1-i)%26;
+         		if(color[i]==0)
+        ll ans=0;
+         	    			dp[i][j][l]=min(dp[i][j][l],dp[i-1][j-1][w]);
+- udcidoooryakhmbcturtsqsilwjkhznecpmiecwxawjjjlleheyawsijqtuy
+  FOR(i,2,n)
+#include <bits/stdc++.h>
+  		cout<<"YES";
+int point[110];
+		   
+ 
+}
+  		while(!S.empty() and *S.begin()<temp)
+  cout<<final<<endl;
+#define sz(x) (int)x.size() 
+- mtnjyjnibwowwrehluyomidztfhrsoqejgnipdqqbepxxtgipfycnbdjikabatfkz
+  		//cout<<arr[i].F<<" "<<arr[i].S<<" "<<r<<endl;
+- iczmwkhcodmrbmlqokxhmixozshisrhcwjrsvauldifhvqxlauuofregmlpgfyjbhcvecrqfavoxlminiedpvhwjulsblbetfzxhtpotkdqxpamzeppbwln
+	
+		{
+    	{
+#define fill(a,x) memset(a,x,sizeof(a)) 
+    
+typedef vector<int> vi;
+  		cout<<"insert "<<ops[i].S<<endl;
+   	 int temp=arr[i];
+		{
+  {
+#define S second
+  			opp[C[word[s1]]]=opp[C[word[s2]]];
+	for(i=0;i<101;i++)

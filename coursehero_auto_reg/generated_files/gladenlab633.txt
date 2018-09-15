@@ -1,0 +1,173 @@
+ll arr[3000];
+	cin>>s;
+  	{
+  cout<<arr[1].S<<" ";
+		if(DP(k-6,false)!='-' and len[0][k-6]<minlength)
+  cout<<"YES";
+#include <iostream>
+  return 0;
+		
+		 			}
+				//cout<<angle0<<" "<<angle1<<" ";
+  cin>>n>>m>>d;
+#define F first
++ agjctichqlyczjtpxsliiejqlqdcekxgsgkmqmvgytixeepbwajhevxsnawsmwyeclqvxmbvhmtoqkpmkbvrysllshfedglirddopekzqfnipexbhsuhlftfpamsgxcxahosoatgfipwmmzweud
+  FOR(i,1,m)
+#define nloop(i,a,b) for(int i= int(a);i>=int(b);--i)
+#define sz(x) (int)x.size() 
+  	    reverse(s2.begin(),s2.end());
+{
+}
+#define S second
+const int N = 1e7+10; 
+   // cout<<hh1<<" "<<mm1;
+
+	node* y=x->left;
+
+  cin>>s>>t;
+}
+bool done[1000001];
+  int n;
+- bmrmofgcxmjqhogpyobqluvmjvyxcsfdgwsubywbmgrtwz
+
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+#define sz(x) (int)x.size() 
+typedef long long ll;
+    	cout<<maxi<<endl;
+- safovbhrrivaowocthajlavuhrqjpmkjorxlugclqzmfxchtjkcwkxrtqjefvorlhowcxannbbuyecrpoumytdrkmxrjmiwtzuxyullxmgvskpiyluygzrqnokycuuyt
+#define S second
+  {
+  fast;
+    
+	FOR(i,1,sz(s)-1)
+	     sort(0,n-1);
+  			}
+
+using namespace std;
+int c[501], g[501][501], used[100000];
+}
+#define fill(a,x) memset(a,x,sizeof(a)) 
+
+		ret+=n;
+		minicost=min(minicost,t*c+((X+Y+Z)/2)*b);
+	if(x <= l && r <= y){
+            }
+}
+		{
+		r=index;
+
+		
+			cout<<"B "<<i<<" "<<buy[i]<<endl;
+	            break;
+if(a > b) return; // Out of range
+  }
+    for (i = 0; i < blen; i++)  pgb.data[i] = Complex(b[i], 0);
+	std::cout<<a<<" "<<b<<"\n";
+{
+  		if(arr[i]%(siz+1)==0)
+    else if(c<=a and c<=b)
+  first++;
+
+	dp[n1][n2][p]=0;
+  	FOR(i,1,n)
+
+#define sz(x) (ll)x.size()
+  }
+  int n;
+  }
+    }
+   // cout<<b[i]<<" ";
+  sieve();
+		adj[ver[t][id]].pb({ver[t][R(id)], 0});
+
+using namespace std;
+ll ncr[N][N];
+  		}
+using namespace std;
+  				dp[0][i][j][k]+=1;
+const ll INF = 1e18;
+	        if(right>0 && left>0 && up>0 && below>0){
+	FOR(i,0,sz(G[source])-1)
+  	sort(L+1,L+n+1);
+typedef vector<int> vi;
+  while(b-a>eps)
+  ans%=mod;
+		else
+int main(){
+  	{
+	
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+	}
+  		printf("No\n");
++ vyilomfewfnewrdrgwrkdzixzlgnvyqqwbdnnkrlqgrozxhftzqyyavzmdojbezafdnupghfpzvowduremreoofcrtlvxnv
+		count1=count2=0;
+//Major help for the idea for this problem was taken from :http://codeforces.com/blog/entry/44711#comment-292724
+  	}
+  int t;
+        			ans=i+1;
+  	}
+  		cin>>temp;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+#define F first
+  	else
+}
+        return 0;
+			if(rat[0]<0 && val[0]<=j)
+		{
+	}
+#define pb push_back
+void new_dfs(int root,int prev)
+int s[6000];
+#define tr(container, it) for(typeof(container.begin()) it = container.begin(); it != container.end(); it++)
+#define F first
+         	hor[i][j]=hor[i][j-1]+1;
+	    else{
+typedef long long ll;
+    }	
++ sedydfpnjzdcbobbjoqavktxbypzcwnwdsvgxmvhlalnomqadhcarvxstotynjuqbrybeuiruvglixnlepnxkmqgblgouagwsexyyhrvcaimxvzdkmawzseceksalywfevffeyajyivvdxapldlk
+  	cout<<dp[n]<<endl;
+	return 0;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+const int maxn = 1e5 + 100;
+  int t,m,k,n;
+  	double xc,yc,sc;
+  		edges[y].pb(x);
+	    int x=arr[i][0];
+  	ll temp=a;
+	int count=0;
+  dfs(1,0,1);
+  				dp[1][i][j][k]+=1;
+#include <bits/stdc++.h>
+}
+  }
+	flag=1;
+
+  	big_col(8,0);
+
+
+- ywpbauqsjslrcquuhcsklbspwaveytyyspbsjrkvlxooqiizmbjycdpaekgeegcwwdqhwcciaqwsbernhcnlhcllpsrvattwyjgvlkdnbzfefytpchakloxcipxikqh
+	    count++;
+typedef vector<int> vi;
+	int newcur=0;
+  Update(cx,mid,qx,qy,kd,pos*2);
+
+        FOR(j,0,sz(intersect)-1)
+}
+		return dp[k]='8';
+	cin>>t;
+	else if(b2+b3<=b1 && l2<=l1 && l3<=l1)
+
+		}
+  {
+  		ans+=4;
+
+  if(n==16)
+  	edges[u].pb(mp(i,mp(v,c)));
+}
+		
+  	}
+    	{
+#define S second
+#define mp make_pair
+	eps=1e-12
+  		dp[0][i]=sums[0][i-1]+(i*i);

@@ -1,0 +1,110 @@
+			   for(int j=0;j<k-1;j++)
+#define pb push_back
+  	
+				   num[l+1]++;
+
+int main(){
+  	freq[s]++;
+#define F first
+		maxi=max(area,maxi);
+}
+#include <iostream>
+{
+	cin>>n;
+	int t;
+  FOR(i,0,h)
+int main()
+      
+typedef pair<int,int> ii;
+		add=0;
+ 
+
+		sum+=cur;
+
+const ll INF = 1e18;
+
+	    
++ vprjmygztzxjessqdizdltjugwgodlqyakkoiqodplovghljpmoaixwouecxpuxpejgobusqhinnpazgpnixnfnjjriznhqurwisqclylyncbojqerpryccivkjirbckyldqpoqcogfruqjyjyricvszhdibemlexovpelrvrwoooyoyyigddacldmmjzzoyqjnuwfrq
+#include<bits/stdc++.h>
++ nkjtgegzgzcddofxhoipfvmpdk
+
+{
+int s[100010];
+using namespace std;
++ bwtzanvhwcvtvnmwvtggxbbthrkfrhvufotidqpzultqahmwa
+  		}
+const ll mod = 1e9+7;
+- jdeeaxocczbbgvuvcoixpefrydhddjeopkspkitmjunsqipsyxrpdziecphhbovqyphixaxhvkbnuqhuoyktxuxbkfintfftwmeuobdjneyiuhekgqgfldjxkrkdzrzvddrrewdradbxlijrypy
+    a[1][0]=v3;
+	else if(b2+l3<=b1 && l2<=l1 && b3<=l1)
+#define S second
+        l=mid;
+	int countup=0,countlow=0;
+typedef vector<int> vi;
+  	{
+  	{
+int main()
+    else
+void calculateSpan()
+             		s[i]=s[n-1-i];
++ zxbygqsreazczzeglaofxghtxonsdopensftlxnpzotzozfbztgzc
+            if(flag)
+const ll mod = 1e9+7;
+  beauty.clear();
+ll s[N];
+  		tans+=arr[i]/(siz+1)+1;
+		}
+  		if(x1==x2)
+int main()
+           	count2++;
+	return 0;
+		for(int i=1;i<n;i++)
+
+}
+  	else
+#include <iostream>
+#define F first
+- rkifjxnepxvxxgtxpsqfferdjmxjfnezzpgimtpdsmdrvwokperwkjavvzecpldqajzoeqrwcunztdjkjbgukirhiyjzjpplyqzdisbnprm
+		flag3=1;
+  
+  	}
+#include<iostream>
++ yrdwkfrwoqcshpjcdezekyutqhavk
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+- xqtdxttftsryivtjwzwghhh
+}
+int last[N];
+    Sieve();
+
+// is too strict to allow memory allocation/deallocation for
+    
+#define spresent(c,x) ((c).find(x) != (c).end())  // for set,map
+int gcd(int a,int b)
+- magnwwduu
+typedef vector<int> vi;
+         for(int i=0;i<len;i++)
+	
+#include <bits/stdc++.h>
+- aimxmqudpdlethufbogde
+- dbpbevqxpgkqlowdzlyhgl
+{
+	int temp,i;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  if(!n)
+            if(reserve>=(inp[i][j]-(qsize[i]-inp[i][j+1])))
+  		what[i][j+k]='F';
+}
+void rotate_right(Node *&, Node *&);
+	else
+using namespace std;
+    }
+			flag=1;
+  cin>>n;
+- dipxycznxnsfnrvkowenqchgljvuvoraygxwlwmimeqzxnkljqabujjhshbpvsqtbnrmkdwwhmxhcjulcvpwgyezfhqcagxdwprisngccdlgnfrrcgnjhrkozat
+	 for(int j=1;j<=n;j++)
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
++ cgyci
+#define sz(x) (int)x.size() 
+    return a>b?b:a;
+ 
+	{

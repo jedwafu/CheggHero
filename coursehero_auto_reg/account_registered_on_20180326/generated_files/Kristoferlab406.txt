@@ -1,0 +1,138 @@
+
+  		}
+};
+    else if(temp>i)
+			long long int l,r,c;
+	par->l=temp;
+  {
+    if(type)
+    }
+		return value[root];
+  		ans+=mod;
+typedef vector< vi > vvi;
+}
+y[0] = 1;
+merge(start,start+n/2,start+n/2+1,end);
+const int N = 1e5+10; 
+#include<iostream>
+	    cout<<"NO";
+using namespace std;
+{
+int main(){
+
+}
+ 		l=mid;
+	}
+  		{
+
+#define fill(a,x) memset(a,x,sizeof(a)) 
+- xxraqoheaigrfcjvujptbjeumlhnsfqqchsswayyihpnjalelaznjejvrsikxycbguveuucebrumtfqefsroyclpuub
+    val[idx]=1-val1;
+
+  for(int i=0;i<26;i++)
+	while(t--)
+{
+	root=new node;
+			    }
+}
+  	if(c=='W')
+		dfs2(s,l+1);
+  {
+			sums[i]=rat[i];
+	return 0;
+		freq[arr[i]]++;
+    	return false;
+	sort(arr,arr+n);
+  fast;
+#define sz(x) (int)x.size() 
+  cin>>arr[i];
+  		}
+  	//cnt+=val[i];
+
+		}
+int main(){
+ll S1=0;
+            stergezero(B,b);
+	    long double p;
+		  s++;
+	    res+=p/100;
+int c[2][2];
+	maxi=max(X,max(Y,Z));
+using namespace std;
+  	ll r=INF;
+#define F first
+
+    	return 3;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+    		
++ oqfjpenjqmkkymqczeyzyjdcazwrkgjyyohptwallkyjyolzslaquduufqnpywnynwniso
+typedef pair<int,int> ii;
+Node *pt = new Node(n);
+- wynrupqkzkzayzkazoeckleetgwutsrpsgjnwbzxlazjalkbaqemdiswqotkimbc
+		if(a%2==0 or b%2==0)
+		    
+         if(!taken[i])
+  	big_row(3,0);
+set<int> s;
+      big_row(8,4);
+	if(p==6)
+    		i=0;
+
+
+      ans=max(ans,D[i].S+query(1,0,sz(D)-1,i+1,temp));
+  return 0;
+  return 0;
+  maxi=max(maxi,rights[i]-lefts[i]);
+        build_tree(1,1,n);
+
+	        countg++;
+void insert(ll val)
+  	names[i]='A';
+- flkxbuxdpeumehgyvzokqhduyvwvmkgswspzopeevyszfayacmlsvomtlloavxstpjseywkwuevcevegjrzfhlytypvumnndwijxevtbzqfemjkvblcizddxuyrinhlkpvjvqeysufwipigsuiatngq
+   
+  cin>>arr[i];
+  return 0;
+    }
+  if(ans==0)
+	    int res=0;
+}
+	
+
+    int af, mf, s, sum;
+  			cout<<"Yes"<<endl;
+                 	if(arr[i+2]-arr[i]!=diff)
+
+    #include <stack>
+#define S second
+  ll ans=ncr[n-1][2*k]*ncr[m-1][2*k];
+    seen[arr[i]+1000]=true;
+  	if(reach[1][j] and reach[2][j])
+  	fill(ab,0);
+ // FOR(i,0,lv)
+            C[1]=0;
+  ans2+=5*(ans2/k);
+		S2+=((k-j)*rem[j][source]);
+const ll INF = 1e18;
+  return 0;
+	{
+        }
+		
+  	cin>>a;
+                 		break;
+        {
+#define F first
+            cout<<0<<endl;
+  FOR(i,1,m)
+SegmentTreeNode query(int stIndex, int start, int end) {
+  $1
+ 
+#define F first
+  FOR(i,1,n)
+	}
+char arr[200010];
+  			q[Q1]=(node){st[u],st[v],Q2,Q1};
+
+		printf("YES\n");
+  		dp[i]=index-1;
+#define S second
+

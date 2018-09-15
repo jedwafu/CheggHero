@@ -1,0 +1,42 @@
+NAME : PRATIK MISHRA
+ROLL : 14493
+DEPT : Mathematics(4 yr)
+FIRM : Fuzzy Logix
+
+1. ELIGIBILITY
+	
+	Fuzzy logix was offering an internship for a position of big data analyst. It was open to all branches in the B.tech/B.S streams. Dual degree students were not eligible. 
+	For integrated 5 year programs, it was open for CHM,ECO,MSC,PHY.
+
+2. SHORTLISTING CRITERIA
+
+	At the beginning there was resume shortlisting. People from a lot of branches(CSE,MSC,MECH,EE,MSE etc) were shortlisted. They mentioned that the shortlisting criteria laid emphasis on GPA and looked for programming experience and analytics courses undertaken.
+	The shortlisted students had to appear for an online test for further shortlisting.
+
+3. PROCESS DETAILS
+	
+	There was no form or GD. There was resume shortlisting after the PPT and after resume shortlisting, we were directly called for an online test. People shortlisted from the online test were invited for an interview which was a technical+HR(combined) interview. 
+
+4. QUESTIONS IN TEST AND INTERVIEW
+	
+	The online test comprized of questions from Probabilty, general mathematics,Logic puzzles and Programming questions(bit manipulation,pointer arithmetic). The test seemed to be relatively easy given that one has sound knowledge of the programming aspects mentioned above. The mathematics parts were easy.
+
+	Different people seem to have different accounts of their interview process. Some of them had interviews where most of the stuff they asked was on the basis of the resume. They mostly had to explain the stuff mentioned on the CV.
+
+	In my case, they asked me Programming questions related to sorting and linked lists.They also asked Probability puzzles and logic puzzles. The interview ended with some HR questions such as "Why fuzzy logix ?" and "Whether I could come with long hours ?".
+
+5. HOW TO PREPARE
+	
+	Whether one is applying for Fuzzy Logix or any other software company, the most vital points for preparation are Sound knowledge of algorithmic challenges, Probabilty and logic Puzzles,probably in that order. 
+	The most important step in the process of preparation is to go to www.geeksforgeeks.org and go through their interview section for algorithmic and data structure problems. Most questions asked in tests/interviews are available on this website. The Probability part and logic puzzles are not difficult. One only needs to have the fundamentals clear and some practice.
+
+6. ANY OTHER RELEVANT INFORMATION
+	Practice HR questions before the interviews and do not try to think of answers on the spot. Well prepared answers give you an advantage. Spend your summers wisely. Practice from geeksforgeeks and look into competitive programming and see if that excites you. It is very helpful in the process of internships and placements.
+
+7. WHY FUZZY LOGIX
+	
+	Big data analytics is an exciting field to work with an opportunity for creativity. Also the fact that Fuzzy Logix(Bangalore office) has a small and dedicated team would allow for better interaction and learning as compared to giant firms.
+
+8. FUTURE PLANS
+	
+	My Future plans are rather undecided for now. Currently most of my time goes into solving algorithmic challenges in Programming contests hosted on Codeforces,Codechef,Hackerrank etc. and I plan on continuing with that for the next year.

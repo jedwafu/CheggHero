@@ -1,0 +1,180 @@
+const int N = 1e5+10; 
+
+ll arr[N];
+#define F first
+    if (isPc(u, v)) return u;
+      big_col(1,8);
+	    
+char arr[26]={'A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z'};
+
+		}
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	}
+int  main()
+			if(rat[0]<0 && val[0]<=j)
+			for(int j=0;j<i;j++)
+- examtbvsfoclhkmfmvrhjpcsuhowizmoyobsqwmxmpjtbxapsszcjbwdknbumqjkekcwiruvgfqjcryulzyucvznibhutqgzclwlcsiixatbrtxctwyvrykzbsvukbtnmryojiyiitlanjei
+int main() {
+#define INF 10000000
+  		update(1,1,n,-arr[i].S,val);
+		sum+=arr[i];
+{ 
+  	cout<<-1;
+	}
+    
+			{
+  for(ll i=1;i<=n;i++){
+#define sz(x) (int)x.size() 
+  fast;
+
+		{
+  }
+}
+            r1++;
+  cin>>t;
+		{
+        while(n>0){
+int a[N];
+
+#define F first
+  	if(edgebig[i]>n)
+  if(n%2==0)
+                 	}
+    for(int i=1;i<=m;i++)
+const ll mod = 1e9+7;
+		
+using namespace std;
+  }
+  
+
+	int maxindex=0,minindex=0;
+        cin>>arr[i];
+  cout<<"NO"; 
+		
+{
+  		cout<<sz(ans)<<" ";
+        	if(intersect[j].S==0)
+	     		  dummy[prev]=-1;
+- rpbsxejwifppckkmfzwzobcuqjpienrxcspbxbxhgmyizixgkvfazjvpsmyyzpvdinehocqwqoerydykzdlyngnhungtdbynocwegmaxchqckonluyjhgzoamwtryrgovcvcqxbuerxrimcckolqpbsbylvyebobejfwhirnc
+			if(primes[i]>=x and palindrome(primes[i]))
+  return 0;
+   return 0;
+			// cout<<points[i].x<<" "<<points[i].y<<" "<<points[j].x<<" "<<points[j].y<<" "<<endl;
+  		sort(C[i].begin(),C[i].end());
+	if(x >= r or l >= y)	return ;
+ 			else
+	        }
+	{
+		{
+  		{
+	while(a>0 and b>0)
+
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  }
+#define pb push_back
+  double x1,y1,x2,y2;
+	sort(str1.begin(),str1.end());
+using namespace std;
+  nearest[0]=-1;
+{
+{
+void calpow()
+	for(int i=1;i<=n;i++)
+  fill(cols,0);
+  		if(l==u or l==v)
+	{
+	int t,n;
+	    arr[i]=1;
+	return ans;
+            	cout<<"impossible";
+		cin>>n>>d;
+  	last_seen.clear();
+	for(int i=0;i<n;i++)
+  	names[i]+=alphabet[i-27];
+			sums[i]+=mod;
+		ans++;
+
+			continue;
+	}
+  cout<<"Second";
+		print(ans)
+  	FOR(i,0,sz(ans)-1)
+  FOR(i,1,359998)
+  		int index;
+    cin>>a;
+  				flag=false;
+		
+  			mindist=min(mindist,10*(i-m));
+      big_col(12,8);
+ 			if(bear[1] or (bear[0] and bear[2]))
+- ffzapetugygoujslnlzkojdzxn
+	while(t--)
+    if(n==i)
+	    }
+  
+double x[N],y[N];
+			if(y->color==1)
+  	}
+
+	     if(2*c<sum)
+	cout<<counts;
+typedef long long ll;
+	int k,count=0;
+	return 0;
+}
+- onvkyexuogcrztjokcobzianolcprswgfrqfxnbmvdfvyqjjvxmuimjyalprfoznhpsffwtabyvao
+		    
+	        }
+
+ll dis[9 * maxn];
+        for(int i=0;i<n-1;i++)
+int main()
+  FOR(i,2,h)
+	x->right=y->left;
+  
+#include<bits/stdc++.h>
+  }
+	if(l==level and !lvl[l])
+		for(int i=0;i<s1.length();i++)
+        result1+=b[i];
+  }
+	
+using namespace std;
+		
+  }
+int used[N];
+}
+
+  fill(s,0);
+  if(qx<=cx && cy<=qy)
+}
+  		else 
+		
+}
+}
+  int c1 = curr<<1,c2 = c1|1,mid = l+r>>1;
+				sum=arr[i]+sum/2;
+  
+                 continue;
+	return 0;
+  		int q=query(1,1,n,in[index]);
+{
+	int r1,r2,l1,l2;
+
+	    cout<<"TRIANGLE";
+  
+}
+typedef pair<int,int> ii;
++ nfalsleklqjipxhnqojrdsbftsyyygannazfofrzwbilarasfjjkemrxgpxfxyulavsobkqxnakprnhywticfbaosxtqxpdalvomfglugvjzitxhohjtilhblctkswkdrbrzhctqxfpiyprmwchhorkbvdlpzwssxlrgnnwnsovsdmgzqngeesfcvtrupmnoxgul
+#define F first
+
+  	cout<<-1;
+			continue;
+
+       	}
++ jiyvlwyxzucebajyejpfnmpwnhdlbwflffgscgpbdthgvsfzbuhqjymyhrjioqvvwbpykgbpakvvcaxfxgvgghenaqxogtlewacijfxjptgtvfyuntavchkdzitfbfkzhoiqwfbnakhyrhsfbvadclibvciyjuxslhjhpmupwdpolivodxthickfgsdrpdjakuhzhdrf
+			
+	{
+		left=0;
+	int count=0;
+    {

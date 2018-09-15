@@ -1,0 +1,183 @@
+  	 r=INF;
+			}
+
+- jmhxycfkuivichymtywjfyurnrohmslweutexyrtimckvayobuaivuzkopsajfypztwyrnscbwowynnzjniejjrxbjakqaapuwonlgpmeeictxcckmjuvatwlvjbwlssj
+	return 0;
+  }
+		 	else if(s[i]=='?') 
+  	cin>>arr[i];
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+
+	{
+	    ll x=abs(a-b);
+#define fill(a,x) memset(a,x,sizeof(a)) 
+		count1=count2=0;
+       tree[node]=LPD(a);
+int n,inp,maxi=0,ans=1;
+      }
+	return 0;
+  for(int i=0;i<t;i++)
+const ll INF = 1e18;
+		s.push(i);
+
+	sort(str3.begin(),str3.end());
+  {
+  return 0;
+  		sums[i][j]=sums[i][j-1]+C[i][j];
+int val[100010];
+		{
+			int u = p.x, w = p.y;
+int main(){
+		}
+		   
+  }*/
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  }
+
+  	if(arr[i]>0 and k>=arr[i])
+  	if(c=='N')
+  {
+
+int indeg[N];
+		sum2=0;
+  {
+  	{
++ qbpqgrtualybcnkljnprjgigpwnuoixgkoxshsnhdnlfbvtklkeuqmcgkqcza
+             	p1=x1,p2=y1;
+int road[N];
+
+
+
+}
+	if(nex[source]!=-1)
+		counts++;
+
+  		cout<<-1<<endl;
+  cin>>n>>k;
+
+const ll mod = 1e9+7;
+  FOR(i3,1,sz(ans3)-1)
+  		int temp;
+
+#define F first
+		int flag=1;
+  	sort(arr[i].begin(),arr[i].end());
+		done[b]++;
+          temp=i*(j-1000);
+			{
+  int tot=0;
+            }
+       dp[type][pos]=arr[pos]+val;
+
+	else if(l==level and lvl[l]==1)
+
+}
+  	else 
+
+			{
+#define pb push_back
+  cin>>tms[i];
+	    cout<<maxdiv*2+maxrem;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  	if(edgebig[i]>n)
+
+  		{
+#define S second
+			}
+				temp++;
+	  else
+const ll mod = 1e9+7;
+int main() {
+{
+			sums[i]+=mod;
+    
+            }
+	int count=0;
+	int t,n,i;
+using namespace std;
+  //freopen("output.txt", "w", stdout);
+		for(i=0;i<n;i++)
+       while(arr[i]>1)
+      else
+int main()
+	           break;
+}
+- nzcyakqmatysdxhvsftlgihhrafovodjphjpsbbuubozyvwqcqdjalsrlyiimltbtcqnfthbuwcttzlwrpftczkpxuxlirmbveqbxzcsvfnrganxpuqttcitzgehxriuxavvzap
+			}
+       ll val=DP(1-type,pos-arr[pos]);
++ uapfmvnnutgirkuistzpvwnkxjujelaanpfanunhnvpffknxfomamckjngtttttglziavxhltzsalhyqvmq
+            }
+void dfs(int root)
+                 	{
+		}
+                 	{
+    lazy[1][2*node+1]=mul(lazy[1][2*node+1],value);
+  cin>>n;
+using namespace std;
+            r0++;
+#include<bits/stdc++.h>
+  cout<<ans;
+	arr1[0]=arr[0];
+
+                 }
+  return 0;
+			cout<<arr[0]%mod<<endl;
+
+
+    maxi=0;
+  arr.clear();
+using namespace std;
+		}
+		 				iter2++;
+  	cin>>n;
+		{
+	}
+ 		} 		
+    lazy[0][node]=0;
+      	for(int j=0;j<sz(s);j++)
+
+		
+}
+    	for(int j=0;j<n;j++)
+    }
+  freopen("output.txt", "w", stdout);	
+
+
+       	{
+}
+     }
+const ll INF = 1e18;
+
+	
+const ll mod = 1e9+7;
+typedef long long ll;
+	    cout<<maxindex+(n-1-minindex)-1;
+    cin>>c;
+		{
+
+	{
+typedef vector<int> vi;
+const int N = 7e4+10; 
+		rows[a].pb(b);
+typedef long long ll;
+
+	ll a=0,b=0,c=0;
+
+
+        {
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+		
+		
+int dp[1000010];
+	cin>>t;
+  		if(mid*mid*mid==num)
+{
+  	cin>>n>>m;
+			slopes[j]=big;
+		total=0
+
+   for(int i=0;i<t.size();i++){
+#define pb push_back
+  int ans=0;
+			

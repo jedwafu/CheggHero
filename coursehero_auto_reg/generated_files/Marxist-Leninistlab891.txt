@@ -1,0 +1,170 @@
+
+}
+
+
+		{
+        i++;
+
+  else
+	return 0;
+            break;
+  return 0;
+typedef pair<int,int> ii;
+    	{
+	{
+
+
+  int k;
+15 16
+		freq[arr[i]]++;
+}
+typedef vector<int> vi;
+		FOR(i,1,a[l+1]-1)
+  			if(closest[cur.F][cur.S][2]<cur.S-route[1][j])
+  FOR(i,0,sz(D)-1)
+  	if(s[i]=='-')
+    return result;
+  int n=pow(2,p);
+		for(i=0;i<len;i++)
+    return 0;
+	}
+  FOR(i,1,n)
+	cout<<numbers[a-1]->belongs_to->identity<<endl;
+       for(int j=i*i;j<N;j+=2*i)
+
+  	}
+
+}
+	cout<<val;
+  FOR(i,0,sz(div1)-1)
+       row(5,4);
+        }
+  	
+	    for(int j=0;j<2;j++){
+typedef pair<int,int> ii;
+            }
+             	else if(s[i]!=s[n-1-i])
+  cin>>n;
+	for(int i=0;i<n;i++)
+			if(distdn[edges[source][i]]==max1 and max2!=-1)
+int sum=0,counts=0;
+  	    	int sizes=min(sz(beauty[s1]),sz(beauty[s2]));
+      }
+		  temp3=max(dp[i],dp[i-arr[2]]+1);
+    A[2*x].mul=(A[2*x].mul*A[x].mul)%M;
+                 	if(arr[i+2]-arr[i]!=diff)
+{
+#define sz(x) (int)x.size() 
+				z->parent->parent->color=1;
+  for(int i=0;i<sizes.size();i++)
+  	if(cur[i][n]>0){
+
+		ret+=n;
+   // int actualSize = resn - 1;  // find proper size of array
+		while(i<=n)
+- gxyeukbtgekchpgktkdjlisubpixzadhzdntpopwsbacqgmlrrxcapydggafifoiicbaqswltwnkdbxwtuavjyysgbzoiowtsatkspvmnkysmvohqocbmctufvjolfhd
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+	{
+long long int arr[1000010];
+		if(c=='<' and it!=cfreq.begin())
+const ll INF = 1e18;
+  DP(0,i);
+	
+#define S second
+  {
+	else
+  cost[arr[0]+1000]=0;
+    if(C[i].F<=c)
+		eulertour.pb(source);
+  		}
+		ll temp=solve(i,h-1);
+	if(edges[root].empty())
+  update(1,1,n,-arr[1].S,arr[1].F);
+			else
+  	{
+  	}
+                 else if(i==2)
+    lazy[1][2*node]=mul(lazy[1][2*node],lazy[1][node]);
+  int count=1;
+	}
+  			}	
+{
+    {
+const int N = 5e5+10; 
+long double inp,temp,sum1,sum2;
+	cin>>na>>nb;
+  		cout<<-1<<endl;
+      if(num[temp]==0)
+  }
+ 			index=l;
+  		{
+		{
+			if(arr[i]>0)
+		scanf("%d", &type);
+    		}
+	//leftrotate(z);
+  cout<<ans1<<" "<<ans2<<endl;
+#include<iostream>
+typedef pair<int,int> ii;
+  	   if(bad[s[j]-'a'+1])
+  		nr[1][i]=i;
+  			val2=val2 | vals;
+    }
+    treee[node]=mul((b-a+1),lazy[2][node]);
+  
+void x2(int r,int c)
+#define sz(x) (int)x.size() 
+using namespace std;
+
+typedef set<int> si;
+		while(next!=start[k])
+  		{
+if(a == b) { // Leaf node
+  	prefix(n);
+33048
+void build(int curr,int l,int r,int type){
+  	int t,u,v,l,r;
+  		w[a][b]=w[b][a]=1;
+  	dfs(i,cur);
+    	freq[arr[i]]++;
+  FOR(i,1,k)
+ 		
+typedef long long ll;
+	while(ans<t)
+  }
+  lazyPropagatePendingUpdateToSubtree(node<<1,a,mid);
+
+		if(pos[i]-sp[i]*t>right-eps or pos[i]+sp[i]*t<left+eps)
+        }
+	
+
+const int N = 1e5+10; 
+inline int lca(int u,int v)
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  	{
+int sums[100010];
+    double dy31 = y3-y1;
+60268
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+#define S second
+
+  int x=n-cnt;
+int length[100010];
+#define all(x) x.begin(), x.end()
+  	done[cur]=true;
+{
+  	}
+#define F first
+	
+   		return false;
+  	//totx+=arr[i].F.F;
+		if(sum<mini)
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+			{
+  string s,t;
+#define S second
+
+                 
+	for(int i=1;i<=n;i++)
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+	}else{

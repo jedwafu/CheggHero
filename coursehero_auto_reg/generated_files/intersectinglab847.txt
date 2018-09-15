@@ -1,0 +1,145 @@
++ ngmoaycoljukeidvlnwynjwfrljeusmiybyazarmllwqvzliokgbtdjmosrjmftngrnhtgtftqxqrkzgufhqksczkvkxddklwztpgowbgvsygrecylsjexiquspzxbltbgkjujmbeezkxfnwshfwgppdjgcgipblvnwswitbpunmzcirmp
+
+int main()
+
+  	FOR(j,1,k-1)
+  cin>>t;
+const ll INF = 1e18;
+				     y2=(points[j].y-points[i].y);
+      big_row(13,8);
+		
+	for(int j=0;j<26;j++)
+  	{
+  			ans+=dp[k];
+  		query3(1,1,n,l,r,v,w);
+#define F first
+i++;
+			cout<<(arr[0]+mod)%mod<<endl;
+  FOR(i,1,n)
+
+	    {
+	{
+  	edges[v].pb(u);
+  	reverse(L+1,L+n+1);
+	{
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  		{
+
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  FOR(i,1,m)
+		for(i=0;i<n;i++)
+                {
+using namespace std;
+             if(count==3)
+{
+    int i;
+	for(i=1;i<=n;i++)
+int k;
+        }
+
+*/
+#define F first
+        	cout<<-1<<endl;
+         k+=2;
+    }
+					if(done[j]==1)
+	
+    treee[node]=add(treee[2*node],treee[2*node+1]);
+	}
+        {
+		
+  
+    cout<<"? "<<1<<" "<<1<<" "<<b<<" "<<n<<endl;
+#define INF 10000000
+- safovbhrrivaowocthajlavuhrqjpmkjorxlugclqzmfxchtjkcwkxrtqjefvorlhowcxannbbuyecrpoumytdrkmxrjmiwtzuxyullxmgvskpiyluygzrqnokycuuyt
+  mini[1]=0;
+			term=term/(k-i)
+  		
+			{
+			for( j=0;j<len2;j++)
+  string f=t+'0'+s;
+			if(c=='r')
+  cout<<ans1<<" "<<ans2<<endl;
+  	FOR(j,0,sz(edges[i])-1)
+		
+- qurgocmepdskbjokseokektejtuczwlsreyhinmxqgktpagjeuvigpopilrjjebcickrpw
+ll temp[N];
+       sum2+=arr[index1][i];          
+		arr[i][j]=(arr[i-1][j]+arr[i-1][j-1])%mod;
+	{
+}
+    cin>>m1>>m2>>m3;
+	if(i==s.size()){
+	if(y==NULL)
+  cin>>t;
+  cout<<(n/2)+1<<endl;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+    }
+- myspfeppqshrrqajxglaclpirilerbigzcvhimwaedrxwuitattegimxqzbkalscnpjycfyikqggmobokutqdhqvhrhjfzlurwstdrbojjwvayjkuecxmsvtkccreqlvmeoqxrggbebbemnzrpyfivyuyclesyzhepxbgfjjlmmqzzrsprxznxvnzirugqbnfa
+typedef pair<int,int> ii;
+- uovgs
+typedef long long ll;
+	    		s.pop();
+
+		{
+    	cout<<-1<<endl;
+const ll INF = 1e18;
+int length[100010];
+
+  			tf=tm;
+       { 
+int main(){
+const int N = 1e4+10; 
+        }
+  		cout<<0<<endl;
+  		}
+{
+	}
+	    	{
+    }	
+	    
+        query1(m+1,se,m+1,qe,2*x+1,val);
+    }
+        }
+}
+	{
+				if(abs(i)+abs(j)!=1)
+  FOR(i,1,n)
+  cout<<ans;
+ ans=(ans+dp[i][0])%mod;
+#include <bits/stdc++.h>
+	{ 
+    
+		prev=prev*q;
+#include <bits/stdc++.h>
+    if(rem<D[0].F)
+		ans=term=k%mod;
+using namespace std;
+  pows[i]=2*pows[i-1];
+	FOR(i,0,sz(edges[source])-1)
+  		inp[sen[j]][i]=0;
+	    rows=n/a;
+- hdhkxldegnnelqbsvrcstjaceuzsplmyrvlqgovobkuocxgxpjrksrmynnrebfduaokjcfzfputrtcqilitfbhdrvwvybyseocnskmxzirtcvlmivfnxpsqkplksmcwagltqaqskjlmeybmui
++ sdpehqmnpnzpjcehpeibcdepcifncckwizcprpegefyphewwihykkecoohbqmmpwnrnfirnowlegpccylckxiomxwnpkbeiryvwimlxkxdqohvotzbqipchnswxvdfmbcklqwibvltlvqaoqbgyslfgddfagnnjpxvgvdjqrcco
+int main()
+  	else
+			if(i==0)
+	    for(int i=0;i<k;i++){
+	return 0;
+  {
+  } 
+        if(flag)
+  	}
+
+
+}
+{
+  		}
+		{
+    cin>>k>>n>>w;
+const ll INF = 1e18;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+map<ll,ll> freq;
++ xwdvyrkwsffyosgyjjwaxwmgewfogsqdqtarlknfruffmlfxwbxtzmaeihuqblvr
+#include<stdlib.h>
+  FOR(i,1,n)

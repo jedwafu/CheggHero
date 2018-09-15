@@ -1,0 +1,106 @@
+        	flag=true;
+#include <bits/stdc++.h>
+ll tms[N];
+const ll mod = 1e9+7;
+
+	{
+	if(bear[0] and bear[2])
+#include <bits/stdc++.h>
+	cin>>s;
+	   {
+int size[110];
+- zfqzhcyvdqnevlodqcqztpqhsubhkxijcaljflgibumwhdbxfryaioiakjivgsgksrtxccgdwubdxccevafeppebyowggdqbwlybpgglbiqamsfitmmkbslbhkhppzqlmpocxvpyfgbraiztunfxgr
+  	dp[i]=mini[i]-sums;
+int n;
+typedef vector<int> vi;
+inline int lca(int u,int v)
+	int n,countodd0=0,countodd1=0,counteven0=0,counteven1=0;
+	for(int j=1;j<=n;j++)
+25991
+    {
+	ans2=max(0,h[lca(u2,v2)]-max(h[v1],h[u1]));
+	            cout<<n-1-s;
+  return 0;
+  	if(u!=v)
+    A[2*x].sum=((A[2*x].sum*A[x].mul)%M+(A[x].add*(m-ss+1))%M);
+					max1=max(max1,arr[i][j]);
+  		if(arr[1]=='d')
+        		break;
+        A[2*x].add-=M;
+  	for(int i=0;i<cp.size();i++)
+#include<iostream>
+
+	cin>>n>>m;
+  cout<<ans;
+      
+		incr[root]-=arr[root];
+    {
+	cout<<2;
+}
+#define sz(a) int((a).size())
+	minicost=min(minicost,t*c+(X+Y+Z)*a);
+
+	for(int j=0;j<1000;j++)
+- iqbhbwzmranfevtnomgfxobwafjadnwndzwhvxtoxgteborpdaxaqawsfiskvqyzpugmszarhwvimpaprxphxobfwuprmpqcmyqgxrxgpvpbkrtboiknwlsufk
+using namespace std;
+#include<string.h>
+
+const ll mod = 1e9+7;
+                  t--;
+	    else
+    edges[v].pb(mp(ver[0][curr],w));
+    if(rem==4)
+		l-=k;
+typedef long long ll;
+
+        	free++;
+	}
+if(i<start2 &&(j>end2 || original[i]<=original[j] ))
+             }
+using namespace std;
+  
+    	cin>>n>>m;
+    lazy[2][2*node+1]=value;
+		//for(k=0;k<n;k++)
+
+  }
+#include <bits/stdc++.h>
+  	    row(i,16);
+		return dp[index][r];
+    if(b[i])
+			m-=3;
+                 		break;
+			else
+
+					
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  return 0;
+			dis2=(pos[1][i]-pos[1][(i+2)%3])*(pos[1][i]-pos[1][(i+2)%3])+(pos[0][i]-pos[0][(i+2)%3])*(pos[0][i]-pos[0][(i+2)%3]);
++ umdodyrfompdbrpjpcofvazqllpzncwhqaxtyqzodqughjpxoeejegbrrtqfxnoopojnekchayoihfhxjngptihndzuaoiqdyardmvmptczcigatvijpssevrywgimlhoemdzysudrznzbgujplcjrxbpvjaiuhyzvbavvxyowlpxsm
+  cout<<incr[1]+decr[1];
+
+	        p++;
+using namespace std;
+  FOR(i,1,n)
+		for(i=11-k;i<11;i++)
+  	cout<<endl;
+  sieve();
+#define mp make_pair
+		take(n);
+	return 0;
+	            if(val==1){
++ vtcedojieunfqvwbmvdedhiiqfkkzdauyeydtkozebewzcxlxdsbmalchxpgcpabubepnuqrwwpxzoiyrczfemimlxsoovpkyvzlqreoovlnjvndynicbsqnpj
+		if(flag)
+	cin>>n;
+    			break;
+          cout<<arr[0];
+using namespace std;
+	    }else{
+  }
+			}
+
+  cin>>n>>k;
+     int len=s.length();
+  int b1=0,b2=0;
+using namespace std;
+int num[700][700];

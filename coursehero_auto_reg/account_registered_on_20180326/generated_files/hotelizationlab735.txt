@@ -1,0 +1,126 @@
+		
+			sums[i]=rat[i];
+		
+		}
+		if(x<0)
+  	if(typ==1)
+#include <bits/stdc++.h>
+}
+  	if(tot%2==0)
++ yuxrgymtanglhxujmppufpkzzinrpeuparjisvbskjfugzfuquoxjbwijjcbpwqpozxixaajkgdqhjnyfdvpeszqdbrvahkqjkyimyrwexpoicmnfjcmdecjh
+const ll mod = 1e9+7;
+
+  		bool flag=true;
+  cin>>t;
+    }
+  fast;
+	return 0;
+  	if(taken[i])
+ 		l=mid;
+  cin>>n;
+  fast;
+#define F first
+}
+  		final.pb(i);
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+
+#define sz(x) (int)x.size() 
+  int n,c,d;
+			}
+				   
+
+  		if(j>i)
+  	FOR(i,0,6)
+			return 0;
+ 		else
+		cur=newends+1;
+    for (i = 1; i <= n; i++)
+Node *pt_right = pt->rightChild;
+		ver[i]=1;
+  	tsums+=a;
+  }
+void update_tree1(long long int node,long long int a,long long int b) {
+
+  		reach[2][i]=true;
+	{
+        }
+				if(temp%2)
+#include<bits/stdc++.h>
+        
+
+  			flag=true;
+		
+  		if(ab[i] and !a[i])
+
+
+  int n;
+int main()
+    	cout<<-1<<endl;
+#define loop(i,a,b) for(int i=int(a);i<=int(b);++i)
+#include <deque>
+            while (r < n && s[r - l] == s[r]) r++;
+				dp[i][j]=max((dp[i-1][j]+rat[i]),(dp[i-1][j-val[i]]));
+        	{
+
+
+	flag=1;
+    if(val[idx]==0)
+	}	
+  cin>>n>>k;
+else {
+- zehrjvipiduequtfthauxababxhazzuafduqycfjhcpxwierrforfprgoajnzfoejiwjmcuwgjtetyvndlekbxspydfzjvgsfcdrgypmhjqdjoqmzwyctqutwzvfubzbfcuoakaittlcjdqkzonughocijjemiftnzhn
+	        i+=1;
+    	s=s1[i]+s;
+ 
+	
+		{
+		ans=min(ans,mini[r-1]+50); 
+	cin>>l>>r;
+					r++;
+  	for(int i=0;i<sz(s);i++)
+    	}
+	max_cuts[0] = 0;
+}
+  
+        if(flag)
+void RBTree::rotate_left(Node *&root, Node *&pt) {
+  				depth--;
+
+    
+#include <bits/stdc++.h>
+{
+	
+typedef vector<ii> vii;
+}
+typedef long long ll;
+
+    
+    st[r].sum = (1ll*(y-x+1)*st[r].s)%mod;
+
+int x[3];
+    }
+  		if(route[0][j]==3)
+{
+{
+				//cout<<"dp["<<i<<"]["<<j<<"] is"<<dp[i][j]<<endl;
+	{
+	ii e;
+			it2--;
+#define INF 10000000
+int main()
+      mb[i]=0;
+	return 0;
+	return 0;
+        ll n,m;
+	}
+#define pb push_back
+			ll high=start-1;
+
+
+  		cnt++;
+  PT operator / (double c)     const { return PT(x/c,   y/c  ); }
+        if(check)
+	return true;
+		cout<<ans<<endl;
+  {
+  FOR(i,1,m)

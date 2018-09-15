@@ -1,0 +1,155 @@
+  	int p=Q.front().S;
+	int half=n/2;
+	int k,i,j,n,count,tcount=0;
+            }
+			ans+=query[m]-query[1];
+  else
+			{
+            cout<<1<<endl;
+  		int num=s[i]-'0';
+}
+  cout<<setprecision(12);
+        p2++;
+	push(r, 2*r+1, m+1, y);
+  help[cnt++]=mp(arr[i],2);
+  while(t--)
+const ll INF = 1e18;
+    ll temp=q1+q2;while(temp>=INF)temp-=INF;
+
+  	{
+    
+		if(cur>=sz(s))
+  return 0;
+        if(ans==div)
+- irkywbsdhhqognsgirsixcrsusfpmlmwfyudanhjwxxcmpivjcfiezayrhpfvecacyfcnmnjmloycwvnzbwfayetgtbdxfdcdketxuclhqjjpfxqivvitzdzveeujjwpuditxkeedppswokejfodhseeyjyisxxoafhzrlfwdwqzl
+	int temp=1;
+  int s;
+
+	    char ch=tolower(s[i]);
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+pt->leftChild->parent = pt;
+    #include <bits/stdc++.h>
+#define F first
+}
+    }
+	if(root->v.empty()==false)
+			}
+           {
+typedef set<int> si;
+				j++;
+#define F first
+  	allowed[temp]=false;
+{
+  if(x <= l && r <= y){
+    int l=-1;
+
+    ST[idx] = (ST[2*idx])^(ST[2*idx+1]);
+SegmentTreeNode result;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+typedef map<string, int> msi;
+		int a,b;
+    if(s[i-1]=='B' and s[i]=='A')
+
+	   ans2=T2/(float)T1;
+  cout<<ans<<endl;
+
+		          	//cout<<k<<l<<endl;
+{
+	return 0;
+		 {
+
+    for(int i=1;i<=m;i++)
+		printf("%.9f",1.0);
+    }
+        cin>>arr[i][j];
+	  }
+  			{
+		count=1;
+		if(sum%2==0 && k==1)
+
+
+- ijsvznsplrxqhmyzinztuqvdzthawdqemkbnzvekobcwnavwqwrkpppqiyr
+                 else if(i==1)
+
+	cout<<dp[n];
+  fast;
+
+
+typedef vector<int> vi;
+#define sz(x) (int)x.size() 
+{
+  	cout<<final<<endl;
+  {
+sort(start,start+n/2);
+#define sz(x) (int)x.size() 
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+ 
+12 22 23 12 22 23
+	cycle.push(source);
+		printf("%.9f",0.0);
+#define sz(x) (int)x.size() 
+	  {
+{
+
+  		}
+                 
+  		}
+    		else
+            return 0;
+using namespace std;
+int start[510];
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+- itzyzxjfzeyfcfxwipfzsuyivcrpjlarecrebalchmhjtghcwobqizyfcrvncxgjzynaaadhmms
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+while (M--) {
+
+    while(flag)    
+  ll v1,n1;
+	
+  cin>>n;
+    #define INF 10000000
+  			}
+using namespace std;
+typedef vector<int> vi;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  int maxi=0;
+ 
+  ll a,b,c;
+
+	{
+	for(int i=0;i<m;i++)
+	if(i1<0 or i1>3 or j1<0 or j1>3 or i2<0 or i2>3 or j2<0 or j2>3 or i3<0 or i3>3 or j3<0 or j3>3)
+
+	                   flag=0;
+#include <bits/stdc++.h>
+  if(check(l))
+    		arr[j]--;
+#define sz(x) (int)x.size() 
+- kxodbllszibcekxutlfkfplnyhsbbcnnze
+	while(t--)
+int main() {
+		}
+    for(int i=1;i<len;i++)
+
+	   
+	     		  dummy[prev]=-1;
+       if(arr[i][j]=='X')
+{
+  return 0;
+	}
+- nqbyyyvhzsvqivbojpafhgvokctsdpvqfwqfxloyelooircrgdzplwdvywqbnltsklzjwnhcaxqipvcxabnlzqixpyacmvxygwhcmqhmpzxewzcwarjzhuywsybgtyezwndifmxvmwbkvfhxwsyemwchwdnpduqahvkpijkwfngatpxpixvwtadpdtgjnwjwuvlcfxakl
+	 }
+  
+
+  }
+	cin>>t;
+  }
+  	edges[v].pb(u);
+	{
+            Output[ output_index ] = Input[ index ];
+#define F first
+merge(start,start+n/2,start+n/2+1,end);
+ 		cout<<(n/ans)*i<<" ";
+     
+    st[r].sum = (st[2*r].sum+st[2*r+1].sum)%mod,
+#include <iostream>

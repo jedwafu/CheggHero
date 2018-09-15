@@ -1,0 +1,134 @@
+
+}
+#include <bits/stdc++.h>
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	
+
+			if(abs(slopes[k]-slopes[k+1])<=eps)
+  if(a+b==1)
+  	int n,q;
+
+mul[node]=1;
+
+        if(ans==div)
+typedef vector<int> vi;
+	}
+	
+
+vector<string> ans;
+    stack<long long int> s;
+	}
+using namespace std;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+	}
+}
++ ctfimybhsjutsuopebkdtloalgxzyfqaavkmulvouqhomxgqzqtudjvopsonzgnzbxnxkjlhbuxnudevuzpxjmoyfcogidilbvlngyujtszpxfktebtpohov
+              	max=score[i];
+		maxi=i;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+    ans=max(ans,calc[root][0]+calc[root][1]);
+return size << 1;
+  	else 
++ sdfmha
+ FOR(i,0,n)
+      	maxi=abs(templ-tempr);
+	m=int(numbers[1])
+}
+
+  	edges[a].pb(b);
+	        }
+  check(1,0,2,0);
+  fast;
+            	cout<<ansval<<endl;
+  			return 0;
+}
+
+	   	   break;
+  build(1,1,n);
+#include <iostream>
+			mns[cur][s[i]-'a']=1;
+		
+	
+  FOR(i,1,1000)
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+}
+#define sz(x) (int)x.size() 
+		if(s[i]=='.')
+					count++;
+{
+  	{
+int calc()
+    for(int i=0;i<n;i++){
+  FOR(i,1,n)
+
+    	arr[i][j]++;
+}
+		 		}
+root = pt_left;
+                 	{
+         rows[i]++; 
+		{flag=0;
+typedef pair<int,int> ii;
+  
+RED,
+
+//cout<<"tree "<<node<<" "<<tree[node]<<endl;
+
+    if(val[idx]==0)
+  	
+		
+    	{	
+		     if(present[j])
+		else if(tms[r]>=times-89)
+
+	    	num[0]=-1;
+	cout<<sum<<endl;
+int indeg[101];
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+#define sz(x) (int)x.size() 
+	        }
+cout << query_tree(1, 0, N-1, 0, N-1) << endl; // Get max element in range [0, N-1]
+		cout<<slopes[j]<<endl;
+	     {
+pt->parent->rightChild = pt_right;
+	    }
+    cout<<sum<<endl;
+typedef vector<int> vi;
+#define pb push_back
+#define sz(x) (int)x.size() 
+      		return dp[i1][i2][i3][skip];
+		if(boys[i]-girls[k]>=-1)
+std::cout << root->data << " ";
+    ans+=(ll)tree[kd][pos]*(ll)(1<<kd);
+  
+
+	        cash=1;
+
+
+int n;
+}
+* Parent of pt is left child of Grand-parent of pt
+  {
+				if(arr[i][j]!=arr[i+1][j])
+		loop(i,1,n)
+	There was no form or GD. There was resume shortlisting after the PPT and after resume shortlisting, we were directly called for an online test. People shortlisted from the online test were invited for an interview which was a technical+HR(combined) interview. 
+* Case : 3
+#define S second
+                ans++;
+		else if(winner==1)
+        b = func(b);
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+     if(i+dp[i]<=n and i+dp[i]-2>0 and (arr[i+dp[i]]-arr[i+dp[i]-2]>=2))
+		ll res=fac[n];
+     return cnt;
+int main()
+ll x[N],h[N];
+    	
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+	for(i=3;i<n;i++)
+	return 0;
+int N;
+#define F first
+    typedef vector<ii> vii;
+using namespace std;

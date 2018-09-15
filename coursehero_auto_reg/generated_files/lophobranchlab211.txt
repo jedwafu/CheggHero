@@ -1,0 +1,137 @@
+
+		{
+  		{
+
+  	maxi[i]=-INF;
+
+	    for(i=0;i<11-k;i++)
+  t=1;
+	row(r,c+4);
+	
+
+
+    if(res1<=9 && res2<=9)
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+
+int val[N];
+                 else if(i==1)
+  
+  				flag=false;
+                    flag=false;
++ nkjtgegzgzcddofxhoipfvmpdk
+    bool flag;
+    return ans;
+    cin>>n;
+
+  		cout<<h[b]+h[a]-2*h[lca(b,a)]+1<<endl;
+  FOR(k,0,n-1)
+const ll MOD =1e9+7;
+	if(kval==0)
+        	for(int i=0;i<n-1;i++)
+#include <bits/stdc++.h>
+    }
+  FOR(i,0,n-1)
+		if(abs(i)+abs(j)!=1)
+		if(trie[cur][bit^1])
+class FFT
+#define F first
+update_tree(node*2, a, (a+b)/2, i, j, value); // Updating left child
+	hh2=hour1;
+  }
+
+- uwgnmszqazpnnuohbdtcyhzqcokeqoymmgzazyrbziomecwfhpjiwlaabkhtyhgmohmngfqhqewujscs
+}
+
+  			lt=mid;
+  while(t--)
+  	
+int n,m,k;
+ll tms[N];
+    {
+  	if(cur==a1)
+const ll INF = 1e18;
+	int arr[4];
+	}
+
+#define F first
+	{
+    }
+  }
+  fast;
+	    }else{
+using namespace std;
+
+  if(typ[i]==1)
+  		break;
+
+		long long big=-1e7;
+  }
+ 		{
+using namespace std;
+  		cout<<endl;
+    if(mm1<mm2){
+int calc(int pos,int flip)
+	int n;
+  		if(arr[i][j]=='#')
+		right=min(right,pos[i]+sp[i]*t);
+  int ans=0;
+	        countr++;
+ll dijkstra()
+     return cnt;
+  	else
+#define pb push_back
+	
+	if(x->parent==NULL)
+			cout<<freq[k]%2<<endl;
+	else
+  }
+- kwmssqqweecmtjarddqnrvmwhgmbkctvyfpsyf
+	    cout<<"NO";
+  		FOR(j,1,m-1)
+	{
+  string s;
+		{
+                 	{
+
+  	int u,v;
+typedef pair<int,int> ii;
+
+  	dp[i]=min(dp[i-1]+x,dp[(i+1)/2]+x+y);
+               {
+  	}
+  FOR(i,1,tot)
+  {
+		for(int i=1;i<=n;i++)
+
+  cin>>n;
+typedef vector<int> vi;
+  	{
+	while(q--){
+  	if(h[v1]>h[v2])
+	cin>>t;
+
+  		c[1]=s[i+1];
+typedef long long ll;
+    while(flag)    
+  		ans.pb(mp(4,cnt3));
+		 		return 0;	
+  	else
+    sol = max(sol,dp[j]);
+int sums[100010];
+	return 0;
+const int N = 1e5+10; 
+		
+  	ii cur=pos[i];
+    cout<<red;
+  	}
+  		}
+
+  mb[1]=1;
+
+      
+    int ans=1;
+		{
+
+			cout<<"C";
+typedef pair<int,int> ii;
+  	}

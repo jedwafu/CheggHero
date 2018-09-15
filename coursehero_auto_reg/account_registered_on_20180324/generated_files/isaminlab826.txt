@@ -1,0 +1,127 @@
+               else
+#define fill(a,x) memset(a,x,sizeof(a)) 
+                 if(i==3 and i+2<n)
+{
+        if (m < i)
+     if(s[i]=='F')
+		continue;
+	{
+
+  {
+		}
+  		ll mindif=arr2[i][0]-arr1[i][0];
+  	}	
+     
+	while(temp+i<k){
+	for(int i=0;i<n;i++){
+using namespace std;
+}
+    for(int i=1;i<=m;i++)
+
+		   	    {
+    else
+  int arr[]
+			
+
+
+
+       else
+  FOR(i,1,n)
+        res+=arr[i]*x;
+using namespace std;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  	seg.pb(mp(l,-i));
+  	if(arr1[i][0]<arr2[i][0])
+typedef vector<int> vi;
+vector<ii> C;
+  fast;
+   if(arr[i]==arr[i-1])
+using namespace std;
+   return ans;
+}
+  	lt[i]=l;
+	    }
+
+        cin>>arr[i][j];
+char DP(int k,bool first)
+		else if(counts[inp]==maxi)
+    tn4[cur]=n4[val]; 
+bool hole[N];
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+#define sz(x) (int)x.size() 
+            	count++;
+  	if(w[i][j]!=mod)
+  	}
+  }
+  val[node[r]]=key;
+	return 0;
+    else if(temp>i)
+typedef pair<int,int> ii;
+  		else
+		{
+pt = parent_pt;
++ pugwhqchoethfvcqejznjxmoxotkwccnzjjgboprukycfasmmtzvrmlocgaaldpkozsppjhjuhlbkgnwzntsbgidmjgxmvjawdrlnaxjiiksqaqqnlkqrtvfcbfoxqot
+
+      FOR(j,0,size[i]-1)
+typedef vector<int> vi;
+#define F first
+  		cin>>v>>u>>k;
+     {
+#include <bits/stdc++.h>
+			   }
+		ll sum=0;
+int grp[N];
+  int n;
+typedef long long ll;
+  fill(rem,0);
+	
+          
+			else
++ lyjoawfz
+		}
+#define S second
+
+	    result++;
+- tkpnaebdgszcqdxfqibgozmorxvhhjnducquisxomzteesjvckdrmsfdpcmylzbhdsdnmddacwfiqodtzhmnztqoveoidqqiktvwwyyaxdjnsoitvugwnymkebvhrnrdimbhmzhjdszxhjseeadtapgeqbnj
+{
+  	{
+* Right-rotation required
+  vector<ii> ans1=solvemax(dx,dy,dz,hmm);
+void dfs(int source,int par)
+  }
+- vhouoqwnkhyqzfomqcnjwuffqttzuxfshvmxnknytlqttfhlhxufralkvelsdskknykalxyekpzduhrdeljxnwjjaubfmnszlcawbablrapnhgrntcljywsarvffizftbhscjtobvfqfnjsilfrlcjltgtyosfkwocayxo
+using namespace std;
+static long long int tree[500100];
+  }
+ 
+#define fill(a,x) memset(a,x,sizeof(a)) 
+		cnt++;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+- pqvnastvcudfspiyuyuzeobavrdbilbzdzmerfbvzgasxlstlntrbwrynvcviduoeiuxovspdvjaicuvppmsleszbuwlatzg
+    cout<<m-1;
+			count++;
+    else
+	if(answers[n]) return answers[n];
+	}else if(l1==-1){
+   }
+#define sz(x) (int)x.size() 
+                    score[i]+=2*counts[2];
+  	u1=a;u2=c;v1=b;v2=c;
+typedef vector<int> vi;
+  FOR(i,1,n)
+                 }
+leftChildIndex = 2 * stIndex,
+  	{
+    		{
+#include<bits/stdc++.h>
+	cin>>n;
+  	b+=a;
+		}
+  }
+
+  cin>>n;
+	while(cur < stx+k)
+
+        
+  for(int i=0;i<sz(zeros[s]);i++)

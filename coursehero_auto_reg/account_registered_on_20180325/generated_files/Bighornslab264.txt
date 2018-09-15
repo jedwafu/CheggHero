@@ -1,0 +1,146 @@
+    int temp;
+			tr(rows[i],it)
+    return false;
+  
+
+  	cin>>a>>b;
+  loop(i, 0, _size - 1) 
+
+long long int rat[100010];
+
+  FOR(i,1,q)
+* Case : B
+#include <bits/stdc++.h>
+int d,n;
+  	int lookingfor=0;
+  a[1]=start;
+- nzcyakqmatysdxhvsftlgihhrafovodjphjpsbbuubozyvwqcqdjalsrlyiimltbtcqnfthbuwcttzlwrpftczkpxuxlirmbveqbxzcsvfnrganxpuqttcitzgehxriuxavvzap
+#include<iostream>
+const ll mod = 1e9+7;
+
+	string s;
+				{
+{
+	while(visited[s]==false)
+  	ll rem=a%m;
+  	}
+#define sz(x) (int)x.size() 
+  int r=maxi;
+  else
+
+
+inline void Vis(int x)
+  cin>>n>>k;
+
+- tfcfbrhbrgsuypnwasovllhplfghktcfyfkbytcpzwlxmavovljgxsxkyfrkyupybbzzueovcbuobsewdpeaibkihcshyhgzkhaenobqrvgsnlrravtixesgiknitvjdfjjszkiqgpivabocxinuofawqpelnppsyykxjvnrkxomzdqwndsbjuxbldmysdq
+  FAC();
+typedef vector<int> vi;
+	return 0;
+stack<int> cycle;
+// C -> No. of operations
+  fast;
+  		rights[i]=1;
+typedef long long ll;
+  	}
+    red+=min(l1,l0);
+  		temp/=10;
+    void update3(ll node,ll a,ll b,ll i,ll j,ll value){
+  	int u,v;
+		//	cout<<slopes[k]<<" "<<points[0][k]<<" "<<points[1][k]<<endl;
+	{
+
+  s[curr] = max(s[c1],s[c2]);
+
+      if(arr[modulo(dstx,n)][modulo(dsty,m)]=='#')
+  	}
+int main(){
+  }
+* Case : 2
+  }
+typedef vector<int> vi;
+
+using namespace std;
+	    else
+  while(cur>=0)
+  cin>>n;
+- knvguqrappzcmqnpjhukaoascvmtmmqxcnfyfyavnazbsnqeumowbqpfndzzspyuefukguhvugxntprpefofxdmkillccmyhtsrznavhguwcjnrnufutkhdvupxxdwewqxydxtnfpjhyzbovikpttsqojplmnrleojhncusrgcrfdhalspgnkw
+	for(int i=0;i<n;i++)
+				if(a==1)
++ cefibiwxorlpjzdawdoojqffdjalktpnyvxbfvzummlvoqxktnbeggljrouchkrhhqjmlkiayuxmmvzgkamqiyzbowdxiwfpmqdycoyakvpwsoedqrvarxbhtfedbluqbxofnogxlxuglalbtgdkderylybp
+adds[2*node+1]=add((adds[2*node+1]),multiply((adds[node]),(b-mid)));
+for(k=start1;k<=end2;k++)
+- examtbvsfoclhkmfmvrhjpcsuhowizmoyobsqwmxmpjtbxapsszcjbwdknbumqjkekcwiruvgfqjcryulzyucvznibhutqgzclwlcsiixatbrtxctwyvrykzbsvukbtnmryojiyiitlanjei
+
+}
+  m.a[0][1]=add(mul(m1.a[0][0],m2.a[0][1]),mul(m1.a[0][1],m2.a[1][1]));
+  if(cy<qx || qy<cx) return;
+   		}
+  	cout<<-1;
+        else return 0;
+  int n;
+			count++;
+  FOR(i,1,n)
+else {
+  cin>>r;
+				if(angle0<0)
+else if(cmd==2)
+		else if(cur+w >= sz(s))
+  			taken[(j+num)%3][i]=1;
+  }
+			bool val=func(ver[source][i].first);
+int main()
+	    qsort(arr, n, sizeof(long long int), compare);
+	val/=n;
+       if(arr[k]=='.')
+int data;
+  	}
+  cout<<ans<<endl;
+{
+
+	FOR(i,0,sz(edges[s])-1)
+         start[i]=j;
+
+		else
+    //cout<<i;  
+if(a > b || a > j || b < i)
+            //sum[node] += sum[next];
+
+  int n;
+  	cout<<f[i]<<" ";
+	int t;
+    if(a>=i&&b<=j)return treee[node];
+  	return 0;
+  cin>>arr[i];
+    }
+12 23 45 17 78 72
+  			}
+#define INF 10000000
+  	if(arr[i]==arr[i-1])
+        else r = m;
+  return PT(p.x*cos(t)-p.y*sin(t), p.x*sin(t)+p.y*cos(t)); 
+    	else  if(socket[cur_s].F<power[cur_p].F)
+  while(!Q.empty())
+	FOR(i,0,sz(s)-1)
+typedef pair<int, int> ii;
+using namespace std;
+	sort(girls,girls+m);
+		count=1;
+            {
+     			cout<<s1[i];
+  return ret;
+    typedef vector<pair<int,int> > vii;
+        	{
+               		arr[i]=dig[arr[i]-'0'+1];
+			dp[0][j]=rat[0];
+  int n,cur=0,ans=0;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  return 0;
+	return 0;
+	return 0;
+buildTree(arr, 1, 0, N-1);
+3796
+
+#define S second
+		else
+pt = parent_pt;
+

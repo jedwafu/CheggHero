@@ -1,0 +1,181 @@
+    
+	cin>>n>>m;
+  	return 0;
+	     else cout<<"YES"<<endl;
+  	int frst=i;
+- jgnbulsqyejqvwkgiricffgsctkxpsmaabevowlocxexvrffkoipvohyjtvyljamnejbdusftyfrpmwzaepwuywdstdfcerricvnzntslaldmic
+	while(t--)
+    	NFOR(j,sz(edge[i])-1,0)
+  	cin>>a>>b;
+				ans=0;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	int n=0;
+const ll mod = 1e9+7;
+    hh1=24;
+#define pb push_back
+
+			 		dummy[prev]=-1;
+  if(c[2]!='!')
+	            break;
+		return mp(ret1,ret2);
+		}
+ }
+typedef pair<int,int> ii;
+				temp*=inp;
+		{
+	int m,n,a,b,result;
+    
+  			cout<<3<<endl;
+		freq[val[x]]++;
+  
+
+  		update(1,1,n,-arr[i].S,val);
+  if(!dist[i])
+int main()
+        dfs(u);
+       row(1,4);
+			int v, u, w;
+  	   if(inp[i][j]>qsize[i])
+  		int vals=((1<<j) & nums[i]);
+  		ans=max(ans,maxi[i-1]-pre[i]);
+		    }
+             {
+
+  	dp[i]=min(dp[i/2]+y,dp[i-1]+x);
+            if(ch=='C' or ch=='M' or ch=='Y')
+	return 0;
+  cin>>k[1];
+    if(a!=b){
+   
+
+		if(sum==newsum)
++ sdfmha
+  	cin>>t>>u>>v;
+{
+  		string ans="";
+		 		int iter1=i;
+  	{
+  	
+      big_row(14,0);
+int main(){
+   		{
+  {
+  		edges[x].pb(y);
+		if(i%2)
+  vector<Complex> roots;
+int arr[N];
+  return 0;
+               }
+  	
+    for( int i = 0 ; i <  a ;i++ ){
+#define rep(i,a,b) for(int i=int(a) ;i<int(b);i++)
++ izqucaxdeqsphkeowyzwdaygqtazpzxxznrbnrgrhajokpeindhtdfzwazvpaupzhicwzjqijbzwqdgfjnyouzkvahmbbbakkfjlobuzctxsyezhtywoxilyqxbtzdglipyyqsysnxmmdlvxjrnjcyjsxknyntjwkkuacuussigvubufvhqxhzrfledzapxkztndqj
+   	if(!sp[i])
+		for(i=0;i<n;i++)
+  	{
+  	{
+ 	arr.pb(mp(l[i],d));
+	while(j!=0)
+
+typedef vector<int> vi;
+}
+- lvrlfkyhyfgzbxkbndixhjjdfhqxiydwuwhbgfigkrhnosobvyaekjjpqbpyaswwodxxlhfxyplmhbnecnlmywdoaspaklybpvacehzdwkpfofmquxctvfjvayxmkxpbspdxxectptzfylvvkzqhgzfgactkainuastxwvsnrrspepmqocyveddehyqjjdejxzi
+    else
+               		carry=0;
+#include <bits/stdc++.h>
+ 	ans=max(ans,l);
+
+		}
+	     
+	return 0;
+  	cout<<-1;
+  			break;
+int nums[N+10];
+{
+  			mindist=min(mindist,10*(i-m));
+  getline(cin,s);
+		next=arr[start[i]];
+	}
+#define F first
+}
+   s[0] = 1;
+            if(ch=='C' or ch=='M' or ch=='Y')
+#define mp make_pair
+- worbquflgbhdyqjshsjuwfhhaxofaiqywhcmdhzmigpgwaafsjbqpjyrimxlwpjtxlhcshocnfl
+  		ans=max(ans,temp);
+	{	
+	for(int i=3;i<=1000;i+=2)
++ paqtdddonwakffdimnxyxpnllfawulnjldeqghgvdhglmltazqyyhnjtslpowcxjhbbqliloptzdftdelectrnmmadawiafpdifo
+5606
+   }
+#define mp make_pair
+                	q1=q2;
+  	return 0;
+	}
+		printf("BOB\n");
+double dot(PT p, PT q)     { return p.x*q.x+p.y*q.y; }
+	}
+		if(cur[2]<sz(w[2]) and cur[1]<sz(w[1]) and m>=3)
+  {
+  fast;
+  }
+   {
+
+	while(t--)
+                 		break;
+	{
+ 				l=mid;
+  }
+#define pb push_back
+{
+  build(c2,mid+1,r,type);
+            s(v);
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  	{
+		for(i=0;i<len;i++)
+  int x=0;
+     {
+	string s;
+        cout<<arr[1];
+    ans.clear();
+
+  				cost[i][j][k]=cost[i-1][j][k]+A;
+     	cout<<"NO";
+                m=0;
+}
+  if(arr[n]<=arr[n-1])
+      temp=l;
+	FOR(i,1,index-1)
+- venzhdmarsqqqqttlqrgihhvtnwmyuxvbmv
+  FOR(j,1,n)
+		
+                 		flag=false;
++ aympnobifghuddecxxbgypuve
+	
+#define S second
+				total=total+1
+		sets[i]->next=numbers[i];
+
+  		ans=max(ans,maxi[i-2]-pre[i]);
+#define sz(x) (int)x.size() 
+    if(rem<D[0].F)
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+    lazy[0][2*node]=mul(lazy[0][2*node],lazy[1][node]);
+{
+	while(j!=0)
+                 else if(i==3)
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+    cin>>p1>>p2>>p3;
+	int countNext=0;
+}
+  				FOR(l,0,2)
+      big_col(16,8);
+             	if(s[i]=='.' and s[n-1-i]=='.')
+
+     	}
+    if(a!=b){
+	int n,countodd0=0,countodd1=0,counteven0=0,counteven1=0;
+	int temp=n*(n-1);
+		else if(best==best6)
+}
+{

@@ -1,0 +1,164 @@
+  	{
+  		cin>>arr[i];
+  	}
+typedef pair<int,int> ii;
+{
+ 
+
+	else
+       even[it->F]=temp;
+	
+    pgb.setSize(s); // fill and transform second array
+
+    for (int i = 1; i <= k; ++i) {
+long long arr[31];
+   findly(2,1,n);
+{ 
+  		tans+=arr[i]/(siz+1)+1;
+  		dp[wt[i][j].S]=max(dp[wt[i][j].S],temp[wt[i][j].S]);
+             	else if(s[i]=='.')
+#define F first
+	}
+			else
+  {
+			
+
+	for(int i=0;i<n;i++){
+       { 
+
+char arr[55][55];
+  int ans=0;
+				max1=distdn[edges[source][i]];
+	}
+
+
+        ansval=10000000000;
+    	}
+
+	
+   if(op) 
+	ans+=(len)*25;
+int main(){
+    
+#define fill(a,x) memset(a,x,sizeof(a)) 
+- eepcjvjyewwpirxurbxdxzdxpunfbhvfnmjwiuxostdakdxbguhgvmdkgsphbmoozzmjujxoecrphqsomzuhozruriesusivsweogbekgvbnlwbxxxelyxiphmjcerzyoeowhtinqm
+}
+}
+
+typedef vector<int> vi;
+	 		}
+	cin>>t;
+		     if(present[j])
+#define all(x) x.begin(),x.end() 
+	for(int i=0;i<s.size();i++){
+			cout<<"C";
+		if(DP(k-2,false)!='-' and len[0][k-2]<minlength)
+	}
+    	cout<<"NO"<<endl;
+  r=INF;
+			{
+
+  	{check=r[1][i]+tm*v[1][i];
+      cout << it->F<<" "<<it->S<<endl;
+  fill(done,0);
+{
+int main(){
+			if(s[a-1]=='.')
+  return 0;
+  	if(s=="Dodecahedron")
+  dfs(1,0,1);
+  	dp[i][1]=dp[i-1][1],ver[i][1]=0;
+  	if(arr[i]>0 and k>=arr[i])
++ pwlynfsshrkfjgginqyrocgjsabkaubrsopfwjzfajklpsvejvwzxeisejegghyywnguxfzzrjngcinnelmdpvvvgbcojanhpvbmcaotjdcnlparanxrkumswohfqwogtpuvpiraltozkosmdpdpkri
+  	int n;
+
+		
+typedef vector<int> vi;
+	return true;
+			 
+                   val=k;
+		{
+  				cur.S+=route[1][j];
+	   for(int y=0;y<26*210;y++)
+  for(int i=0;i<n;i++)
+  	FOR(j,0,sz(edges[i])-1)
+				ind=n-temp/2;
+	sort(arr,arr+3);
+  	l=mid;
+merge(start,start+n/2,start+n/2+1,end);
+ll sums[N];
+
+  int l1,r1,l2,r2;
+	int flag=1;
+    if(k==1)
+
+
+{
+ 			ansf++;
+int min(int a,int b,int c){
+
+long long int arr[1000010];
+      fill(ans,0);
+    
+                 if(i==ans-1)
+  			hi=min(n,i+i-b-1);
+using namespace std;
+			else
+*/
+    return tree[node];
+		}
+
+	    if(count>4){
+      int m = (1 << i), md2 = m / 2;
+			return;
+  int n;
+	{
+- rsbjiiubnpfquysjjswetwjosokdtbdmtgvdrpeghkxdipoujmyciiscyf
+		printf("%d\n",ans);
+#define ll long long 
+         ans[i][2][1]=a;
+	if(small<=sum%x)
+    cin>>arr[i];
+- xyjyfnwdsajjsmvpyaxnsqhlmpdkwmhvmqwrdswyuhhntccrecgxspkgeoqccxyqquhtofrkmbxffcykefhyurebhxdjubzkxignpzabaxigbjqhozhksolalplfsnssxyhnzhqahziiiaqyzxirlwtynfe
+                 		flag=false;
+
+
+			//delete y;
+  	
+	if((sum+counts)%2==1 || sum+counts<0 ||sum>counts)
+		
+  fast;
+	scanf("%d",&t);
+#define S second
+#define sz(x) (int)x.size() 
+  	last[i]=val[i];
+		
+si nums[100010];
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+	cout<<ans;
+			temp[i]=1;
+}
+  		FOR(j,0,m-1)
+       cout<<r<<" "<<c+4<<" "<<r<<" "<<c+5<<endl;
++ rksvtdzdcxkzmbrklthcpeqfrwwylutfenaxszauymvlonvbiedziwfcsbadvtizikyalaxknsvdhseqykphgwjayjdvfoxpavsmypwnjtqrlujjeasmxdmxnssu
+	cout<<dis[m];
+
+	for(int i=0;i<count;i++){
+  	cout<<4280<<endl;
+typedef vector<int> vi;
+	for(int i=1001;i<1000000;i+=2)
+      big_row(4,8);
+#define sz(x) (int)x.size() 
+			adj[v].pb({ver[t][id], w});
+			z->parent->parent->color=1;
+
+       column(7,0);
+		int flag=1;
+{
+#include <bits/stdc++.h>
+
+
+		cout<<"NO";
+while t>0:
+       {
+}

@@ -1,0 +1,113 @@
+  	if(s[i]=='F' and !flag)
+                        
+  	if(n==2)
+typedef long long ll;
+        int a, b, c;
+	  	if(T2>=t1)
+{
+      {
+	int n,i;
+grand_parent_pt = pt->parent->parent;
+    }
+		}
+  {
+  bool flag=false;
+	        count++;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+      continue;
+  
+#include <bits/stdc++.h>
+                 		break;
+			
+
+  return q;
+	else
+		sum=sum-arr[i-1]+arr[i+k-1];    
+      dfs(dstx,dsty);
+  a[1]=start;
+	        m=3;
+#include <bits/stdc++.h>
+typedef map<string, int> msi;
+}
+update_tree2(node*2, a, (a+b)/2, i, j, value);
+update3(B1, j + 1, -v);
+    //cout<<stx%n<<" "<<sty%m<<endl;
+  	t^=last_answer;
+if (pt->parent == nullptr)
+	    }else{
+				return 0;
+             	{
+    			
+	flag=1;
+    return 0;
+  m.a[1][1]=add(m1.a[1][1],m2.a[1][1]);
+  		{
+    struct node
+#define nloop(i,a,b) for(int i= int(a);i>=int(b);--i)
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  cout<<sz(ans)<<endl;
+		}
+ 
+		for(int j=1;j*i<=N;j++)
+typedef pair<int,int> ii;
+	}
+		int count=0;
+void update(int curr,int l,int r,int left,int right, int val){
+  {
+		ret1+=MOD;
+
+  	int n;
+		{
+  	{
++ qaucqsztplixdbpucemmobvrupowfrpysjcidbdsmlpsogmslyfzbaqvsgt
+using namespace std;
+int arr[N];
+	        cash=1;
+	return false;
+	return 0;
+    }
+        cin>>s;   
+	if(len<26)
+
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+
+const ll mod = 1e9+7;
+  	check(k,x-k,y-k,z-k);
+     if(s[i]=='F')
+int main() {
+  return 0;
+
+               	return 0;
+{
+
+            for (int j = 1; j <= k; ++j) {
+    #include <ext/pb_ds/assoc_container.hpp>
+#define S second
+}
+	{
+	{
+  if(a+b==1)
+            Output[ output_index ] = Input[ index ];
+using namespace std;
+   }
+}
+temp-=m;
+  
+  int c1 = curr<<1,c2 = c1|1,mid = l+r>>1;
+    st[c].af = (1ll*st[c].af*st[p].mf)%mod;
+	            val=sc.nextInt();
+  fast;
+int level=-1;
+}
+    update3(node*2,a,(a+b)/2,i,j,value);
+	cin>>s;
+  			S.erase(S.begin());
+  	{
+        }
+- wgwbnogrprrzloyaqdjrwvwtavjzgkheqegfuoyjhpiu
+typedef vector<int> vi;
+  	}
+			 if(flag)
+if(a!=b)

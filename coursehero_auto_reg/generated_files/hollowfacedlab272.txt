@@ -1,0 +1,127 @@
+int main(){
+#define fill(a,x) memset(a,x,sizeof(a)) 
+
+       		k++;
+string pass;
+ 	ans=max(ans,l);
+  }
+#define F first
+
+{
+			
+
+            {
+  FOR(i,l,mid)
+				cout<<i<<" "<<i+(n+1)/2<<" ";
+	int t,n,i;
+    lazy[0][2*node+1]=mul(lazy[0][2*node+1],value);
+	}
+        A[2*x].ini=A[x].ini;
+{
+int n,m,a,b;
+		break;
+#define F first
+  }
+
+  FOR(i3,1,sz(ans3)-1)
+       row(3,0);
+	char c;
+#define pb push_back
+		 	break;
+typedef vector<int> vi;
+    double dy31 = y3-y1;
+  	int temp;
+15511
+}
+               break;
+    edg[source].pb(e.F);
+int n;
+
+    int side1,side2,side3;
+				cout<<"Impossible";
+      return ;
+        	index--;
+  {
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+			cin>>l>>r>>c;
+#include <bits/stdc++.h>
+	    cout<<"NO"<<endl;
+ 		r=n;
+		return u;
+	int n,k;
+				else
+  
++ kabvwurujbcemihtbcqibmncrwvgkahwdkszeltppytdgdwjfmribhludiapjkloufnztioigklopjywwpfxwsrbc
+typedef long long ll;
+   findly(1,1,ans[2][2][1]-1); 
+				ans++;
+typedef long long ll;
+		while(r-l>1)
+		else
+	{
+  ll ans=pre[2];
+#include <iostream>
+    		break;
+
+}
+
+            }
+typedef pair<int,int> ii;
+     for(int j=0;j<=k;j++)
+			continue;
+    flag=1;
+  	else
+
+- qefnzsafxyqayepqlojasqmeacmmprbhxivwbxdavtdvysljjuldmzhmbwbspebmmykpvnqshvnhnbswxdakejyfhbzwfcksbwhykzrtugckhwghbitfur
+typedef long long ll;
+  	
+	    int m=sc.nextInt();
+    //sorted.pb(mp(1e10,n+1));
+#define sz(x) (int)x.size() 
+typedef vector<int> vi;
+- hnuznsnpgtatjckcjvmtmbdbmyfngtmqigpvycnhvpahsmldhxxvaawnadchwpxfxoc
+    for (i = 0; i < alen; i++) pga.data[i] = Complex(a[i], 0);
+	if(flag)
+	}
+  		{
+  	{
+  }
+  FOR(i,1,m)
+		cin>>c;
+	        cout<<" "<<x;
+typedef long long ll;
+	double p,s;
+      if(!cols[i])
+int point[4];
+  int n,m;
+			ret1+=MOD;
+		}
+//int wbig[N];
+  	int st=pow(2,p-i);
+long long int maxi[1000][1000];
+    lazy[1][2*node+1]=1;
+  	//wsmall[i]=arr[i];
+	    i++;
+
+	cin>>arr[i];
+		temp2+=solve(n-i-1,j);
+      		}
+		else if(tms[r]<=times-1439)
+const ll mod = 1e9+7;
+#define F first
+        A[2*x+1].sum-=M;
+	}else{
+  {
+	q.push(n);
+    {
+
+#define sz(a) int((a).size())
+		for(int j=0;j<v[i].size();j++)
+  
+ 		cout<<-1<<endl;
+    while(A[2*x].add>M)
+		}
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+#define pb push_back
+  			hi=b-1;
+		else{

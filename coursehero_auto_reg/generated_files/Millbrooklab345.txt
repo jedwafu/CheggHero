@@ -1,0 +1,132 @@
+  }
+#define loop(i,a,b) for(int i=int(a);i<=int(b);++i)
+        }
+  	route[0][i]=2;
+  }
+build_tree(node*2+1, 1+(a+b)/2, b); // Init right child
+
+  		cout<<1<<endl;
+	    	count1++;
+  			FOR(k,1,j)
+
+    if(flag)
+                 {
+  	cout<<"NO";
+  	return 0;
+  {
+				{
+int main()
+- juewcquhmo
+	while(t--)
+  
+		
+  fill(cur,0);
+ 		if(L[l]<k)
+				r=mid;
+      big_row(5,0);
+
+		if(cur[2]<sz(w[2]) and m>=2)
+    }
+  
+		x2=s-y2*(p-y2);
+int seven2[700];
+	    if(s[i]==ch){
+  FOR(i,1,t2)
+  FOR(j,1,9)
+  		cin>>temp;
+		{
+                 	}
+	 n=n*10+temp;
+{
+  
+typedef vector< vi > vvi;
+  			else
+string s;
+
+     for(int i=1;i<=13;i++)
+    
+
+	{
+}
+        index++;
+          Update(1,n,x,y,i,1);
+	for(int i=0;i<n;i++)
+			if(max1==0)
+        ll n,m;
+
+	return 0;
+  			return 0;
+	return 0;
+	
+  
+    {
+  	return 0;
+  		ans=max(ans,check());
+
+using namespace std;
+j++;
+                 
+#define sz(x) (int)x.size() 
+           n-=val;
+	if(arr[0]+arr[1]>arr[2]||arr[1]+arr[2]>arr[3]||arr[0]+arr[2]>arr[3]){
+		}
+  	while(cur>=0 and ((index*arr[cur])+temp)<=n)
+		if(arr[i]=='+')
+	    rows++;
+  return 0;
+		cout<<-1<<endl;
+#define mp make_pair
+using namespace std;
+#define pb push_back
+
+using namespace std;
+	loop(i,1,p)
+  FOR(i,0,1198)
+  	{
+  FOR(i,1,n)
++ cetdamadjafkbxacfppqvmhylrfwtakwggbgsckeerofopiwgzocnvcbohxjjkfpshymliqpbfvpufnagbetygwmpwwagdqamomzydpzkmqgte
+typedef long long ll;
+}
+        flag=true;
+- tvwnnzlywxakckifoatjvzbiqjbljvncsjrflcdjzdudpeldgepdfqmybplkmyoekfjxiogjtanigynmeeqmvekwtvjhuxlgdwdnkjwfmjnsjchqhxcedmcyhlfdjqjomobyazdmlsguw
+int color[110];
+            break;
+  return 0;
+    	cout<<"Case #"<<T<<": "<<-1<<endl;
+
+    }
+			}
+  fast;
+	        cout<<"NO"<<endl;
+  FOR(i,1,h)
+  		ll mid=(l+r)/2;
+        	cout<<-1<<endl;
+    		if(edge[i][j]==arr[ans[i]].F)
+	         break;
+    {
+int main()
+  	if(check(mid))
+	cout<<r+4<<" "<<c<<" "<<r+5<<" "<<c<<endl;
+  NFOR(i,n-1,1)
+		{
+            }
+  	ans=min(ans,tans);
+         ans[i][1][2]=a;
+		
+int deci[100]={0};
+    ll temp=(a*b)%INF;
+sort(start,start+n/2);
+{
+
+ 		else if(check(index,l))
+  
+  		flag2=true;
+  	int n,m;
+  	cin>>u>>v;
+
+  		closest[i][j][2]=last;
+                 {
+	{
+	int toast1=k/nl;
+  			dfs(i,j);
+    {

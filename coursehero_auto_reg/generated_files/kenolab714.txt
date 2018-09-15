@@ -1,0 +1,169 @@
+const ll INF = 1e18;
+int w[N][N];
+  			{
+  cin>>t>>k;
+				   
+  	{
+    ll cumsum=0;
+		
+      if(temp.compare(s1.substr(j,div1[i])))
+			cout<<1003001<<endl;
+
+	    }
+}
+		}
+int times[200010];
+  		else if(mid*mid*mid < num)
+				z->parent->parent->color=1;
+const ll mod = 1e9+7;
+    for(int i=1;i<n;i++)
+void bfs(int source)
+#define F first
+
+	    if(s[i]==ch){
+  return 0;
+using namespace std;
+  }
+			else
+  while(t--)
+    		{
+ 
++ efeeqxymfimuuqwiziabpdvbzkijxfnemtkcriqytftpvpxuzxxpcsqdfymefaitvsxmdolwtglovklvhkml
+#define F first
+  	cout<<"no";
+      if(ans[i].S<=k)
+		printf("%lld\n",dp[n-1][k]);
+
+
+  	{
+#include<bits/stdc++.h>
+  	ll a,b;
+  		{
+#define sz(x) (int)x.size() 
+  {
+
+typedef vector<int> vi;
+    	else if(type)
+	for(int j=1;j<=100;j++)
+    maxi=max(m2+o2+p2,maxi);
+    {
+int func(int x) {
+				    {
+		FOR(i,1,a[l+1])
+#define F first
+		{
+{
+      if(!cols[i])
+    treee[node]=add(((b-a+1)*lazy[0][node])%INF,treee[node]);
+       ll mid=(a+b)/2;
+  			sp[j*i]=i;
+typedef long long ll;
+	
+				temp*=inp;
+
+  int cnt3=0;
+          
+  {
+  			flag=true;
+  fill(starts,-1);
+    cout<<maxi<<endl;
+int a[N];
+      if (inverse) {
+   cout<<count<<endl;
+     		    death[arr[i]]=-1;
+			int v, u, w;
+#define sz(x) (int)x.size() 
+  if (sorted[i].F<sorted[j].F)
+
+  	reserve+=d[j];
+
+  	FOR(l,0,2)
+		ll count=0;
+		max1=count1;
+ll sums[N];
+    		   maxi=eureka[j];
+const ll INF = 1e18;
+		left=left-arr[i]-1;
+
+	return 0;
+- eejjsmowqqvpipjswniwficggmespiyvmjghwwdoozfzqqrmdzkkimroaxirhjovuwcqtgghhngxdylizxthlmynlgespunmqqclyltfybccbpmbmfkxtikerqyg
+void mobius()
++ erqyhtvsuduqylfnfqryrsuodwhfdkahcrhlkddgiawjndwtwntnhpdmmmtrxuyzlhmxkrettcchiacenxtwmxkajergyrhjbvilnoggtkpbkrhzqavdx
+			add(v, w, l, r, type-2);
+  if(check(l))
+using namespace std;
+		temp=0;
+const ll INF = 1e18;
+  for(int i=0;i<N;i++)
+	            }
+  	prefix[i]=prefix[i-1]+val[i];
+			return mini[l-1]+50;
+		mini[source]=min(mini[source],dummy1);
+
+	return 0;
+#define F first
+    if(i==k+1 && dp[p] > maxx)
+int  main()
+typedef vector<int> vi;
+				dist[edges[vertex][i].F]=dis+edges[vertex][i].S;
+	cin>>n>>m;
+#define S second
+	return true;
+
+const ll INF = 1e18;
+      FOR(i,0,sz(ans)-2)
+            {
++ fujizenyeurtimgnedcgqekftoegdveirpqqufrabktlxzzbfdivhuaakegnbmxtcpjyucyxntjkvinalxvtuxvgecuhqtasjmsfosdbmonhwbjjaeeudabhexpuqrpbfjjucmxoalxyoghomolpqmzujoqbfhflro
+#define pb push_back
+
+
+
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+if(a > b) return; // Out of range
+  	{
+#define sz(x) (int)x.size() 
+#define F first
+      big_row(6,0);
+    cin >> a[i][j];
+    if(ss == qs && se == qe)
++ gsqgpsrhjxvzsiodecgerpishzhzkkfqexwurpbdozcihrlnvutmjcgsbqtnayffydzpscsibxqjodyjxsxiudbxtukwvpbvsckmefwicorsrrdrjazffccbzoxwfarzcbliijqkxjerbhimjjspouqnlp
+	if(sz(ans)==lim or i==sz(eulertour)-1)
+{
+  FOR(j,0,9)
+46440
+#define sz(x) (int)x.size() 
+}
+int nearest[N];
+  	cout<<5<<" "<<4<<" "<<5<<" "<<5<<endl;
+               reserve-=(inp[i][j]-(qsize[i]-inp[i][j+1]));
+    lazy[0][2*node+1]=0;
+
+  	{
+	if(root==NULL)
+int main(){
+int ans[N];
+   ll final=query(1,1,n,1,n);
+typedef vector<int> vi;
+{
+
+
+  FOR(i, 1, cur) B[i]=(i-1)/Bk+1;
+typedef set<int> si;
++ qcgvhmejcespcxwhhcmtbshnqdupvuhowplferoivjyzguhpyvkbnrofwlwuhdifvvkzmzjjkhisdridmufbmvikifgpkquhlfixgsgsbrkhiskxnrabnlnxsunckjkwqsvymeqov
+  Query(cx,mid,qx,qy,kd,pos*2);
+  		cout<<0<<endl;
+  sums[0]=0;
+		k++;
+  		if(ans<0)
+#include <iostream>
+    A[x].add=0;
+#include <iostream>
+  			ans[ansb]=t[igb];
+#define sz(x) (int)x.size() 
+typedef long long ll;
+  int t;
+  		maxi=max(maxi,temp);
+  cin>>n>>q;
+                }
+  x=0;
+	{

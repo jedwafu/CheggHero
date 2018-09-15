@@ -1,0 +1,113 @@
+      }
+#include <bits/stdc++.h>
+	FOR(i,1,n)
+     column(2,0);
+  return 0;
+			}
+    while(A[2*x].add>M)
+vi edges[N];
+				}
+	    }
+typedef long long ll;
+             maxi++;
+- ihryxjjxabfrkjmywqhglbaiantdzzyhhrfgcrfcuktevgetwobkpdsprluslsaslhaoafsxrmdmuihswiclluccgyxtsxndgnthsmgjajxuremnorazleetcbmuazagotpifvrffqbwwomkfoksvqmzraurcwzqppzxmserliqhyesfuexpulplo
+  		if(check(temp1,temp2))
+    }
+  		p[++Q2]=(node2){u,last[u],actual[v]};
+		{
+			for(int i=0;i<n;i++)
+		if(temp==1)
+  {
+	reverse(t.begin(),t.begin()+t.size());
+void build(int curr,int l,int r){
+			else
+			eds[i]=ts;
+	    }else if(arr[i]==1 && arr[i+1]==1){
+  	cout<<ver[i][j]<<" ";
+                 		break;
+  	cout<<(double)0<<endl;
+					}
+	int l,r;
+        if(tmp2==i)
+const ll INF = 1e18;
+#define pb push_back
+	y->parent=x->parent;
+	} 
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+#define pb push_back
+#define fill(a,x) memset(a,x,sizeof(a)) 
+       	exact[freq[arr[i]]]=arr[i];
+  	ll a,n,m;
+		if(quant==0)
+  			flag=true;
+	flag=1;
+  fast;
+typedef long long ll;
+				temp->high=r;
+  ret.push_back(a+v*x + RotateCCW90(v)*y);
+
+{
+		
+	cout<<dis[m];
+  			tdp[j]+=dp[j+arr[i]];
+  				dp[l][i][j][k]=dp[l][i][j-1][k];
+typedef long long ll;
+
+}
+  FOR(i2,1,sz(ans2)-1)
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+        index=i;
+  			arr[i].pb(mp(-1*temp,-1));
+	p=int(numbers[2])
+const ll inf = 1LL << 60;
+
+    bitReverse(data);
+                }
+        s(q);
+}
+ 	{
+	new_dfs(1,0);
+      cur[Q[j]][i]=cur[Q[j]][i-1];
+	while(t--)
+return true;
+int seven1[700];
+}
+       sum+=even[it->F];
+     	{   
+		{
+- uovgs
+  fast;
+		mini=min(mini,arr[i+n-1]-arr[i]);
+                    	ans+=mod;
+  cin>>a[i];
+#include<bits/stdc++.h>
+  }	
+			//printf("%d ",next);
+		cout<<n-1<<endl;
+#include <bits/stdc++.h>
+	FOR(i,0,sz(edges[source])-1)
+  	int temp;
+  cin>>x2>>y2;
+using namespace std;
+
+		if(sum<mini)
+  
+    for(int i=a;i<=b;i++)
+	
+  	check(k-1,x-k+1,y-k+1,z-k+1);
+  {
+
+  	for(ll i=1;i<=q;i++)
+			-- v, -- l;
+	ll n,k;
+				done[i]=true;
+			for(int k=i;k<=j;k++)
+
+  val[0]=6;
+{
+#include <bits/stdc++.h>
+  			cout<<i+1<<" "<<i<<" ";
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+int dp[1000010];
+		    else
+    k++;

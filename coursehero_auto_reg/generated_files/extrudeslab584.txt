@@ -1,0 +1,177 @@
+using namespace std;
+                 	{
+    int side1,side2,side3;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+	     prev=0;
+	int t;
+		else
+  fast;
+	int n,m,p;
+  return 0;
+
+
+
+const ll mod = 1e9+7;
+    while ((1 << s) < resn) s++;  // n = 2^s
+       	 {
+  for(int i=1;i<sz(s);i++)
+		if(neg%2==0)
+        //for(ll ij=1;ij<8;ij++)
+			
+	  
+  return 0;
+  		{
+	
+int main(){
+   
+
+const int N = 1e5+10; 
+   
+//submitting prince of persia's code to see if it passes the time limit constraints.
+  			lo=b+1;
+	
+			continue;
+	int n,k,l,c,d,p,nl,np;
++ tjtxkaqmrycbdyfczgsyvarnjvazayevjxstzkfskkuoibsjikjdnbswwvyytc
+  		ans=max(ans,check());
+        A[2*x].add-=M;
+	cout<<ans<<endl;
+
+			break;
+
+  	if(s[i]=='b')
+        int n=s.length();
+  //freopen("output.txt", "w", stdout);
+	}else{
+typedef vector<int> vi;
+for(k=start1;k<=end2;k++)
+#include <bits/stdc++.h>
+  cin>>n>>m;
+  	FOR(i,1,dig)
+	int i,n,count=0;
+56
+#define pb push_back
+    }
+using namespace std;
+  FOR(i,1,n)
+        {
+#define sz(x) (int)x.size() 
+		cin>>n>>m;
+  	}
+        diff=arr[2]-arr[0];
+   
+  				dp[1][i][j][k]+=1;
+    for (int i = 1; i <= n; ++i) {
+  dp[1][1]=-2;
+
+	}
+#define loop(i,a,b) for(int i=int(a);i<=int(b);++i)
+  {
+
+		}
+{
+	    }
+  FOR(i,1,n)
+   		nbr[source].pop();
+  	cin>>a[i];
+typedef pair<int,int> ii;
+	}
+ 
+#define pb push_back
+            if(flag)
+    cin>>o1>>o2>>o3;
+	{
+			flag=0;
+    if(res1<0){
+  	cout<<-1;
+
+	{
+		FOR(i,0,sz(edges[source])-1)
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+	return 0;
+	double temp=(x1-x3)*(y2-y1);
+               else
+	vis[source]=true;
+#define S second
+
+	    if(temp1<temp2)
+		temp3->next=temp2->next;
+  maketree(1);
+	
+
+    int c=rand()%1000+1;
+#define F first
+    }
+            if(ch=='C' or ch=='M' or ch=='Y')
+  	ll sums=0;
+  
+62 96 49 32 397 889
+const int N = 1e5+10; 
+  {
+  FOR(i,1,n)
+                 if(i==2)
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+
+    	dp[0][1][color[0]]=0;
+	x->left=y->right;
+vector<vector<int>> e;
+long long int sums[100010];
+		sort(slopes,slopes+n);
+using namespace std;
+				arr1[i]=max(arr1[i],arr2[j]+arr[i]);
+
+typedef pair<int,int> ii;
+         for(int j=1;j<=k;j++)
++ iwasyzenmzjwepwbuogkhyksuyecarhiqjdojhdxinvnetqahxkqxuirsmvvgefwoikzpnwactphmfjvcunbqxuljpgrw
+
+  	}
+#include<bits/stdc++.h>
+  {
+  		cin>>arr[i];
+  while(where[maxidx]!=maxidx)
+
+int ans[N];
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+typedef pair<int,int> ii;
+{
+
+#define sz(x) (int)x.size() 
+const ll mod = 1e9+7;
+	if(root==NULL)
+  FOR(t,1,q)
+#include <bits/stdc++.h>
+    }
+            	  }            
+	int x, y;
+  		cin>>u>>v;
+    tree[node]=LPD(a);
+#define mp make_pair
+			{
+{
+  	if(c=='S')
+                 	{
+
+	    }else{
+			}
+                 {
+  		return 0;
+ll lpd[1000010];
+  {
+  		bool flag2=false;
+     	cout<<"NO";
+        diff=arr[1]-arr[0];
+const ll INF = 1e18;
+		else if(tms[r]>=times-1439)
+  if(n-1<2*k or m-1<2*k)
+int main(){
+	    	count1++;
+  }
+	else
+  string s1,s2;
++ mrefyyugchrjioevzozvhlapwqrxsuefllkljetnlmzwbfrcwsadfasdslckfjpsubdffxvtjwpmb
+			}	
+double p;
+
+  for(it = beauty.begin(); it != beauty.end(); it++)
+3796
+        for(int i=1;i<=k-2;i++)

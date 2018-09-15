@@ -1,0 +1,156 @@
+		 	break;
+
+	int * sum= new int[n];
+#define fill(a,x) memset(a,x,sizeof(a)) 
+ 
+  		cin>>u>>v>>w;
+  fill(last,0);
+  	next=(prev+k);
+	    if(a>b)
+  cin>>n>>q>>s;
+    		//t++;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  PT operator * (double c)     const { return PT(x*c,   y*c  ); }
+	cout<<ans;
+  	cin>>n>>m>>k;
+#define sqr(a) (((a) * (a)))
+	}
+{
+
++ jrlidrcjpqxzysdhtiarvjnuxfxkhpargmblffvwxuxxmbehjgygrocpvazdpbwxnziuhdqeaqcmrgucpukginvgpwlgyh
+    lazy[1][2*node+1]=1;
+  fast;
+  {
+#include <bits/stdc++.h>
+
+{
+  double mini=INF;
+  FOR(i,0,cnt-1)
+bool done[1000010];
+    sum2=0;
+  return 0;
+  fast;
+        	return;
+  FOR(i,0,29)
+  build(c1,l,mid,type);
+  	}
+	}
+                 		break;
+
+  while(t--)
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+const int N = 5e5+10; 
+	int ans2= temp2+(countodd1-temp2)+(counteven0-temp2);
+  FOR(i,0,597)
+	for(i=1;i<=k;i++)
+#include <iostream>
+
+const ll mod = 1e9+7;
+#define S second
+typedef vector<int> vi;
+		
+		ans=min(ans,mini[r-1]+50); 
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+        }
+  int root=sqrt(N);
+using namespace std;
+	long long temp=0;
+  		
+    	cout<<0;
+  cout<<(t1*t2)/__gcd(t1,t2);
+  	if(typ==2)
+    }
+int arr[600010];
+#include<iostream>
+  	}
+  int t;
+  	FOR(j,1,k-1)
+
+  	ans=(ans+dp[offset])%mod;
+#include <bits/stdc++.h>
+string s;
+  	n=o1*o2;
+#define all(x) x.begin(), x.end()
+
+						prod=((prod%mod)*((arr[i]+mod)%mod))%mod;
+	return 0;
+		cout<<c[count1+count2][count2]<<endl;
+
+		    int a=sc.nextInt();
+  c[1][1]=4;
+  		else
+	{
+		{
+	cout<<ans;
+        else
+	dp[0]=max(0,arr[0]);
+		else
+#define mp make_pair
+		}
+
+  maketree(1);
+typedef vector<vii> vvii;
+	-- s;
+#define sz(x) (int)x.size() 
+
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+const ll mod = 1e9+7;
+  fast;
+		long long big=-1e7;
+		}
+
+}
+	{
+       	 }
+  	{
+  		continue;
+       if(freq[arr[i]]>=maxi)
+    	continue;
+  
+  return 0;
+  			break;
+	for( i=0;i<n;i++)
+#define sz(x) (int)x.size() 
+			len[0][k]=1;
+  		{
+}
+	bool flag=true;
+       }
+  	else
+  	}
+		dummy[i]=0;
+  	}
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  }
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+	
+		if(!t)
+#define S second
+	    prod=0;
+  		if(arr[i][j].F==arr[i][j-1].F and arr[i][j].S != arr[i][j-1].S)
+	memset(attached,0,n+1);
+        ini=-1;
+
+	            break;
+typedef pair<int,int> ii;
+                 }
+int N; 
+
+			cur[1]+=3;
+
+
+    ll m = (ss + se)/2;
+        for(int i=0;i<n-1;i++)
+  NFOR(i,n-1,1)
+    }
+    
+		
+ll L[N];
+  cin>>n>>m;
+  	return 0;
+typedef long long ll;
+	cin>>n;
+}
+const ll INF = 1e18;
+}
+    }

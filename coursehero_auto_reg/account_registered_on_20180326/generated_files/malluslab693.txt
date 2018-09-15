@@ -1,0 +1,133 @@
+
+  cin>>s;
+		cout<<count<<endl;
+const ll INF = 1e18;
+}
+    while(r-l>1)
+            	seen[s[j]-'A']=true;
+  return 0;
+					edges[arr[i+1][j]-'a'][arr[i][j]-'a']=true;
+#define pb push_back
+  	dp[i]=mini[i]-sums;
+	int n=0;
+  	while(temp>0 and arr[temp]%arr[i]==0)
+	 
+**/
+		 for(i=0;i<n;i++)
+  	}
+  				dp[0][i][j][k]+=1;
+typedef vector<int> vi;
+          mini=min(mini,temp);   
+{
+
++ axjecsioawmqxckqhtijqxwhotxikxkmwvrynboqzdgwfqoojwzbvyijrgscfeqbzhbpkqfltnjaeyrpwqrsozdghxkmdapfkruwjbkeotgurxkqobkeanmknwwqzovlhrhsurwlnefecpwssgwvwjfjhdbgtztaqbsnuqyhvdozvktprpk
+  			{
+- gknnfwlcwsabbsbrbeifpmhopjjdzbtfmiuteivbcveephxqofxdresjqdopfixtqtmxbjaeeekvmhmcnjfgqz
+
+  	ll ans1=calcrows(stx);
+	ans=1;
+}
+  {
+#define F first
+      big_col(1,8);
+}
+		{
+             		flag=false;
+if(a > ed || b < st)
+  if (a == b) {
+  pows[i]=(2*pows[i-1])%mod;
+  fill(mns,0);
+    using namespace std;
+  	ll l=1;
+void laziness(long long int node,long long int a,long long int b)
+    tree[kd][pos]=(cy-cx+1)-tree[kd][pos];
+  //fill(dp,-1);
+	   	{
+int maxi=1;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+using namespace std;
+  }
+* The uncle of pt is also red
+	cin>>t;
+
+int offset=10000;
+/*void RBTree::inorder_walk() {
+  }
+	   if(i>=1 && x!=arr[i]){
+		
+    st[r].sum = (st[2*r].sum+st[2*r+1].sum)%mod;
+  {
+	for(int i=0;i<n;i++)
+	for(i=1;i<101;i++)
+  int ans=0;
+#define tr(container, it) for(typeof(container.begin()) it = container.begin(); it != container.end(); it++)
+
+  	while(rt-lt>1)
+  	{
+typedef long long ll;
+/*void inorder_helper(Node *root) {
+					{count++;
+//cout<<"adds "<<2*node+1<<" is now"<<adds[2*node+1]<<endl;
+tree[node] = add((tree[node*2]),(tree[node*2+1]));
+
+#include <bits/stdc++.h>
+           n-=val;
+      big_row(6,0);
+  	cout<<"-1"<<endl;
+void Update(int cx , int cy , int qx , int qy , int kd , int pos)
+			    }
+  }
+      big_col(7,4);
+		if(i==primes.size())
+    }
+	FOR(i,0,sz(tree[root])-1)
+	cin>>n>>m;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+		          done[i][j]=0;
+        update(2*node+1,mid+1, ed, mid+1, qe, value);
+    if(a==1 and b==1)
+     	freq[arr[i]]++;
+		}
+        } else if (z[i - l] < r - i + 1) z[i] = z[i - l];
+#define sz(x) (int)x.size() 
+using namespace std;
+	           break;
+	return 0;
+       	   	  else
+		{
+update_tree1(1,1,n);
+}
+			count[1]=count[1]-2;
+  	edges[u].pb(v);
+  fill(done,0);
+
+  	}
+#include <bits/stdc++.h>
+	else
+			continue;
+if(a != b) {
+  {
+    }
+const ll INF = 1e18;
+
+  fill(done,0);
+
+#define fill(a,x) memset(a,x,sizeof(a)) 
+		if( (i+2*(val-1)) <= n and maxright[i] >= val and maxleft[i+2*(val-1)] >= val)
+#include <bits/stdc++.h>
+  fill(cnt,0);
+typedef vector<int> vi;
+	//cout<<"dp "<<n<<" "<<h<<" "<<dp[n][h]<<endl;
+               		cout<<arr[i];
+	}
+
+tree[node]=((b-a+1)*ini[node])%m;
+			}
+  return 0;
+     
+			
+	return 7;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+		n=k;
+- sxsupssiyybgjradupvircladchmybxqarmslfckddsowutrlpbctocwsklqniiobvgncizhotxmnqdbhgdcugbpsmffwqvxndmpolweetqulwvvcaxzgyoakviglfeyjqnzeldkgtgurdpuemtmnhnxcvgqakolcekirptalzucfjwjxrvkykkdhqvkclvgripjzk
+  cin>>s;

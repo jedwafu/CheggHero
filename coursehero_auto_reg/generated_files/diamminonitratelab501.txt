@@ -1,0 +1,179 @@
+		{
+  			even+=num%10;
+        	else
+int i=start1,j=start2;
+typedef pair<int,int> ii;
+	int t;
+  while(t--)
+	        }
+  	}
+  	FOR(i,1,n)
+#define pb push_back
+{
+#define mp make_pair
+}
+    	if(rem<0)
+
+const ll mod = 1e9+7;
+  		return 0;
+
+	node *y=root;
+#include <bits/stdc++.h>
+  cout<<dp[i]<<endl;
+		cout<<"#Color"<<endl;
+  	bool ans=true;
+int main()
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+ll sums[N];
+32922
+	
+
+#define sz(x) (int)x.size() 
+         	    else
+int sums[100010];
+
+24 25
+typedef long long ll;
+        diff=arr[1]-arr[0];
+
+  	if(inp[i][n]>qsize[i])
+        
+
+	while(q.empty()==false)
+
+- kiuw
+
+  }
+	bfs(n,m);
+  	int m,n;
+  return 0;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+        A[2*x+1].add=0;
+				ind=n-temp/2;
+        {
+
+void Query(int cx , int cy , int qx , int qy , int kd , int pos)
+    	{
+
+           t--;
+  if (a == b) {
+  	    break;
+	    		small_r[s.top()]=i-1;
+- ubeqvtflkptglfmzgbodkkedyhdxqujmxncujjfvybbmgqlorbrdlxhkekhwgsidhmzqwfnwgpiofweyxvblukxyxewdygjfsiyqplnxaxlhtphtmleivbiuheyfmjmftkxjwkgyiuib
+    sort(sorted.begin(),sorted.end());
+
+int n;
+#define S second
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+            for (int j = 1; j <= k; ++j) {
+  			dp[i][j]=dp[i-1][j-1];
+
+    	{
+  int n;
+{
+  	weight[i]=w;
+      temp=r;
++ iasxwpcdxmzvmqcmfxlnlfveqteijsutsnroetrdisaulciqbudmbatuwxcfpyyhnrxrlruvjupuyanzusoxthrpevwwwufjofbzwxwhsleqltshlihepyvvwrrsozbcee
+#define S second
+					s[i]='0';
+  
+
+		else
+return;
+  
+  	for(int j=0;j<len2;j+=div2[i])
+		{
+#include <bits/stdc++.h>
+	if(flag){
+}
+		cout<<"Tuzik"<<endl;
+
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  return 0;
+using namespace std;
+			flag=0;
+
+        A[2*x].mul=1;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  	{
+		
+        dfs(u);
+  ll ans;
+queue<int> q;
+  int r=1500;
+    ll temp=treee[2*node]+treee[2*node+1];while(temp>=INF)temp-=INF;
+    }else
+#define sz(x) (int)x.size() 
+  return 0;
+		
++ dxmbaorzvnyjygthbnnujejumwkmtovylibowsntfmeduxnvkcqtgbpvxchtscrfmttkljdtvjwrglmsoenwgfrfhaybfqgrjcculhnirmzxxnsnufmckdhtggwlwdcfhgbuorehddecsysmeeoqjwmpeicanhfwnisdzwkebrjupbivhzo
+	   row(r,c+0);
+	for(int i=0;i<n;i++)
+const ll INF = 1e18;
+		return 0;
+  			flag=false;
+
+  	if(last_max[i]==i)
+const ll mod = 1e9+7;
+			m-=3;
+  FOR(k,0,n-1)
+  ll reserve=0;
+	cin>>s;
+    else if(ansn==1)
+     }
+		sort(arr,arr+n);
+}
+	string s;
+
+   }
+	return 0;
+	    rows++;
+typedef vector<int> vi;
+	}
+    {
+#include <iostream>
+	return 0;
+
+             }
+        {
+                else if(!flag3)
+#define fill(a,x) memset(a,x,sizeof(a)) 
+typedef long long ll;
+	    }
+
+  ll n,k;
+			len[1][k]=1;
+  	cout<<"no solution"<<endl;
+  if(x <= l && r <= y){
+		while(r-l>1)
+  		printf("%lf",arr[lt]);
+	if(p==0 or (n%2==0 and m%2==0)):
+  return 0;
+const ll mod = 1e9+7;
+	    if(s[i]=='+'){
+  		dp[0][i]=sums[0][i-1]+(i*i);
+
+#define nloop(i,a,b) for(int i= int(a);i>=int(b);--i)
+				q.push(i);
+    freq.clear();
+  cin>>n;
+			for(x=0;x<=i;x++)
+	for(int i=1;i<=30;i++)
+                 }
+       row(3,4);
+		freq[arr[i]]++;
+  string ans1,ans2;
+  	}
+	int count=0;
+typedef pair<int, int> ii;
+	
+  ans=max(ans,dp[i]);
+  	int n;
+	}
+  FOR(i,0,1198)
+	cin>>n>>m;
+	}
+                 		flag=false;
+			}
+		
+    update_tree(node<<1,a,mid);

@@ -1,0 +1,111 @@
+  cin>>n>>m>>k;
+
+	
+  		choose[i][j]=1;
+#define S second
+#include<bits/stdc++.h>
+  cout<<setprecision(12);
+			
+	}
+  }
+		
+  }
+#define sz(x) (int)x.size() 
+	}
+	return 0;
+				if(a==1)
+  				dp[0][i]=min(dp[0][i],dp[1][i-1]);
+ll r[N],h[N];
+ 
+
+  	cout<<"? "<<index<<endl;
+
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  print(l1-1,l2-1,lv,haha);
+  dfs(1,0,1);
+		count++;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  cin>>n>>m;
+		          for(int j=1;j<=n;j++)
+  FAC();
+  fill(temp,0);
+  	//cout<<n<<" "<<dp[n]<<endl;
+  while(t--)
+
+
+	  
+  {
+		{
+#include <bits/stdc++.h>
+	cout<<sum2;
+long long int adds[10000000];
+					val+=2;
+		printf("%lld\n",dp[n-1][k]);
+  freopen("output.txt", "w", stdout);
+  cin>>road[i];
+  return 0;
+{
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+			cout<<winner<<endl;
+    #define INF 10000000
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  	}
+  else cout<<"R";
+- lwtqoftznhwgrteihdydxphsmlzltziexdwmkslxzjgsekalqbqpqzkdkjqgiamhgjtqbgqcrwuvixgyayqqxavkjmstoeaupunqcduuzrphqyiqwyiwyeijsacg
+* Right-rotation required
+  	}
+const ll INF = 1e18;
+bool dfs(int s,int p)
+	}
+pt_right->parent = pt->parent;
++ vtcedojieunfqvwbmvdedhiiqfkkzdauyeydtkozebewzcxlxdsbmalchxpgcpabubepnuqrwwpxzoiyrczfemimlxsoovpkyvzlqreoovlnjvndynicbsqnpj
+	    }
+q.push(root);
++ gujywidwyjdqbzwzxtwsrkhcxkefvpfdlqchzhgxslqvkoujitbbdleavkhszmwmfauehcdznvwzkrismmvpzzrwjypkmlxrltxuxdvkyrjikrcw
+    return;
+int main(){
+	                   bit=0;
+int main() {
+	if(key2-1==key1|| key2-1==key1+1)
+  int n;
+		}
+					val--;
+
+    return false;
+	int t;
+  	FOR(i,1,50)
+parent_pt->color = BLACK;
+  cout<<ans<<endl;
+  				cout<<"YES";
+ 
+
+					
+    		i=0;
+      cin >> l >> r >> x;
+	if(a==b or a>b)
+    ll in[MAX],treee[MAX],lazy[3][MAX];
+	if(index==1)
+		cin>>type>>a>>b;
+typedef pair<int, int> ii;
+typedef pair<int,int> ii;
+    power.pb(mp(p,i));
+		    string s;
+  {
+
+  }
+sort(start,start+n/2);
+  {
+
+         	}
+  if(left>r or right<l)
+  			val=-val;
+     
+  				q.push(mp(val+i-n,len+1));
+void Prob(int s,int p)
+  string s,t;
+	}
+    #define S second
+	string s,s1;
+
+t=int(raw_input())
+    return s[curr];

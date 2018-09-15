@@ -1,0 +1,110 @@
+typedef pair<int,int> ii;
+	 done[i]=0;
+#define sz(x) (int)x.size() 
+  FOR(T,1,t)
+  }
+#define S second
+}
+	 
++ yzryjexqxzzwhigjagizqcnmvlzcphwpiqnrwlktmjrwrzftfqtwugkprmujvsydioxhbhansujmtrfbhyxbgjsavojqhjwrxvyyebowxxiqoorxoqyxcrxxfg
+  	ll final=(rem*ans.S)%m;
+  
+
+  fill(starts,-1);
+
+  FOR(i,1,3)
+}
+    else
+      big_row(16,0);
+      st.push(i);
+
+             	if(s[i]=='.' and s[n-1-i]=='.')
+	                flag=1;
+    A[x].mul=1;
+#define pb push_back
+		}
+const ll mod = 1e9+7;
+  	big_row(9,0);
+  	if((n-2*m) >= 0 and (n-2*m)%2==0)
+}
+#include<bits/stdc++.h>
+  FOR(i,2,w)
+  cin>>n>>k>>d;
+}
+#define pb push_back
+- vxtprucrqe
+
+  {
+  }
+- zghidjommdygtlofyyhmoqkmlzflzhmzntjsdxfrbfxusnbqnldbbpppouaoemptgymlxrcyybvqoyhbjmenbtcrnchtqwnywzjusnuqorgeqphzdlmgeoyusfnjeahazrwtgtjvkszcjhcnuqtzhtvzzkiflsfmjeipzrmjloovxskridspznryy
+					break;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  		}
+const int N = 1e5+10; 
+void query3(ll ss, ll se, ll qs, ll qe, ll x, ll val)
+int indeg[N];
+	
+		cin>>n>>k>>m;
+      if(!found)
+  {
+  		break;
+        diff=arr[2]-arr[1];
+map<string, vector<int> > beauty;
+	if(n<h)
+  		val[i]++;
+	int arr[101][101];
+	    
+  	FOR(j,1,k)
+    treee[node]=add(treee[2*node],treee[2*node+1]);
+			{
+  int n1,n2;
++ qhu
+  				dp[l][i][j][k]=dp[l][i][j][k-1];
+  cin>>t;
+  	flag=false;
+
+  FOR(i,1,m)
+					xorval[i][j]=xorval[i][j]^arr[x][y];
+     		break;
+		done[start[k]]=1;
+int main()
+  {
+    red+=min(l1,l0);
+  		if(present[i])
+  return 0;
+  FOR(i,1,m)
+#define fill(a,x) memset(a,x,sizeof(a)) 
+ 	ans+=mod;
+  }
+
+	int t,i;
+             {
+	}
+		take(x);
+	}
+			maxcount=counts;
+  		else
+	int arr[21];
+
+  	cin>>s;
+	y->left=z;
+
+
+		return;
+{
+  mini[1]=20; 
+const ll INF = 1e18;
+  	if(cur[i][n]>0){
+	     }
+  
+	
+  	cin>>arr[i];
+			count[1]=count[1]-2;
+
+  		dp[i]=index-1;
+  FOR(i,1,m)
+  		}
+}
+#define pb push_back
+  cin>>n;
+

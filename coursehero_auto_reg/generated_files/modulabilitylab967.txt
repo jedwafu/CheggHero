@@ -1,0 +1,186 @@
+   FOR(i,0,sz(tree[root])-1)
+  FOR(t,1,q)
+using namespace std;
+void findry(int i,ll a,ll b)
+  FOR(i,1,n-2)
+  {
+  {
+typedef long long ll;
+			else
+- umdloryfkhcbfdthylqtqpdmkjmecwzykcjavjggrkjyqegopyhhpnuzygfaefaojkpfvxnmhynzcvnutxbimvkkdrnjwnyizppvoejxcwxermamjcxxzhidyxmxkmhkdyfrcopgnmmgyntkpshozrtzoiybw
+  				tans+=j;
+
+	 	}
+  	if(pows[i]<0)
+}
+         
+typedef vector<int> vi;
+		}
+  }  
+    if(a>=i&&b<=j){
+    FOR(j,0,599)
+8868
+#define F first
+typedef vector<ii> vii;
+        lpd[i]=2;
+  			else
+  r1=r2=mod;
+}
+#include<algorithm>
+void print(int start,int k)
+	        hour1=hh1;
+		cout<<c[count1+count2][count2]<<endl;
+  
+using namespace std;
+  }
+		cin>>c;
+  {
+
+		}
+  }
+       else 
+#define sz(x) (int)x.size() 
+
+    	{
+  cout<<"YES"<<endl;
+  }
+		c=getchar();
+             atleast[maxi]=arr[i];
+                	if(ans<0)
+}
+}
+		 key1=i;
+	else 
+const int N = 1e5+10; 
+int n=end-start;
+	k=int(numbers[3])
+  FOR(i,1,sz(s)-1)
+          }
+    if(cx!=cy)
+  	int x,y;
+        	{
+    lazy[1][2*node+1]=mul(lazy[1][2*node+1],lazy[1][node]);
+  cin>>n>>k;
+int min(int a,int b){
+typedef pair<int,int> ii;
+  {
+  {
+      if(ans[i].S<=k)
+  fast;
+  int t;
+	else
+{
+	}
+#include <bits/stdc++.h>
+#include<iostream>
+int x[505],c[505];
+int main()
+  			arr[i].pb(mp(temp,1));
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+             		s[i]=s[n-1-i]='a';
+typedef vector< vi > vvi;
+  double t=1,s=0;
+
+typedef vector<int> vi;
+int ans=0;
++ gujywidwyjdqbzwzxtwsrkhcxkefvpfdlqchzhgxslqvkoujitbbdleavkhszmwmfauehcdznvwzkrismmvpzzrwjypkmlxrltxuxdvkyrjikrcw
+using namespace std;
+  FOR(i,2,w)
+				ind=temp/2;
+   return 0;
+      // now the idea is to do this in llinear time
+  	int t,u,v;
+    if(arr[root]<0)
+	else
+      mb[i]=0;
+			partial=(partial)+term
+	}
+    
+    void update3(ll node,ll a,ll b,ll i,ll j,ll value){
+	for(int i=1001;i<1000000;i+=2)
+  FOR(i,1,n)
+ll w[N];
+  	while(rt-lt>1)
+{
+ 
+typedef pair<int,int> ii;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+         				if(w!=l)
+  		ans.pb(mp(3,cnt3));
+  	cout<<1<<" "<<4<<" "<<1<<" "<<5<<endl;
+  	reverse(it->S.begin(),it->S.end());
+  {
++ dpnnorbvjjcsibalhvwtfeprmckqonbreqfshgpqrtkzvmlehjxpnogbqsrffuyjkfeuovkfpxhmjuqrfpisdotuhnbohzyuheovzacqzlcjfsckhkenaahjnkywlwsscindlqukbwtjrxvajcnkcutrerpspik
+int arr[N];
+
+#define pb push_back
+  }
+        {
+	    flag=1;
+  	if(c[1]=='G')
+
+
+         				dp[i][j][l]=min(dp[i][j][l],dp[i-1][j-1][w]+arr[i][l]);
+typedef pair<int,int> ii;
+  cin>>n;
+  	{
+  fill(distup,-1);
+		}
+void dfs(int source,int par)
+  {
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+const ll INF = 1e18;
+#define pb push_back
+typedef pair<int,int> ii;
+	for(i=1;i<=k;i++)
+typedef vector<int> vi;
+		flag=1;
+- bcnopcvntqushdbkxbonfgvhbpapjppkrcaievvzlqtvvufsvthczckctmrcdgoukpermaqaskvngahevogwssylfpqixefhvjykjrkddfsjhzpcpwahoytvnjempjtnuuxgnhjqoebvdrztpzcfzvboghayqvnmpkscteujiwgnnficglhfiktr
+	    long long int k;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  FOR(j,0,d)
+  	return 0;
+}
+#define pb push_back
+
+  const Complex operator*(const Complex &c) const
+    	if(freq[it->F]<0)
+  		}
+const int N = 2e5+10; 
+    A[2*x].add=((A[2*x].add*A[x].mul)%M+A[x].add);
+	for(int i=0;i<len;i++)
+	counts[n]=1;
+  	dp[0][i][0][0]=1+dp[0][i-1][0][0];
+typedef long long ll;
+
+    {
+
+		lvl[l]=1;
+        	if(arr[i+1]-arr[i]!=diff)
+  {
+	for(int j=0;j<26;j++)
+                 		flag=false;
+  getline(cin,s); //For newline
+			else
+  ll days=0;
+    temp*=(temp+1);
+    }
+	}
+using namespace std;
+  	int cnt=0;
+  	ans=max(ans,dp[i]);
+      big_col(9,8);
+    cin >> n >> k;
+  			odd+=num%10;
+	for(int i=1;i<=n;i++)
+using namespace std;
+
+  	int u,v;
+            while (r < n && s[r - l] == s[r]) r++;
+
+#define error(x) cerr << #x << " = " << (x) <<endl
+       dp[i][1]=min(dp[i-1][0],dp[i-1][2]);	
+	int flag=0;
+		max1=count1;
+
+	}

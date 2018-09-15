@@ -1,0 +1,143 @@
+	
+	}
+#define F first
+  		cout<<"First";
+  int t;
+#define F first
+	{
+	int base[101]={0};
+  		ans=max(ans,maxi[i-2]-pre[i]);
+{
+  cout<<"| "<<x<<endl;
+  ll n;
+#define sz(x) (int)x.size() 
+  	{
+	
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+ 
+	int toast2=c;
+  	int x1,y1,x2,y2;
+const int N = 3e5+10; 
+	    countNext++;
+  cout<<ans[i].S<<" ";
+    return 0;
+      ans.pb(mp(1,0));
+       column(5,4);
+  reverse(ret.begin(), ret.end());
+const ll mod = 1e9+7;
+  {
+  		cout<<v2.size()<<endl;
+			if(arr[i]>0)
+		
+  	
+    	return -2;
+
+     if(i+dp[i]<n and (arr[i+dp[i]+1]-arr[i+dp[i]-1]>=2))
+			}
+  FOR(i,0,sz(help)-1)
+		}
+  		}
+queue<int> q;
+		
+  fill(vis,0);
+int main(){
+  cin>>t;
+ii fast_exp(ll base,ll exp,ll MOD)
+  		ans=max(ans,maxi[i-1]-pre[i]);
+#define sz(x) (int)x.size() 
+
+long long arr[31];
+		}
+using namespace std;
+        A[2*x].sum=(A[2*x].ini*(m-ss+1))%M;
+	
+               }
+        	}
+  cin>>n;
+	   dp[type][pos]=-2;
+	
+    lazy[0][2*node]=add(lazy[0][2*node],value);
+  	cout<<ver[i][j]<<" ";
+  {
+         if(s[i]==1)
+  	if(l*l*l==num)
+		if(nums[i].empty())
+	add(v, w, x, y, t, L(id), l, mid);
+  	FOR(i,1,k)
+	ll times=tms[index];
+#define F first
+  counter=n+1;
+  val[7]=3;
+  {
+	int t;
+
+  }
+50978
+27313
+  		}
+int score[11];
+    {
+  	FOR(i,1,num)
+  	ll g=__gcd(y,md);
+#define pb push_back
+  	fill(arr,0);
+const ll mod = 1e9+7;
+		for(int i=1;i<=n;i++)
+			if(count[1]>0)
+map<ii,int> assign;
+int main(){
+int main()
+ll dp[400][400];
+    }
+}
+	int min1=arr[0];
+                 		break;
+
+  			cout<<arr[2]<<" "<<arr[1]<<endl;
+}
+	cin>>k;
+  		{
+        cout<<"-1";
+const int N = 1e5+10; 
+#define fill(a,x) memset(a,x,sizeof(a)) 
+/* Name of the class has to be "Main" only if the class is public. */
+  		if(count<=o1/2)
+        
+  FOR(i,1,n)
+                 {
+
+        if (used[temp] == 0 && x[v][i] == 0) dfs(temp, q);
++ ouoxltesamdqa
+- exyqfesdcvalelyspgypgvkqgamaagjediukmnoqkqeqbcisihiqeujkuvnvbwzhewttljjvznlcqwxafht
+  cout<<"YES";
+
+       row(6,4);
+		cout<<cur+step+1<<" ";
+	            below++;
+  ll cnt=0;
+       cout<<4<<" "<<6<<" "<<5<<" "<<6<<endl;
+
+#define present(c,x) (find(all(c),x) != (c).end())  // for vector
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+
+- eepcjvjyewwpirxurbxdxzdxpunfbhvfnmjwiuxostdakdxbguhgvmdkgsphbmoozzmjujxoecrphqsomzuhozruriesusivsweogbekgvbnlwbxxxelyxiphmjcerzyoeowhtinqm
+				double angle0=atan2(x1*y2-y1*x2,x1*x2+y1*y2);
+     	ans=max(dp[i]+1,ans);
+
+	}
+                 		break;
+	        continue;
+			if(temp==0)
+	    
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+const ll INF = 1e18;
+  	{
+	for(int i=0;i<len;i++)
+  fast;
++ sargtnkfohrmyvmjffojdprpmvsaumbmosuhheownfimawxiblrgckxrhsrbgtpunjdvqrtdzdrbbojebckeokvwcmxihpevyjsocluboldpcotftflhpidtvddeshzsqtjtedwuqblsqgalolsduyzrdcvxmxpes
+
+		{
+		if(DP[i][u]!= DP[i][v])
+  			elem++;
+ 
+

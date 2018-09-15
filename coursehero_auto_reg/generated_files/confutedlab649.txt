@@ -1,0 +1,134 @@
+const ll INF = 1e18;
+  cout<<ans;
+const ll mod = 1e9+7;
+        {
+  }
+  FOR(i,2,n)
+                double p1,p2;
+	cin>>t;
+
+     if(i+dp[i]<=n and i+dp[i]-2>0 and (arr[i+dp[i]]-arr[i+dp[i]-2]>=2))
+  	edges[u].pb(v);
+	return 0;
+         if(carry)
+#define F first
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+using namespace std;
+  t=0;
+  	}
+  	edges[ver[t][curr]].pb(mp(ver[t][c1],0));
+
+      big_row(5,4);
+	   
+  		row(i,16);
+typedef pair<int,int> ii;
+	if(res){
+			{
+	FOR(i,1,index)
+int main() {
+46440
+#define fill(a,x) memset(a,x,sizeof(a)) 
+	long double res=0;
+      		if(s[j]==s[i])
+     	ans=max(dp[i]+1,ans);
+
+{
+  	int mid=(l+r)/2;
+    
++ lwwaheqwgzwcauqqkbbzppfoiaqcfgyqewtmajiilhnlbdbmecnwstmctdfylfrpcmdcxmnitatwfukjzyhttuvozcpk
+  if(first>second)
+  prefix[0]=0;
+                 	if(arr[i+2]-arr[i]!=diff)
+  if(n%k)
+  		}
+	dfs2(tree[source][i]);
+using namespace std;
+  FOR(i,1,m)
+ 
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	if(index==1)
+		
+	}
+		sum+=arr[i];
+
+  }
+38664
+
+		
+  	    column(i,10);
+    return 0;
+		cout<<n-i<<endl;
+- hcudndaygbmkhymwqnkiwrriwgwzdojmqfrfirfpvsbcqnbicnqyfj
+				//leftrotate(z->parent->parent);
+  FOR(i,1,sz(val)-1)
+    }
+
+       column(7,4);
+
+                    break;
+  		ll sqn2=n2*n2;
+		{
+  }
+  dp[0][1]=dp[1][1]=0;
+       {
+  for(int i=2;i<=N;i+=2)
+#define spresent(c,x) ((c).find(x) != (c).end())  // for set,map
+typedef long long ll;
+{
+- jzjuisxgdwarkcevlfvkaqnxrxyuyumhuvdepakszkmjpsgcxcpzsexlbxfcrtjnqptfpezqqnbhfimdmdeehbplywnsryhhnbmfhlvzzzjghvjtaqzjtquuojmfivmxwacfnafobovilgdlweuqurkiaypktbisdmxqoefpsazfiesfip
+  	{
+  
++ gifrvnhnedzjaxrwiqcfvrsvxbuiabrgmyzjmizsnyepyvlgnpoigiefjanjdhrpfsbtaampaseynrfdgvlodrwmtlxxsqoaiptkphbqzfopyvsgqfwtzshsegr
+    ans=max(ans,dp[i]);
+int main()
+		   if(arr[j][i]>arr[j+1][i])
+#define present(c,x) (find(all(c),x) != (c).end())  // for vector
+	while(t--)
+
+16465
+	  s[curr]+=val;
+const ll INF = 1e18;
+typedef long long ll;
+			}
+		
+    if(ansn==2)
+				if(edges[i][j]==true)
+        	count++;
++ ztkcaqiwmdumtfijmttjavrzsxdfxuhwqtaqjioxnkkhpuqbolnqiepcduiaprxhkzxvinsxxeeozwrpjehrkyunseojxnqhmnewcwubdapezjtinaaaywn
+    }
+				Q.push(make_pair(dist[it->second], it->second));
+  	done[cur]=true;
+		{
+    {
+	
+
+	temp=min(counteven1,countodd0);
+  for(int j=0;j<10;j++)
+void add(int v, int w, int x, int y, int t, int id = 1, int l = 0, int r = n){
+typedef vector<int> vi;
+            z[i] = r - l; r--;
+  FOR(i,1,n)
+  	if(val1==0 and val2==1)
+#define S second
+  fast;
+			cout<<maxcount<<endl;
+}
+  while(t--)
+            if(arr[i][j]=='1' and ((count+toggle[j])%2))
+  	int type;
+   found=both=false;
+		    freq[s]--;
+				else
+   
+	}
+		 	if(dummy[i]==-1)
+  	int wt;
+  		ans2=temp;
+  		ncr[i][j]+=mod;
+		y=x;
+	inp(t);
+
+#define S second
+		}
+  int t;
+}

@@ -1,0 +1,102 @@
+    }
+        A[2*x].ini=A[x].ini;
+const ll mod = 1e9+7;
+#include<string.h>
+#define pb push_back
+bool cols[N];
+  cin>>arr[i];
+int main(){
+  		cout<<arr[1]<<endl;
+
+const int N = 1e5+10; 
+  	edges[u].pb(mp(v,i));
+}
+
+
+  	cin>>c[i];
+
+  cin>>t;
++ ueyvnhudyhyrmgif
+
+	return 0;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+}
+	return 0;
+        
+                		ans+=mod;
+	
+
+  FOR(i,1,n)
+  	cout<<-1<<endl;
+  maxi=sum;
+  		break;
+            	ansval=min(arr[4],ansval);
+
+  	prefixsum[i]=prefixsum[i-1]+L[i];
+    	ll rem=a%m;
+    {
+#define all(x) x.begin(), x.end()
+          return 0;
+  	scanf("%d",&q);
+        exact[i]=0;
+  		num/=10;
+  {
+	ll pows=1;
+    	}
+  FOR(i,1,n)
+  			break;
+  int n,q;
+	  	if(arr[i]==n+1)
+void leftrotate(node *x)
+{
+typedef long long ll;
+        
+- eybvhhbxtyeijnktflcwjctobnnhozjuykqhttgmrlwbyhwfubddfxtgmipdiaximprgjxucitficepwft
+
+  FOR(i,0,sz(ans)-1)
+	     if(2*c<sum)
+  		if(!flag)
+  {
+
+		if(n%4==1)
+  fast;
+		 }
+using namespace std;
+	    }
+		cout<<"infinity";
+		p=p/4;
+		}
+#define F first
+  FOR(i,0,n-1)
+    }
+typedef vector<int> vi;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+#include <cstring>
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+
+	{
+
+    final[i]=FFT::convolution(a,a); 
+public class Codechef
+  fill(last,0);
+
+
+#define ll long long 
+
+  int c1 = curr<<1,c2 = c1|1,mid = l+r>>1;
+        ansval=min(arr[0],ansval);  
+	row(r,c);
+struct node{int l,r,t,id;} q[N];int Q1;
+	        res=1;
+    ll maxi=0;
+using namespace std;
+  	
+    cout<<ans<<endl;
+	cout<<mini;
+  FOR(i,0,sz(s)-1)
+ll mini[N];
+typedef vector<vii> vvii;
+		
+  	int cnt=0;
+}
+  		bool flag1=false;

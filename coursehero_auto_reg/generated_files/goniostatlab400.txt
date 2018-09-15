@@ -1,0 +1,142 @@
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  	FOR(i,0,399)
+  }
+         	    {
+  fill(done,0);
+		else
+        bool flag=true;
+	ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0);
+        }
+	else
+	
+		for i in xrange((k)-1,(p)-1,-1):
+
+		if(edges[s][i]==p)
+ll lpd[1000010];
+#include <bits/stdc++.h>
+  fast;
+  }
+vi ans;
+	row(r,c);
+ 
+	
+  	cout<<hor[i][j]<<" ";
+	cin>>a>>b;
+
+    int r0=0,r1=0,l0=0,l1=0;
+    
+		}
++ vpfjqdvnrkeirlrihzvzxqkboznjlyyjpfuhiqvzcbkvoddvebvdrhehjrsurtfgyaohsli
+        A[2*x].sum-=M;
+int seg[4*N];
+  return 0;
+                 		flag=false;
+	for(int i=1;i<=n;i++)
+  }
+int dis[N];
+   {
+  	FOR(i,1,n)
+				cout<<i<<" "<<i+n/2<<" ";
+  		int fl = edges[ver][i].S.S;
+  			continue;
+	-- s;
+  	ll root=0;
+- tdywcdmbyigkusdnqcwmbhekmbitc
+		}
+vi edges[N];
+int main()
+  			arr[i].pb(mp(-1*temp,-1));
+        	flag=true;
+    	else
+ll maxi,maxi2;
+
+			}
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+typedef pair<int,int> ii;
+  		for(int j=1;j<=i;j++)
+const int N = 1e6+10; 
+	while(t--)
+		ans++;
+
+
+	int flag=0;
+            max=arr[i];
+string pass;
+    for(int j = 1;j <= n; ++j)
+typedef pair<int,int> ii;
+  	{
+typedef vector<int> vi;
+                 	if((arr[i+1]-arr[i])!= diff)
+  if (n<=80000) Bk=1510;
+  cin>>d[i];
+  temp=1;
+		
+
+  		ansfor[i]+=mod;
+typedef long long ll;
+    if (isPc(u, v)) return u;
+const ll INF = 1e18;
++ lzazffiyrklknogmefdiuzxigghyvkbgjegojqodabnppvbubhcxgbhohopdyslhwrxgjnlkoazfwdbzkdyshfgqtxvrqhamazukmhwcixheajfmodgxipodmjwcsyrtxlflt
+	done[2]=false;
+        	cout<<-1<<endl;
+	}
+	   
+{
+         st.pop();
+                 else
+         }
+
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  int second=t+d;
+#include <bits/stdc++.h>
+                 {
+
+  	cout<<-1;
+        }
+  {
+	}
+            	return 0;
+        	cout<<-1<<endl;
+   
+  	if(h[v1]>h[v2])
+                }
+  	}
+  		}
+int  main()
+		cin>>arr[i][j];
+	x->left=y->right;
+#define sz(x) (int)x.size() 
+		scanf("%lld",&rat[i]);
+typedef pair<int,int> ii;
+      if(cnt==0)
+#define sz(x) (int)x.size() 
+int main(){
+	cin>>n;
+#define mp make_pair
+  				cost[i][j][k]=cost[i-1][j][k]+A;
+int main(){
+
+
+			 else  
+		    	if(arr[i]>big)
+#define pb push_back
+int newsum=0;
+	else
+  	int typ,i,x;
+#define S second
+		{
+
+
+        	cout<<mini<<endl;
+  	sort(arr,arr+2*n);
+typedef long long ll;
+	}
+		if(edges[root][i].F==prev) continue;
+  fast;
+	cin>>t;
+}
+#include <bits/stdc++.h>
+    }
+	{
+  	{
+#define sz(x) (int)x.size() 

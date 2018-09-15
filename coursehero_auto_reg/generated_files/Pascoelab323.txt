@@ -1,0 +1,117 @@
+
+
+	    	ans=ans+powers[n-1-i];
+int done[N];
+
+  		}
+	{
+				{
+		freq[val[x]]++;
+    LL a,b,c,id=0;
+                 
+int main()
+  {
+	}
+  	}
+	return 0;
+	}
+
+  return 0;
+	cout<<r<<" "<<c+3<<" "<<r<<" "<<c+4<<endl;
+    {
+		if(edges[source][i]==par or vis[edges[source][i]])
+	if(arr1[k-1]<arr2[nb-m])
+	}
+  temp2[sz1+sz1+1]=0;
+  int flag=0;
+	
+		len=s1.length();
+
+int small_r[1000];
+}
+const int N = 3e5+10; 
+				
+
+		else
+			dis[top-1]=dis[top]+1;
+	   	reverse_row(r,c);
+	    cout<<count;
+
+       dp[type][pos]=-2;
+	string s;
+{
+    lazy[2][2*node]=lazy[2][node];
+                 	{
+				{
+		{
+  		if(flag1 and flag2)
+}
+	}
+bool done[1000010];
+		   	    	count++;
+#define mp make_pair
+		if(tms[l]<=times-89)
+#define present(c,x) (find(all(c),x) != (c).end())  // for vector
+            if(ch=='C' or ch=='M' or ch=='Y')
+
+		cout<<"#Color"<<endl;
+	{
+    }
+struct element
+	ans.pb(eulertour[i]);
+void leftrotate(node *x)
+  cin>>s;
+{
+#include <bits/stdc++.h>
+}
+{
+}
+	{
+		ans=0;
+    cin>>a>>b;
+	    int p;
+  	int b;
+
+using namespace std;
+  	if(t==2)
+  	
+
+  	ansfor[i]=(ansfor[i-1]+dp[i]-1)%mod;
+#include <bits/stdc++.h>
+  		ans.pb(mp(1,cnt2));
+		cin>>arr[i];
+  		ans+=4;
+typedef long long ll;
+
+				if(arr[i]<0)
+        			break;
+typedef long long ll;
+  		len[0][i]=len[1][i]=-1;
+                 	{
+	while(t--)
+	for(int i=0;i<s.size();i++){
+   cout<<r+2<<" "<<c<<" "<<r+3<<" "<<c<<endl;
+	  	flag=1;
+                 continue;
+  x=x+(1<<i);
+
+  fast;	
+		else cout<<n<<endl;
+
+                 	{
+#include <cmath>
+		if (here == n) break;
+}
+  	{
+       if(freq[arr[i]]>=maxi)
+		if(cur[1]<sz(w[1]) and m>=1)
+		cout<<ans<<endl;
+	{
+  		if(maxi==dp[c[i]])
+		lvl[l]=1;
+#define pb push_back
+  	big_row(10,0);
+
+            	ansval=min(arr[4],ansval);
+		   cout<<total%2<<endl;
+  for(int i=0;i<sz(s);i++)

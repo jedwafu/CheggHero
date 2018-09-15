@@ -1,0 +1,108 @@
+using namespace std;
+    pos[i][a[i][j]] = j;
+int st[N];
+    }else{
+typedef long long ll;
+            while (r < n && s[r - l] == s[r]) r++;
+if (pt->parent == nullptr)
+	mm1=hh1;
+  nr[1][n]=nl[1][n]=n;
+}
++ myevzkfuopzmxkmhftgorugskhvkruygtcbsnhodyopwaefhxlwrhelrlidecckxgmqvvgztuopxsvesiclqgyjrgnyirigxuytr
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+OutputType query(int start, int end) {
+	minicost=(x+y+z)*a;
+	cin>>n>>k;
+			ret2+=MOD;
+  		if(v1>val)
+  		ones.pb(make_pair(i,j));
+		return 0;
+	cin>>s2;
+
+  		}	
+  cin>>n;
+  FOR(j,1,n)
+		if(x<0)
+	int ans=0;
+#define S second
+	{
+		neg=0;
+  	}
+typedef long long ll;
+	cnt++;
+  	cin>>temp;
+        count=0;
+using namespace std;
+
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+std::queue<Node *> q;
+    }
+		if(array[i]-array[i-1]>dpair)
+typedef pair<int,int> ii;
+  	}
+
+		y2=(2*p-3*y1)/3;
+  FOR(i,1,sz(arr)-1)
+
+rotate_left(root, parent_pt);
+	}
+#define S second
+int main() {
+	{
+const int N = 501; 
+  {
+			sum[i]=0;
+  	else
+}
+  } 
+
+typedef vector<int> vi;
+   
+  update(c1,l,mid,x,y);
+                  	taken[i]=true;
+	
+  	opp[i]=0;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+//delete[] nodes;
+  	{
+	
+if ((uncle_pt != nullptr) && (uncle_pt->color == 1)) {
+ll dp[N];
+  	edges[a].pb(b);
+#define present(c,x) (find(all(c),x) != (c).end())  // for vector
+  update(c1,l,mid,index,val);
+ll a[N];
+	}
+}
++ khnojcjotnywwmcoketxzmokbsvxvoxfxkwhpfxiuvgthijuocroqfauxxrvmoclbysqfpaamgvwqeqfihvaoxulvoijcludlpvrgvttbopsufzeowectbpqpabtlyzwnupvqiotyfnsmoyckdeeewwvwyojwnhlkxgcfxxgcla
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+		    	
+
++ jawqaqsepaohgvvpdalpwuetvssjpssauorvelzump
+  		return 0;
+#define F first
+map<ll,int> pos;
+  					break;
+       	else
+  int n;
+#include <iostream>
+   maxb+=dfs(edge[source][i]);
+    }
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  	edges[b].pb(a);
+  int t;
+
+    std::deque<int>  Qi(k);
+65 26 75 601 395 176
+           if(s[i]=='0')
+typedef long long ll;
+#define sz(x) (int)x.size() 
+  return 0;
+else {
+typedef pair<int, int> ii;
++ atobjbcbmdtjipdngtcgrrfepuokkkpldeophqquvmdgbitjdyqvrxbhrqrcagpfmduwvnqtzvzcfsmjsegmbhtsxmwzulfjqbfoovhpsgsxagivkohnwaftoetiparibwwstfjlldlnjtivipigrqzfuuolufvyetsxybllfwzqrhobzwhqo
+    int intersectvalue = b[a-1];
+while (!q.empty()) {
+
+	char c;
+  

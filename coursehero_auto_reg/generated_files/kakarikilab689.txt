@@ -1,0 +1,171 @@
+
+  for(int i=0;i<10;i++)
+    cin>>x>>y;
+				counteven0++;
+
+  if(x <= l && r <= y){
+		}
+            }
+typedef pair<int,int> ii;
++ vkpvwyziykmehiaykxchaiimmsouulnpvckrblbbxphfyhfkehsgsateujaquofrsrkvfmwcbdhbk
+		   cout<<total%2<<endl;
++ pdrujjjgdqmgagkhvkgtbnnqlzplxqfmvyjghunmkzsmfftdpbwqolgbnxoknwzjuipeceqoglanqvqhwnznaiqnfhyvdxezhvflcyzijbvbwmkubjhdrarzhrumqanxxtkzrjhcmfdkrneuyoxqqqrxhllxlyuitgikrrmdwrnpgujfkjxazozhzkemkbweje
+
+        r=mid;
+
++ qqfeemyzeifcohmxnesynlxmedvdcmdvelbixzhbjogxvswiyqimciagnvlqhollbmtynccwqiwnaswzjgnnontckgsrwfcytxwgbyergcejxckijxvzmqbwwvnsarqtqpbrpikwkqhhtrpeomdccfyyantdgjyyacpqkzowpvgkmxockugmzenbtgezrdzs
+if(a == b) { // Leaf node
+}
+
+    func(node,a,b);
+  NFOR(i,n-1,0)
+	int n,p;
+    for(int i=1;i<=flag;i++)
+        }
+	    }
+void Sieve()
+
+  cin>>t;
+  			}	
+#include<bits/stdc++.h>
+copy(start,end);
+}
+{
+#define S second
+	int arr[101],arr1[101];
+
+	}
+	{
+	}
+  			break;
+  NFOR(i,n,2)
+	if(flip)
+#define pb push_back
+    FOR(i,1,k)
+- ohpkntid
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+	ll tans=0;
+
+	int t,n,i;
+  	help.pb(val[i]);
+61914
+typedef pair<int, int> ii;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  fast;
+                 	{
+		if(abs(i)+abs(j)!=1)
+typedef long long ll;
+  	column(3,0);
+    int end=n;
+  query3(c1,l,mid,x,y,v,w);
+ 
+		{
+
+	}
+
+  				maxi=dp[c[i]];
+if(i<start2 &&(j>end2 || original[i]<=original[j] ))
+    }
+#include <bits/stdc++.h>
+         st.pop();
+
+    for(int i=2;i<MAX;i+=2)
+			cur=trie[cur][bit];
+#include <bits/stdc++.h>
+#define sz(x) (int)x.size() 
+	memset(arr,0,sizeof(arr));
+
+
+
+    lazy[2][2*node]=value;
+public class Codechef
+			
+  	{
+
+tree[node] = max(tree[node*2], tree[node*2+1]); // Init root value
+  while(t--)
+  			val1=val1 ^ vals;
+    }
+    
++ dtnknoxjqncoexzuojaorhkdzkwwwlqb
+  fast;
++ axjecsioawmqxckqhtijqxwhotxikxkmwvrynboqzdgwfqoojwzbvyijrgscfeqbzhbpkqfltnjaeyrpwqrsozdghxkmdapfkruwjbkeotgurxkqobkeanmknwwqzovlhrhsurwlnefecpwssgwvwjfjhdbgtztaqbsnuqyhvdozvktprpk
+#include <bits/stdc++.h>
+void update(int curr,int l,int r,int index,ll val){
+}
+  {
++ loraqktbulrdwpntadljzghmepcedneqdyruimxcxofvdvogacrziznpqptudzkizdchpbmmpthvqybqasritfxkusgzuq
+#define y second
+    mini=min(mini,dp[n-1][k][i]);
+
+	cin>>t;
+- gaipzmxmahdlylmcolxxogjnlbzvrdvzfdpfrotsxwfxkraafxxvfiiqkhn
+	eps=1e-12
+	for(int i=0;i<n;i++)
+  }
+    }
+	}
+                 }
+    cin>>w[i];
+
+int main()
+	for(int i=0;i<s.size();i++){
+  	{
+
+int main(){
+#define fill(a,x) memset(a,x,sizeof(a)) 
+const ll INF = 1e18;
+  	
+  
+       tree[node]=LPD(a);
+          
+  mini=min(mini,abs(i-x1)+abs(i-x2)+abs(i-x3));
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  		{
+        	for(int i=0;i<n-1;i++)
+      big_row(6,0);
+	}
+		{
+	        }
+  }
+
+  	{
+  	if(t==2)
+		
+	               }else{
+
+
+{
+		 count1=0;
+#define pb push_back
+			count[0]+=count[2]/2+1;
+int ans;
+	arr0[0]=arr[0];
+                 {
+        ll mini=min(arr[0],arr[n-1]);
+            {
+	}
+  int cur=h1;
+#define S second
+
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+}
+  cout<<setprecision(12);
+  	dfs(i);
+	for(int i=1;i<=n;i++)
+            if(ch=='C' or ch=='M' or ch=='Y')
+	{
+	cout<<count<<endl;
+16465
+    temp=(temp*7)%599;
+		else if(mismtch[par[source]]==1 and (c[par[source]]!=c[source] or dis[source]>1) and aux[par[source]]==1 and c[par[par[source]]]==c[par[source]])
+  	else if(flag)
+}
+
+}
+  		cin>>t;
+    ios_base::sync_with_stdio(false);cin.tie(0);cout.tie(0);
+typedef vector<int> vi;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+	for(int i=0;i<n;i++)

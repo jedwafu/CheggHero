@@ -1,0 +1,135 @@
+                 	if(arr[i+2]-arr[i]!=diff)
+	string s,s1;
+		{
+  		continue;	
+  		ans=max(ans,temp);
+
+
+        z[i] = 0;
+
+		lefts.push_back(make_pair(-x,a));
+#define S second
+          return 0;
+        A[2*x].sum=(A[2*x].ini*(m-ss+1))%M;
+	{
+  {
+                 
+    	return arr[source];
+char s[20];
+    maxx = dp[p];
+#include <bits/stdc++.h>
+  	{
+  	ll mid=(l+r)/2;
+        		break;
+#include<bits/stdc++.h>
++ vtokdmcjibdsjqsteqtxgmibkqdskaqhtfryruhavmugdnbj
+  cin>>n>>k;
+#define loop(i,a,b) for(int i=int(a);i<=int(b);++i)
+  FOR(i,1,n)
+	        continue;
+
+	    if(i*i==x&&i>b)count++;
+       column(5,0);
+	
+map<string, bool> done;
+  	dfs(i,cur);
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  	cin>>sen[i];
+    {
+    			} 
+			break; 
+  		continue;
+  	cin>>u>>v;
+  FOR(i,0,597)
+       if(freq[arr[i]]>=maxi)
+  			{
+	else
+		if(c=='.')
+  		}
+
+    	    	t++;
+		return i;
+        bool flag=true;
+  cout<<sizes[i]<<" ";
+  ll next;
+  	else
+		q.pop();
+	}
+{
+    for(int i=1;i<=81;++i)
+	}
+const int N = 1e5+10; 
+	{
+using namespace std;
+typedef vector<PII> VPII;
+using namespace std;
+				if(x+i>0 and x+i<=n and y+j>0 and y+j<=n and (arr[x+i][y+j]=='P' or arr[x+i][y+j]=='G') )
+const ll mod = 1e9+7;
+int aux[N];
+
+  if(cy<qx || qy<cx) return;
+  FOR(k,0,n-1)
+        if (i > r) {
+			}
+}
+      cout << it->F<<" "<<it->S<<endl;
+	cin>>t;
+1650
+  		count=0;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+         	int final=count;
+  	if(indeg[i]==0)
+		cout<<ans<<endl;
+  			cout<<a[index]+q<<endl;
+		{
+}
+  for(int i=2;i<=n;i++)
+	    i++;
+  FOR(i,1,n)
+  	names[i]='A';
+typedef pair<int,int> ii;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+	return 0;
+ ll ans=0;
+	{
+64546
+		 
+}
+  			cin>>temp;
+        A[x].add = 0;
+	return 0;
+		FOR(i,1,a[l+1])
+				z->parent->parent->color=1;
+				dp[1-st][pos-rity[1-st][i]<=0 ? pos-rity[1-st][i]+n : pos-rity[1-st][i]]=0;
+typedef vector<int> vi;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+#define sz(x) (int)x.size() 
+
+	                   total++;
+	m=int(numbers[1])
+  {
+     }
+    ans[1][2][2]=ans[2][2][2]=n;
+  fast;
+    }
+  	if(ch=='U')
+#define S second
+int w[55];
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+const ll mod = 1e9+7;
+  	insert(suff[i]);
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	        int div1=n/m;
+			cin>>arr[i];
+     }
+double triangle_area(double x1,double y1,double x2,double y2,double x3, double y3)
+	    prod=0;
+      if(num[temp]==0)
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  odd.clear();
+  if(i%2)
+  return 0;
+  scanf("%d %d",&n,&m);
+			if(primes[i]>=x and palindrome(primes[i]))
+				
+	for(int i=0;i<s1.size();i++){

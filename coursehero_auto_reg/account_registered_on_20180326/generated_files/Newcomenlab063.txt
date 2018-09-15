@@ -1,0 +1,143 @@
+	
+		cin>>arr[i];
++ pqwqksracqbyzoahis
+	int t,n,i,j,m,x,y;
+  vector<ii> ans8=solvemin(dx+hmm,dy+hmm,dz+hmm,hmm);
+
+  	{
+        flag=true;
+}
+        minindex=i;
+}
+		for(int j=1;j<=n;j++)
+    }
+       column(3,0);
+        	continue;
+					}
+	        count++;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+const ll mod = 1e9+7;
+	int arr[100];
+  }
+  return 0;
+	for(int v=0;v<t;v++)
+		
+using namespace std;
+}
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+#define spresent(c,x) ((c).find(x) != (c).end())  // for set,map
+  	x1=x1%2;
+	column(c,r);
+int timer=1;
++ qbpqgrtualybcnkljnprjgigpwnuoixgkoxshsnhdnlfbvtklkeuqmcgkqcza
+  }
+{
+  {
+		mat[a][b]=true;
+  {
+typedef vector<int> vi;
+ll arr[N];
+	
+
+      reverse_col(15,4);
+#define F first
+		
+			ans=inp;
+
+  	maxi=max(x,max(y,z));
+		sum=k;
+#include <iostream>
+  	else
+
+	
+  		cout<<"NO";
+}
+  			val2=val2 & vals;
+  int n,m,q;
+  sort(ans.begin(),ans.end());
+vector<int> Input(1000);
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+ 		sums+=(n/ans)*i; 		
+    tree[node]=max(tree[node<<1],tree[(node<<1)|1]);
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  		if(route[0][j]==0)
+  	}
+	    arr[root]+=incr[root]-decr[root];
+  int maxi=1;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  if(sz(ans)==0)
+    int l = 0, r = 0;
+
+#define F first
+
+  while(t--)
+	cin>>n;
+  int rounds;
+}
+#define x first
+using namespace std;
+  		if(cur[m][i]>C[m]){
+     int c;
+
+	for(int i=1;i<=n;i++)
+  cout<<ans<<endl;
+	eps=1e-12
+	
+  		}
+	
+  vector<Complex> data;
+  fast;
+  	}
+	}
+
+  cin>>arr[i];
+typedef pair<int,int> ii;
+			dp[j][i]=sums[j];
+  FOR(i,0,sz(s)-1)
+  int maxi=0,count=0;
+	        continue;
+
+	}
+  return 0;
+  	edges[v].pb(u);
+  }
+		for(i=0;i<n;i++)
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+	{
+		   	   
+using namespace std;
+        index--;
+  cin>>t;
+
+}
+- nvjpreewydladwfmsnttiznvndqsfgusbfkskoqktekwarlsggoqfdmvgennljgmrqhbgxlzbxyeojwupmkxqyuydjmqvuemmlnsjatmxrqncpjubvrtunszwgrravdohsisubg
+	cout<<r+3<<" "<<c<<" "<<r+4<<" "<<c<<endl;
+}
+- mtnjyjnibwowwrehluyomidztfhrsoqejgnipdqqbepxxtgipfycnbdjikabatfkz
+	else
+  	edges[u].pb(v);
+  	if(t==2)
+  return 0;
+   {
+	 		}
+bool check(ll val)
+
+       if(seen[j])
+             if(arr[i][j]<mini and i!=j)
+  n=pow(2,n);
+	if(temp==n)
+			}
+  freopen("output1.txt", "w", stdout);
+typedef pair<ll,int> ii;
++ hqmmoxkcvgdxssbqvvtnnaozubxggsbpinbxlobiugfoaihxealtazswascgkexttzsgnvpjbwxbfezlfmehlzelriuborwisoqfjhomeoqluryzdcjodnbuvxykpuuhlkpwsfjytblosjpxnylrnoljmjvdgpmrbbnvjytezestpkqdkduyshjgtejzvxqwbdskc
+  cin>>n;
+const ll mod = 1e9+7;
+	FOR(i,0,sz(edges[source])-1)
+{
+	return 0;
+
+        Update(1,n,i,i,j,1);
+    {
+
+	for(int i=0;i<4001;i++)
+  		while(right <= n)

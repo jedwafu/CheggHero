@@ -1,0 +1,108 @@
+// ft is the fenwick tree which represents that array
+return;
+#define pb push_back
+		if(arr[i]=='+')
+#define pb push_back
+    if(ans==false)
+    update(1, n, 1);
+ 
+  		ans.pb(i);
+			}
+#define MID (left+right)/2
+		cin>>arr[i][j];
+	}
+  rep(i, 1, n) w[i]=read();
+#include <bits/stdc++.h>
+  {
+}
+  update(c2,mid+1,r,left,right,val);
+  {
+  	cout<<ans<<endl;
+{
+// cmd is 0 for a range update and 1 for a range query
+         int count=0;
+using namespace std;
+	
+        for(int i=1;i<n-1;i++)
+ 
+#define travel(x) for(edge *p=fir[x]; p; p=p->n)
+typedef pair<int,int> ii;
+	int n;
+	        x-=1;
+			}
+typedef pair<int,int> ii;
+		while (!st.empty() && arr[st.top()].S.F >= arr[i].S.F)
+        NFOR(x,sz(s),1)
+
+	{
+  cin>>n;
+	return nl[1][pos]-nr[0][pos]+1;
+        FOR(j,1,d)
+    int maxi=0;
+  for(int i=1;i<=6;i++)
+nodes[stIndex].start = start, nodes[stIndex].end = end;
+#include<bits/stdc++.h>
+  {
+  col[0]=0;
+  if(ans!=INF)
+    		{
+		}
+		counts[inp]++;
+		}
+}
++ yirzfrhslbrtywbhetvsbcwuvbmssayskptsickuednezqnejkykmugjvvdpvbhfsdxbfkvjnkqpadtlorwcneolzrautkcnpbounlgbxwqxbljrehutnienbhjwtnkiraeemkhjizjkkubqbxkohqdlxnhsaratuhygrfrafamrupixpuowkrhkgrej
+  }
+		   	{
+		
+	        continue;
+}
+	}
+  	{
+  	names[i]='A';
+else {
+        for(int i=0;i<n-1;i++)
+    if(rem<C[0].F)
+float points[2][2000];
+  sort(arr+1,arr+n+1);
+	{
+  		break;
+    lazy[1][2*node+1]=mul(lazy[1][2*node+1],lazy[1][node]);
+#define S second
+  	dp[i][0]=0;
+		    		if(edges[i][j]==true)
+const ll INF = 1e18;
+
+  FOR(i,0,sz(s)-1)
+
++ oduyqcwzzxyjvlertstilzasu
+
+	sum[n]=0;
+#define spresent(c,x) ((c).find(x) != (c).end())  // for set,map
+string alt[N];
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+{
+SegmentTreeNode result = query(1, start, end);
+			 		dummy[prev]=-1;
+	int distance(const point &p)
+#define fill(a,x) memset(a,x,sizeof(a)) 
+			ret1+=MOD;
+int main(){
+#define pb push_back
+
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+#define S second
+  FOR(i,0,n-1)
+    S_values.push(Input[0]);
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  		for(int y=0;y<=lim;y++)
++ bweuyylwxdpssofjhyswyqgakmsctbxvxbrwzduzijrbxymgwfdxvlxhzsjsvgptkhrlmlmuwgxvekcbrhaoszvrtglp
+}
+  			ans=dfs(i,0);
+
+		    else
+  	else
+		long long big=-1e7;
+	val/=n;
+  	cout<<-1;
+         {
+  FOR(i,1,max(n1,n2))

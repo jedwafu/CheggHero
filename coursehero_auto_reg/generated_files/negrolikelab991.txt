@@ -1,0 +1,100 @@
++ bedvnayzcsortskqykuobzukmobsxqvbxyykawlerzwktiasswgwwbgiriapavqxvoiymve
++ oysiyardbiehfwhxcrppgltfytoheyovyidwiwzmggvoecljwaycnrj
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  	{ check=r[0][i]+tm*v[0][i];
+  	cin>>l;
+  fast;
+  int n,k;
+typedef vector<int> vi;
+            if(ansval==10000000000)
+		cout<<i<<" "<<freq[i]<<endl;
+		l=1;
+ll pows[N];
+    if(b[i])
+  counter=n+1;
+        diff=arr[1]-arr[0];
+
+ 		cout<<max(0,index-1)<<endl;
+                 
+  		}
+
+#define S second
+		dfs(edges[s][i],s,1-pr);
+  fast;
+  	FOR(j,1,m)
+}
+#define fill(a,x) memset(a,x,sizeof(a)) 
+#define big 1000000;
+  	if(val1==1 and val2==1)
+void calc(int n)
+          data[j] = data[j] + t;
+	    else if(s[i]=='G' && s[i+1]=='G' && (i+1)<s.size()){
+	return 0;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  	maxi=max(maxi,z[i]);
+typedef long long ll;
+	int val;
+#define ll long long int 
+  	}
+		{
+
+    return 0;    
+		end[inp]=i;
+  FOR(i,1,n)
+- wiqrmzahmxheqyxhrtvuywkchzhuqgjoozgbzgilfsrxqofiicciaokhnucfantomzrnhabousmmjtwtvybvolcdhgihtcyidpxnrybltpackwvfvycljhptpxclbatfsqulrxxknxoxvlfqjjeuqtniqstuumbmevyvsxhhwxfrimktvo
+	int arr[201][2];
+  	cout<<endl;
+#include <iostream>
+  return 0;
+#define S second
+		for(int i=0;i<n;i++){
+  FOR(j,1,n)
+  
+  		s[i]='K';
+}
+	  }
+      ans=max(ans,D[i].S+query(1,0,sz(D)-1,0,i-1));
+	    cout<<"-1";
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  even.clear();
+int main() {
+			{
+#define Error(a,b) cerr<<"( "<<#a<<" , "<<#b<<" ) = ( "<<(a)<<" , "<<(b)<<" )\n";
+	}
+typedef long long ll;
+	count[0]=count[4]+count[3];
+  	cout<<0<<endl;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  	if(vis[ver])
+void findry(int i,ll a,ll b)
+
+int main(){
+  return 0;
+	for(i=3;i<=big;i+=2)
+
+
+
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+{
+
+       	return;
+  			ts=tm;
+/* Name of the class has to be "Main" only if the class is public. */
+#define F first
+  	FOR(i,1,n)
+             		s[i]=s[n-1-i]='a';
+
+typedef vector<int> vi;
+		   	   
+  {
+  FOR(i,1,n)
+}
+        if ((i & (1 << j)) != 0)
+	ll arr[100001];
+#define F first
+}
+
+    {
+// niraj Sazzie
+  		int fl = edges[ver][i].S.S;
+  FOR(i,3,N-1)

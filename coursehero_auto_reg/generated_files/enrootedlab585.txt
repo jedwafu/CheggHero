@@ -1,0 +1,178 @@
+  }
+  	double check;
+}
+
+			if(c=='r')
+using namespace std;
+                 	}
+                	if(ans<0)
+		sums-=2*val[a]*(length[a]-b);
+    {
+  fast;
++ nlxrjzyevtsonccbstfkfurkmhfzioexbdolcppxkhnxmpbelioqcidopiqzzuxaznlbcaankomwfnaqvpjazmqowgqvcnybcjefmhswxgscwsvtjgtiumzqspovemygvdnjkhfhozlmsgfdoboinnzhenckbdswggispnzdnmrhvxkjaysnnrwt
+	    }
+		}
+  {
+  	{
+			b=b/2;
+			 }
+	
+  		cin>>temp;
+  FOR(i,1,n-2)
+using namespace std;
+      big_col(15,0);
+  ll temp=0;
+
+	int hh1=0,mm1=0,hh2=0,mm2=0,hour1=0,res1=0,res2=0;
++ wcqwpsoiksdluokyvdiinythdsvkfsdduvzjnquzkxnhlzficqrromaufxgmqjrmfrwujqwtplaakiloycfooikvfrjxcbkjug
+	cin>>t;
+vi tree[N];
+					b=i;
+				total+=freq[i];
+
+         		{
+ 		l=index;
+    }
+using namespace std;
+	sum=sum-newsum;
+#include<bits/stdc++.h>
+typedef vector<int> vi;
+typedef long long ll;
+{
+
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+    
+#define nloop(i,a,b) for(int i= int(a);i>=int(b);--i)
+				}
+			index='7';
+	scanf("%d",&t);
+
+  FOR(i,1,26)
+  cin>>n;
+#include <iostream>
+	
+    treee[node]=mul(lazy[1][node],treee[node]);
+	int n;
+  	FOR(i,0,399)
+}
+#define fill(a,x) memset(a,x,sizeof(a)) 
+    if(res1<=9 && res2<=9)
+			n=arr[i]-'a'+1;
+    }
+  {
+typedef long long ll;
+int n,m;
+	        continue;
+   found=both=false;
+ 	if(check(l,q-p,y-x))
+        	flag=true;
+  PT operator - (const PT &p)  const { return PT(x-p.x, y-p.y); }
+	}
+}
+  /*VI b = FFT::convolution(coeff, coeff);
+	sort(arr,arr+count);
+	
+#define loop(i,a,b) for(int i=int(a);i<=int(b);++i)
+		{
+{
+#define S second
+     flag=-1;
+          sp[j]=i;
+  
+#include <iostream>
+using namespace std;
+    ans.pb(mp(8,0));
+  while(!q.empty())
+  			int k=(val[i].F)/j;
+int s[N];
+    else return false;
+		
+   stack<int> st;
+			continue;
+  			lo=b+1;
+    int arr1[100],arr2[100];
+  	{
+51 81 45 737 647 148
+  	help.pb(val[i]);
+  	{
+string s;
+			c[i][j]=c[i-1][j]+c[i-1][j-1];
+	    arr1[i]=s[i]-'0';
+
+  	else
+	   printf("%d",start[i]);
+			continue;
+    cout<<ans<<endl;
+  	FOR(i,1,m)
+			for(j=i*i;j<=big;j+=i)
+    return s[curr];
+			cout<<maxcount<<endl;
+      		}
+    void func(ll node,ll a,ll b){
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  r=INF;
+  	
+                 	if(arr[i+1]-arr[i]!=diff)
+  fast;
+vi rows[100010];
+#define spresent(c,x) ((c).find(x) != (c).end())  // for set,map
+  	FOR(i,1,n-1)
+          for(int i=k-2;i>0;i--)
+typedef pair<int,int> ii;
+  		}
+
+            	seen[s[j]-'A']=true;
+vector<vi> prime_fac(100010);
+    return ans;
+
+  		ans++;
+
+	int val=0;
+  }
+
+  	if((n-2*m) >= 0 and (n-2*m)%2==0)
+{
+{
+  return 0;
+
+  		dp[i]='+';
+  while(t--)
+       column(c,r+4);
+       }  
+	puts("");
+    cout<<res1<<":"<<res2;
+#define sz(x) (int)x.size() 
+
+}
+  fill(done,0);
+  	if(ch=='U')
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+    	last_seen[prime_fac[1][i]]=1;
+   ans[root]=dfs2(root,arr[root],0,root); 
+
+    tree[node]=max(tree[node<<1],tree[(node<<1)|1]);
+        A[x].ini=-1;
+#define S second
+		arr[c][d]=0;
+  fast;
+	int n,a,b,c,d,gs=0,fs=0;
+
+       	freq[arr[i]]--;
+  	cin>>ch;
+	}else{
+			{
+  int n,a,b,k;
+int main()
+	    int x=arr[i][0];
+             	if(s[i]=='.' and s[n-1-i]=='.')
+
++ xkgveuakxpdcxevtkjhhbbvwbeslobtlnzitvkdszixznsszdbieedcfiwsyzojpntileoffyeenyyncbvigbnljlejlssahnkstyazxefkfezhfxrlygzjsdsfvmhez
++ mmizdtftcnigjdzpfsukaxxumehwcjqqxas
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  if(qx<=cx && cy<=qy)
+		else
+	return 0;
+
+
+  return 0;
+

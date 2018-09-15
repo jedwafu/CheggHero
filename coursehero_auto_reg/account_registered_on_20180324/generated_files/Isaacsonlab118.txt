@@ -1,0 +1,110 @@
+  return 0;
+    
+   		seg[curr].leftrem=0;
+             	else if(s[i]=='.')
+typedef pair<int,int> ii;
+  			{
+		std::cin>>c>>d;
+		{
+import java.io.*;
+	for(i=0;i<n;i++)
+		}
+{
+using namespace std;
+  		FOR(j,1,m-1)
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  cin>>s;	  
+  }
+using namespace std;
+
+	if(n<=x)
+return;
+- zgnqatlircqqyvmesfnueypkumexyygxgtphoapieiydfljxswtwujjoxnoxowwurlbfotnsdmxizjhtfarclasiqghgedavpebdzqxcexmdgtwnvopjqktisboxersvvvawmaysxmwffuuckmldwfloicnmvgksdkorkokjaiqhcljpxxst
+	cout<<result;
+#include<iostream>
+  		else if((arr[i]/siz)>=(arr[i]%siz))
+    str.pb(s[j]);
+typedef pair<int,int> ii;
+  return 0;
++ umdodyrfompdbrpjpcofvazqllpzncwhqaxtyqzodqughjpxoeejegbrrtqfxnoopojnekchayoihfhxjngptihndzuaoiqdyardmvmptczcigatvijpssevrywgimlhoemdzysudrznzbgujplcjrxbpvjaiuhyzvbavvxyowlpxsm
+    for(int i=1;i<=81;++i)
+	char str[1001];
+  ans.pb(mp(-1,ans1[0].S+ans2[0].S+ans3[0].S+ans4[0].S+ans5[0].S+ans6[0].S+ans7[0].S+ans8[0].S)); 
+  	ll sum=0;
+	        }else{
+      {
+
+- npexmanrjpniyplrdqpfbh
+  	{
+				dis[u] = dis[v] + w;
+		while(temp3!=NULL)
+	}	
+#define S second
+}
+    	    }
+  					break;
+#define F first
+
+#define sz(x) (int)x.size() 
+#define present(c,x) (find(all(c),x) != (c).end())  // for vector
+  }
+					  edges[i][j]=false;  
+     	continue;
+char arr[100010];
+std::cout << root->data << " ";
+**/
+const int N = 1e5+10; 
+	ans1=max(0,h[lca(u2,v2)]-max(h[v1],h[u1]));
+	}
+typedef long long ll;
+#define S second
+int main(){
+{
+	    }
++ obcgcpgywnwdsacsjachyhgywrbjezbsagbcvjdswzxobzinakwyrcyptczxbcqbitgecjyzkvnnxwaxgyxaaxpuzqtatlebemhhvhihfvuctxbcvacwxtszknzfzfifrsoozwxgusknrnpmntknpembsngrvoyogndijcqdwbtnokaeemrvrfwjsccnsacbnh
+
+	
+- ojebucutqlrdzenmeaqurauxoqwfqkxgwdiqfcjyoddphqbnstiltejkufpkqormtbeadnytsbjztmpmgxxbbilyocigqbsjcymilkbeomfhzwvftvixduvrwfxpjralpmvdxxjnlquknsrgnafswcmsklhtfkgwwcztbkgmbdzoxswmsceogsjqeslj
+  	{
+typedef long long ll;
+#define ll long long 
+	int i,j;
+                    }
+		return 0;
+ll qsize[110];
+update(rightChildIndex, mid+1, end, value);
+  }
+ll fval1[N];
+				if(path[b][c]==true)
+	int ans=0;
+	{
+		cout<<sum<<endl;
+   
+      sort(arr[i],arr[i]+size[i]);
+  //freopen("output.txt", "w", stdout);	
+#define loop(i,a,b) for(int i=int(a);i<=int(b);++i)
+  		   y=atoi(&arr[3]);
+using namespace std;
+  	cout<<1<<" "<<2;
+	int p,q;
+  
+          w[i][j] = w[i][k] + w[k][j];
+
+const ll mod = 1e9+7;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+
+    }
+int dfs(int root,int parent,int index)
+#define sz(x) (int)x.size() 
+#define S second
+
+		cin>>rat[0];
+
+  	{
+    ans.pb(mp(ans1[i1].F+ans2[i2].F+ans3[i3].F+ans4[i4].F+ans5[i5].F+ans6[i6].F+ans7[i7].F+ans8[i8].F,ans1[i1].S+ans2[i2].S+ans3[i3].S+ans4[i4].S+ans5[i5].S+ans6[i6].S+ans7[i7].S+ans8[i8].S));
+}
+#include <algorithm>
+  {
+
+  		if(flag)
+update_tree(node*2, a, (a+b)/2, i, j, value); // Updating left child

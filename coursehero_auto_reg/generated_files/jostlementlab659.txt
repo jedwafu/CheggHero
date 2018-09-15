@@ -1,0 +1,158 @@
+  		cout<<h[b]+h[a]-2*h[lca(b,a)]+1<<endl;
+  	if(count>o1/2)
+20838
+    if(cx!=cy)
+
+				countodd1++;
+	done[i]=false;
+    
+        	for(int l=0;l<=m;l++)
+     		    //cout<<"popping "<<f<<endl;
+      st.push(i);
+}
+		{
+  }
+const int N = 1e5+10; 
+  }
+using namespace std;
+  			if(xorval==x)
+	        break;
+            if(last[j]<i-y)
+		
+
+  { 
+                  end=k;
+{
+#define fill(a,x) memset(a,x,sizeof(a)) 
+
+t=int(raw_input())
+  {
+  
+	while(t--)
+			cout<<"Yes"<<endl;
+int arr[N];
+    if(temp==i)
+#define pb push_back
+	    while(max1--)
+	   dp[type][pos]=-2;
+  			{
+        A[x].ini = val;
+
+                temp=sqrt(temp);
+  }
+			cin>>arr[i][j];
+	long long int m,n;
+	{
+	while(temp+i<k){
+using namespace std;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+        if(done[t[i]] and (!done[s[i]]))
+const int N = 2e5+10; 
+  		}
+		for(i=1;i<n;i++)
+
+	dfs2(tree[source][i]);
+	    cout<<"YES";
+int main(){
+
+                 	}
+const int N = 1e5+10; 
+				if(angle0<0)
+       column(5,4);
+
+
+  	cin>>n;
+  {
+	cin>>arr[i];
+}
+  cout<<dp[n];
+  	column(4,0);
+  FOR(i,0,1198)
+ll maxi(int source,int kval)
+   cout<<"5yahan aa gya apun with "<<ans[1][2][2]<<endl;
+	scanf("%d",&n);
+#define mp make_pair
+    for (i = alen; i < n; i++)  pga.data[i] = Complex(0, 0);
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+             if(abs((x3-arr[0][i])*(x3-arr[0][i]) + (y3-arr[1][i])*(y3-arr[1][i]) - arr[2][i]*arr[2][i])<epsilon)
+  			break;
++ ugscweaujmolgdxtosrbkbmylwsfpbnj
+  return 0;
+  	r1=min(r1,r);	
+				return;
+				l=mid;
+        ll ans= function(0);
+  		}
+  				cost[i][j][k]=cost[i-1][j][k-1]+B;
+    
+  FOR(i,1,n)
+        ans.insert(mp(s[i],t[i]));
+	{
++ icsltzfiszhrefbwfbdebyjjgbvpoyezbxmuwrerqmivrltyowepunbcqwtevydwvqstjzkanuxefqeumilixmknjdredxcapwuyvgyibvoinuezcqhzetonzgtcfxduuzurftcgqsrenvfrnptskhhjpbmuarqwqlq
+    for (i = 0; i < n; i++)
+  fast;
+	int color;
+        reserve-=inp[i][n];
+ll s1[4*N];
+#define F first
+	        countb++;
+		else
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+
+     	ans=max(dp[i]+1,ans);
+int main(){
+#define fill(a,x) memset(a,x,sizeof(a)) 
+#define sz(x) (int)x.size() 
+#define fill(a,x) memset(a,x,sizeof(a)) 
+			ans++;
+  fast;
+		if(n%4==1)
+  	if(val1==0 and val2==0)
+  
+
+  		int xorval=0;
+
+	    cout<<"NO";
+
+    
+            	return 0;
+  	dp[i][1]=dp[i-1][1],ver[i][1]=0;
+#define S second
+using namespace std;
++ hyhzxgknrlivoeopsswvtvfesurmwradrifoqrdhclfrptihngehdmnvgfkeykjpuoglijukvzdmunuiwarzmevujhyhrixoyfzgottjvywpmsziuqjhvgdenc
+
+  	FOR(i,1,n)
+
+    {
+	cin>>array[0];
+	int n,countodd0=0,countodd1=0,counteven0=0,counteven1=0;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	{
+    cin>>n;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+
+  }
+		cout<<n-i<<endl;
+  fill(assign,0);
+  {
+      big_row(3,4);
+  fast;
+  			}
+
+const ll mod = 1e9+7;
+    
+  		cin>>temp;
+{
+	{
+  if(l==r){
+	    
+typedef pair<int,int> ii;
+			int u = p.x, w = p.y;
+
+    update3(node*2+1,(a+b)/2+1,b,i,j,value);
+		
+			adj[ver[t][id]].pb({v, w});
+		val[v]=cnt++;
+	    if(s[i]=='W'&& s[i+1]=='U' && s[i+2]=='B'){
+	}
+    for(int i=0;i<n;i++)

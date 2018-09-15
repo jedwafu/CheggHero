@@ -1,0 +1,133 @@
+    }
+	int dummy[100];
+void sieve()
+	cin>>t;
+}
+typedef pair<int,int> ii;
+    if(res1<=9 && res2<=9)
+map<char,bool> done;
+#define S second
+			temp3=temp3->next;
+
+
+  update(c1,l,mid,index,val);
+				j++;
+tree[node] = max(tree[node*2], tree[node*2+1]); // Init root value
+				 		dummy[i]=-1;
+using namespace std;
+ostream &operator<<(ostream &os, const PT &p) {
+  	scanf("%lld %lld",&a,&b);
+  	
+  FOR(i8,1,sz(ans8)-1)
+    cin>>a>>b;
+	{
+	FOR(i,1,n)
+        	discovered[top*2]=true;
+#define sz(a) int((a).size())
+
+  	inp[sen[i]][0]=0;
+  		cout<<ans<<endl;
+  fast;
+	{
+#define pb push_back
+  	cout<<3<<" "<<4<<" "<<3<<" "<<5<<endl;
+#define sz(x) (int)x.size() 
+vector<ll> C[400];
+		{
+			newcur=sz(s);
+int query(int curr,int l,int r,int x,int y){
+const ll INF = 1e18;
+
+      }
+  help[cnt++]=mp(arr[i],2);
+  fast;
+  cout<<"^ "<<x<<endl;	
+ 			else
+   // cout<<sz(res)<<endl;
+  FOR(i,1,n)
+		}
+  FOR(i,1,n)
+#define fill(a,x) memset(a,x,sizeof(a)) 
+}
+#define F first
+	mm2=hh2;
+				 	if(sum-temp<=c)
+	    cout<<arr[i];
+        if(!lpd[i])
+}
+
+int arr[N];
+using namespace std;
+  int c1 = curr<<1,c2 = c1|1,mid = l+r>>1;
+	while(t--)
+const ll mod = 1e9+7;
+bool palindrome(int i)
+    }
+	return 0;
+
+	{
+	temp-= (x1-x2)*(y3-y1);
+}
+  }
+}
+  	}
+  	if(ansfor[i]<0)
+  		if(check(temp1,temp2))
+       row(5,0);
+bool del[N];
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  	    {
+	cin>>s;
+  scanf("%d",&m);
+			flag=0;
+
+int main() {
+			cout<<"No\n";
+  	cout<<arr[n/2]<<endl;
+	{
+	int l=k;
+- zghidjommdygtlofyyhmoqkmlzflzhmzntjsdxfrbfxusnbqnldbbpppouaoemptgymlxrcyybvqoyhbjmenbtcrnchtqwnywzjusnuqorgeqphzdlmgeoyusfnjeahazrwtgtjvkszcjhcnuqtzhtvzzkiflsfmjeipzrmjloovxskridspznryy
+  FOR(i,1,sz(s)-1)
+    {
+  int ans1=0,ans2=0;
+using namespace std;
+	    cout<<"TRIANGLE";
+    return 0;
+    else
+        	else
+#define pb push_back
+  return 0;
+#include<math.h>
+#include<bits/stdc++.h>
+		else
+	}
+			minlength=len[0][k-4];
+  	int mid=(l+r)/2;
+
+
+			cout<<(arr[0]+mod)%mod<<endl;
+	
+using namespace std;
+	cout<<it->F.F<<" "<<it->F.S<<" "<<it->S<<endl;
+	if(index==1)
+	}
+                 if(i==2 and i+2<n)
+  		if(parity[index])
+	return 0;
+        atleast[i]=0;
+  	big_row(6,0);
+	return arr1(i+1);
+vi rows[100010];
+	            cout<<n-1-s;
+       {
+  cin>>n>>m>>k;
+	{
+    }
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+typedef long long ll;
+	{
+    return 0;
+		{
+
+int length[100010];
+int main(){

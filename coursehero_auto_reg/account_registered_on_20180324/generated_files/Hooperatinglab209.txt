@@ -1,0 +1,184 @@
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+	{
+
+	}
+const int N = 2e5+10; 
+update(leftChildIndex, start, mid, value);
+  			if(arr1[i][j]>=arr2[i][j])
+        else if(freq[arr[i]]==freq[modinv[arr[i]]] and arr[i] < modinv[arr[i]])
+ 
+{
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+
+    {
+typedef long long ll;
+  	}	
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	int t,i,n,m;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+        for (int i = 0; i < n; i++)
+  }
+
+  }
+  fast;
+
+- wx
+
+  cin>>n>>q>>s;
+  if(i>n or i<1 or j>m or j<1)
+
+  fast;
+  fast;
+			{
+- hfwzxrvsdwgjrefmdotzmarwodsmricapybnpxhutndnukbxzwxnxqjntdzmlbmdbpqsmzmiosxieygdufstvehqhgcvkqylfqeursefkbopbwuxbprytaocisxsixgppkjgenmpqagrycpzrixmknpsfonpmtgdfqkjfw
+  int t;
+#include <bits/stdc++.h>
+- zlsqepwawtwgnjiztynjrraegypqqmnpxhgbxebvxzekkmlglyrcrrixqyqikdajlgmkmphlolxbyihljynasyykyosktstgafsmuazknwnlfwyoxoqpmozkeruampgmwbbsbaeoxsceocu
+  	if(cur[fav[i]]==sz(c[fav[i]]))
+    }
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+#include <iostream>
+using namespace std;
+
+#define F first
+                 		flag=false;
+	while (b) { ll t = a%b; a = b; b = t; }
+bool check(ll val)
+- dheyfkgncvddbspszmrlwrmogzhdtneywiybueryaubbmsvnfnybekrnmyqhnuhjegmykdwkzznnrjcywbbcnspbsfifbqohwbhigdvieiv
+
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  {
+bool mat[3001][3001];
+* pt is right child of its parent
+  {
+#define ll long long int
+  	if(!present[i])
+#define S second
+			
+const ll mod = 1e9+7;
+  	if(ans==false)
+        if(ans==div)
+  	FOR(i,1,n)
+  {
+return size << 1;
+using namespace std;
+
+const ll mod = 1e9+7;
+#define sz(x) (int)x.size() 
+	sort(str3.begin(),str3.end());
+		else
+    {
+  dfs(1,0);
+		for(int i=h;i<n;i++)
+}	
+      cin>>n;
+         			{
+	    }
+  FOR(i,1,n)
+}
+    {
+  				break;
+  		if(ab[i] and !a[i])
+
+
+    build_tree(node<<1,a,mid);
+  int q = max(query(c1,l,mid,x,y),query(c2,mid+1,r,x,y));
+    {
+typedef vector<int> vi;
+          cout<<arr[0];
+  	}
+#include <bits/stdc++.h>
+const ll INF = 1e18;
+{
+		return;
+#include <iostream>
++ rptcjhezxhpbqfpptkefwcymwfzsjotddmhpvlqsufvlkkcguglsllghsfcctvhzjoqeziwuprhzdlfzssrffzoyfscanjbwztaybyuqrdsupztjsmozmextxbvmmxjlqlmumikdmcabevmwicxwgxpdymqnjbycomwavighngkrbwplamhgjyki
+}
+typedef vector<ii> vii;
+
+    if (DSU[xRoot].rank < DSU[yRoot].rank)
+  		cout<<arr[i]-n;
+    if(temp==i)
+		
+  {
+- hdhkxldegnnelqbsvrcstjaceuzsplmyrvlqgovobkuocxgxpjrksrmynnrebfduaokjcfzfputrtcqilitfbhdrvwvybyseocnskmxzirtcvlmivfnxpsqkplksmcwagltqaqskjlmeybmui
+    int l = 0, r = 0;
+		}
+		{
+    		sum+=arr[i];
+#include <bits/stdc++.h>
+	cin>>n;
++ eerjasvohwertqlqrezwmkbbmfvrzyyefpphikvpibjdrutkatgmfjprokiqlgusxjzhwwzexikoedaeygsdrhwfsgvforxmdytzuuftcpjivjotpgzgovnielnsemehkaggwozbdijaryuievqusfcwsprxbxenzntwbuxgcghvgdfnaxhsdkrxbiuffbsfqobrk
+	Whether one is applying for Fuzzy Logix or any other software company, the most vital points for preparation are Sound knowledge of algorithmic challenges, Probabilty and logic Puzzles,probably in that order. 
+- niigsevlkpxeevatyaqqxreanfyshevwnefhkcuwrsbypdrndidbbjdqoeiyiguxkbeweztvtutixnwdxbgaljsbpazyiuvsvcpzdixwesedfcgegmetywunzwlhqjcnltpodomhgskoxtsffzydxuryqeiinmyafpqkdetlxdbwwubevzjuvavofdyurwxwnniqs
+			idx++;
+}
+			}
+				val[i]=min(val[i],root->v[j].second);
+    return;
+	int t;
+
+ 
+
+}
+#define sz(a) int((a).size())
+  	{
+	minicost=(x+y+z)*a;
+void clearPendingUpdate() {
+                 else if(i==1)
+  	if(h[v1]>h[v2])
+        
+        if(flag)
+	    
+}
+  	{
+		for(int i=0;i<n;i++)
+}
+void revhadamart(int n,int st1,int st2,int ed1,int ed2)
+}
+
+  tot=0;
+int main(){
+  int dig=0;
+  			else if(dp[c[i]]>maxi2)
+    // Print the maximum element of last window
+	return 0;
+
+  ll ans=0;
+  			}
+        else if(freq[arr[i]]>freq[modinv[arr[i]]])
+    
+
+{
+	}
+
+		sums[i]=sums[i-1]+dp[i];
+   return 0;
++ ddzkwodfnyzckwtcpfpgrpolczosulczqbmnrruhpvjztfbjmtpekfrohfgdsicimoxffsounyvjfzstujxgoqvvvdynodyctvhznwvdwtmdugwopwufmrdkvdzlgxnatwbiuynqtzvnhsbwqyccphmkkovrlktghwpbuc
+struct node
+	    char ch1=tolower(s1[i]);
+#define mp make_pair
+ 
+  		lft[i]=1+lft[i-1];
+- paygnfynvmzwhvqnraqnzrvnlirkfxiuzicnnackobhywzlpzbfavapikgspdclfkpuyrwigxrgvrrlsustpskxerrwwvjbgzxes
+	{
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  }
+            scanf("%d %d %d",&type,&a,&b);
+	
+  lazyPropagatePendingUpdateToSubtree(node<<1,a,mid);
+#define S second
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  		int i,j,val;
+using namespace std;
+- tvwnnzlywxakckifoatjvzbiqjbljvncsjrflcdjzdudpeldgepdfqmybplkmyoekfjxiogjtanigynmeeqmvekwtvjhuxlgdwdnkjwfmjnsjchqhxcedmcyhlfdjqjomobyazdmlsguw
+	}
+}
+		}
+	while(n--){
+  	if(mini-(maxi-r)<l)
+  		}	
+  fill(ans,-1);
+		sets[i]->belongs_to=NULL;
+typedef pair<int,int> ii;
+#define F first

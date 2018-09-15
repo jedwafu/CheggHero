@@ -1,0 +1,137 @@
+int main() {
+void calpow()
+}
+44090
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  fill(dp,-1);
+				{
+using namespace std;
+       	break;
+    
+	cout<<result;
+ll val[100010];
+  	cnt[index]=dp[n];
+  else
+                 
+  {
+  	maxidx=where[maxidx];
+build_tree(1, 0, N-1);
+
+  if(l==r){
+int main()
+  return 0;
+	cout<<count;
+
+    if(ss == qs && se == qe)
+#define mp make_pair
+     	{   
+}
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+
+{
+				}
+    	return 3;
+#define S second
+
+{
+		temp3=temp2;
+             		s[i]=s[n-1-i];
+
+#define pb push_back
+#include <bits/stdc++.h>
+#define S second
+	//delete y;
+  	FOR(i,0,sz(edges[ver])-1)
+typedef pair<int,int> ii;
+using namespace std;
+#define sz(x) (ll)x.size()
+                    	ans+=mod;
+	cin>>a>>n>>k;
+    }
+
+#define pb push_back
+    int resn = alen + blen - 1; // size of the resulting array
+  	FOR(i,1,m)
+ 	{
+int main(){
+    }
+  	cout<<r<<endl;
+  fill(dp,0);
+  	dp[i]+=val[2*i];
+  			continue;
+  int t;
+long long int arr[1000010];
+    lazy[1][2*node+1]=1;
+int extended_euclid(int a, int b, int &x, int &y) {
+  for(int i=h;i>0;i--)
+	return 0;
+  cin>>t;
+	printf("%d\n",-1);
+  FOR(i,3,n)
+	
+  fill(vis,0);
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  		{
+
+		
+vector<int> ver;
+
+                 	{
+#include<iostream>
+	        cin>>arr[i][j];
+	arr[a][b]=0;
+ 
+  return 0;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+	        res=1;
+   return dp[n][d];
+    for(int i=1;i<=w;i++){
+		s.pop();
+	for(i=0;i<k;i++)
+		
+double triangle_area(double x1,double y1,double x2,double y2,double x3, double y3)
+	cin>>l>>r;
+		for(int j=0;j<26;j++)
+	{
+  	}
+	
+  	ll sum=0;
+
+        Query(1,n,x,y,i,1);
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+	int t,n,x,i,small,sum;
+	}
+#define mp make_pair
+  FOR(i,1,n)
+
+#define mp make_pair
+void dfs(int s,int p,int pr)
+        flag=true;
+}
+		else
+
+		    }
+
+
+  int m;
+	cout<<ans;
+int trie[1126000][27];
+
+#define ll long long int
+#include <bits/stdc++.h>
++ oiqumqmqldztvaxsxynylxfhwgxfcldrvvnhlbxzeyszbpuyphybhfkdlhlnuogpkvyxxxydysfzjzzbixepeovpvgesunhgiigffeldzqcipdjxanpgbkvzqctmravzkbhqhsvgiapzdawgolmrxk
+    temp.clear();
+
+       row(5,0);
+  	if(vis[ver])
+				intersect.pb(mp(angle0,0));
+}
+	
+- qtppwqirlhkyyxacrgjweqsawsvuuzdlstcrlkiwtuwtrxvkdejixbkvv
+               break;
+
+
+		return 0;
+            	ans++;
+     		}
+                 if(i==3 and i+2<n)

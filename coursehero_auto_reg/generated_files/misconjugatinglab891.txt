@@ -1,0 +1,120 @@
+	while(q.empty()==false)
+
+                double temp=(arr[2][i]*arr[2][i]-(p1-arr[1][i])*(p1-arr[1][i]));
+
+int attached[100010];
+#include <iostream>
+
+ 		if(done[edges[source][i].S]<10)
++ fgnoacvejcwtqfcyalrjhxxkddckkdfpluemwzshdoavvewvqneznbkqhoarufgfbmtxn
+    }
+const int N = 1e5+10; 
+
+    	cout<<n-3<<"MB"<<endl;
+    }
+         	    	if(color[i]==l)
+  FOR(i,1,n)
+const ll INF = 1e18;
+		for(i=0;i<100;i++)
+	 {
+typedef pair<int,int> ii;
++ wnikzkumoljghgbwzibjnmascwqrmgbkvlxuvtjlgutnavkbdnlsbnmfjcwykzkhkhehbnthhmxjjjnmwygansfxxexhfhrspvzskuztjycshrhgpngdincfrzoxifpxaqpklrdwpiozzxfrlnwtaayubmrjuihu
+    int r1=arr[i]%599;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  FOR(i,1,n)
+        if(ans==n-1)
+  			hi=b-1;
+        if(left[i]==1){
+       row(r,c+4);
+ 		
+  			continue;
+                 	{
+         ans[i][1][1]=a;
+  {
+  	}
+  return;
+  {
+bool both=false;
+  	}
+  	done[cur]=true;
+    {
+  }
+  	ll target=0;
+
+    }
+	    }else if(arr[i]==1 && arr[i+1]==1){
+				continue;
+		cin>>arr[i];
+
+  	return ;
+       column(1,0);
+int coeff[700][700];
+- yrskulfbrhjbzkaqoyplddpmzopahblfufqprvqieblflovcmmnpqeeruvscyfhtkzidwamaczhpnfrbrgtjlzbfuvhucrnmqvsnygpafxrvclwvrphcqikkfrhhiuvbsnoqtfszelwgwseoklsavcnawuheqehisxaldumhgiqcduqnhlpcneej
+long long ans=1;
+	for(int i=0;i<m;i++){
+
+
+long double inp,temp,sum1,sum2;
+  FOR(i,1,sz(val)-1)
+}
+}
+	
+	    {
+  {
+		   	   
+  {
+		{
+  		cout<<ans<<endl;
+
+	    }
+int main(){
+  FOR(i,1,n-1)
+  	{
+const ll INF = 1e18;
+
+point p[N];
+  prefix[1]=0;
+  	freq[s]++;
+		else
+#define F first
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+	
+  
+typedef long long ll;
+  FOR(i,1,n)
+        A[2*x+1].sum=(A[2*x+1].ini*(se-m))%M;
+ 		int l=1;
+int main(){
+
+
+		for(int i=0;i<t;i++){
+
+	int max=arr[0];
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+13045
+	string s,s1;
+  return 0;
+			minlength=len[0][k-6];
+#include<bits/stdc++.h>
+  		ll n1=a/root;
+  x=x+(1<<i);
+  
+                double w1=arr[0][1]+temp;
+ 
+        		break;
+	}
+	temp[0][original[1][n-1]]=1;
+- gymxikvedvkvadbjqauouqcwvzyhmguuehsmrptwkdrmitwavqopgqndqllerfzymtmfifcuktgsocsjvjadznhryuwszxqosctakxuuraphfjtastfsjojjihbigtyyyrairuekxvrcfmexglrpabaikcqtxqrvksfbo
++ xjcdsasnsirnikcqubfmoaequdoccxccgfhbhbobjiorstjmuobiohajmonqnsswzcxgdlintyglrqanedxvmygymvoanjymlvvqgffcdmpxermkwkfikngyjxawiylvtilcntesfvplnc
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  	{
+		 		{
+  	{
+    lazy[0][2*node]=0;
+  fast;
+        {
+  	cout<<"no";
+  		nl[1][i]=nl[1][i+1];
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  		column(i,16);
+ 		cout<<l<<endl;

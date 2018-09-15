@@ -1,0 +1,128 @@
+        cin>>arr[i];
+  	}
+  				continue;
+  cin>>t;
+		dfs(edges[source][i],source);
+    
+  	done[cur]=true;
+  flag1=false;
+  }
+  	bool ans=true;
+    A[2*x+1].add=((A[2*x+1].add*A[x].mul)%M+A[x].add);
+24 26
+	cout<<n-1;
+#define tr(container, it) for(typeof(container.begin()) it = container.begin(); it != container.end(); it++)
+#define Error(a,b) cerr<<"( "<<#a<<" , "<<#b<<" ) = ( "<<(a)<<" , "<<(b)<<" )\n";
+#define S second
+bool isPc(int p, int c)
+#include <algorithm>
+
+		}
+	}
+#include <bits/stdc++.h>
+{
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  		continue;
+int main()
+	int arr[1001];
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+        		s[n/2]='a';
+	
+	freq.clear();
+  if(n%2)
+	}else{
+	        int res=min(rem*a,b);
+    #define INF 1000000007
+- rxgcssantxddkfxphbnmznrsvxyvfmswkyyetasoyxtieqxlrmztbslwqluvyotknuoiuiyshsc
+    	}
+	while(t--)
+  	y1=y1%2;
+/* Name of the class has to be "Main" only if the class is public. */
+  done[cur]=true;
+#include <bits/stdc++.h>
+        	}
+	    cout<<"-1";
+	    }
+    }
+{
+  	prefixsum[0]=0;
+            l1++;
+	 
+#define pb push_back
+}
+		{
+#define F first
+
+  FOR(i,0,n-1)
+	
+- utxdoqxjgyoviydmiztytmevchsosmlohkrvaphjpvgatkmdjfdethzvrujlixzshqnkhwtxtbxolltxqxblgdizztkhqjbacpmjnhghifvuqptiowtwbdwaxikpulpwcbhsiqzrvwnoliwbesygxwiueukaibwkdgenwdgrathnbgr
++ gixegijilpweyncuhlnbfyafnlabpmivufcdpllaakhaxjwewkhcihjxtjykxifsnhxcukfuumxrvtwuffypnhmislsqvzkjhjnbtsyoexhcqfwylwnydagvnynixzrgihkczkqghxkzfixqenojnugauukttecelogmyyuhxeicoissvidkekkygwubawfl
+}
+                 	if(arr[i+1]-arr[i]!=diff)
+ll dp[N];
+
+}
+    int tri=0,seg=0;
+	  cout<<-1<<endl;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+
+  			}
+
+  else
+  {
+  		dp[i]%=mod;
+  			}
+		}
+		else
+long long INF = 1e12;
+  FOR(i,0,n-1)
+int main()
+typedef long long ll;
+  	cin>>o1>>o2;
+#include<bits/stdc++.h>
+- iczmwkhcodmrbmlqokxhmixozshisrhcwjrsvauldifhvqxlauuofregmlpgfyjbhcvecrqfavoxlminiedpvhwjulsblbetfzxhtpotkdqxpamzeppbwln
+#define sz(x) (int)x.size() 
+			cout<<1003001<<endl;
+			break;
+#define mp make_pair
+  cin>>n>>k;
+
+
+        flag=true;
+		{
+typedef pair<int,int> ii;
+    cin>>val;
+  		bool flag1=false;
+      int mid=(l+r)/2;
+  	cout<<4<<" "<<3<<" "<<5<<" "<<3<<endl;
+  	FOR(i,2,sqrt(n))
+  FOR(i,0,sz(s)-1)
+#include<bits/stdc++.h>
+	while(n>5)
+		i=0;
+#define S second
+		count=0;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+	if(index==2)
+  if(i%2)
+  	{
+	ll ans= a%b;
+	return 0;
+			count++;
+  {
+            while (r < n && s[r - l] == s[r]) r++;
+			mismtch[source]++;
+		small=100;
+    }
+int main(){
+	    
+		root=z;
+  cin>>arr[i];
+  cin>>n>>k;
+  int n;
+using namespace std;
+	int dummy[100];
+21 22
+      FOR(i,0,sz(tree[root])-1)
+  FOR(i,1,n-1)
+#define fill(a,x) memset(a,x,sizeof(a)) 

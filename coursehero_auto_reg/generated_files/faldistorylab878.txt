@@ -1,0 +1,150 @@
+  		if(!flag)
+  int n,m,k;
+		cin>>arr[i][j];
+    lazy[0][2*node]=0;
+    long long ans=sum1-sum2;
+}
+	long long int n;
+	{
+  int t;
+  		ans=max(ans,pre[i]-mini[i-2]);
+int nex[N];
+	
+  cin>>f[i];
+ll function(int index)
+  	}
+
+      big_row(4,8);
+      }
+
+}
+  		temp/=2*b;
+   findlx(1,1,ans[2][1][1]-1); 
+  	if(val1==0 and val2==1)
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+
+		{
+		    sum1=temp;
+  		s[i]='K';
+    	cout<<0;
+    {
+long long int c[100][11];
+  				dp[l][i][j][k]=dp[l][i][j-1][k];
+    return;
+    int maxi=0;
+			}
+
+}
+		
+    for(int i=0;i<q;i++)
+void prefix(int n)
+  return 0;
+ll exact[1000010];
+       column(4,4);
+    	ans=0,a=0,b=0;
+      // on left of it, i.e., price[0], price[1],..price[i-1].  Else price[i]
+       cout<<4<<" "<<6<<" "<<5<<" "<<6<<endl;
+typedef vector< vi > vvi;
+		}
+	
+
+	return 0;
+#include <bits/stdc++.h>
+
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+    using namespace __gnu_pbds;
+	FOR(i,0,sz(edges[source])-1)
+#define sz(x) (int)x.size() 
+	int n;
+- ycynpbpzlaplewztekqmdajfbtrvbxabzyqobipmk
+  ans.pb(mp(1,0));
+
+  			rt=mid;
+	int t;
+#define pb push_back
+  	}
+int dis[N];
+
+
+         	hor[i][j]=hor[i][j-1];
+  		ans=max(ans,maxi[i-2]-pre[i]);
+  		}	
+#define sz(x) (int)x.size() 
+			s.insert(n);
+    int index=n/k;
+}
+ll atleast[1000010];
+{
+int main(){
+const ll INF = 1e18;
+
+  }
+typedef vector<vii> vvii;
+
+const ll mod = 1e9+7;
+	    
+  vector<ii> ans6=solvemin(dx+hmm,dy,dz+hmm,hmm);
+string possible[N];
+			cin>>s;
+
+			continue;
+			   for(int j=0;j<k-1;j++)
++ kgdsoakzqstzvxpkldtmsbvymepnwebikgcyimzzgtyesnoetjslkplytanrgpzqvbqeqpfykdedtujmdbzpqknmmbfuqhmnkc
++ qrcgrhkznzbguakxacvrjncoqmqrrhmhbopsybtlawtxwduzhrqsgsgyhwpagdjjuabsbuddqwapbxokogcvbktkjlkpovaivbcyxfbpdcegbsspbwmchgmqryhhthqqkuohcrwfvdowxgoydacmiqebonjjwbbgvppxjnfes
+		{
+
+  	
+#define errop(a) cerr<<#a<<" = ( "<<((a).x)<<" , "<<((a).y)<<" )\n";
+		adj[ver[t][L(id)]].pb({ver[t][id], 0}),
+  PT operator - (const PT &p)  const { return PT(x-p.x, y-p.y); }
+  	if(c=='S')
+  	FOR(i,0,2*n-1)
+
+  	typ[j]=2;
+        for(int i=1;i<n-1;i++)
+vector<int>v;
+      seg[curr]=val;
+    }
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+#define nloop(i,a,b) for(int i= int(a);i>=int(b);--i)
+	    }
+	
+}
+tree[node] = value;
+ll counts[100010];
+
+	
++ tjtxkaqmrycbdyfczgsyvarnjvazayevjxstzkfskkuoibsjikjdnbswwvyytc
+  fill(done,0);
++ jebpbvtgomebeippzxtyzozeajptzzdkfgaibvopitrmbidbhwzgmanojchldmvisxtvthlbaencosfxqgdegqsptbaypwhhtaeojrpkveolytiozosfemwzpx
+  }
+    for(int i=eureka.size()-1;i>=0;i--)
+	return 0;
+	{
+	cin>>m>>n>>a;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+	long long int left=k;
+}
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+       dp[type][pos]=arr[pos]+val;
+	
+	arr[cur]=source;
+  fill(vis,0);
+		{
+       row(2,0);
+
+  return 0;
+
+const ll mod = 1e9+7;
+	maxdiv=n/7;
+		cout<<"no\n";
+    }	
+	if(k==7)
+double dot(PT p, PT q)     { return p.x*q.x+p.y*q.y; }
+  fast;
+			{
+	}
+			cin>>arr[i];
+                    count2=times[cur]-times[arr[cur]]+1;
+
+  	   if(bad[s[j]-'a'+1])

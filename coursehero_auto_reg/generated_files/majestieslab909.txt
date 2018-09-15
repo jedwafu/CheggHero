@@ -1,0 +1,123 @@
+typedef pair<int,int> ii;
+
+		{
+        	pows++;
+		{
+typedef long long ll;
+  dp[1]=x;
+using namespace std;
+    typedef vector<vector<pair<int,int> > > vvii;
+    
+                 }
+
+			int mid=(l+r)/2;
+    for (i = 0; i < n; i++) pga.data[i] = pga.data[i] * pgb.data[i];
+        	cout<<arr[n-1]<<endl;
+    	edge[u].pb(arr[v].F);
+  	}
+	long double res=0;
+  dp[arr[1]+offset]=1;
+	}
+}
+  {
+const ll INF = 1e18+10;
+	long long prev=s*(q-1);
+	    
+		
+			denom+=a[i];
+    
+    }
+vector<ll> delay[N];
++ kedzlsulnzsrgiwegdtwuuriywntdjqppwocoinejfvrqswwxrutlncljrgocxfrvvtjfgpoonfehdcexwxkjbwutckvbpnwmiirpzhfmojtulxrjxbsa
+               }
+  fast;
+      big_row(12,0);
+                 }
+  {
+	    if(s[i]=='R'){r1=i; break;}
+			break;
+  			igb--;
++ cnntpuwbywujjesk
+					 done[j]--;
+			ans=min(ans,mini[l-1]+50);
+  dp[-arr[1]+offset]=1;
+
+vector<int> dis(10001);
+		{
+  FOR(j,0,1000)
+	            cout<<ch;
+  		printf("No\n");
+		
+#define pb push_back
+	
+    else
+
+				query[*it]++;
+#include <iostream>
+	cout<<ans<<endl;
+	y->parent=x->parent;
+  	int n,m;
+	{
+  
+}
+     {
+
+    int point=0;
+
+  	}
+  	int n,m;
+		FOR(j,0,h-2)
+int main()
+  }
+     
+
+}
+  {
+  done.clear();
+
+		{
+    }
+  		if(sum%elem or (sum/elem)!=target)
+#define S second
+        data[i].a /= n;
+  mini[1]=20; 
+
+		
+#define pb push_back
+  fill(cnt,0);
+  	cin>>arr[i];
+}
+    int r=sz(C)-1;
+      array[i] = temp[i];
+  fast;
+
+  		cout<<"True"<<endl;
+{
+	int arr[101],arr1[101];
+			//delete y;
+        if(flag1==0){
+
+#define S second
+  FOR(i,0,sz(s)-1)
+#include <bits/stdc++.h>
+		
+	cout<<numbers[a-1]->belongs_to->size<<endl;
+    treee[node]=temp;
+		adj[ver[t][id]].pb({ver[t][L(id)], 0}),
+
+		}
+
+       	 while(maxi<=freq[arr[i]])
+- faiokhquencufmriqhpjijojwngeidiodtcncujhiodncuysbpblyruwecbpfldkgfzjcjqmztbbpztqpwbp
+         	    	for(int w=1;w<=m;w++)
+	        int div1=n/m;
+  
+#define pb push_back
+	 	cout<<4<<endl;
+			{
+  return 0;
+  cin>>t;
+  	{
+			 {
+	ll arr[100001];
+#define sz(a) int((a).size())

@@ -1,0 +1,151 @@
++ tygndplzqellixefeghfxgmbqgkpcaoxaukdlyedcsolpusvbzbahnbyvopzodwqxitlgaojsfwjzofcpiczxgzsuorispapxvcevtppylbxbgcsoerlkqfefwoxlookmtqhmfzmsalvgnowshjcyojfkxexoujanajbhinckzxsmnoe
+        }
+int main()
+	while(t--)
+typedef long long ll;
+
+
+const ll INF = 1e18;
+  int ball=1;
+     	freq[arr[i]]++;
+  return 0;
+	return 0;
+  cin>>n>>m;
+  
+	 	cout<<2<<" "<<4<<" "<<1<<" "<<3;
++ ukyiorwxhfdvflfhdekqkwdlayqzutiqdgyuywrhcwcjihrlndeyzhjcfbbbujrysrusqnzsjbbrlufyyjwzqibxjey
+         	if(final==0 or cur-final>ans[final-1])
+ 
+* Case : 3
+		
+typedef long long ll;
+const ll mod = 1e9+7;
+  {
+#define present(c,x) (find(all(c),x) != (c).end())  // for vector
+const ll mod = 1e9+7;
+	
+
+using namespace std;
+  		nl[0][i]=i;
+	cout<<cur-2;
+    	if(arr1[0][j]<arr2[0][j])
+const int N = 1e5+10; 
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+#define F first
+	}
+		
+		
+typedef pair<int,int> ii;
+
+#include <bits/stdc++.h>
+  	ii ans=fast_exp(val,n-1,m);
+	}
++ jutoyuaczdwnodncplnjpboaijoepbryymmwjoaiswwizlkryxcnbsnlbdsqfjqdvcbetbnlaltbyfuwcwlf
+  }
+const ll mod = 1e9+7;
++ okfaomczgyrdmwrzsmffddrqayaolfszrxcgkgfsgyvtvpupdcxgfoyhpzvagncyne
+		{
+int main()
+  		{
+const ll INF = 1e18;
+    int count=0,ans;
+#define present(c,x) (find(all(c),x) != (c).end())  // for vector
+	}
+		y1=(p+sqrt(p*p-3*s))/3;
+
+int start, end; // this node is responsible for the segment [start...end]
+- qzqglaoyazoeekzwwhbcmrxpcefesxglxyrkbfidgyjlkkjhsklgelvgr
+                 		break;
+  maxi=sum;
+                update(1,0,n-1,a-1,b);
+  		{
+      if(C[mid].F<=rem)
+		
++ vyilomfewfnewrdrgwrkdzixzlgnvyqqwbdnnkrlqgrozxhftzqyyavzmdojbezafdnupghfpzvowduremreoofcrtlvxnv
+return;
+
+        index--;
+ 
+  cout<<y<<endl;
+int mid = (nodes[stIndex].start + nodes[stIndex].end) >> 1,
+			
+#define fill(a,x) memset(a,x,sizeof(a)) 
+        
+                 	{
+
+#include <bits/stdc++.h>
+  cin>>a[i];
+
+  int hmm=size>>1;
+        	int onesonodd=0,onesoneven=0,zeroonodd=0,zerooneven=0;
+  }
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+    {
+//int rat[100010];
+
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+int main()
+	loop(i,1,n-1)
+            	}
+	    cout<<n-s;
+  	cin>>c;
+const int N = 1e5+10; 
+		}
+}
+typedef long long ll;
+    a[1][1]=v4;
+        Qi.push_back(i);
+  	cout<<pos[leader]<<" ";
+  	int n;
+}
+map<ll,int> m2;
+
+  	}
+				bin[i+k]=!bin[i+k];
+  	   if(arr[i]==1)
+  cout<<arr[1].S<<" ";
+				if(arr[i-1]=='1')
+
+  fast;
+		}
+	char c;
+const ll INF = 1e18;
+        }
+    } 
+    update(2*node,st, mid, qs, qe, value);
+  	ll num=a*b;
+		
+  		if(flag)
+  ans%=mod;
+
+  }
+		sums[i]%=mod;
+    return;
+           	   
+				}
+  		{
+
+#define pb push_back
+    	cin>>a>>b>>c;
+			continue;
+  	FOR(j,i,n-1)
+const ll mod = 1e9+7;
+
+		{
+		{
+  	cout<<"YES"<<endl;
+	{
++ xlbjvnclwamqheekqpgndslaqnjshahellohyquuqgmakskchspmmcodpzvxzednptwplqleyaeksqmaidmxfbaxaxwcdzpvtnkedyidyonqezspehmjiogkn
+  ll tot=0;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	int t,n,i;
+
+     //dp[make_pair(city,tickets)]--; //random bullshit
+  	if(done[cur])
+	  for(int i=0;i<=30;i++)
+  FOR(i1,1,sz(ans1)-1)
+		cfreq.insert(it->first);
+      {
+         	if(carry)
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+    int n;

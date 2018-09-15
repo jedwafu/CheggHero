@@ -1,0 +1,127 @@
+			if(temp>count)
+  	cout<<-1;
+#define INF 10000000
+
+
+
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	return 0;
+#define S second
+			newcur=sz(s);
+struct ADDMUL
+  {
+#define S second
+			term=term/2
+		cout<<ans<<endl;
+           flag=false;
+                 
+  FOR(i7,1,sz(ans7)-1)
+    for (i = blen; i < n; i++)  pgb.data[i] = Complex(0, 0);
+
+	 		s.push(i);
+         	seen[j]=false;
+	
+
+bool vis[N];
+  cout<<par1[i]<<" ";
+		}
+#define fill(a,x) memset(a,x,sizeof(a)) 
+
+  	}
+  {
+
+- pvmujswoemdu
+  cnt=1;
+	if(n==1)
+	else if(2*m>n+1 and m!=1)
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	int t;
+
+#define F first
+typedef long long ll;
+const int N = 1e5+10; 
+    return 0;
+typedef vector<int> vi;
+
+    std::reverse(sorted.begin(),sorted.end());
+#define sz(x) (int)x.size() 
+             	{
+  		FOR(j,1,m-1)
+const ll INF = 1e18;
+
+		}
+}
+		   	count=count+2;
+  cout<<sz(ans)<<endl;
+  cin>>arr[i];
+                 	if(arr[i+2]-arr[i]!=diff)
+		for(int i=0;i<m;i++)
+#define errop(a) cerr<<#a<<" = ( "<<((a).x)<<" , "<<((a).y)<<" )\n";
+#define pb push_back
+}
+
+    int r1=arr[i]%599;
+if(a > b) return; // Out of range
+        cin>>s;
+  	cin>>xc>>yc>>sc;
+    	}
+  	fill(sums,0);
+  	{
+typedef vector<int> vi;
+			for(k=0;k<n;k++)
++ nkjtgegzgzcddofxhoipfvmpdk
+		
+int toggle[410];
+  	int n;
+  cin>>arr[i];
+string s;
+                 		flag=false;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  FOR(i,1,n)
+	int ans=0;
+
+	     
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  				cost[i][j][k]=cost[i][j-1][k]+A;
+typedef long long ll;
+	int m,n,a,b,result;
+		 
+     if(par[root]!=parent)
+double dot(PT p, PT q)     { return p.x*q.x+p.y*q.y; }
+       tree[node]=LPD(a);
+#define pb push_back
+  	bool flag=true;
+{
+#define tr(container, it) for(typeof(container.begin()) it = container.begin(); it != container.end(); it++)
+	int n;
+  return 0;
+    	{
+    {
++ olwvtzctipduymmjasnlqtcuhnucivxygttbuxucmawlmlumfhzxcbsjponzmkxufswzqsdcscnhpjtwqtuuwognetmqglllgjlwdoayqqfhzaesvym
+  		s[i]='V';
+  		else if(!lookingfor and s[i]=='T')
+			}
+		scanf("%lld",&arr[i]);
+
+
+
+	}
+
+     
+int main(){
+
+typedef long long ll;
+  	int n;
+      
+int n, m, k;
+  cin>>t;
+  			{
+		}
+46827
+		
+
+                	q1=q2;
+const ll mod = 1e9+7;
+
+    while(index1<index2)
+  while(t--)

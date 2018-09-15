@@ -1,0 +1,183 @@
+			//string s= x.to_string();
+	 for(int j=1;j<=n;j++)
+	{
+int x,y,z;
+		cout<<"yes\n";
+	if(minrev==6){
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	{
+36655
+
+
+using namespace std;
+	
+    {
+    int flag=0;
+  FOR(i,1,359998)
+
++ wcwpczuadpauoal
+	cout<<ans;
+    for(int i = a  ; i < 2*a ; i++ ){
+               {
+		for(i=0;i<n;i++)
+    cout<<x<<" "<<y<<" "<<z<<" "<<a<<" "<<b<<" "<<c<<endl;
+#include <bits/stdc++.h>
+  	cin>>s;
+#define y second
+map<string, vector<int> > beauty;
+  cin>>n;
+  {
+				    }
+  
+  {
+
+  }
+			int u = p.x, w = p.y;
+void dfs2(int source)
+         s+=floor(pow(n1,j))-floor(pow(n2,j));
+  fast;
+#include <bits/stdc++.h>
+  				dp[1][i][j][k]+=1;
+typedef vector<int> vi;
+}
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+{
+void build(int curr,int l,int r){
+
+    for(int i=flag+1;i<=n;i++)
+    return 0;
+#define pb push_back
+
+	int t,n;
+					if(s[s.length()-2]=='.')
++ qwexogsvcdvsxlzqeqazxmwaqbjtmyfcvl
+using namespace std;
+}
+
+{
+	{
+8983
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  		sums[i][0]=C[i][0];
+typedef pair<int,int> ii;
++ izkbkwoxqkdqhhajktsmhkmedfkpwzsgachlavkshpipykajdtxmfjqlrdcneuufydsazcsitbxrlacrvadcjuncxpsbloilralseebxhapsarjxrnadj
+ 
+	for(i=0;i<s.size();i++){
+				double angle0=atan2(x1*y2-y1*x2,x1*x2+y1*y2);
+				
+  FOR(i,1,n-1)
+
+	
+    ll q1=query(node*2,a,(a+b)/2,i,j);
+}
+- rkgeygdqarvocqmdkfyyveybpaqrqfpkrxqqftgfndtptiseptekxcmofefvlwhduytzrbfgeavykqeajkkimyzr
+  		if(edgnum < 0)
+	cin>>n>>m;
+  	}
++ bknmnrlcssmwegngcwhlbxsablarenofzdsmu
+	  if(c=='B')
+}
+- gymxikvedvkvadbjqauouqcwvzyhmguuehsmrptwkdrmitwavqopgqndqllerfzymtmfifcuktgsocsjvjadznhryuwszxqosctakxuuraphfjtastfsjojjihbigtyyyrairuekxvrcfmexglrpabaikcqtxqrvksfbo
+- mmaxvmbijfmc
+      n%=sum;  
+}
+	int a,b;
+	for(int j=0;j<26;j++)
+
+	return true;
+  return;
+int n,e;
+
+    int a,b,n;
+#define sz(x) (int)x.size() 
+		cin>>n;
+  beauty.clear();
+  fast;
+		
+	maxi[i][j]=0;
+  		cout<<"False"<<endl;
+ 
+#define fill(a,x) memset(a,x,sizeof(a)) 
+
+- zlsqepwawtwgnjiztynjrraegypqqmnpxhgbxebvxzekkmlglyrcrrixqyqikdajlgmkmphlolxbyihljynasyykyosktstgafsmuazknwnlfwyoxoqpmozkeruampgmwbbsbaeoxsceocu
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+		minicost=min(minicost,t*c+((X+Y+Z)/2)*b+a);
+
+       int temp=it->S[0];
+#define nloop(i,a,b) for(int i= int(a);i>=int(b);--i)
+#define mp make_pair
+      big_col(13,8);
+  	cin>>u>>v;
+  sum=(sum+present[1])%MOD;
+  cin>>n>>k;
+	in[s]=timer++;
+    return 0;
+  		aux[i][j]=aux[i-1][j]+1;
+  while(t--)
+  if(lazy[kd][pos])
+  cin>>t;
+typedef pair<ll,ll> ii;
+int weight[N];
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+
+  last=n;
+ 
+    }
+  	cout<<endl;
+- hcudndaygbmkhymwqnkiwrriwgwzdojmqfrfirfpvsbcqnbicnqyfj
+ 	}
+           val=gcd(a,n);
+  	big_col(1,0);
+	for(int i=0;i<s.size();i++){
+		if(rows[i].empty()==false)
+    for(int j=2;j<=i+1;j++)
+  prefix[1]=0;
+	}
+using namespace std;
+		{
+  		cnt3++;
+const int N = 1e5+10; 
+		while(curL>q[i].l)
+		{
+
+void sieve()
+const int N = 1e5+10; 
+	{
+
+	    if(i==count-1){
+#define S second
+		if(x+i>0 and x+i<=n and y+j>0 and y+j<=n and arr[x+i][y+j]=='P')
+		if(n%2==1)
+  	{
+				term=term/2
+  fast;
+temp[0][k]=original[0][i];
+    }
+		root->left=NULL;
+		else
+    if(c==2){
+                 		break;
+
+	starts[i]=min(ts,tf);
+	   for(int y=0;y<26*210;y++)
+      
+    else if(maxi%2==0)
+
+
+
+    pgb.setSize(s); // fill and transform second array
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  cin>>n>>k;
+ll dp[N];
+       {
+int query(int curr,int l,int r,int x,int y){
+int main(){
+
+        	index--;
+	    if(arr[i]==7 || arr[i]==4)
+			index='8';
+ 		}
+   cout<<"1yahan aa gya apun with "<<ans[1][1][2]<<endl;
+	    arr[i]=1;
+		    }
+		{

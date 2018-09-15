@@ -1,0 +1,149 @@
+  }
+
+using namespace std;
+
+
+  	nex[i]=arr[i];
+	return 0;
+  {
+  if(l == r){
+	if(n==1)
+  cin>>n;
+set<pair<int,pair<int,int> > > starts;
+    
+  {
+  			cout<<1<<endl;
+#define pb push_back
+        		break;
+    cout<<sol<<"\n";
+  int n;
+const ll mod = 1e9+7;
+- hzlytlczrvzdovssltitfszzxqhistibuvangcmxxlcogvgsqqnvimuhfdszwaaqvceehsdee
+
+		    while(s.length()<20)
+typedef long long ll;
+    {
+#include <bits/stdc++.h>
+typedef vector<int> vi;
+  fast;
+        {
+#define s(n) scanf("%d",&n);
+	{
+    while(A[2*x+1].add>M)
+	string s,s1;
+#define sz(x) (int)x.size() 
+  	}
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+
+  	{
+  		ans+=mod;
+    	freq[it->F]=freq[it->F]%k;
+  fast;
+  	cin>>p;
+        A[2*x].sum=(A[2*x].ini*(m-ss+1))%M;
+void insert(ll val)
+	{
+		while(next!=start[k])
+  FOR(i,1,N-1)
+}
+		for(int j=1;j<=m;j++)
+  	if(arr[i][j]!='#' and arr[i][j]!='.')
+const ll INF = 1e18;
+	    }
+
+		if(arr[i]%arr[j]==k){
+
+		}
+- njmbgjnphoojitmpqgltfiurqnlmmticfwdnfsemgtxromigstaxdwrtkehwxpyeldttwyhethxjtfqlbsleoe
+  	
+	cin>>t;
+  	{
+
+  }
+			node* y=z->parent->parent->right;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	
+  }
+
+  cin>>n;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+
+
+  	int temp;
++ qykjzqyynrexilvmzxpihckicfqmelgvlqekgcktvoqdaosbnhlujvdmbvahihetxkfgopbjfspfijivqtrarwourobzvisvszbhocsuwjbeskblft
+         if(!flag)
+bool bear[3];
+		cout<<temp[0][i]<<" ";
+                 	}
+
+		{
+  }
+using namespace std;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+const int N = 1e5+10; 
+return;
+				{
+            if(arr[i+1]-arr[i]!=diff)
+  				yes[i]=true;
+			done[j]=true;
+  	 cout<<56<<endl;
+  	    column(i,13);
+	    temp=score[11-k];
+
+  	if(dp[i]>maxval)
+typedef long long ll;
+			cout<<d<<" "<<b<<endl;
+
+        {
+
+for(k=start1;k<=end2;k++)
+			cout<<"Yes"<<endl;
+	FOR(i,1,n-1)
+	}
+	for(int i=0;i<m;i++)
+  		}
+        query1(m+1,se,m+1,qe,2*x+1,val);
+
+int ver[2][4*N];
+  {
+		
+  ll days=0;
+        n-=arr[i];
+
+	return 0;
+		
+	{
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+                 else if(i+1<n)
+ll arr[N];
+  int n,m,k;
+typedef long long ll;
+    	sum2=0;
+#define F first
+{
+  	 	 j=1/j;
+{
+    FOR(i,dx,dx+1)
+update_tree(1+node*2, 1+(a+b)/2, b, i, j, value); // Updating right child
+    {
+
+			return false;
+		sort(score,score+11);
+#define pb push_back
+int typ[10];
+  return 0;
+{
+	int a,b;
+int main(){
+  	FOR(j,1,k-1)
+	{
+  fill(dp,-1);
+const int N = 2e5+10; 
+  x=x-(1<<i);
+		{
+           break;
+        }
+
+  		}
+            
+  	int a,b,c;

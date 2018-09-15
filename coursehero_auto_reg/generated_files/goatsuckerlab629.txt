@@ -1,0 +1,140 @@
+  fast;
+typedef vector<int> vi;
+
+       
+            printf("%lld\n", query4(1,N,x,y,1));
+  donev[source]=true;
+  FOR(i,0,sz(b)-1)
+  int n;
+- izeivksdaqpyivtqjinvexpalunpqfoyhujcebfgtxgdsztbjjzogoqtkfialybsskwyndggamjuneyxnxlvndpajxawybqqlmrypxgsmpmzwkwjjjfznuzytzwrdmkqabrraxjmpyolimuuwbtlxulrvhkyvwpvzimafyouwcfgpcandvybplulsglnfckekyeqwvmuz
+	    if(arr[i]==7 || arr[i]==4)
+		if(n==1)
+       }
+  	if(tm>-eps)
+  		p[++Q2]=(node2){u,last[u],actual[v]};
+	        result=n/m;
+            }
+  	if(i+1<len and s[i+1]!='!')
+			for(int j=0;j<n;j++)
+#define fill(a,x) memset(a,x,sizeof(a)) 
+using namespace std;
+
+  	cin>>s[i];
+	sort(str3.begin(),str3.end());
+
+#define F first
+		
+	double dx21 = x2-x1;
+      if(s[i]!=t[i])
+	x->parent->right=y;
+		cout<<temp[0][i]<<" ";
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  FOR(i,1,n)
+
+  odd.clear();
+    int a,b[100001];
+    int i;
+  cnt=0;
+#define S second
+int main(){
+
+			  flag=0;
+
+	}
+int main()
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+			if(check(index,mid))
+
+  while(t--)
+
+- rneatinltlzksqmteujasmklwlricfavsgynqlzmwywrrimvevwyjilfvdqaisvdbtqrepfbqbuhmgeqecrnkcvgfngqhbtixjcbbhetlacxhgpnjicvlxbsmjiundekpinqqujdulcdttqectapsdhfnsbcxhomqbeivp
+   // cout<<b[i]<<" ";
+  	r1=min(r1,r);	
+     
+  FOR(i,1,26)
+  	}
+}
+
+	cin>>n>>k;
+	scanf("%d",&t);
+			
+    ans.clear();
+  		double x1=0,y1=50,x2=x-50,y2=y-50;
+       // cout<<"distance of "<<here<<" : "<<dist[here]<<endl;
+const int N = 1e5+10; 
+else
+    		break;
+			cout<<total%2<<endl;
+  c[0]=c[1]=c[2]=c[3]='!';
+    ll add(ll a,ll b){
+#define F first
+
+  {
+	cin>>t>>s>>q;
+#define pb push_back
+  		        char c=arr[0];
+
+using namespace std;
+
+	else if(x==x->parent->right)
+const ll mod = 1e9+7;
+using namespace std;
+    ll mul(ll a,ll b){
+  	if(c[1]=='B')
+}
++ wfvmnza
+    while(A[2*x+1].sum>M)
+    while(flag)    
+
+    cout<<arr[ans[i]].S<<" ";
+		sort(score,score+11);
+#include <bits/stdc++.h>
+  int n,h;
+      }
+     			st.pop();
+
+				
+	string s;
+	//rightrotate(z);
+  	else
+
+		next=arr[start[k]];
+
+const ll INF = 1e18;
+    lazy[0][2*node]=0;
+  freopen("output.txt", "w", stdout);
+	for(int i=0;i<d;i++){
+             	else if(s[n-1-i]=='.')
+  while(t--)
+- xcbygxwbalptrnmkkwocfszbbqjkickgglepjdqjqifixrsipjmublycdjonlyvsmcjxfzivjndhhyrwjdtkqrotadgmdegpgpolqxgcmmltkesvhlfzcvueyaqegyvmpkxihektqxncbhxksejwbdacftgmtbyllwts
+        }   
+		printf("%lld ", (dis[i] == inf? -1: dis[i]));
+    ll q1=query(node*2,a,(a+b)/2,i,j);
+
+	
+#define pb push_back
+#define pb push_back
+
+        if(flag)
+#define S second
+
+
+  FOR(i,1,q)
+  	double mid=(r+l)/2;
+  FOR(i,2,n)
+    if(n==i)
+    int a,b,n;
+  			val1=val1 | vals;
+  int t,m,k,n;
+bool done[1000001];
+
+            	count++;
+  	prefix[1]+=arr[i];
+	else if(m==1)
+#define F first
+		arr[i][0]=arr[0][i]=0;
+#define pb push_back
+    }
+#define mp make_pair
+			dp[0][j]=0;
+  FOR(i,1,n)

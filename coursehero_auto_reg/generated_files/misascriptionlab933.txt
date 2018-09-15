@@ -1,0 +1,107 @@
+typedef long long ll;
+  			if(xorval==x)
+33048
+	}
+  	cout<<"Case #"<<T<<": "<<dp[n-1][1]<<endl;
+vector<ii> arr[N];
+  
+
+
+            }
+      findrx(i,mid+1,b);
+    }
+  	  toggle[j]=0;
+
+	int flag=1;
+14588
+    	return -2;
+  fill(dir,0);
+#define fill(a,x) memset(a,x,sizeof(a)) 
+const ll INF = 1e18;
+	int n,i;
+       if (exact[freq[arr[i]]]==0)
+			if((n-i)%7==0)
+  	l1=max(l1,l);
+	}
+  	if(!flag)
+            tmp3/=10;
+	  sets[i]=NULL;
+	cout<<ans;
+    if(sum2!=sum1)
+  			}
+  		dp[i]%=mod;
+#define spresent(c,x) ((c).find(x) != (c).end())  // for set,map
+int n,m,a,b;
+			cur++;
+		cout<<n*n-count<<endl;	
+  		}
+	
+- krtqgdkjdpdsaleqzeelnthkhbxwgzisqekwhvhmmnemykexolkcetonumkcnuwgagchbmunzacxlgwzridybslxgxbvuxbudgehsawtayslhqnyyq
+typedef vector<int> vi;
+  		}
+
+  cur=h2;
+			{
+
+   forward[n] = 1;
+  	
+			bool val1=arr1(-1);
+  }
+		x1=s-y1*(p-y1);
+
+
+
+#define S second
+		mark[v] = true;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+		sets[i]->size=1;
+    {
+  			cout<<n-1<<" "<<n<<" "<<n-2;
+typedef long long ll;
+  }
+            if(ansval==10000000000)
+  			tdp[j]+=dp[j+arr[i]];
+	}
+
+#define sz(x) (int)x.size() 
+}
+typedef vector<int> vi;
+
+#include <bits/stdc++.h>
+  		ans=max(ans,pre[i]-mini[i-2]);
+    seven1[temp]=i;
+  	cnt=0;
+
+	            cout<<ch;
+const ll mod = 1e9+7;
+
+#define rof(i,a,b) for(int (i)=(a);(i) > (b); --(i))
+using namespace std;
+	return 0;
+	long long int m,n;
+	cout<<ans;
+};
+	{
+bool can(int m,int s)
+		while(curL>q[i].l)
+  	FOR(i,1,n)
+	cin>>n>>m;
+
+    	cout<<n-3<<"MB"<<endl;
+		cout<<"S "<<arr[i]<<" "<<sell[arr[i]]<<endl;
+	for(int i=0;i<n-1;i++)
+	
+61914
+	int len=strlen(arr);
+void update(int curr,int l,int r,int index,ll val){
+  {
+    par[0][0] = 0;
+  		ans=(ans+pows[val[i]]-1)%mod;
+        dp[n1][n2][0]=(dp[n1][n2][0]+DP(n1-i,n2,1))%mod;
+  		ans.pb(mp(3,cnt1));
+		{
+  FOR(i,3,N-1)
+PT ProjectPointSegment(PT a, PT b, PT c) {
+{
+
+

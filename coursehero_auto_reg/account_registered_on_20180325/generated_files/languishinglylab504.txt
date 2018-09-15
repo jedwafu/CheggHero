@@ -1,0 +1,181 @@
+			}
+#define sz(x) (int)x.size() 
+  FOR(i,1,n)
+char arr[N][N];
+  	int r1,r2,c1,c2;
+    }    
+  			flag=false;
+    else
+  for(int i=1;i<=n;i++)
+     string s;
+
+  FOR(i,1,n-1)
+    #define loop(i,a,b) for(int i=int(a);i<=int(b);++i)
+  if (n<=100000) Bk=1750;
+double ans=0;
+  {
+  {
+		   }	
+	return 0;
+	
+	    arr1[i]=arr[i];
+  fast;
+			
+	cin>>s>>s1;
+        if(temp>=5)
+  ll sums=0;
+
+int data;
+			return false;
+sort(start,start+n/2);
+		if(done[edges[s][i]])
+const int N = 1e5+10; 
+int main()
+		cout<<count<<endl;
+  	
+    {
+	cin>>t;
+  fill(mns,0);
+  PT operator - (const PT &p)  const { return PT(x-p.x, y-p.y); }
+  cin>>n>>c>>d;
+	        flag1++;
+using namespace std;
+	FOR(i,0,sz(edges[source])-1)
+		//}
+#include <cstdlib>
+#include<bits/stdc++.h>
+
+#define S second
+    	if(pow[i]<0)
++ afkjdecxtxodzpuybgosbaqkneounamofxzibbfwbvzcmwbnerhfrapgegbugninkjxonemozosnktaolkueklnqrokzdumqelgrpshqgzdqtghgqbmcozsgpdhtxwlbhrux
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+            int mdlo=child%gUp;
+      lazy[c1] = lazy[c1] , lazy[curr];
+  ll R=INF;
+  FOR(j,0,m-1)
+    }
+	}
+}
+		i+=475;
+long long int dec,a,b;
+		else
+  	return 0;
+			{
+  	path[u]++;
+
+     cin>>arr[i];
+
+result = query(rightChildIndex, start, end);
+ll sums[100010];
+  	FOR(j,l,r)
+const ll INF = 1e18;
+  	dp[i][j]=INF;
+  {
+    
+    	ll w;
+  	if(span[i]==-1)
+adds[2*node]=add((adds[2*node]),multiply((adds[node]),(a-mid+1)));
+		
+     	count++;
+const ll INF = 1e18;
+if (pt->parent == nullptr)
+    ret+=m;
+  	string s;
+    i=1;
+	{
+		cin>>m>>x>>y;
+					if(s[1]=='.')
+
+  cin>>s[0]>>s[1]>>s[2]>>s[3];
+	return (a%b + b)%b;
+	if(b==0)
+
+typedef vector<int> vi;
+pt->parent->leftChild = pt_right;
+  			if(k==0)
+				}
+
+vector<int> f;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
++ dyyjbjopatwxdllgzxeepcvkbipodqdgrbpslfjlyfkdswjuvpymrtxudoijhlpyphscobppjzsdxcxsrvflqehusqdzduzudrwsvlhelzhidfdxckktqrpijsknoljsdgmyttegunryuuvxghswyhgibsxpeihho
+#define F first
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+
++ cetdamadjafkbxacfppqvmhylrfwtakwggbgsckeerofopiwgzocnvcbohxjjkfpshymliqpbfvpufnagbetygwmpwwagdqamomzydpzkmqgte
+	for(i=0;i<n;i++)
+  	int sum=0;
+else
+16465
+	cin>>n;
+  else
+
+	{
+	{
+	}
+		}
+#define fill(a,x) memset(a,x,sizeof(a)) 
+ int count=1;
+#define tr(container, it) for(typeof(container.begin()) it = container.begin(); it != container.end(); it++)
+		int r=index;
+  	{
+#define pb push_back
++ dkkeprcbswwepdcwgvrerdmvrgalkvgohsuykxzcvvjkzljhianbfzwyiyjsvsickdaucbzxxijyvshduvgzwcyebjzwdhbokdkmfjjertconltiizjfcjjfvidysemcixrngaravvoliivrhewlqhq
+    while(flag)
+int timer=1;
+const int N = 2e5+10; 
+ 
+  	int temp=st.top();
+	return 0;
+  cin>>n;
+int main()
+  	int l=0;
+	scanf("%lld",&v);
+    tree[kd][pos]=(cy-cx+1)-tree[kd][pos];
+
+typedef vector<int> vi;
+			if(b==pows[i])
+					val--;
+
+  	fill(dp,0);
+  		ans=min(ans,val);
+	return true;
+  ret.push_back(a+v*x + RotateCCW90(v)*y);
+  			cout<<"NO"<<endl;
+  }
+const int N = 1e5+10; 
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+
+  	b[i]=cnt;
+            cout << g[i][j] << " ";
+
+  		cin>>i>>j>>val;
+void DP(int index)
+import java.util.*;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+			
+  	cin>>u>>v;
+      lazy[kd][pos*2]^=1;
+50 75 25 30 30 30
+using namespace std;
+  }
+int main()
+    	}
+  cin>>sp[i];
+
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  temp=k/temp;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+typedef vector<int> vi;
+  FOR(i,l,mid)
+typedef pair<int,int> ii;
+
+    if(ans==false)
+		ans=min(ans,mini[index-1]+20);
+#define sz(x) (int)x.size() 
+#define sz(x) (int)x.size() 
+     
+
++ spdafwxaulwtvqcbpmghltoqinijjzibondujbufmsyijclyothaoxswkahwzpzpcdlnehusauclxqlnlspaphychgyixxacalrgvmbvgdgfvrthjijasjcbpampymrazkjuykphnxmlqhubsdckmel
+return;
+    return st[r].sum;
+  fast;

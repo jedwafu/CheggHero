@@ -1,0 +1,144 @@
++ mumctgcftslgnlyadmugmgeoodnbjajyvxaqdcxzwjfjudmzrifeqkufpjiaksyhpyzvcxuzgz
+  //freopen("output.txt", "w", stdout);
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+
+  index=0;
+int main(){
+	}
+
+int n,l,k;
+7857
+    	cout<<maxi<<endl;
+  			cout<<prefix[1]<<endl;
+
+	for(i=1;i<=100;i++)
+  				cur.F-=route[1][j];
+
+
+
+#define pb push_back
+  	if(dp[i]>maxval)
+			pow2[i]+=mod;
+  cin>>n;
+  while(r-l>1)
+  	return 0;
+int last[N];
+  FOR(i,0,2009)
+            if(ch=='C' or ch=='M' or ch=='Y')
+		  temp2=max(dp[i],dp[i-arr[1]]+1);
+      
+bool done[N];
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  	w[i].pb(0);
+      }
+  FOR(i,1,26)
+typedef pair<int,int> ii;
+void copy(int start1, int end2)
+      
+    seen[arr[i]+1000]=true;
+
+using namespace std;
+		}
+- zulyhiboloobvbvtfxokhyyegnxlzovzkixtsyhdowfkzadgzrthptlxgligbf
+        	cout<<-1<<endl;
+	while(t--)
+  for(int i=0;i<10;i++)
+            	s.insert(s.begin(),'0');
+  }
+  
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+- grcutpczujnoybydaiubiolsadydropxfrtbhvabepsdqqisaetkuecujdyarnzzetalocpvrha
+                 {
+    	return -2;
+#define present(c,x) (find(all(c),x) != (c).end())  // for vector
+  	{
+      else if(t>0){
+  const Complex operator-(const Complex &c) const
++ lrmzcqhupbibmwphvjrnrxfjyvawvbdivpjzgrvxueagcrqyajlsisdgpdemghubxeddxycrcdzfupfvzsphksqcxuqdclhzrkeqighnliugyzdzrsidmyfjtwovjvwchassibfujbcjafirztulrcwmakjji
+  		else if(mid*mid*mid < num)
+	}
+  FOR(i,0,n-1)
+   return 0;
+     if(!flag)
+  fast;
+	int n,maxi=1;
+
+        cout<<query(1,1,n,1,n-k+1)<<endl;
+#include <bits/stdc++.h>
++ gmezwvfmmvzcyejsltojxztnmtaymtptfvubtbphxqjxvupgogpnfkdtddrpwikdghgziwihmrfhnwndeerlouerzxjxgtaoainlexstqza
+	}
+       column(3,0);
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  int m;
+  return PT(p.x*cos(t)-p.y*sin(t), p.x*sin(t)+p.y*cos(t)); 
+int arr[1010];
+    if(i==k+1 && dp[p] > maxx)
+  	}
+
+
+
+
+  {
+  FOR(i,1,m)
+	
+    return 0;
+      		count++;
+
+          return 0;
+  	for(int j=0;j<cnt[i];j++)
+        		break;
+    temp=(temp*7)%599;
+
+  cin>>s;
+const ll INF = 1e18;
+   }
++ uapfmvnnutgirkuistzpvwnkxjujelaanpfanunhnvpffknxfomamckjngtttttglziavxhltzsalhyqvmq
+       column(8,4);
+		}
+                {
+        if(done[s[i]] and (!done[t[i]]))
+#include <bits/stdc++.h>
+        	cout<<mini<<endl;
+	else
+  	if(s=="Tetrahedron")
+  	int mid=(l+r)/2;
+
+using namespace std;
+  	u=queries[i].S.F;
+            maxindex=i;
+  	{
+const int N = 1e4+10; 
+
+  int n;
+map<char,bool> done;
+  FOR(i,1,n-1)
+#define S second
+
+      //leftChildIndex = stIndex << 1,
+
+
+int main() {
+const ll mod = 1e9+7;
+  FOR(i,1,k)
+                 {
+
+  		dp[i]=sums[hi]-sums[lo-1]-sums[i]+sums[i-1];
+11755
+	    }
+	return minval;
+
+int main()
+  		if(arr[x][y]=='G')
+  cin>>t;
+  cout<<ans[i]<<" ";
+}
+	int n,m;
+		best6=w[1][cur[1]]+w[1][min(cur[1]+1,sz(w[1])-1)]+w[1][min(cur[1]+2,sz(w[1])-1)];
+
+		sums[i]=rat[i];
+  {
+	int i,n,k;
+         
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+}
+  				dp[2][i][j][k]+=1;

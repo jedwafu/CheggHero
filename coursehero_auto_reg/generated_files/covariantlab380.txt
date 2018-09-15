@@ -1,0 +1,176 @@
+  while(t--)
+  ll ans=pre[2];
+		}
+  			if(xorval==x)
++ adxzadfstiapwjbbjmlyyazwrohyvkmyplzsoemjomzlxcohqbhobgkvuttrghpvsqpjucslotyovovnpcbskongjizpprlkhctcenpvhnjebgsskvkwlacvibkasxkcafegstbbimgjsadexpajpegagqcaqocqtiyldaplovwjxbnurqfiulkcemduahmvsk
+  	int h,s,x,y,z=0;
+int main()
+using namespace std;
+
+		cout<<-1;
+
+	}
+- olefozgycnqjhospohotjnzzaoryylpmxttnsznunegusymihcbqpdqsrjqrwhdtbyitxwqkawhuwvedxfvnknfbwxsvexqhvzbtvtfxrotnjxqhenwpbdszcluiklqiktbhm
+                 	}
+int main()
+    }*/
+
+  }
+using namespace std;
+
+		dpair=dskip;
+
+#include <bits/stdc++.h>
+                    if(ans<0)
+#define fill(a,x) memset(a,x,sizeof(a)) 
+	{
+}
+	cout<<r<<" "<<c+4<<" "<<r<<" "<<c+5<<endl;
+	    
+}
+	
+	int t,n,i;
+  	flag=false;
+#define pb push_back
+                 	}
+				double x2=(temp[0].x-points[i].x);
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+typedef vector<int> vi;
+	for(i=0;i<m;i++)
++ trhganudwdqmiomhavsibuipggtfvxooqvwriqueumsecfndcflfbuuicnpxmdndakwkaqpwejagqpjuxvzyptgtjxrvceycounpmenqnqzefiycdabutjoejfall
+  	cout<<ans<<endl;
+const ll mod = 1e9+7;
++ wkztnbosyizdyedxstwbkdqhbbtnkoiibheqiskjcmobs
+      ans=max(ans,C[i].S+query(1,0,sz(C)-1,0,i-1));
+  	int n;
+			ret1+=MOD;
+  		cout<<h[b]+h[a]-2*h[lca(b,a)]+1<<endl;
+	        if(count==7){
+  	
+#include<bits/stdc++.h>
+	    else
+	while(count<n)
+  fast;
+	{
+}
+#define all(x) x.begin(), x.end()
+    int r = k;
+    }
+             		break;
+  cin>>n;
+typedef long long ll;
+		freq[arr[i]]++;
+  else
+  	cin>>t>>l>>r;
+    int index1=0;
+	{
+  fill(freq,0);
+	
+  	cout<<r;
+int main()
+        	cout<<-1<<endl;
+               	return 0;
+#define pb push_back
+long long buy[100010];
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+    else
+double eps=0.0000001;
+  fast;
+        	if(intersect[j].S==0)
+#define pb push_back
+                temp=(arr[2][i]*arr[2][i]-(p2-arr[1][i])*(p2-arr[1][i]));
+  	{
+{
+  			last=i;
+  return 0;
+    }
+			}
+  	dp[i]=1;
+	int arr[1001];
+  FOR(i,1,m)
+          for(int i=k-2;i>0;i--)
+	vis[x]^=1;
+  done[cur]=true;
+    {return Complex(a - c.a, b - c.b);}
+  if(t1==m+2 or t2==m+2)
+	int len=strlen(arr);
+    }
+- bweycbxgnczdohzpdywppebojbvyonasjfqnintyqsbgbcvebttszwhiyegmthgeowrykkwcezkfchlfagxzcgjamppfyvjoucngmlisluzpbkwdstcxcnzoeoudmftgigowuyphsqwtbswvnaspns
++ qumlkabjnunbpwqgejlekcqgodcalhtbbfmohpzwkmzbiripdttnxltopyqchjdjq
+	p=int(numbers[2])
+{
+        diff=arr[1]-arr[0];
+
+    if(a>b||a>j||b<i)return 0;
+	par2[cnt]=p;
+	return 0;
++ pptoqcnyklzglauvnmysmrcpfmxdkeocvkqnoeoyrpgfpcc
+  if(sz(s1)>=sz(s2))
+ 	cout<<0<<endl;
+		
+#define nloop(i,a,b) for(int i= int(a);i>=int(b);--i)
+  		continue;
+using namespace std;
+#define pb push_back
+    }
+
+	
+		query.clear();
+	for(int i=0;i<n;i++)
+  cin>>c[i];
+using namespace std;
+    if(min(ans[0].S,(int)pow(n,3)-ans[0].S)<=k)
+		p=p/4;
+
+- iqbhbwzmranfevtnomgfxobwafjadnwndzwhvxtoxgteborpdaxaqawsfiskvqyzpugmszarhwvimpaprxphxobfwuprmpqcmyqgxrxgpvpbkrtboiknwlsufk
+		
+int DP[20][N];
+  		return 0;
+  FOR(i,1,n)
+				 		dummy[i]=-1;
+	    }else{
+#define fill(a,x) memset(a,x,sizeof(a)) 
+    ans.pb(mp(-1,sum));
+	ans2=max(0,h[lca(u2,v2)]-max(h[v1],h[u1]));
+  int sz2=sz(t);
+  int t;
+  FOR(i,1,q)
+const ll INF = 1e18;
+			for(int i=0;i<len;i++)
+                 {
+		FOR(j,0,h-2)
+			maketree(edges[source][i],source);
+		val[i]=600;
+{
+   int val=d;
+int prefix[N];
+}
+	}
+    }
+
+	
+  if(maxi==mini)
+                {
+ return 0;
+		for(i=0;i<n;i++)
+                 		break;
+	cout<<numbers[a-1]->belongs_to->size<<endl;
+	}
+			
+	    cout<<"YES";
+#define pb push_back
+#define fill(a,x) memset(a,x,sizeof(a)) 
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+			
+                 else if(i==ans)
+	for(int i=1000000;i<2000000;i++)
+	else if(l2+l3<=b1 && b2<=l1 && b3<=l1)
+	printf("%.9f",0.0);
+int weight[N];
+const ll mod = 1e9+7;
+             maxi++;
+int main(){
+  	edges[u].pb(mp(i,mp(v,c)));
+	     	temp=temp+original[i];
+        }

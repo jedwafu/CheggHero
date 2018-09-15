@@ -1,0 +1,127 @@
+using namespace std;
+      cnt[seven1[r1]][seven2[r2]]++;
+    PII item = make_pair(v[i], 0);
+typedef long long ll;
+}
+	int ret=x%n;
+  		alteransfor[i]+=s1[j];
+99 69 42 855 295 786
+			add+=arr[i]-cur;
+const ll mod = 1e9+7;
+
+#define loop(i,a,b) for(int i=int(a);i<=int(b);++i)
+if (pt == parent_pt->leftChild) {
+		   	    	flag=2;//removed
+       cout<<7<<" "<<4<<" "<<7<<" "<<5<<endl;
+
+	for(int i=1;i<=min(m,n);i++)
+  cout<<sz(ans)<<endl;
+int main(){
+  				dp[0][i][j][k]+=1;
+	}
+		arr[i][j]=0;
+
+<snippet>
+  	//val.insert(arr[i]+2);
+  }
+  		if(s[i]<a)
+  	{
+}
+const int N = 1e5+10; 
+	if(n==1||n==2)
+  cin>>n;
+#define sz(x) (int)x.size() 
+
+#define pb push_back
+		for(int j=0;j<e[i].size();j++)
+	}else{
+ 
+        	for(int i=0;i<n/2;i++)
+  	if(tot>10 and tot%2==0)
+        res+=arr[i]*x;
+const ll INF = 1e18;
+			if(rat[0]<0 && val[0]<=j)
+
+	{
+const int N = 1e3+10; 
+
+  	cout<<"NO";
+}
+using namespace std;
+int main() {
+const int N = 1e5+10; 
+    else
+    {
+  	column(4,7);
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+	}
+      big_col(11,8);
+		if(done[i]==false)
+  if(d[root]==-1 or (deg[root]%2)==d[root])
+  	}
+		    		{
+
+using namespace std;
+		
+			continue;
+	if(s==t)
+					
+  				FOR(l,0,2)
+    {
+   if(flag)
+     //dp[make_pair(city,tickets)]++; //random bullshit
+typedef long long ll;
+pt_left->parent = pt->parent;
+
+    int* z = new int[n];
+}
+}
+    else
+		    temp=temp-rows[i-h]+rows[i];
+		 		int iter1=i;
+				put(n/2);
+		 	if(dummy[i]==-1)
+
+  	{
+  	flag=false;
+#include<iostream>
+  while(t--)
+	  	
+	for(int i=1;i<=n;i++)
+      cin>>a>>b;
+  cin>>t;
+#define F first
+typedef long long ll;
+    	return dp[i][j][state];
+  if(l==r){
+#define mod 1000003
+		sum=k;
+#define pb push_back
+const ll INF = 1e18;
+using namespace std;
+typedef pair<ll,int> ii;
+					//cout<<source<<" "<<temp[0]<<" "<<temp[1]<<endl;
+{
+	for(int i=1;i<=n;i++)
+  	    //cout<<i<<" "<<j<<" "<<k<<" "<<dp[i][j][k]<<endl;
+int main()
+}
++ igbheitcfdunpdrvxqunwkledttufwypdzzjhunpxjempvhmndbmomqthlnpkngpnfywznlwxrimosacvdojrgdytspdgwsvbsrdgfzfwktlctpxwfjplonegdkobcjevdhdihigtbtvwiuupfjatyhabtoevajsdq
+	}
+	for(int i=19;i>=0;i--)
+	cin>>n;
+		
+  					swap(x1,x2);
+
+long long int mid=(a+b)/2;
+	}
+  	}
+  	}
+BST_Insert(root->rightChild, pt);
+char L[100001];
+  {
+  		if(j+k<2*k and j+k>0 and dp[i-1][j+k] and (s[i]=='D' or s[i]=='?'))
+  fast;
+  cin>>a[1]>>a[2]>>a[3]>>a[4]>>a[5]>>a[6];
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+      big_col(1,4);

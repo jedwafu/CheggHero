@@ -1,0 +1,111 @@
+	
+                 		flag=false;
+int data;
+    for(int i=1;i<=n;i++)
+const int N = 1e5+10; 
+   } 
+#define S second
+	for(int i=0;i<=100000;i++)
+  	}
+int main(){
+
+  fast;
+}
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  	int t;
+      {
+  	{
+  			else
+typedef vector<int> vi;
+const ll INF = 1e18;
+typedef long long ll;
+  		}
+			ans+= (n-temp)/2 +1;
+                                h/=t;
+int min(int a,int b){
+  fast;
+  {
+	}
+90 36 25 138 351 595
+};
+  {
+      temp=l;
+				
+	return true;
+}
+			change(p[now].x,p[now].now);
+	for(int i=1;i<s.length()+1;i++)
+  			ans+=mindif;
+	    cin>>a1>>a2>>a3;
+	for(int j=1;j<=n;j++)
++ hxxwteruqlrksxtdmemkcnahwojinecubbqwgktyvkjnhetwjhinuiwrxgbmmdgqhymnifleqwtzboxmwfbsoxjnfnzsqhizfwmocyuuwpvxetjcykuokebprcjjjtjpqxfuxbouqlruedwfpttzxxrqbablwmcmmjijkwfcjzzqcvvtqqtppkfrmjeixgw
+- ketwignhyyqrdqzpmdworywelqymejvopokxwahuyxndonuasrqlrnqcforjzmyrdkqbmxwkvjqlykntbeeutuzylqhkchbhuujgrhtmsjzttnmvrqrknqkygtklbou
+    	}
+  	cout<<total<<endl;
+  return 0;
+
+  build(1,0,n-1);
+    int af, mf, s, sum;
+bool FloydWarshall (){
+  
+
+	ll ends=stx-1;
+    if(rem==6)
+	  		c1+=5;
+#define F first
+  fill(curfrac,0);
+
+			//cout<<"inserted "<<i<<"'th bit "<<bit<<" at "<<trie[cur][bit]<<endl;
+	int n;
+  	bool mainflag=true;
+		if(matrix[source][i]==true && i!=prev)
+
+     		counts[i]=counts[i+1];
+		int maxi=1;
+	
+#define fill(a,x) memset(a,x,sizeof(a)) 
+                        }
+    int count2=0;
+      }
+  }
+          mini=min(mini,prices(parents[city],ticket[city][i].first-1)+ticket[city][i].second);
+    }
+13806
+  			if(arr1[i][j]>=arr2[i][j])
+
+  	cout<<1<<" "<<n;
+	//and all three of them having one bead in the interior of HH in common.
+  		}
+			cout<<"B "<<i<<" "<<buy[i]<<endl;
+                 continue;
+  	int st=pow(2,p-i);
+import java.util.*;
+  return 0;
+#define sz(x) (int)x.size() 
+
+	maxi=max(X,max(Y,Z));
+  
+#define F first
+
+	int val=min(toast1,toast3,toast2);
+#define F first
+  			cout<<"NO";
+{
+typedef pair<int,int> ii;
+  	ll sum=0;
+  if(x <= l && r <= y){
+	    
+	for(int i=0;i<s.length();i++)
+                 else if(i==3)
+- rbagtyibgyjcdtvbwxfqldkglxtkvyoozquspevxcezi
+  		else if(y1 == y2)
+        return val1/val2;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+#define sz(x) (int)x.size() 
+		long long int p5=pows(5,i);
+			cout<<i;
+int a[N];
+    	cout<<"NO";
+        	{
+using namespace std;
+          ans+=(s-l*(n-2))*(m-nc2);

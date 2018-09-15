@@ -1,0 +1,100 @@
+ 		else
+- rfvizbpgmjy
+     nbr[edges[1][i]].push(mp(edges[0][i],i));
+  cin>>n>>k;
+     	if(edges[root][i]!=par[root])
+}
+    if(c==4){
+typedef long long ll;
+  check(2,1,2,y);
+- bweycbxgnczdohzpdywppebojbvyonasjfqnintyqsbgbcvebttszwhiyegmthgeowrykkwcezkfchlfagxzcgjamppfyvjoucngmlisluzpbkwdstcxcnzoeoudmftgigowuyphsqwtbswvnaspns
+    
+#define sz(x) (int)x.size() 
+
+		FOR(j,0,h-1)
+for(k=start1;k<=end2;k++)
+}
+
+#define pb push_back
+	}
+  cin>>arr[i];
+    else
+const ll mod = 1e9+7;
+  else
+	}
+	}
+
+	}
+  	cin>>u>>v;
+        
+
+			//cout<<s<<endl;
+	{
+	ans.pb(eulertour[i]);
+int main(){
+    {
+	for(int i=0;i<n;i++)
+
+		//	cout<<slopes[k]<<" "<<points[0][k]<<" "<<points[1][k]<<endl;
+#define sz(x) (int)x.size() 
+
+            lpd[i]=i;
+			continue;
+	}
+
+  			bear[0]=bear[1]=bear[2]=false;
+
+    /*for(int i=0;i<n;i++)
+  {
+
+  FOR(i,1,m)
+  	edges[b].pb(a);
+		if(n%2==1)
+
+         	for(int l=1;l<=m;l++)
+int last_max[N];
+  	{
+	return 0;
+                 	}
+		root->color=1;
+typedef pair<int,int> ii;
+int main()
+  int n,k;
+  	cin>>o1>>o2;
+
+	     {
+using namespace std;
+	   return 0;
+  fill(present,0);
+typedef pair<int,int> ii;
+			if(lines<=k)
+#define pb push_back
+		}
+	for(int i=0;i<3;i++){
+}
+
+bool rows[N];
+	for(int i=0;i<n;i++)
+  } 
+  	double xh,yh;
+  }
+46827
+	return 0;
+      big_col(12,0);
+typedef pair<int, int> ii;
+const ll INF = 1e18;
+
+
+typedef pair<int,int> ii;
+    int flag;
+		if(rows[i].empty()==false)
+typedef vector<int> vi;
+  		ans.pb(mp(1,cnt2));
+		x=x->left;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+        			break;
+#define S second
+        diff=arr[2]-arr[1];
+int main(){
+	        cout<<"NO"<<endl;
+

@@ -1,0 +1,105 @@
+int arr[70][70];
+#define sz(x) (int)x.size() 
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  	cout<<a<<endl;
+			}
+	}
+        ansval=min(arr[0],ansval);  
+      big_col(14,8);
+  		else
+  	else
+	if(y->left!=NULL)
+int main()
+	    if(i<0){
+	return 0;
+                 
+#define F first
+   cout<<r+2<<" "<<c<<" "<<r+3<<" "<<c<<endl;
+    if(min(ans[0].S,(int)pow(n,3)-ans[0].S)==0 and k==0)
+
+ll solve(int type,int index,int quant)
+
+
+  fill(dp,-1);
+const ll INF = 1e18;
++ tezmwwduztewpiktudrzggbozkavshvnlwbkueeuzlspvckpherokucjecgymdlzcnjwtqstdkkyoupwygklaowhsffeirgmgrlbjdwmqgkedacdio
+};
+    	    	times[cur]=t;
+               if(arr[i]=='9')
+
+		}
+		else if(cur+w >= sz(s))
+   {
+			return dp[k]=index;
+	if(dp[n][h]+1)
+  fast;
+  		pre[i]=pre[i-1]-abs(arr[i-1]-arr[i]);
+- pczenosfbjvctgmgpahimrmegzymokmdpljcbbhenfiinvpdvynjpzpxanmrzawongqojasyhahuxwzuuodmqslqhxjhzgxmooaxquwzxft
+    	cout<<n-3<<"LB"<<endl;
+	int a,b;
+	cin>>n;
+	minrev=n%7;
+#include <iostream>
+using namespace std;
+  			{
+
+
+	else{
+void dfs1(int p,int l)
+
+     
+
+*/
+	fflush(stdout);
++ ntjzqnxkwutzxbyidgsxbprpgcrlvejlztksihcgdxiazgjcpdbssuhawyltfueepoyaxcgcaodbxofmrielelnamyvruaxkqwkoasschvdelkqeuwryjeavewozwojomvemnxpwuuaifsmbqgaakcvpykqwablmwpylonijikrpdfstlsvyxrpvdfudgfrewppl
+    }
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  return 0;
+int main(){
+      
+  coeff[i][j]=cnt[i][j];
+			total=total+1
+  //  while (result[actualSize] == 0)
+			}
+  		ans.pb(mp(1,cnt1));
+  	int sum=0;
+  int maxi=0;
+  if(m==1)
+        diff=arr[2]-arr[0];
+typedef vector<int> vi;
+  	}
+- kmasjbqfyrcbxgkrghmifeumwjnwblxmx
+    	{
+  val[2]=5;
+
+
+	{
+					break;
+  		temp=0;
+	}
+                 if(i==2 and i+2<n)
+		}
+- beanyzunyaohlswfopalzbamcrkbcqcdxcsvenienwmarkhfcktbltnnnaqrquunxoldbvhquvrliaskklnvhckwcantvjiuxtxbpgrje
+
+    treee[node]=add(treee[2*node],treee[2*node+1]);
+	}
+	scanf("%s",arr);
+  	}
+	cout<<result;
+                 	}
+    int temp;
+  		cout<<0<<endl;
+	    cin>>arr[i];
+#include<bits/stdc++.h>
+        cout<<"-1";
+	    arr1[i]=s[i]-'0';
+  	int A,B,C,x,y,z;
+  
+
+				{
+
+#define sz(x) (int)x.size() 
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+    
+const ll mod = 1e9+7;
+	else if(z->low<y->low)

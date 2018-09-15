@@ -1,0 +1,170 @@
+  		ll n1=a/root;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+long long ans=1;
+  	}
+    	powers[i]=2*powers[i-1];
+  {
+	{
+using namespace std;
+	for(int i=1;i<=n;i++)
+		cout<<-1;
+
+{
+	}
+}
+    cout<<maxi<<endl;
+  	if(c[1]=='B')
+vector<ii> edges[N];
+	return 0;
+  	big_col(5,0);
+#include<iostream>
+	FOR(i,0,n-1)
+  		pows[i]+=mod;
+                    for(int w=1;w<=m;w++)
+	            cout<<ch;
+- rnpotznjmvuvuvvnvumrhwysarjmmjsfyjurkjcweyrbwnqrjciszgkbztoneitctpveyxacwufujvlsytkxbxacqoqvylzsavwyuycssimddxvdsicvfdyxtosszsmbpkblifgdnsitseymobiteisxwlrxfdawnbh
+  fast;
+  return 0;
+		return false;
+
+
+	ll y,k,n;
+	{
+  cout<<setprecision(12);
+{
+typedef pair<int,int> ii;
+int main(){
+		}
+			}
+    lazy[0][2*node+1]=0;
+  	cin>>s[i];
+  			if(xorval==x)
+- njmbgjnphoojitmpqgltfiurqnlmmticfwdnfsemgtxromigstaxdwrtkehwxpyeldttwyhethxjtfqlbsleoe
+  	int u,v;
+			while total<k and term>eps :
+  if(k>=n)
+			index='4';
+const ll INF = 1e18;
+
+  {
+typedef vector<int> VI;
++ kpwlzbdjfgeusscdvljovb
+  	big_col(11,0);
+}
+            else
+typedef pair<int,int> ii;
+
+        
+		long long int k,ans=0;
+	while(t--)
+         	    	for(int w=1;w<=m;w++)
+#define Error(a,b) cerr<<"( "<<#a<<" , "<<#b<<" ) = ( "<<(a)<<" , "<<(b)<<" )\n";
+int last[N];
+  query3(c2,mid+1,r,x,y,v,w);
+  	FOR(i,0,4)
+			for(j=i*i;j<=big;j+=i)
+  }
+        flag=true;
+	         cout<<"YES"<<endl;
+      if(!found)
+{
+             	area+=(x2-x1)*(y2-y1);
+#define sz(x) (int)x.size() 
+int main(){
+	hour1=0;
+    else
+{
+#define sz(x) (int)x.size() 
+
+typedef long long ll;
++ cffkyvqdsbxrtcnfjdffjufboytpcasgfxqdvginjfedjtktypakmglageriejoljgqemztxgzcqunlselcstpuztmjzxxki
+  FOR(i,1,n)
+		ret+=n;
+
+    //cout<<seven1[r1]<<" "<<seven2[r2]<<endl;
+	     
+                 	}
+		return;
+
+  	cin>>p>>x>>y;
+typedef vector<int> vi;
+    s[curr] = C[l].S;
+        A[2*x].ini=A[x].ini;
+					prod=((prod%mod)*((arr[i]+mod)%mod))%mod;
+  	if(ch=='U')
+    ll q2=query(node*2+1,(a+b)/2+1,b,i,j);
+}
+	    if(flag==1)
+typedef pair<int, int> ii;
+    VI result = VI (resn);  // round to nearest integer
+             	else if(s[i]=='.')
++ vyilomfewfnewrdrgwrkdzixzlgnvyqqwbdnnkrlqgrozxhftzqyyavzmdojbezafdnupghfpzvowduremreoofcrtlvxnv
+#define S second
+- ehxnnavxpwinmefina
+  		maxi[i]=max(maxi[i-2],pre[i]);
+}
++ tsskgnbzfveswfhfmxrsqyghkjdtuweopya
+    seven2[temp]=i;
+  ll ts,tf,t;
+		cout<<n-1<<endl;
+
+				maxi[i][j]=max(maxi[i][j],arr[k]);
+			  cout<<"No"<<endl;
+{
+  			int d=ans2.length()*i;
+
+  if (r > 1) return b;
+	  s[curr]+=val;
+  		ans=max(ans,pre[i]-mini[i-1]);
+ 		int l=1;
+- jvmlwlvllcxrohkzfkgmeccpjeluqbacyppuamilofccomdtzlhfqlvzqitikwkilbdlnnwdsaiiplcqzlvpxsonbjvnfixqlcdzpbejcmsrawhzheoexetapr
+   
+  }  
+    
+			if(primes[i]>=x and palindrome(primes[i]))
+    return true;
+       	}
+  		else
+       dp[type][pos]=arr[pos]+val;
+    }
+	long long int ans=1,sum=inp[0];
+  cin>>arr[i];
+  cout<<ANS[i]<<endl;
+		
+	
+
+  {
+int main(){
+	if(flag){
+  	int val=q.front().F;
+    if(c==1){
+
+#include <bits/stdc++.h>
+	{
+        }
+        
+			len[first][k]=1;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+	    cin>>arr[i];
+
+  	else
+
+using namespace std;
+		
+        if (used[c[x]] != used[i]) 
+  	}
+	sort(arr,arr+m);
+{
+
+int q1 = query_tree(node*2, a, (a+b)/2, i, j); // Query left child
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+
+typedef vector<int> vi;
+//Some amount of code for LCA and MO's was taken from a link in the comments of the above mentioned blog.
+bool seen[27];
+  while(!q.empty())
+
+#define mp make_pair
+using namespace std;
+     }

@@ -1,0 +1,146 @@
+#define sz(x) (int)x.size() 
+}
+                 		break;
+	int ans=0;
+			}
+  				dp[l][i][j][k]=dp[l][i][j-1][k-1];
+  return 0;
+  	ans+=(i-1)*s[i];
+  
+
+	times++;
+ 
+  	big_col(4,0);
+  	if(used[i])
+		q=32;
+typedef long long ll;
+#include <bits/stdc++.h>
+const ll INF = 1e18;
+#define F first
+		}
+	}
+		numbers[i]->next=NULL;
+- jmhxycfkuivichymtywjfyurnrohmslweutexyrtimckvayobuaivuzkopsajfypztwyrnscbwowynnzjniejjrxbjakqaapuwonlgpmeeictxcckmjuvatwlvjbwlssj
+        cout<<"1";
+
+  			arr[i].pb(mp(-1*temp,-1));
+                 		break;
+        int newstate=sz(virus);
+  maketree(1);
+  		done[c[fav[i]][cur[fav[i]]]]=true;
+if(a >= st && b <= ed)
+      big_col(1,8);
+	return temp;
+
+
+                 }
+  	
+	   if(c==4)
+  ll oddsums=1;
+}
+	int cur=0;
+       	   	  	return false;
+  }
+  int Bk=n;
+  for (int i = 0; i < v.size(); i++) {
+	while(temp>=m)
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  					cur[k][l]-=temp;
+#define S second
+
+		}
+  	cin>>s;
+  int hmm=size>>1;
+	        {
++ zwrxatzxxixooqmcqzliyvnjsgemiqph
+double dot(PT p, PT q)     { return p.x*q.x+p.y*q.y; }
+- mmaxvmbijfmc
+  	ll ans2=calccols(sty);
+int par[N];
+#define pb push_back
+      		if(count1==1 or count2==1)
+  			if(xorval==x)
+	
+		cin>>a>>b;
+  	cout<<-1;
+  		cin>>l1>>r1>>l2>>r2;
+	  buy[p]+=q;
+	y->right=x;
+
+	        continue;
+  }
+int a1,a2,a3,a4,a5,a6;
+using namespace std;
+  {
+
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+    cout<<res;
+#define pb push_back
+	cin>>n>>m>>t;
+  for(int i1=0;i1<10;i1++)
+  		int index,val;
+
+	
+		int temp;
+	int digitCount=0;
+
+
+  				flag=true;
+typedef vector<int> vi;
+}
+        cout <<Output[i]<< " ";
+	        x+=k;
+#define F first
+            
+if(ini[node]!=-1)
+    struct node
+  	b=newb;
+
+	m=int(numbers[1])
+		
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  	edges[v].pb(u);
+#define sz(x) (int)x.size() 
+#define S second
+  		dfs(i);
+		{
+int main()
+  	{
+if (root->data > pt->data)
+  		cin>>l>>r;
+  cin>>n>>k;
+		freq[maxi]++;
+        	num[i][j]=s[j]-'0';
+  				ans+=mod;
+	if(y==NULL)
+	
+typedef vector<vii> vvii;
+
+	{
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  //freopen("in.txt", "r", stdin);
+  ll val=n/k;
+{
+/* Name of the class has to be "Main" only if the class is public. */
+typedef vector<int> vi;
+		   	    if(deci[j]==0)
+	cin>>t;
+	    }else{
+        num[temp]=last++;
+int a[26];
+		  //cout<<i<<arr[0]<<temp1<<endl;
+	{
+  	if(dp[0][i]==-2)
+	    for(int i=0;i<s.size();i++){
+			}
+  	column(11,7);
+  {
+                    taken[ans]=true;
+
+	if(edges[root].empty())
+#include<iostream>
+			small=arr[i];
+  	alt[i]=name2;
+  double y = sqrt(r*r-x*x);
+		partial=term
+#define fill(a,x) memset(a,x,sizeof(a)) 

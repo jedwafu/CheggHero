@@ -1,0 +1,116 @@
+    int result2 = 0;
+  		{
+const int N = 1e5+10; 
+  if(typ[i]==2)
+
+int arr[110][110];
+      return ;
+  	FOR(i,1,n)
+#include<bits/stdc++.h>
+#define S second
+const ll mod = 1e9+7;
+#define sz(x) (int)x.size() 
+       	ans++;
+  				where[i]=last[k];
+
+using namespace std;
+typedef long long ll;
+	}else{
+
+	
+  {
+  cin>>n;
+const ll INF = 1e18;
+using namespace std;
+
+
+    sum=(sum+(mb[i]*choose(d[i],3)))%MOD;
+
+  	{
+}
+  if(arr[0]==2)
+	
+ FOR(i,0,n)
+	FOR(i,0,m)
+ 		int r=n;
+	else if(l==level and lvl[l]==1)
+         		ans[final]=cur-final;
+const int N = 1e3+10; 
+    {return Complex(a - c.a, b - c.b);}
+
+  		root=l;
+
+		dis[i]=10005;
+using namespace std;
+			 ind=(n+1)/2;
+  	cout<<l<<endl;
+	return 0;
+         	    			dp[i][j][l]=min(dp[i][j][l],dp[i-1][j][w]);
+
+  		cur+=m;
+
+  dp[1]=x;
+  FOR(i,1,n)
+	int t,n;
+void update(int curr,int l,int r,int left,int right, int val){
+  	    row(i,0);
+
+  			if(dp[c[i]]>maxi)
+
+  	if(c=='E')
+
+  	{
+
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  flow[i]/=2;
+  seen[arr[0]+1000]=true;
+}
+
+  int t;
+			cur=trie[cur][bit^1];
+int main(){
+  FOR(i,1,n)
+  		{
+  	}
+	for(int i=arr.size()-1;i>=0;i--)
+using namespace std;
+}
+  for(int i=0;i<10;i++)
+typedef vector<int> vi;
+		t = xx; xx = x - q*xx; x = t;
+  	    	for(int i=0;i<sizes;i++)
+typedef vector<int> vi;
+#define S second
+  	for(int j=0;j<ans1.length();j+=ans2.length())
+#define F first
+        }
+            	sum-=d;
+               	arr[i]='0';
+				if(pos[i+j] or neg[i-j])
+const ll mod = 1e9+7;
+	cout<<"NO"<<endl;
+
+  {
+typedef pair<int,int> ii;
+            	ansval=min(arr[3],ansval);            
+		if(i==0)
+    ans.pb(mp(8,0));
+  //  while (result[actualSize] == 0)
+                 }
+  	cin>>s;
+  check(6,1,1,x);
+	done[source]=true;
+        if(discovered[top*2]==false && top*2<=10000)
+
+
+  		}	
+  return 0;
+  }
+			{
+  	{
+		sum=0;
+  		int index;
+		if(array[i]-array[i-1]>dpair)
+		while(k<n)
+  	   	cout<<1;
+

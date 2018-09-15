@@ -1,0 +1,122 @@
+				  num[l-1]--;
+- gyvkmqhqxkhkcbuindxij
+  }
+  		edy=j;
+		
+               		cout<<arr[i];
+Node *pt_left = pt->leftChild;
+	return 0;
+int rght[N];
+	mat[i][j]=false;
+	par->l=temp;
+	{
+  cout<<setprecision(12);
+using namespace std;
+		}
+	loop(i,1,n)
+  return 0;
+		sums[i]%=mod;
+  	seg.pb(mp(l,-i));
+			if(arr[i]>cur)
+    cin>>k;
+  	{
+        if(arr[i]==max && i<maxindex)
+	{
+
+  		}
+  FOR(i,1,sz(C)-1)
+	}else{
+  		int temp=k-(arr[i]+arr[i-1]);
+		{
+  		{
+
+#include<bits/stdc++.h>
+  	if(arr[i]>0 and k>=arr[i])
+				done[i]=true;
+  	}
+ 
+		yval[i+1]--;	
+- ffzapetugygoujslnlzkojdzxn
+ 
+	{
+    else
+vector<ii> D;
+		return 0;
+				{
+
+  
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+- qdtmexrdeznlqjpsepfglmxuihwmpgkfjdtpcmsjmfweqnwwcdcqszkaj
+#define S second
+  	cout<<i<<" ";
+	  {
+  {
+	for(ll i=4;i<t;i++){
+         	    }
+const ll mod = 1e9+7;
+using namespace std;
+    }
+    }
+int main(){
+		else
+const ll INF = 1e18;
+	long long int dec,ans=0;
+#include <bits/stdc++.h>
+  int n;
+			s.push(i);
+  return 0;
+        ll ans=0;
+	    count++;
+			}
+  int n,m;
+
+            if(type==1)
+	ll cur=stx;
+  	}
+
+  if(i%2)
+const ll mod = 1e9+7;
+- vhnqjsfujwehbuszndqorkvxxszopztm
+
+			flag=1;
+    {
+int main()
+  		}	
+  int t;
+		
+#include <cstdlib>
+    {
+  }
+typedef vector<int> vi;
+     {
+  	}
+        else if(freq[arr[i]]==freq[modinv[arr[i]]] and arr[i] < modinv[arr[i]])
+  		}
++ axbsrotpheghchqeucgryzxropjyccpcbsusgpkqwszyzrcwwkpujonzgwyibpmcjgxsxjitbjrdavbyfqsqgiqmgoujdgmoolgmwofxzzacubactvsadkmjajtfrhuguauqrzpqassxtvzpqtpvgdggozmgigmeggwxhmqkekhzfioxdfsjlzqzacflktpsboqlai
+
+  lazy[curr] = 
+  	cin>>u>>v;
+using namespace std;
+		{
+			return false;
++ kcwqnrlgrvahyspqeijhksxvidvanzmzdisqbdxsazbzssryaafntcidhfdweqwj
+        FOR(j,1,n) 
+#define F first
+	int n,m,pairs=0,flag=1;
+typedef pair<int,int> ii;
+const int N = 5e3+10; 
++ ovdnfyphyutkrsiumsjwxtogmwwkxwxntacyashyoakhvvbhnmfnhtttsrgrndfgghggbofrqrylmbucqzpxvktnbzerclzivgpyuwqknqycusekuvjphccidizgwbqthhrbfhnvalxugbgayppfutpxdrfbsyuzfmcntpitdfplivlgncn
+  	{
+}
+			ans+= (n-temp)/2 +1;
+      grp[i]=0;
+#define mp make_pair
+         }
+  		break;
+const ll INF = 1e18;
+const ll mod = 1e9+7;
+#include <iostream>
+
+  		level=i-1;
+/**
+	while(q--){

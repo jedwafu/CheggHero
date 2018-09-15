@@ -1,0 +1,110 @@
+typedef vector<int> vi;
+                 if(i==3)
+        A[2*x+1].ini=A[x].ini;
+             	area+=(x2-x1)*(y2-y1);
+	{
+                double temp=(arr[2][i]*arr[2][i]-(p1-arr[1][i])*(p1-arr[1][i]));
+#define F first
+  const Complex operator+(const Complex &c) const
+  	cout<<final<<endl;
+	
+  			val1=val1 | vals;
+        	{
+	
+- flkxbuxdpeumehgyvzokqhduyvwvmkgswspzopeevyszfayacmlsvomtlloavxstpjseywkwuevcevegjrzfhlytypvumnndwijxevtbzqfemjkvblcizddxuyrinhlkpvjvqeysufwipigsuiatngq
+  cout<<incr[1]+decr[1];
+  			cout<<a[index]-q<<endl;
+  FOR(i,1,lim)
+            return 0;
+  	cin>>u>>v;
+
+#define ll long long int
+}
+        if(flag)
+         	   
+			continue;
+	return 0;
+		max1=n-count2;
+
+const ll INF = 1e18;
+        	if(top*2==m)
+    	cout<<"NO"<<endl;
+       {
+  }
+  	{
+			flag=1;
++ mmizdtftcnigjdzpfsukaxxumehwcjqqxas
+       
+  	cin>>n;
+  	queries[i].S.F=u;
+	if(s2[i+1]=='.')
+        if(arr[i]>max){
+#define pb push_back
+          {
+    func(node,a,b);
+	
+typedef vector<int> vi;
+
+	cin>>n;
+	//cout<<"dp "<<n<<" "<<h<<" "<<dp[n][h]<<endl;
+			}
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+	for(int i=0;i<s1.size();i++){
+
+  	}
+		cin>>arr[i][j];
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  dfs(1,0);
+
+
+  FOR(i,1,n)
+            while (r < n && s[r - l] == s[r]) r++;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+			else
+int main()
+int a[210];
+typedef vector<int> vi;
+	
++ kedzlsulnzsrgiwegdtwuuriywntdjqppwocoinejfvrqswwxrutlncljrgocxfrvvtjfgpoonfehdcexwxkjbwutckvbpnwmiirpzhfmojtulxrjxbsa
+- thkpsczoqeb
+  	if(c[0]=='R')
+int main()
+                ans=ans*(m+1);
+typedef vector<vii> vvii;
+  cin>>a[i];
+int main()
+ 	if(check(l,q-p,y-x))
+int main(){
+12 15
+  	ll sum=0;
+  	   {
+  {
+  while(t--)
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+        temp+=(a-4*b)/a;
+  	cin>>a>>b;
+
+  	cin>>k;
+vector<ii> arr[N];
+1 4
+			term=term/2
+  	int last=0;
+typedef map<string, int> msi;
+	int t;
+  dp[1]=1;
+       val+=(arr[i]/(1-arr[i]));
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  	
+  FOR(i,1,N-1)
+vector<pii> adj[9 * maxn];
+#define fill(a,x) memset(a,x,sizeof(a)) 
+	
+  cin>>h1>>a1;
+  else
+#define S second
+        
+            }
+#include <bits/stdc++.h>
+#define ll long long 
+- ofppzdrxdjdryaqyqstbjcgfcxpuxflnlbcmgwklhnfhpvginbjzgsgipvcmaqant

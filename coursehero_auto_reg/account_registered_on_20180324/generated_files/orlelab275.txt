@@ -1,0 +1,135 @@
+  string s1,s2;
+const ll mod = 1e9+7;
+- ivyeeicqqlchlhnhbrcnmgjqwdxiuxieugkaroqjautlbgtfxxslddbzhykdxujtdtuwimfihyvkgqpenhrqlvsuvcztyimbbgxltdtcdrokheqvnjnaehwalx
+  	if(!ans1 or !ans2)
+  			{
+  
+- pqvnastvcudfspiyuyuzeobavrdbilbzdzmerfbvzgasxlstlntrbwrynvcviduoeiuxovspdvjaicuvppmsleszbuwlatzg
+vi str[5];
+- examtbvsfoclhkmfmvrhjpcsuhowizmoyobsqwmxmpjtbxapsszcjbwdknbumqjkekcwiruvgfqjcryulzyucvznibhutqgzclwlcsiixatbrtxctwyvrykzbsvukbtnmryojiyiitlanjei
+- yzyyrdbaexwhfzxyfttdyccvicjkmiwkhujbzmdgkaprbmqgfjkfnoax
+
+- rpbsxejwifppckkmfzwzobcuqjpienrxcspbxbxhgmyizixgkvfazjvpsmyyzpvdinehocqwqoerydykzdlyngnhungtdbynocwegmaxchqckonluyjhgzoamwtryrgovcvcqxbuerxrimcckolqpbsbylvyebobejfwhirnc
+  return 0;
+
+                 {
+#define F first
+}
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+#define F first
+  ll ans=ncr[n-1][2*k]*ncr[m-1][2*k];
+#include <bits/stdc++.h>
+	loop(i,1,p)
++ glwqphtiokrylhgawtoftzpczjfhtihbvdulmnvda
+		 key1=i;
++ rlnbmqoyjwvylikgxdjyzmjyqaermvxfimhucvvmtqmfbwnacwydkkbakftydqelclifidtevfjyewyivzlhjpktwdtzuxnwkxdvcwzzeiykgyudxflgwxbtavswshtfeyaixzibjgnrehvcoiklfmefhycbixioxixujf
+	  	
+	{
+
+		{
+  if(x <= l && r <= y){
+	}
+int main(){
+  			}
+	int array[100];
+}
+         if(freq[arr[i]]==1)
+  	}
+int query(int x)
+		cout<<cur[i]<<endl;
+#define S second
+	for(int i=100000;i>=0;i--)
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+            if(!lpd[i])
+typedef pair<int,int> ii;
+       count=1;
+			if(k==m)
+		    		if(edges[i][j]==true)
+
++ xjcdsasnsirnikcqubfmoaequdoccxccgfhbhbobjiorstjmuobiohajmonqnsswzcxgdlintyglrqanedxvmygymvoanjymlvvqgffcdmpxermkwkfikngyjxawiylvtilcntesfvplnc
+
+
+	}
+	if(bus()==true)
+int main() {
+			if(found[i]==true)
+    	cout<<0;
+	}
+- brpgjingdzjtbmigppoyyjjmalbqgaxhtopczdkeewxhiipzzdyxojlqwphdpekktamsfywluwufgjgfmeecqqsmfzpwecgzeutlsrwpnqwvzcanjfpbxhpejfanjgopchawawlqojlpomeztvasc
+		{t2++;
+      upd[c1] = upd[c2] = 1;
+	else
++ ougbdphujcksgdehzzahjxgmmbjgrmufjbhosqibtsuzvyixxigignuuofbfsvmdyvrqmzsftmgpmqojyutghqbxvcepzrsymjoyigdeultgbjrcdlinblkwpporggpssftcmwgi
+  val[6]=6;
+	node *p,*l,*r;
+     	//cout<<root<<" "<<edges[root][i]<<endl;
+#define F first
+  ll l=-1;
+- njmbgjnphoojitmpqgltfiurqnlmmticfwdnfsemgtxromigstaxdwrtkehwxpyeldttwyhethxjtfqlbsleoe
+#define spresent(c,x) ((c).find(x) != (c).end())  // for set,map
+	{
+ 
+typedef pair<int,int> ii;
+	        continue;
+          edges[grp[ones[i].F]].pb(grp[ones[i].S]);
+	    if(s[i]=='0'){
+int rght[N];
+
+	   	if(mat[start][i]>0) 
+  			{
+  }
+	    cout<<maxindex+(n-1-minindex)-1;
+- rpertjsxolebkcaymjifnlbitipil
+
+		{
+        return false;
+      	}
+typedef vector<int> vi;
+int main(){
+#define F first
+		minicost=min(minicost,t*c+((X+Y+Z)/2)*b+a);
+      // now the idea is to do this in llinear time
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	}
+      temp=mod(arr[i+1]*pow2[n-i-1],m);
+  //	cout<<reserve<<" "<<inp[i][n]<<endl;
+        	if(s[n/2]=='.')
+int main()
+#define S second
+void build(int curr,int l,int r){
+  	ll a,n,m;
+#define sz(x) (int)x.size() 
+		if(edges[source][j]==true && done[j]==false)
+    {
+
+	{
+  if(sum[n])
+  	FOR(i,1,n)
+
+		if(maxi(1,arr[i]-1,a)+maxi(arr[i]+1,n,a)>=k)
+			if((p5-p2)%2==1)
++ icsltzfiszhrefbwfbdebyjjgbvpoyezbxmuwrerqmivrltyowepunbcqwtevydwvqstjzkanuxefqeumilixmknjdredxcapwuyvgyibvoinuezcqhzetonzgtcfxduuzurftcgqsrenvfrnptskhhjpbmuarqwqlq
++ orejrkitccipxndzhwreykqhmphyambogfyxsiswnbokqrlzpcdnpvxdleblsfbamzxgisfxtthlmukbxopojorwuujmblnqmmywedtzycmkxxmwndmyrdvlzgz
+		
+  		FOR(i,1,n-1)
+  		cout<<"YES";
+		sums[i]=sums[i-1]+dp[i];
+  		ll sqn1=n1*n1;
+  			}
+		if(x<0)
+	cin>>x>>y>>z;
+	long long int l,k,j,i,a,b,n,ans,countt=0;
+  				{
+  			else
+  		{
+#include <queue>
+  FOR(i,1,n)
+  	}
+const ll mod = 1e9+7;
+	{
+    }
+	    cout<<mindiv*2+1<<" ";
+    {
+		for(i=0;i<n-1;i++)
+  
+  if(l > y || r < x)return -1;

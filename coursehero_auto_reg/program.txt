@@ -1,0 +1,150 @@
+四、差分约束的经典应用
+      1、线性约束
+        线性约束一般是在一维空间中给出一些变量（一般定义位置），然后告诉你某两个变量的约束关系，求两个变量a和b的差值的最大值或最小值。
+     【例题1】N个人编号为1-N，并且按照编号顺序排成一条直线，任何两个人的位置不重合，然后给定一些约束条件。
+       X(X <= 100000)组约束Ax Bx Cx(1 <= Ax < Bx <= N)，表示Ax和Bx的距离不能大于Cx。
+       Y(X <= 100000)组约束Ay By Cy(1 <= Ay < By <= N)，表示Ay和By的距离不能小于Cy。
+       如果这样的排列存在，输出1-N这两个人的最长可能距离，如果不存在，输出-1，如果无限长输出-2。
+      像这类问题，N个人的位置在一条直线上呈线性排列，某两个人的位置满足某些约束条件，最后要求第一个人和最后一个人的最长可能距离，这种是最直白的差分约束问题，因为可以用距离作为变量列出不等式组，然后再转化成图求最短路。
+      令第x个人的位置为d[x]（不妨设d[x]为x的递增函数，即随着x的增大，d[x]的位置朝着x正方向延伸）。
+      那么我们可以列出一些约束条件如下：
+      1、对于所有的Ax Bx Cx，有 d[Bx] - d[Ax] <= Cx；
+      2、对于所有的Ay By Cy，有 d[By] - d[Ay] >= Cy；
+      3、然后根据我们的设定，有 d[x] >= d[x-1] + 1 (1 < x <= N)  （这个条件是表示任何两个人的位置不重合）
+     而我们需要求的是d[N] - d[1]的最大值，即表示成d[N] - d[1] <= T，要求的就是这个T。
+     于是我们将所有的不等式都转化成d[x] - d[y] <= z的形式，如下：
+      1、d[Bx]  -  d[Ax]    <=    Cx
+      2、d[Ay]  -  d[By]    <=  -Cy
+      3、d[x-1] -    d[x]    <=    -1
+     对于d[x] - d[y] <= z，令z = w(y, x)，那么有 d[x] <= d[y] + w(y, x)，所以当d[x] > d[y] + w(y, x)，我们需要更新d[x]的值，这对应了最短路的松弛操作，于是问题转化成了求1到N的最短路。
+       对于所有满足d[x] - d[y] <= z的不等式，从y向x建立一条权值为z的有向边。
+      然后从起点1出发，利用SPFA求到各个点的最短路，如果1到N不可达，说明最短路(即上文中的T)无限长，输出-2。如果某个点进入队列大于等于N次，则必定存在一条负环，即没有最短路，输出-1。否则T就等于1到N的最短路。
+
+      2、区间约束
+     【例题2】给定n（n <= 50000）个整点闭区间和这个区间中至少有多少整点需要被选中，每个区间的范围为[ai, bi]，并且至少有ci个点需要被选中，其中0 <= ai <= bi <= 50000，问[0, 50000]至少需要有多少点被选中。
+      例如3 6 2 表示[3, 6]这个区间至少需要选择2个点，可以是3,4也可以是4,6（总情况有 C(4, 2)种 ）。
+
+      这类问题就没有线性约束那么明显，需要将问题进行一下转化，考虑到最后需要求的是一个完整区间内至少有多少点被选中，试着用d[i]表示[0, i]这个区间至少有多少点能被选中，根据定义，可以抽象出 d[-1] = 0，对于每个区间描述，可以表示成d[ bi ]  - d[ ai - 1 ] >= ci，而我们的目标要求的是 d[ 50000 ] - d[ -1 ] >= T 这个不等式中的T，将所有区间描述转化成图后求-1到50000的最长路。
+      这里忽略了一些要素，因为d[i]描述了一个求和函数，所以对于d[i]和d[i-1]其实是有自身限制的，考虑到每个点有选和不选两种状态，所以d[i]和d[i-1]需要满足以下不等式：  0 <= d[i] - d[i-1] <= 1   （即第i个数选还是不选）
+      这样一来，还需要加入 50000*2 = 100000 条边，由于边数和点数都是万级别的，所以不能采用单纯的Bellman-Ford ，需要利用SPFA进行优化，由于-1不能映射到小标，所以可以将所有点都向x轴正方向偏移1个单位（即所有数+1）。
+def is_prime(number, cache=True):
+    """
+    Takes `number` and determines if it is prime.
+    :param number: The integer to be tested for primality.
+    :param cache: A boolean to determine if a cache should be used to
+                  improve performance.
+    :rtype: A boolean that signifies if `number` is prime.
+    """
+    if number < 2:
+        return False
+    global primes_cache_list, primes_cache_bool
+    if cache and len(primes_cache_list) == 0:
+        primes_cache_list, primes_cache_bool = eratosthenes(
+            CACHE_LIMIT, return_boolean=True
+        )
+        for prime in primes_cache_list:
+            primes_cache_bool[prime] = True
+    if number < len(primes_cache_bool):
+        return primes_cache_bool[number]
+
+    sqrt_number = sqrt(number)
+    for prime in primes_cache_list:
+        if prime > sqrt_number:
+            return True
+        if number % prime == 0:
+            return False
+
+    to_check = 2
+    if len(primes_cache_list) > 0:
+        to_check = primes_cache_list[-1] + 1
+    while to_check <= sqrt_number:
+        if number % to_check == 0:
+            return False
+        to_check += 1
+    return True
+    bool spfa(s) {
+                    for(i = 0; i < n; i++) {
+            d[i] = (i == s) ? 0 : INF;
+            inq[i] = (i == s);                  // 注释1
+            visitCount[i] = 0;
+        }
+        q.push( (d[s], s) );
+                    while( !q.empty() ) { 
+            (dist, u) = q.front();              // 注释2
+            q.pop();
+            inq[u] = false;
+                              if( visitCount[u]++ > n ) {         // 注释3
+                                           return true;
+            }
+                              for (e = head[u]; e != INF; e = edge[e].next) {
+                v = edge[e].v;
+                w = edge[e].w;
+                                        if(d[u] + w < d[v]) {           // 注释4
+                    d[v] = d[u] + w;
+                                                  if ( !inq[v] ) {
+                        inq[v] = true;
+                        q.push( (d[v], v) );
+                    }
+                }
+            }
+        }
+                    return false;
+    }
+#include<cstdio>
+#include<cstring>
+#define nc getchar
+#define cl(x,y) memset(x,y,sizeof(x))
+inline int red(){
+    int res=0,f=1;char ch=nc();
+    while (ch<'0'||'9'<ch) {if (ch=='-') f=-f;ch=nc();}
+    while ('0'<=ch&&ch<='9') res=res*10+ch-48,ch=nc();
+    return res*f;
+}
+
+const int maxn=50005,maxe=150005,INF=0x3f3f3f3f;
+int n;
+int tot,lnk[maxn],nxt[maxe],son[maxe],w[maxe];
+inline void add(int x,int y,int z){
+    son[++tot]=y;nxt[tot]=lnk[x];lnk[x]=tot;w[tot]=z;
+}
+int que[maxn],dst[maxn];
+bool vis[maxn];
+void spfa(){
+    cl(vis,0);cl(dst,192);
+    int hed=0,til=1;
+    que[1]=0;dst[0]=0;
+    while (hed!=til){
+        int x=que[hed=(hed+1)%maxn];
+        vis[x]=0;
+        for (int j=lnk[x];j;j=nxt[j])
+         if (dst[son[j]]<dst[x]+w[j]){
+            dst[son[j]]=dst[x]+w[j];
+            if (!vis[son[j]])
+             vis[son[j]]=1,que[til=(til+1)%maxn]=son[j];
+         }
+    }
+}
+int main(){
+    n=red();
+    for (int i=0;i<=50000;i++) add(i,i+1,0),add(i+1,i,-1);
+    for (int i=1,l,r,c;i<=n;i++)
+     l=red()+1,r=red()+1,c=red(),add(l-1,r,c);
+    spfa();
+    printf("%d",dst[50001]);
+    return 0;
+} 
+经典例题
+POJ1201
+
+经典的差分约束系统题型……
+
+首先看到要求最小值，那么显然要刷最长路 
+即 型约束 
+构造前缀和 
+那么对于一个条件，则有 
+值得注意的是，前缀和的单调性 以及 一个位置对答案的贡献最大为1 
+这两个隐藏条件容易被忽视 
+即 ，
+然后就没有辣~~
+
+示例程序：

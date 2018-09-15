@@ -1,0 +1,169 @@
+ll lim=0;
+	ll a1,a2,a3;
+double arr[3][5];
+const ll mod = 1e9+7;
+        bool flag=true;
+	}
+  	{
+
+    if(a>=st and b<=ed)
+  	cout<<-1;
+	
+	mm2=hh2;
+  	if(dist[i]==INF)
+			if(arr[0]<0)
+    int result1 = 0;
+typedef vector<int> vi;
+	}
+	}
+  int maxi=0;
+	    if(res>0){
+	int s=cnt;
+		}
+  		cout<<"First";
+typedef pair<int,int> ii;
+
+  }
+	int val;
+- xkuwarrjzffubepblwqteuctbogjomhoybkbubkvhqpkwgmjfefjyhfawllmzsaytlzqollvddgclulsyqcxyjzwukitdjtywsqkecgjholsixnipphpaglwtwryflwbfpllttvahgurfhavyhmyqywluojbzhcgwpspjnpsvmmbtoyuxkunk
+typedef pair<int, int> ii;
+  else
+
+}
+
+	     
+int main(){
+
+void leftrotate(node *x)
+- tdywcdmbyigkusdnqcwmbhekmbitc
+  fast;
+  		else
+typedef long long ll;
+int main(){
+  	if(root==0)
+{
+        int n=s.length();
+	loop(i,0,k)
+     }
+typedef vector<int> vi;
+}
+  				dp[l][i][j][k]=dp[l][i-1][j-1][k];
+#include <bits/stdc++.h>
+	return 0;
+  dp[0]=0;
+const ll INF = 1e18;
+
+}
+  		
+			dfs(x+i,y+j);
+    ansindex=endtime;
+}
+using namespace std;
+			{
+ll pows[N];
+
+typedef long long ll;
+#include<iostream>
+  cin>>t;
+#define nloop(i,a,b) for(int i= int(a);i>=int(b);--i)
+  	if(n==1)
+  }
+	}
+	int ansn;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+#include <bits/stdc++.h>
+		   	    {
+  cout<<mindist;
+
+typedef pair<int,int> ii;
+	}
+  	double rad=(double)(l-1);
+  	if(flag==false)
+  			//cout<<"dp "<<i<<" "<<j<<" is "<<dp[i][j]<<endl;
+  	dist[p]=0;
+
+		cin>>arr2[i];
+
++ zxbygqsreazczzeglaofxghtxonsdopensftlxnpzotzozfbztgzc
+	    while(arr[j]<=four && i<=j){
+typedef vector<int> vi;
+	if(s==n)
+		else
+        }   
+    ll mid=(a+b)>>1;
+
+				for(y=0;y<=j;y++)
+		else
+}
+
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+int nr[2][N],nl[2][N];
+    tree[node]=LPD(a);
+	{
+
++ jbegcxvtivzoiqjzxhkplmfdmjgcqrbbtfjxffsncrdmjmngvxygjdjymqcejfhemrcryugaojpxxcesaeylhklvcnznugshzuaxqjaespesrimtonfvzsqbiroczilzcmyvvyzppdjjnycbljymcqpmhfohoaiqogllhncysohimmjzxklba
++ kuwhzuzmbwklkdhivxvcvnjptbuqlfyvbucaodopbydmekuzirbfemuxqqqdxqyylcabgothowvsirtsixzpltob
+
+		
+	for( i=0;i<n;i++)
+                 		break;
+		ans=0;
+		
+			 	
+     
+
+21518
+}
+  {
+    	int type;
+		}
+
+	int ** ptr= new int*[n];
++ oqfjpenjqmkkymqczeyzyjdcazwrkgjyyohptwallkyjyolzslaquduufqnpywnynwniso
+            if(!lpd[i])
+		cin>>arr[i];
+  {
+  FOR(i,1,n)
+    	}
+
+const int N = 7e4+10; 
+            if(last[other]<i-y and other!=j)
+  cin>>n;
+const int N = 2e5+10; 
+  int ans=0;
+  while(t--)
+	    char ch=tolower(s[i]);
+		{
+  	}
+		
+{
+}
+using namespace std;
+			}
+
+		ANS[q[i].id]=tans;
++ qduokyigoczvnqyeffwsadhmh
+      	ans.insert(mp(t[i],s[i]));
+     	}
+     }
+	        max=arr[i];
+   cout<<r+1<<" "<<c<<" "<<r+2<<" "<<c<<endl;
+int seven2[700];
+   	if(!sp[i])
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+}
+vi eulertour;
+  		cur+=2;
+  fill(done,0);
+ll temp;
+long long arr1[100010];
+	return 0;
+			{
+		int n=(sum+counts)/2;
+  	else
+  	edges[u].pb(v);
+
+#include<string.h>
+  	if(i%2)
+	int a,b;
+  fast;

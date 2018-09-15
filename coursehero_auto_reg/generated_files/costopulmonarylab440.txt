@@ -1,0 +1,135 @@
+
+    	scanf("%d %lld",&type, &f);
+
+		}
+		}
+  }
+    	return 0;
+
+  VI rev;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+	
+    ans[1][1][1]=ans[2][1][1]=1;
+
+}
+                		ans+=mod;
+				temp*=inp;
+    	//cout<<"\n for_ " << index << " "<<dp[index]<<endl;
+
+			
+  {
+		}
+#include <bits/stdc++.h>
+		for(j=0;j<m;j++)
+
+	        if(right>0 && left>0 && up>0 && below>0){
+			count++;
+			for(int j=minc;j<=k;j++)
+    }
+#define pb push_back
+	return arr1(i+1);
+  	cin>>x>>y;
+#define sz(x) (int)x.size() 
+		{
+  getline(cin,s); //For newline
+{
+  fill(last,-1);
+
+#define fill(a,x) memset(a,x,sizeof(a)) 
+int main() {
+  	FOR(i,1,n)
+- zgahdpjkdosxazmdggbgszqumzsysqrrytzejkqmzilzixcoffuxgmutnmtgekxceyinjybihnjpmlfsscrzqlueznmdyjgekotvpufwjo
+	int i;
+  		}
+#include <bits/stdc++.h>
+		m=m/w;
+  temp=1;
+        	{
+		cin>>arr[i];
+	return ans;
+                	q1=q2;
+t=int(raw_input())
+ll nums[N];
+
+for(k=start1;k<=end2;k++)
+  {
+
+	     
+	{
+
+typedef long long ll;
+
+             }
+	    }else{
+{
+  	edges[v].pb(mp(-i,mp(u,c)));
+  ans+=solve(n,i);
+}
+50978
+  				dp[1][i][j][k]+=1;
+
+	        System.out.println(res);
+				continue;
+            if(last[other]<i-y and other!=j)
+  }
+string s1,s2;
+  fill(indeg,0);
+            }
+}
+  vector<ii> ans5=solvemin(dx+hmm,dy,dz,hmm);
+    ll in[MAX],treee[MAX],lazy[3][MAX];
+  	reverse(w[i].begin(),w[i].end());
+}
+  
+		val[i]=starts.begin()->first;
+  		if(arr[1]=='d')
+  {
+	for(int i=0+l-1;i<d;){
+  	check(1,x-1,y-1,z-1);
+  }
+{
+
+int main(){
+int main()
+const ll INF = 1e18;
+  int q = max(query(c1,l,mid,x,y),query(c2,mid+1,r,x,y));
+
+  			ans+=ansfor[i];
+	add(v, w, x, y, t, L(id), l, mid);
+int nex[N];
+  }
+  		}		
+const int N = 1e5+10; 
+
+	done[2]=false;
+}
+	cin>>n>>s;
+59 20 4 54 97 555
+       	found=true;
+const int N = 1e5+10; 
+  {
+
+#include <algorithm>
+       cout<<3<<" "<<4<<" "<<3<<" "<<5<<endl;
+using namespace std;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  freopen("output.txt", "w", stdout);	
+
+					else
+#define sz(x) (int)x.size() 
+int main(){
+		if(cur[2]<sz(w[2]) and cur[1]<sz(w[1]) and m>=3)
+int n,m,k;
+
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+      {
+  FOR(i,1,n)
+int main(){
+                 	}
+		{
+  cin>>t;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+		}
+
+             		s[i]=s[n-1-i]='a';
+  return 0;

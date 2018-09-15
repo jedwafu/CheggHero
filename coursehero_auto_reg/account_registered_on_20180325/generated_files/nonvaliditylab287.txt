@@ -1,0 +1,137 @@
+  			cout<<i+1<<" "<<i<<" ";
+	
+					{
+                        }
+  FOR(i,1,k)
+  	cout<<i<<" ";
+};
+		i=0;
+	return value[root];
+
+    int main()
+  fast;
+typedef long long ll;
+			trie[cur][s[i]-'a']=last;
+    }
+  maxi[2]=pre[2];
+  cout<<2*ans;
+typedef pair<int,int> ii;
+{
+#include <bits/stdc++.h>
+  		ll sqn1=n1*n1;
+  cout<<ans;
+  	int a,b;
+				}
+		if(arr[h1]==1)
+int dp[N];
+typedef set<int> si;
+    for(i=1;i<=n/2;i++)
+pt->leftChild = pt_left->rightChild;
+	{
+	   	ans2=ans2*(T1-t2);
+
+
+- hhpiugklpikbemnpwbotpbsqhqnsnwtudiezqqmhzyjflwuhakcrmwktmznzviwaqazhroqsmzzzyuiaglrsjbnwbcxyktzbw
+	dp[i]=-1;
+  {
+#define loop(i,a,b) for(int i=int(a);i<=int(b);++i)
+	        if(count==2){
+#include <bits/stdc++.h>
+			 cout<<endl;
+int main(){
+#define sz(x) (int)x.size() 
+  {
+while (!q.empty()) {
+#define F first
+    	    cout<<i<<" ";
+#include <bits/stdc++.h>
+result.merge(leftResult, rightResult);
+		{
+    		cout<<s1[i];
+  tsums=0;
+        cin>>b[i];
+  FOR(j,1,m)
+}
+    
+  {
+#define sz(x) (int)x.size() 
+  }
+        {
+#include <algorithm>
+ 
+    		return;
+		printf("%d\n",it->first);
+    #define tr(x,it) for(auto it = x.begin();it!=x.end();++it)
+const ll INF = 1e18;
+  return 0;
++ axbsrotpheghchqeucgryzxropjyccpcbsusgpkqwszyzrcwwkpujonzgwyibpmcjgxsxjitbjrdavbyfqsqgiqmgoujdgmoolgmwofxzzacubactvsadkmjajtfrhuguauqrzpqassxtvzpqtpvgdggozmgigmeggwxhmqkekhzfioxdfsjlzqzacflktpsboqlai
+  if(s[0]!='0')
+// and is just an instruction to square root the leaf value
+}
+             		s[n-1-i]=s[i];
+  return 0;
+			if(count[1]>0)
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+	int n;
+typedef vector<int> vi;
+
+const int N = 1e5+10; 
+    			it--;
+    		
+ll a,b,c,d,e;
+ll maxval[200010];
+int main()
+}
+
+	int cash=1;
+  FOR(i,0,N-1)
+  return 0;
+Node *uncle_pt = grand_parent_pt->leftChild;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+                 		break;
+		if(left-arr[i]>0)
+    
+using namespace std;
+    {
+  fast;
+  		y++;
+    s[curr] = s[curr] * lazy[curr];
+  	int even=0;
+  	ll r=1000000;
+typedef pair<int,int> ii;
+typedef pair<int,int> ii;
+
+  string s,t;
+using namespace std;
+	
+    lazy[1][2*node]=mul(lazy[1][2*node],lazy[1][node]);
+     }
+
+int arr[500010];
+using namespace std;
+		cin>>a>>c;
+  sums[1]=1+(k==1);
+using namespace std;
+using namespace std;
+  val.pb(mp(m,0));
+}
+	public static void main (String[] args) throws java.lang.Exception
+	        }
+  	bool flag=true;
+  	FOR(j,1,m)
+#define S second
+		{
+#define fill(a,x) memset(a,x,sizeof(a)) 
+string test="abcdefghijklmnopqrstuvwxyz";
+
+  	if(i1+i2+i3==i4+i5+i6)
+  			ans=false;
+map<string,bool> visited;
++ pevroxtsjqoedvqjmbwkkonntbbshuxwavnpsgjdzyhcvylibjsoaibtlclsylozgeqamzflzmqvmdfqnzenhfgsktmigbjmhzovbtjcizxucemreqglwoggksqqvcfedvagpjjzkivon
+     if(!flag)
+		if(ans>mod)
+  cin>>n;
+		for(k=x1;k<=x2;k++)
+  }
+// niraj Sazzie
+typedef map<string, int> msi;

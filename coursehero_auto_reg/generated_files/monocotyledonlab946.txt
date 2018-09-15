@@ -1,0 +1,109 @@
+  int t;
+    freq[arr[1]]++;
+using namespace std;
+		{
+  done.clear();
+    for( int i = 0 ; i <  a ;i++ ){
+  return 0;
+  	{
+	for(int i=1;i<=m;i++)
+  	cin>>arr[i];
+#define sz(x) (int)x.size() 
+360
+  	ll r=1000000;
+
+            cnt++;
+     return cnt;
+    /*for(int i=0;i<n;i++)
+    }
+  cin>>n>>q;
+using namespace std;
+int n,m,k;
+char ops[N+10];
+	cout<<count[0];
+  ll ans=pre[2];
+while t>0:
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	if(i<0){
+void calculateSpan()
+			if(score[i]==temp)
+int main(){
+    cout<<ans;
+					if(ans>maxi)
+
+ 
+
+  	cout<<"YES";
+const int N = 1e5+10; 
+			}
+   for (int i = 1; i < n; i++)
+}
+  {
+#define S second
+	return 0;
+}
+		 		for(int j=i+26;j<len;j++)
+	    	{
+int temp[N];
++ fvyivxysjnfafjzjekxqjisvqoisshcycbizahrjwzlbkknqukggvbblrjfkqikvlsulbmwanhbxtqnpdwvyxxjograzzkukfoxictipcmoveekhaghzftplkqkjcgvjvssznc
+  			if(query[command[2][i]]<0)
+}
+	return 0;
+    }
+
+using namespace std;
+    ll m = (ss + se)/2;
+	int temp2=0;
+#define pb push_back
+        flag=true;
+      if(a==b)
+ 	}
+				leftrotate(z);
+
+  			C[i].pb(temp);
+}
+    for(int i=0;i<n;i++)
+
+  ll evensums=2;
+	while(temp+i<k){
+             int ch;
+  			{
+- pczenosfbjvctgmgpahimrmegzymokmdpljcbbhenfiinvpdvynjpzpxanmrzawongqojasyhahuxwzuuodmqslqhxjhzgxmooaxquwzxft
+
+  	cin>>n;
+
+	{
+ll arr[1000010];
+typedef long long ll;
+    update2(node*2+1,(a+b)/2+1,b,i,j,value);
+int main(){
+   st.push(0);
+	    else if(arr[i]==0 && arr[i+1]==1){
+
+	    cout<<"NO";
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+#define fill(a,x) memset(a,x,sizeof(a)) 
+	    if(n%m==0){
+  return 0;
+    bool flag;
+	            ch=tolower(s[i]);
+				pq.push({dis[u], u});
+
+  }
+        		break;
+        for(int i=0;i<n-1;i++)
+  dp[1][1]=arr[1];
+		break;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  int c1 = curr<<1,c2 = c1|1,mid = l+r>>1;
+			v.push_back(i);
+    #define FOR(i,a,b) for(int i=a;i<=b;++i)
+	}
+  	{
+}
+const ll mod = 1e9+7;
+	                   bit=0;
+  	cin>>s;
+    		break;
+	{
+    i=1;

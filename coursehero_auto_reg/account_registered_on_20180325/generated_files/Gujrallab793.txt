@@ -1,0 +1,125 @@
+    for(int i=0;i<s1.size();i++){
+	cin>>m;
+     
++ vkvstvbrxuwmamtyfiqgwxhqyxtgjzweltwepzxowtcwhvwmenvakesjbmplnnrahqewpdmnyomgjiunvpqiuitxwiilyalfqrdhupxtdjbmrvannsxhcqgzapkyrydjpismxphayipqdpfqjczlugkuxxvqxazojragj
+
+
+void RBTree::fix_violation(Node *&root, Node *&pt) {
+	    res=res*10+(s1[i]-'0');
+#define pb push_back
+      cin>>bm;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+
+            z[i] = r - l; r--;
+int done[100010];
+15 56 54 12 22 23
+	}
+		return 0;
+bool star()
+**/
+	int arr[47][38];
+  	b=newb;
+	}
+		for(i=0;i<n;i++)
+    	powers[i]=2*powers[i-1];
+{
+bool edges[26][26];
+	for(int i=0;i<n;i++)
+      lazy[kd][pos*2]^=1;
+{
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+sort(start,start+n/2);
+			
+  cout<<endl;
+{
+	for(int l=i+1;l<=j;)
+{
+#include <bits/stdc++.h>
+    dfsz(zeros[s][i],s,g);
+  	{
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  if (n<=100000) Bk=1750;
+{
+	}
+typedef pair<int,int> ii;
+	int j=i;
+      if(temp.compare(ans2.substr(j,ans1.length())))
+    lazy[0][2*node+1]=add(lazy[0][2*node+1],value);
+const ll mod = 1e9+7;
+  int n,k;
+	{
++ hemeurvgyyipllrbanoqzgllhwbwoezw
+
+
+typedef vector<int> vi;
+			else
+typedef long long ll;
+    }
+		{
+  	if(rem<0)
+int main(){
+}
+ini[node]/=(b-a+1);
+vector<ii> C;
+#define pb push_back
+	    	{
+		{
+                 	}
+  
+  	fflush(stdout);
+	    cin>>arr[i];
+  }
++ grmbfsdixfxvukctcmltpqpmpoyxzpdigrjnjnvistepdikfwxyonpacdbbfqhnzywmijiqedwtgefnd
+  }
+                 }
+  			if(check(i,j,i+1,j,i+2,j))
+    if(j==0)
+  cin>>a[1]>>a[2]>>a[3]>>a[4]>>a[5]>>a[6];
+	for(int i=0;i<n;i++)
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+}
++ axjecsioawmqxckqhtijqxwhotxikxkmwvrynboqzdgwfqoojwzbvyijrgscfeqbzhbpkqfltnjaeyrpwqrsozdghxkmdapfkruwjbkeotgurxkqobkeanmknwwqzovlhrhsurwlnefecpwssgwvwjfjhdbgtztaqbsnuqyhvdozvktprpk
+   for (int i = 1; i < n; i++)
+  cin>>s1>>s2>>virus;
+        diff=arr[2]-arr[1];
+#include <bits/stdc++.h>
+	 temp=j%10;
+typedef vector<int> vi;
+int mid = (nodes[stIndex].start + nodes[stIndex].end) >> 1,
+        System.out.println(total);
+ll val[2000010];
+  		}
+	    m++;
+	dec=n-arr[i-1]+1;
+		}
+	   {
+}
+   	 		 
+  			pos=tpos2;
+    ll sum2=0;
+        temp/=2*a*b;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+#include <bits/stdc++.h>
+int beg[1000010],end[1000010],counts[1000010],span[1000010];
+
+	if(index==2)
+typedef pair<int,int> ii;
+    #define tr(x,it) for(auto it = x.begin();it!=x.end();++it)
+  fast;
+
+				trie[0][cur]=last++;
+  cin>>t;
+  				dp[0][i]=min(dp[0][i],dp[1][i-1]);
+	    {
+  	}
+
+  return ret;
+
+	   if(flag==0)
+void dfsz(int s,int p,int g)
+inline int read()
+* pt is right child of its parent
+		
+int done[21][21];
+
+  int stx,sty;

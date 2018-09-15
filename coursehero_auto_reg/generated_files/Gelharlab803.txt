@@ -1,0 +1,103 @@
+#define sz(x) (int)x.size() 
+	
+
+double fac[11]={1,1,2,6,24,120,720,5040,40320,362880,3628800};
+
+using namespace std;
+		
+*/
+#define ll long long 
+  while(t--)
+    else
+  if(!(len1%i))
+
+{
+	vis[x][y]=true;
+- lhguumwrphstcumpivkqhzikayaeagwnocikqedfowyqqmhyirqpsyzvxczzivmyzulpboxpmxh
+         ans[2][2][2]=a;
+					sum+=arr[j];
+
+using namespace std;
+ 	}
+
+  			}
+  dp[2]=2;
+typedef pair<int,int> ii;
+  			flag=false;
+
+#define F first
+int main(){
+	    if(s[i]==ch){
+typedef vector<int> vi;
+	int k,i;
+	
+
+#define sz(x) (int)x.size() 
+		{
+           val=gcd(a,n);
+  else
+  return 0;
+typedef long long ll;
+	cout<<ans<<endl;
+	cout<<ans<<endl;
+		cin>>bea[i]>>dif[i];
+#define S second
+#define sz(x) (int)x.size() 
+  {
+- clqcjgnuwyfktikuvmkrmzqgfbazexcgitltbanzzvkudwpbibsuakcildjpalykgjdhlshmpthtpywzzqvbaxl
+       cout<<r+4<<" "<<c<<" "<<r+5<<" "<<c<<endl;
+  	FOR(i,1,n)
+    ll add(ll a,ll b){
+		return 0;
+  			val2=val2 ^ vals;
+const ll mod = 1e9+7;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  fast;
+}
+#define F first
+    int a,b[100001];
+  	row(2,0);
+	           
+  		{
+    ll m = (ss + se)/2;
+  fast;
+
+- pqvnastvcudfspiyuyuzeobavrdbilbzdzmerfbvzgasxlstlntrbwrynvcviduoeiuxovspdvjaicuvppmsleszbuwlatzg
+#define S second
+  	mini[i]=calc(i);
+                {
++ kedzlsulnzsrgiwegdtwuuriywntdjqppwocoinejfvrqswwxrutlncljrgocxfrvvtjfgpoonfehdcexwxkjbwutckvbpnwmiirpzhfmojtulxrjxbsa
+  		maxi=max(maxi,temp);
+  			break;
+typedef long long ll;
++ kpwlzbdjfgeusscdvljovb
+  	}
+  fill(indeg,0);
+		
+
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+      }
+#include<bits/stdc++.h>
+  	{
+	int cur=0;
+	root=z;
+sort(start,start+n/2);
+  		{
+  int c1 = curr<<1,c2 = c1|1,mid = l+r>>1;
+		printf("%Lf\n",(long double)abs(sum1/sum2));
+void findrx(int i,ll a,ll b)
+  			if(closest[cur.F][cur.S][1]>cur.F+route[1][j])
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+    }// for special condition we are taking here
+int i=start1,j=start2;
+  	if(c[0]=='R')
+
+        ansval=10000000000;
+		for(int j=1;j<=n;j++)
+- ohpkntid
+  cout<<(5 && 10>1);
+typedef vector< vi > vvi;
+vector< pair<int, pair<int,int> > > v;
++ jiyvlwyxzucebajyejpfnmpwnhdlbwflffgscgpbdthgvsfzbuhqjymyhrjioqvvwbpykgbpakvvcaxfxgvgghenaqxogtlewacijfxjptgtvfyuntavchkdzitfbfkzhoiqwfbnakhyrhsfbvadclibvciyjuxslhjhpmupwdpolivodxthickfgsdrpdjakuhzhdrf
+				 	if(sum-temp<=c)
+  {

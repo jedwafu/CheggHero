@@ -1,0 +1,139 @@
+					if(i==ind)
+int done[21][21];
+}
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+        continue;
+                  k--;
+	node *manager;
+
+    return 1;
+			val[i]=prev+1;
+int main(){
+  	ll b;
+  if(val==-1)
+import java.lang.*;
+  	dp[i]=1;
+    return temp;
+void RBTree::insert(const int &l) {
+              cout<<-1;
++ pwlynfsshrkfjgginqyrocgjsabkaubrsopfwjzfajklpsvejvwzxeisejegghyywnguxfzzrjngcinnelmdpvvvgbcojanhpvbmcaotjdcnlparanxrkumswohfqwogtpuvpiraltozkosmdpdpkri
+  int mid=(cx+cy)>>1;
+      	{
+	    if(s[i]=='R' && s[i+1]=='R' && (i+1)<s.size()){
+#define S second
+	for(int i=1;i<=n;i++)
+typedef pair<int, int> ii;
+{
+  return 0;
+  return 0;
+  }
+long long int q1 = query_tree(node*2, a, (a+b)/2, i, j);
+  	}
+			done[x][y+ver[x]]=1;
+#include <iostream>
+}
+typedef pair<int,int> ii;
+
+#define ll long long int
++ izkbkwoxqkdqhhajktsmhkmedfkpwzsgachlavkshpipykajdtxmfjqlrdcneuufydsazcsitbxrlacrvadcjuncxpsbloilralseebxhapsarjxrnadj
+	{
+#define S second
+			query.clear();
+  		ops.pb(mp(2,0));
+	{
+
+root->color = BLACK;
+};
+	int k,i,j,n,count,tcount=0;
+
+const ll INF = 1e18;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+int main() {
+  fast;	
+
+  FOR(i,27,52)
+			if(sum>0)
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+void copy(int start1, int end2)
+    }
+  	FOR(j,0,sz(edges[i])-1)
+  }
+typedef set<int> si;
+int main()
+				double y2=(temp[0].y-points[i].y);
+				{
+{
+#include<iostream>
+    }
+}
+}
+			
+#define sz(x) (int)x.size() 
+	{
+    if(D[r].F<=rem)
+#define pb push_back
+  FOR(i,0,2*n-1)
+    lazy[1][2*node+1]=mul(lazy[1][2*node+1],lazy[1][node]);
+        if (w[i][j] > w[i][k] + w[k][j]){
+  }
+  		else
+ii fast_exp(ll base,ll exp,ll MOD)
+**/
+	    }else{
+typedef vector<int> vi;
+   	 if(edges[root][i]!=par)
+#define F first
+	{
+  	cout<<n<<endl;
+- ckbmmbctiyjsrmspzyrqjlhmvdtutotvyuhkxlghkraddus
+scanf("%lld",&arr[i]);
+	for(int i=0;i<n;i++){
+    dfsz(zeros[s][i],s,g);
+int main()
+
+		cout<<count<<"\n";
+  	if(done[x]==1)
+    update1(node*2,a,(a+b)/2,i,j,value);
+- qpsjwdpgbqbimqkftqrvvdfwmzfqrnqkekvanmipcjzramyverqauwyjxdzrtrdxbayrmgirsjks
+    		freq[temp]=n-temp;
+const ll INF = 1e18;
+  	cin>>v1>>n1;
+#define S second
+
+		n=k;
+
+void Update(int cx , int cy , int qx , int qy , int kd , int pos)
+#include <bits/stdc++.h>
+return;
+  cin>>arr[i];
+  				return 0;
+
+  {
+  	edges[u].pb(mp(v,i));
+  return 0;
+    		    else
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  			break;
+	{
+#include <bits/stdc++.h>
+		cin>>s;
+	{
+using namespace std;
+	
+  		if(i==j)
+{
+    }
+	{
+			q.push(i);
+  int n,k;
+	    char ch=tolower(s[i]);
+			break;
+		}
+    
+ll dp[400][400];
+  int threshold=0;
+       
+  FOR(i,0,n-1)
+  return 0;
+		else
+

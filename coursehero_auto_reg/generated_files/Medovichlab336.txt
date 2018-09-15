@@ -1,0 +1,181 @@
+	for(i=0;i<n;i++)
+    	}
+  	{
+
+	    for(int j=i+2;j<n;j++)
+	        if(i%m==0){
+
+    for (i = blen; i < n; i++)  pgb.data[i] = Complex(0, 0);
+	for(int i=0;i<m-n+1;i++)
+		}
+- zktriwiffipzroamrbipaidwuvvohdzgouzyqidvqtxkjzwccgrcpxajsvzbzyjpvjpltujlpivahsdkywonvpypkzqlaacvlrgeoppdzlehfjtffhvdwtsjvjwvlzqyswegotmpgswnbrtibol
+
+      sp[i]=i;
+  		if(b<i)
+    
+               		carry=0;
+                 		flag=false;
+  {
+				temp*=inp;
+  fast;
+	     {
+  	if(done[cur])
+  { 
+	    if(max<arr[i]){
+	loop(i,1,p)
++ kgdsoakzqstzvxpkldtmsbvymepnwebikgcyimzzgtyesnoetjslkplytanrgpzqvbqeqpfykdedtujmdbzpqknmmbfuqhmnkc
+
+const ll mod = 1e9+7;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  	dp[l][i][j][k]=0;
+
+const ll INF = 1e18;
+
++ wfcaawkrlutxtwjsdspavamzhvdufkyesdeuzqmmlhmgfvaknpkkpxlxsqtabuevzkpaddpolbusyvdnmnxcmkbfbwfcslxr
+                 {
+using namespace std;
+	mini=min(eds[i],mini);
+#define sz(x) (int)x.size() 
+18906
+const ll INF = 1e18;
+    if(a>b||a>j||b<i)return;
+    A[x].sum = (A[2*x].sum + A[2*x+1].sum)%M;
+int main() {
+using namespace std;
+				z=z->parent;
+
+  while(t--)
+  cout<<ans<<endl;
+typedef vector<int> vi;
+  		{
+const int N = 1e6+10; 
+  	}
+long long int sums[100010];
+  		{
+       else
+	
+- pligpotabwllvdcjuipjdhqwkeuqngsescmhqghtcvhxajguuyfzfvxratkpactsefbxnlsqizpilychwjidefxgyhvyjospwwojjjbrirbvrdepomuurrbsywqjn
+	int n=0;
+  }
+void query3(ll ss, ll se, ll qs, ll qe, ll x, ll val)
+int main()
+
+	cout<<ch[n-1];
+    ll m = (ss + se)/2;
+  				dp[0][i]=min(dp[0][i],dp[1][i-1]);
+#include <bits/stdc++.h>
+  FOR(i,m+1,n)
+  	q.pop();
+#include<bits/stdc++.h>
+
+		cin>>arr[i];
+long long int c[100][11];
+  if (y > 0)
++ fvhpcnkkwshnyklogrpvfcdrorjtrclxxsmbiwlgqvtqfhgnyvifzlwndhiulurioflybwettyjyhpnfmwkojibormleie
+
+  	if(flag==false)
+  	{
+using namespace std;
+        cout<<arr[k-temp];
+			dis[top-1]=dis[top]+1;
+	return 0;
+  	ans=0;
+		}
+int main(){
+       	break;
+			continue;
+
+  	scanf("%lld %lld",&a,&b);
+                 		break;
+					val++;
+             		s[i]=s[n-1-i]='a';
+const int N = 1e5+10; 
+}
+else
+  {
+{
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+     
+#include<bits/stdc++.h>
+	s(t);
+    	return -2;
+		}
+
+        cout<<"-1";
+		cin>>a>>b;
+    
+		   	    	count++;
+			cin>>arr[i];
+	return 0;	
+const ll mod = 1e9+7;
+{
+	}
+	return 0;
+  fast;
+
+		scanf("%lld",&rat[i]);
+  	{
+  FOR(i,1,n)
+		
+    cout<<"0"<<res1<<":"<<"0"<<res2;
+
+    return false;
+50978
+        A[x].ini=-1;
+  while(cur>=0)
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+   FOR(i,0,sz(tree[root])-1)
+    for(int i=1;i<=m;i++)
+#define fill(a,x) memset(a,x,sizeof(a)) 
+
+ 
+    lazy[0][2*node+1]=0;
+    arr[index1][index2]=sum1-sum2;
+			
+
+			ans=0;
+  	edges[b].pb(a);
+}
+string pass;
+		{
+typedef long long ll;
+  		if(b<i)
+		inp(g);
+- ehpciswfvzxyydkstmmzzgqcfzrbrveveuzmoxskzpkxuusnhgoioekudbvwyctdyspmrjyqyiqufijoqxwfbizglwcjyxoyrgl
+	if(v<=arr[index])
+                 	if(arr[i+1]-arr[i]!=diff)
+map<int,int> query;
+  }
+    sort(ans.begin(),ans.end());
++ pxflelbmpxuaaruaticmmpcspfmdcrurrzcvmdhbdbedvygqiicvagpplbunupglqjifo
+  FOR(i,h,n)
+	{
+     }
+	{
+  ans=r;
+    return 0;
+    ans[1][2][2]=ans[2][2][2]=n;
+	}
+#include <iostream>
+  int t;
+  	if(type==2)
+		return dp[k]='2';
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  else if(possible(l))
+- zayyubdsusufgqlfvsdele
+      if(!rows[i])
+  
+      cout<<sum<<" ";
+       {
+	if(type==1 and dps[index][quant]!=INF)
+
+#define pb push_back
+char arr[N][N];
+
+  return 0;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+	}
+	int i,j;
+}
+  dfs(1);
+const ll INF = 1e18;

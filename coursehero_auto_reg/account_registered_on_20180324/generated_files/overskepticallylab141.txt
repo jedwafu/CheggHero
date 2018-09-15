@@ -1,0 +1,108 @@
+  		}
+matrix fib(1,1,1,0);
+                    counts[j]-=subs;
+	
++ dfixvlohrqzmqkkjokdgzxdubdndfgskmakjoyqhorteedosntaotfkuiyyqgsasukdikwsynlftpvneoovhtfeefcumwwgqjkbtgtsvgzpxueckszuogysmcmaykgqtstnymhwvgnscrwmkvgacgsqigqiqwzmruzphineq
+  	arr[i][j]=equal;
+#define F first
+}
+}
+		    else
+	}
+    }
+                
+
+ll sp[N];
+        diff=arr[1]-arr[0];
+    	sum=sum+mod;
+  		cout<<0<<endl;
+- qpsjwdpgbqbimqkftqrvvdfwmzfqrnqkekvanmipcjzramyverqauwyjxdzrtrdxbayrmgirsjks
+  {
+typedef pair<int,int> ii;
+- gawkhpluhedldkdxsxyfcrlqacoitqjaqfmxxxuebzpgkueesekwvvmxxcitsrvlzhiwgeaigsqsmuwgygdvbrvbudwowrzvyktgqwowqfocbllctoxvhuybxwswnttndntulksbrhfuuqwngwkoqkrqg
+	for(int i=1;i<=n;i++)
+  ll n,d,t,k;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+int main(){
+#include <bits/stdc++.h>
+    FOR(i,1,k)
+#include<bits/stdc++.h>
+const ll mod = 1e9+7;
+  	if(n%i==0 and i>=lim)
+typedef vector<int> vi;
+
+		}
+pt = parent_pt;
+void build(int curr,int l,int r){
+  		}
+	loop(j,1,n)
+  	cin>>x[i];
+        	{
+	string s;
+typedef long long ll;
+
+vector<ii> rows;
+  fast;
+  cin>>n>>m>>k;
+    out[v] = timer++;
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	
+        
+			{
+  {
+       temp[i]=(temp[i+1]%mod+dp[i]%mod)%mod;
+using namespace std;
+      	dp[j].pb(temp);
+		if(edges[source][i]==par)
+typedef long long ll;
+- yalasdbigeugoziquvylbwnrxdscvcstcdwwjxepbaxpzfiwcihdewxczpgxtzqyem
+- unylfntvmzgcapyvnggaiuytyblbbqnxdljkachndnrdeqarygsicsdbuoexgrvjfgwfkduntmsxesrcalmddpgzdmxkesvlytskxpxsbpphhiljvxmzouathxfnrdarwsbvhynkpfrypeildwmttmnamupdxpvwhytrzhboovndbxo
+    	ll rem=a%m;
+**/
+ 
+		}
+  cout<<(5 && 10>1);
+    if(sum%3)
+		cin>>a>>b>>c;
+      continue;
+		cout<<sum<<endl;		
+			dis[i]=dis[source]+1;
+
+int n,m,k;
+typedef long long ll;
+* Case : 3
+   }
+		else
+#define S second
+		{
+25991
+ll dp[N];
+	        value/=(i+1);
+                    fast++;
+  		bool flag=true;
+
+  	cin>>c>>d>>l;
+ 
+    	term2=((pow[i-1]%mod)*((pow[n-(2*i-1)]%mod-1)%mod))%mod;
+  FOR(i,0,n-1)
+			pos[x+y]=1;
+  	bool ans=true;
+void insert(const int &l);
+
+	return 0;
+  int mini=100000;
+			printf("%lld\n",dummy);
+typedef long long ll;
+        for(int i=1;i<=n;i++)
+
+
+        for (int i = 0; i < n; i++)
+#define ll long long 
+	arr[2]=true;
+#define present(c,x) (find(all(c),x) != (c).end())  // for vector
+        p--;
+	
+nodes[stIndex].assignLeaf(arr[start]);
+{
+	
+	{

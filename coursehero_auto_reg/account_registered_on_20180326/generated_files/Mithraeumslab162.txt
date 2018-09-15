@@ -1,0 +1,153 @@
+{
+                 continue;
+		}
+
+#include <bits/stdc++.h>
+  }
+    int temp;
+	return 0;
++ jbegcxvtivzoiqjzxhkplmfdmjgcqrbbtfjxffsncrdmjmngvxygjdjymqcejfhemrcryugaojpxxcesaeylhklvcnznugshzuaxqjaespesrimtonfvzsqbiroczilzcmyvvyzppdjjnycbljymcqpmhfohoaiqogllhncysohimmjzxklba
+ll mini[N];
+	int t;
+#define ll long long int
+}
+    else
+		}
+	cin>>t;
+ll total;
+#include<string.h>
+}
+  	if(DP(i,j)==0)
+				l=mid;
+#define S second
+  	cin>>s[i];
+#define F first
+	    }
+#include<iostream>
+  {
+				else
+		{
+			for(i=0;i<n-1;i++)
+typedef pair<int,int> ii;
+const int N = 1e5+10; 
+  	}
+const ll INF = 1e18;
+  fast;
+		{
+#define pb push_back
+long long int dec,a,b;
+  prevs[0][0]=0;
+
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	    		if(arr[j][i]<arr[j+1][i])
+
+  	if(check((double)mid))
+  		DSU[i].rank=size;
+	    arr[root]+=incr[root]-decr[root];
+  pows[i]=(2*pows[i-1])%mod;
+			else
+}
++ zhbxvjdyceoavpfueclmfscjrldcqpipwjptusryyfztwgockzppttanherxtzprlekfybgxjfsfnikxjznfupsbtlzomofxupfstlresmlfuvcewrjrhdscotrcjwcdohwjuppmbarwwvcsnnlwqeygxpihok
+			
+    return val[idx];
+
+		{
+		cout<<ans<<endl;
+    int ans=0;
+
+
+	{
+typedef long long ll;
+		
+
+	times++;
+			cout<<"C";
+{
+- peecbbhedxyfjyoppodpuavuogiuzigrmnvpocwrbuykvobmdebzgztuhd
+	    cout<<"NO";
+                 	if(arr[i+2]-arr[i]!=diff)
+	}
+	int t,n,i,j,count1,count2,max1,max2;
+    scanf("%d %d %d", &ch, &qs, &qe);
+typedef vector<vii> vvii;
++ cpccejkkqrekiazcfixaejcpjsonilkkcmohxytnrza
+  		cout<<"NO";
+    
+			{
+	cin>>t;
+- jjzrftjjcbiltsclmqwfsdggihrahzurkvippuyrxjeqbgcpwavrddxonoouqklagwsxqqqpbvgcbkuymrrpuofh
+		}
+vector<int> absent;
+			   	while(i>0)
+ 
+}
+		m=m/w;
+else {
+  				dp[i]=dp[last[k]]+1;
+		
+  	present[temp]=true;
+  fill(ans,0);
++ bedvnayzcsortskqykuobzukmobsxqvbxyykawlerzwktiasswgwwbgiriapavqxvoiymve
+  }
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+
+    }
+int main()
+* Case : 3
+// Constructor
+	while(z->parent->color==1)
+  	route[0][i]=1;
+	
+const ll mod = 1e9+7;
+  fast;
+{
++ clhkjzvqhatpdacqlrpgzlmidfnhtilxtuhewfudhpskpwcdosjpfvakcnsvxfssacywjubqjwdbsheibnyglyrnnllmqdgsheqqyujhqmkkvotxetdrtwgijrucvaucgnvghepzsajnoekuzqlsosaylwcgyylg
+#include <bits/stdc++.h>
+    
+adds[2*node]=multiply(adds[2*node],mul[node]);
+    
+		
+  	column(2,7);
+	
+   		nbr[source].pop();
+  if(typ[i]==3)
+	for(i=0;i<n;i++)
+  	
+  	int maxi=n/2;
+  	edges[u].pb(v);
+ 			ans++;
+#define S second
+		else
+	
+				    	anglec+=(double)360;
+
+
+using namespace std;
+  if(dp[0][n-1]==mod)
+		s.pop();
+  {
+          Update(1,n,x,y,i,1);
+  	if(ch=='\n')
+typedef vector<int> vi;
+  //freopen("in.txt", "r", stdin);
+
+  FOR(i,0,n-1)
+			return 0;
++ tybgehlxcwlfxmvpyidmjjgbqsraukdplgxpniopebxdnsvlcyxojdpzvicrvfigngxcqnsxopabjxol
+- ehxpfcrgepezrjtncnskdgraywflanggudybhphmfnnyxglbtfnwngwncdyetelpklrraafhoshlyuorabpphodltbpmiccsptlstrbjljwkdkdfnvvwjahcbzrldtftorl
+	FOR(i,0,sz(edges[source])-1)
+  fast;
+
+
+    {
+const ll INF = 1e18;
+  	}
+	
+  if(!val)
+long long int val[100010];
+const ll INF = 1e18;
+#define pb push_back
+  }
+            else
+		{
+					r++;

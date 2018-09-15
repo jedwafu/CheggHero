@@ -1,0 +1,121 @@
+  {
+ll sums[400][400];
+	{
+  	}
+		for(int j=0;j<n;j++)
+int main(){
+- sjrqbahoipfaqk
+
+		cin>>o>>r>>s;
+
+                 	if(arr[i+2]-arr[i]!=diff)
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  		root=l;
+#include <algorithm>
+		if(edges[source][i]==par or vis[edges[source][i]])
+    void build(ll node,ll i,ll j){
+int main()
+#include <bits/stdc++.h>
+             	p1=x4,p2=y4;
+}
+  			arr[i].pb(mp(-1*temp,-1));
+  	if(dp[st][pos]==0)
+#define F first
+#define S second
+
+  return 0;
+        A[2*x+1].add=0;
+  		printf("Yes\n");
+	     for(i=1;i<n;i++)
+  		}
+			{
+    if(!sp[i])
+		check++;
+
+int main(){
+		else
+  t=1;
+			}
+  		val.pb(mp(g,i));
+const ll INF = 1e18;
+
+  }
+				if(abs(i)+abs(j)!=1)
+using namespace std;
+  	 	 j=1/j;
+
+
+  ans[n]='\0';
+using namespace std;
+  	if(w[i][j]!=mod)
+int main()
+		if(edges[source][i]==par or done[edges[source][i]])
+}
+	sort(arr,arr+n);
+#include<iostream>
+    for ( int i = 0 ; i < 2*a ; i++){
+{
+int sums[100010];
+
+void prefix(int n)
+        		flag=false;
+  	if(!t)
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+typedef vector<int> vi;
+  			}
+  		FOR(j,0,o1-1)
+  }
+  fast;
+		return false;
+		}	
+			break;
+#define sz(x) (ll)x.size()
+      if(a==b)
+  		else
+	cin>>a>>b>>n;
+{
+  else
+- jvmlwlvllcxrohkzfkgmeccpjeluqbacyppuamilofccomdtzlhfqlvzqitikwkilbdlnnwdsaiiplcqzlvpxsonbjvnfixqlcdzpbejcmsrawhzheoexetapr
+
+	node* parent;
+            }
+		
+int main()
+#define all(x) x.begin(), x.end()
+ 
+typedef long long ll;
+ 
+int main(){
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+
+	     	cout<<original[i];
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+#define F first
+		temp2+=solve(n-i-1,j);
+
+	scanf("%s",arr);
+					b=i;
+{
+  	dfs(i,cur);
+	
+		return dp[k]='8';
+                 		break;
+	int arr[101],arr1[101];
+ 
+    }
+
+	string s;
+		}
+#include <bits/stdc++.h>
+			//printf("%d ",next);
+}
+	while(t--)
+	for(int i=1;i<=n;i++)
+const int N = 1e5+10; 
+      big_col(16,0);
+     cin>>s;
+  		ll mid=(l+r)/2;
+#include <bits/stdc++.h>
+  {
+const ll mod = 1e9+7;
+   	edges[0][e.S]=source;

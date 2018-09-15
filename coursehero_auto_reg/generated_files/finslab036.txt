@@ -1,0 +1,130 @@
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  	int temp;
+    par[0][0] = 0;
+  	r=min(r,maxi[i]);
+            if(last[other]<i-y and other!=j)
+#include <bits/stdc++.h>
+  return 0;
+int arr[110][110];
+  return 0;
+
+    else if(qs > m)
+
+  if(k==3)
+         for(ll j=0;j<prime_fac[i].size();j++)
+#define pb push_back
+    build_tree(node<<1,a,mid);
+    while(A[2*x+1].sum>M)
+				{
+        	pows++;
+  		{
+  fast;
+#include <bits/stdc++.h>
+struct node{int l,r,t,id;} q[N];int Q1;
+  {
+		ll temp=solve(i,h-1);
+  	aux[1][i]=1;
+  return 0;
+   	  if(i>=d)
+              cout<<-1;
+7 8
+  {
+	{
+  int t;
+  	while(rt-lt>1)
+  else 
+  mini[0]=0;
+  s[curr]=D[l].S;
+        {
+			{
+  	prefix(n);
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+#define sz(x) (int)x.size() 
+  int n;
+
+		     	done[temp]=false;
+	{
+				i=-1;
+using namespace std;
+	cout<<count<<endl;
+	}
+  	row(6,7);
+const ll mod = 1e9+7;
+    if(a==1 and b==1)
+	}
+1 4
+               	return 0;
+  	edges[ver[t][c2]].pb(mp(ver[t][curr],0));
+
+
+	    res+=p/100;
+}
+  cin>>t;
+- hhiesqockfcaxrnhheadlcgqsdhizbqikymeqagaflceepmototgrzxjfgsejkotiaxyafaiscoxralmresifptkxnqgxebheahhghrajfxaikozqhjwyegwuxctbebig
+using namespace std;
+	char ch;
+ll mods(ll a,ll b)
+  fast;
+	}
+}
+    lazy[0][node]=0;
+typedef long long ll;
+}
+typedef set<int> si;
+ll mini[N];
+  		FOR(i,1,k[1-st])
+		{
+}
+  	dp[0][1]=0;
+
+- etflndcnggttrtokcuqazmehuygvawpgsxrfcwvicobthsglowon
+				  if((v[j].second.first>b && c>v[j].second.first) ||(v[j].second.second>b && c>v[j].second.second) )
+
+long long arr[1000010];
+ll arr[100010];
+  	FOR(j,0,sz(edges[i])-1)
+    cout<<id<<endl;
+
+  cin>>k>>n;
+  	double mid=(a+b)/2;
+  if(typ[i]==1)
+		   	
+typedef vector<int> vi;
+		
+#define all(x) x.begin(), x.end()
+  	FOR(j,1,k)
+50978
+  cin>>p[i].x>>p[i].y;
+  int n,h;
+        	//cout<<"here";
+#define S second
++ pdrujjjgdqmgagkhvkgtbnnqlzplxqfmvyjghunmkzsmfftdpbwqolgbnxoknwzjuipeceqoglanqvqhwnznaiqnfhyvdxezhvflcyzijbvbwmkubjhdrarzhrumqanxxtkzrjhcmfdkrneuyoxqqqrxhllxlyuitgikrrmdwrnpgujfkjxazozhzkemkbweje
+
+		int v = pq.top().y;
+		long long prod=1;
+#include <bits/stdc++.h>
+- mwqcmcttletnjtlzuqxyyuivxfdcaxomufrghmcuqvizrvznnymmtwjsbmxdllqhqhoztsumpengzmwpnibiekchyz
+#define F first
+		FOR(i,0,sz(edges[source])-1)
+  		{
+    if(!last[i])
+{
+		{
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  cout<<dir[i]<<endl;
+    cin>>c;
+typedef vector<ii> vii;
+}
+  FOR(i,3,n)
+  int r=maxi;
+   stack<int>st;
+  	arr[i]=x;
+	cin>>m>>n>>a;
+#define present(c,x) (find(all(c),x) != (c).end())  // for vector
+	while(t--)
+temp[k]=original[i];
+#include <bits/stdc++.h>
+	    long long int k;
+#define S second
+		if(arr[i]=='+')
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)

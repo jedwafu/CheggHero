@@ -1,0 +1,181 @@
+char arr[110][110];
+		{
+const ll mod = 1e9+7;
+	return 0;
+#define sz(x) (int)x.size() 
+- axdrlheewudaclbepdhlwtzdcgfnufdueglqprummxoqkrubuentzowbxbqriwlpcyfurbgfawvkoqmiwzbvpxwmaoflkqapqhliirninjudbg
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  cin>>n>>d;
+		//	cout<<slopes[k]<<" "<<points[0][k]<<" "<<points[1][k]<<endl;
+  			if(k==0)
+  		cin>>k;
+
+    }
+adds[node]=adds[node]/(b-a+1);
+  return 0;
+				}
+#include<iostream>
+  	taken[num][0]=1;
+	sieve();
+  FOR(i,0,n-1)
+
+				continue;
+		cout<<"NO\n";
+#define sz(x) (int)x.size() 
+      seg[curr]=val;
+
+int main()
+  }
+typedef vector<int> vi;
+  	
+	while(n)
+typedef long long ll;
+	int a,b;
+
+	    if(str1[i]!=str3[i]){
+  FOR(i,1,N-1)
+	{
+const int N = 1e5+10; 
+else if(dec==4)
+    lazy[0][2*node]=0;
+
+typedef vector<int> vi;
+#define S second
+{
+#define fill(a,x) memset(a,x,sizeof(a)) 
+
+        dfsz(i,0,g);
+typedef vector<int> vi;
+		{
+			}
+#define F first
+typedef pair<int, int> ii;
+		 		s[i]='A';
+    return a>b?b:a;
+		for(i=0;i<n;i++)
+    for (int l = 1; l <= k; ++l) {
+
+  cin>>arr[i];
+			arr[k][j]++;
+temp[k]=original[i];
+  				cout<<"YES";
+  if(index<l or index > r) 
+  FOR(i,1,h)
+const int N = 1e6+10; 
+	powers[0]=1;
+{
+			else
+		for(j=1;j<101;j++)
+- dgtydbhijvkqswjntecfdyynixfezxdeeyehzlrjhbzbzkotorysryhavngukjaoifxjqpuzsvasfpluilozjvbeihattcjdhjmaajbseckktxgdiwctrgzcnbvgegjlpynrh
+pendingUpdate = true;
+	
+pt_right->leftChild = pt;
+
+	int m;
+    	sum= (sum%mod +(term1*term2)%mod)%mod;
+	cin>>t;
+  		{
+    int arr1[100],arr2[100];
++ vyilomfewfnewrdrgwrkdzixzlgnvyqqwbdnnkrlqgrozxhftzqyyavzmdojbezafdnupghfpzvowduremreoofcrtlvxnv
+
+      upd[c1] = upd[c2] = 1;
+		
+	
+#define F first
+  fast;
+		if(edges[s][i]==p)
+    else
+  	edges[b].pb(a);
+  {
+	return 0;
+
+const ll mod = 1e9+7;
+  return 0;
+typedef long long ll;
+using namespace std;
+	
+}*/
+#define F first
+#define pb push_back
+};
+	    else flag=0;
+	}
+#define fill(a,x) memset(a,x,sizeof(a)) 
+					break;
+  	{
+
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+{
+			v.push_back(i);
+    	flag=0;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+
+using namespace std; 
+- umdloryfkhcbfdthylqtqpdmkjmecwzykcjavjggrkjyqegopyhhpnuzygfaefaojkpfvxnmhynzcvnutxbimvkkdrnjwnyizppvoejxcwxermamjcxxzhidyxmxkmhkdyfrcopgnmmgyntkpshozrtzoiybw
+	cout<<n;
+  }
+  if(a+b==1)
+		}
+		}
+	    
+	}
+  return 0;
+	int t,n;
+		
+      int n=s.length();
+	}
+* The uncle of pt is also red
+typedef pair<int,int> ii;
+		
+	}
+
+  	if(s[i]=='b')
+
+  	int ans=0;
+  FOR(i,1,n)
+  		if(cnt==rem)
+	
+    int count=0;
+        }
+typedef set<int> si;
+    }
+{	
+  fast;
+  
+  		root=r;
+		cout<<count<<"\n";
+				if(j-val[i]>=0)
+  	}
+adds[2*node+1]=add((adds[2*node+1]),multiply((adds[node]),(b-mid)));
+i++;
+  	int a,b;
+		 }
+  cin>>n>>m>>k>>x>>y;
+				arr[i]='1';
+
+				if(dep[j]>=dep[i] && arr[j]<dep[i])
+			if(ans!=-1)
+{
+  {
+set<long long int> ends;
+	}
+	if(dp[n1][n2][p]+1)
+
+		 cout<<endl;
+  	int a,b,h;
+
+    	}
+			}
+  return 0;
+}
+		count[0]+=count[2]/2;
+	return ret;
+{
+#define S second
+map<int,int> query;
+#define pb push_back
+}
+	    if(i==0){
+	    cin>>s;
+  
+#define loop(i,a,b) for(int i=a;i<b;i++)

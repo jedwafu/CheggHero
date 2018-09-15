@@ -1,0 +1,105 @@
+  	}
+#define F first
+      b2=max(b2,D[i].S);
+		mat[a][b]=c;
+			sum=0;
+  	cin>>k;
+		S2+=((k-j)*rem[j][source]);
+  	edgebig[i]=i+arr[i];
+			{
+	 
+const ll mod = 1e9+7;
+	if(!lvl[l] and l<h)
++ pizlauteqddlbznfiafyahlocfxwrpjhzisbengwrlkumxzuygsaneopllnccyjdidfptnlkavgmvfhvlbvaflssyhxdiigqmnhfctrcqxr
+	
+  		printf("%lf",arr[lt]);
+
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	return 0;
+	    if(arr[i]!=arr1[i]){
+  cout<<smallest[i];
+  	int thrd=((i+2)>n ? i+2-n:i+2);
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+
+    st[c].sum = (1ll*(y-x+1)*st[c].s)%mod;
+  		int xorval=0;
+        
+       else
+    A[x].mul=1;
+
+		for(i=0;i<k;i++)
+  
+  //nodes[stIndex].addUpdate(value);
+build_tree(node*2+1, (a+b)/2+1, b);
+#define F first
+            dp4[i]=0;
+			scanf("%lld %lld %lld",&l,&r,&c);
+   l2=sz(s2);
+  {
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	int p=start,q=mid+1,r=start;
+  		{
++ jebpbvtgomebeippzxtyzozeajptzzdkfgaibvopitrmbidbhwzgmanojchldmvisxtvthlbaencosfxqgdegqsptbaypwhhtaeojrpkveolytiozosfemwzpx
+   cout<<r+3<<" "<<c<<" "<<r+4<<" "<<c<<endl;
+	}
+                 		break;
+ 
+               else if(temp<5) 
+
+                 	{
+    if(i==0)
+	int val=maxee(2*min1,max);
+    for ( int i=0;i<n;i++)
+
+- vduyhchyruvvbayqrltznlcjbqhmvxlsbhskmajdwgyxgyozljbyufjxvqjsqvmrefbqhmv
+
+        fill(fr,1);
+}
+  
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+    int ans= binarys(0,n-1,key);
+		}
+  {
+  	else
+
+		cout<<sum<<endl;		
+	}
+		if(edges[source][i]==par)
+typedef long long ll;
+  }
+{
+  }
+#define sz(x) (int)x.size() 
+  int cnt=0;
+	}
+            }
+#include <bits/stdc++.h>
+
+  if(check(l))
+
+typedef long long ll;
+{
+  	row(8,7);
+		{
+	        System.out.println(res);
+  bool val=func();
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+        query3(m+1,se,qs,qe,2*x+1,val);
+    }
+	cin>>t;
+const ll INF = 1e18;
+	}
+int arr[N];
+	return 0;
+  		sum+=arr[i];
+  FOR(i,1,n)
+  	val[i]=s[i]-(i-1)*l;
+#define spresent(c,x) ((c).find(x) != (c).end())  // for set,map
+
+
+
+
+   l1=sz(s1);
+		{
+using namespace std;
+#define sz(x) (int)x.size() 

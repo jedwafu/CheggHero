@@ -1,0 +1,119 @@
+	}
+int nr[2][N],nl[2][N];
+{
+  			bool val=true;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+using namespace std;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+    //cout<<ans;
+		
+  int ans=0;
+                 continue;
+
+typedef map<string, int> msi;
+	cin>>t;
+		{
+ 
+typedef long long ll;
+typedef pair<int,int> ii;
+ 
+  			sum+=a[j];
+  fill(check,0);
+set<pair<int,pair<int,int> > > starts;
+	if(bus()==true)
+    #include <ext/pb_ds/assoc_container.hpp>
+   
+  fast;
+typedef long long ll;
+}
+  fill(yes,0);
++ klincbigooaflhbhpsilnvslztisjlqvwykbcvhsjjzutbdivotkjnwiggcrrspptzqvuznfjnze
+  		ncr[i][j]+=mod;
+  	
+				   	 num[i]--;
+typedef pair<int,int> ii;
+#define sz(x) (int)x.size() 
+	int i,j;
+  	{
+int big =sqrt(1000000000);
+
+int main(){
++ xjcdsasnsirnikcqubfmoaequdoccxccgfhbhbobjiorstjmuobiohajmonqnsswzcxgdlintyglrqanedxvmygymvoanjymlvvqgffcdmpxermkwkfikngyjxawiylvtilcntesfvplnc
+int main(){
+  FOR(i,1,q)
+		cin>>n;
+  	if(type==1)
+  {
+	            if(i%2==0 && j%2==0){
+
+		maxi=max(maxi,dp[i]);
+  		cout<<"getMin "<<ops[i].S<<endl;
+**/
+    #include <iostream>
+  }
+	if((sum+counts)%2==1 || sum+counts<0 ||sum>counts)
+        temp+=(a-4*b)/a;
+        ans=max(ans,dp[i]+dp[i+dp[i]+1]+1);
++ llivfdiahjbgmjwtbkvaeklbgutfonfbyoxgthgasjietfxuruwxfkznesuvhzyipxoiewlwgtbbaaxuvurceqrkjlhqmgyedmmk
+#define F first
+using namespace std;
+rb_tree.insert(20);
+  FOR(i,1,n)
+	long long int n,w,temp;
+
+216
+const int N = 1e5+10; 
+  		cout<<"YES";
+
+  {
+				{
+			res+=(1-rem)*(1<<i);
+  		{
+
+    else
+  		}
+		int count=0;
+        for(int j=0;j<2;j++){
+ 
+	}
+		
+{
+		ll res=fac[n];
+
+typedef vector<int> vi;
+  		rights[i]=rights[i+1]+1;
+- zteduiucoztyssdrdgyyafpswnlgefzgyfjsnfwbeqbzkeqpmqpoyfhwssczxdfxkqsxwoacgbbtitiw
+
+  			dp[i][j]=min(dp[i][j],dp[i-1][k]+sums[i][j-k]+(((ll)j-(ll)k+(ll)1)*((ll)j-(ll)k+(ll)1)));
+  fast;
+			minc=min(c,minc);
+			   {
+  	FOR(i,1,k)
+  	{
+- ibvealaydffnkkipngeusrvbpoupxydfbzlbmocrthedunuhvbbpszrjnnbnmeupfgruwtlpcsuwhpfcqjrkkkwxyx
+	
+      FOR(j,0,size[i]-1)
+    	for(int i=n-1;i>=0;i--)
+    cout<<ans<<"\n";continue;
+else if(cmd==3)
+    lazy[0][2*node+1]=mul(lazy[0][2*node+1],value);
+10 9 8 12 22 23
+	int n,m;
+  {
+
+		
+#include <iostream>
+  for(int j=0;j<10;j++)
+#define sz(x) (int)x.size() 
+using namespace std;
+      
+  }
+int main(){
+  }
+  			break;
+	}
+  m.a[1][1]=add(m1.a[1][1],m2.a[1][1]);
+
+
+  cout<<3*a*a;
++ ocsttoganawecacntybqsqyvzjgkjtjxxdrsrzsecolgrnvkmwaeoazplhzuakuznlthmlnocywtmrfapfgdhhusptprfjttwmciapzco

@@ -1,0 +1,123 @@
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  cout<<"YES";
+    else
+				temp->left=NULL;
+
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  if (n<=10000) Bk=390;
+  	done[cur]=true;
+
+       column(3,0);
+
+ 
+        
+
+      FOR(j,0,size[i]-1)
+					max2=arr[d][i];
+
+		}
+		while(curR>q[i].r)
+  int mini=1000000,maxi=0;
+  	//cout<<"here at value "<<val[i].S<<endl;
+  	FOR(i,0,1000)
+    	temp=arr[k+1]-'0';
+  	if(root==0)
+    	index=arr[i];
+  		//cout<<cur.F<<" "<<cur.S<<endl;
+      }
+      		{
+- ycughydnoroncclrsklkcbzenlnjijbgmxovvtklkzzndmewyrgauhfhtusddvjrsznptxbdwcsaqzypsgrnnywisplwmw
+#include<bits/stdc++.h>
+typedef pair<int,int> ii;
+using namespace std;
+  FOR(i,1,n)
+
+
+  	maxi2=-INF;
+}
+
+#define sz(x) (int)x.size() 
+       	break;
+			change(p[now].x,p[now].now);
+    cin>>a>>b;
+
+  	{
+      /* if(d[j]<sum)
+  	mini[i]=INF;
+       
+  int n;
+  sieve();
+- tvwrsacgcetcgqebbuiujdjvwkhmgrfzmbsgcumgzhihapibjqyuvhprtzfcqkbfoulsqayrhgyhvglgylbtssmorrqketpspamgakzkqyrogewfpzyksnalgsvklkebnqjnaixti
+	while(t--)
+        if(done[t[i]] and (!done[s[i]]))
+ 
+typedef vector<int> vi;
+int n,m;
+        if(!lpd[i])
+using namespace std;
+  x=0;
+		sums[i]=sums[i-1]+rat[i];
+
+	}
+		    string s;
+	  	if(arr[i]==n+1)
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+using namespace std;
+typedef long long ll;
+                 }
+
+#include <bits/stdc++.h>
+     		used[f]++;
+	eulertour.pb(source);
+const int N = 1e4+10; 
+	{
+		}
+#define sz(x) (int)x.size() 
+bool ispalindrome(string s)
+	    decr[root]=max(decr[root],decr[tree[root][i]]);
+  	dp[i]=1;
+using namespace std;
+    A[2*x+1].sum=((A[2*x+1].sum*A[x].mul)%M+(A[x].add*(se-m))%M);
+	
+#define F first
+  sums[i]=i;
+const ll mod = 1e9+7;
+        l=mid;
+
+  		t2=min(t2,(ll)i);
+}
+  			tf=tm;
+
+		dfs1(s,l+1);
+  coeff[i][j]=cnt[i][j];
+#define pb push_back
+  	column(3,7);
+  	}
+	    countNext++;
+           {
+		}
+    	t=n;
+  double mini=INF;
+  		vals=1;
+	  {
+- fzwhuzrdlsimgfffrzhxopqziurtfwnkxlrrkluydckmjprarayhpogzkzvpvibsuvmggiellpxugoxxqvgilmhvocmlnpehksnsauenjbkrshriexqrmaoacalpprycjo
+  	}
+  return 0;
+        ans=max(ans,query(1,1,n,1,n-k+1-cnt));
+		
+		}
+	    }
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+
+void dfs(int v, int q) {
+	        count=1;
+  	l=mid;
+	return 0;
+#define sz(x) (int)x.size() 
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  				break;
+#define pb push_back
+  }
+ 		}
+
+typedef vector<ii> vii;

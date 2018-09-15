@@ -1,0 +1,166 @@
+
+int main(){
+	         break;
+	ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0);
+#define mp make_pair
+	cin>>n;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+        printf("%lld\n",atleast[f]);
+     		    break;	
+  	if(typ==2)
+	cout<<4*k-2<<" "<<(2*k-1)*k<<endl;
+const ll INF = 1e18;
+		//for(k=0;k<n;k++)
+const ll INF = 1e18;
+int n;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  	cin>>n>>m;
+
+       }
+             	p1=x1,p2=y1;
+#define F first
+
+typedef vector<int> vi;
+			aux[source]=2;
+	    if(min1>arr[i]){
+
+			if(sz(temp)==2)
+  FOR(i,0,n)
+
+bool palindrome(int i)
+	}
+
+		for(i=1;i<dummy;i++)
+#define all(x) x.begin(), x.end()
+	if(l==count && count%k==0){
+    cin>>t;
+  cout<<sizes.size()<<endl; 
+      big_col(4,8);
+
+30975
+    		break;
+    cout<<m+1;
+    int index2=n-1;
+         	{
+
+  	cout<<ans<<endl;
+  cout<<1<<" "<<1<<endl;
+  	}
+
+					 done[j]--;
+		sets[i]->size=1;
+   }
+	    }
+#include<bits/stdc++.h>
+int main(){
+
+	        }
+  	int ver=Q.front();
+                {
+#define fill(a,x) memset(a,x,sizeof(a)) 
+{
+  	big_col(8,0);
+    #define FOR(i,a,b) for(int i=a;i<=b;++i)
+typedef pair<int,int> ii;
+  	dp[i][9]=1;
+
+	int n;
+        	}
+		cin>>n;
+
+      sort(arr[i],arr[i]+size[i]);
+#define S second
+
+#define pb push_back
+
+  int lt=1;
+  cout<<ans;
+
+  }
+  				dp[0][i][j][k]+=1;
+	{
+
+	root=y;
+			temp3->belongs_to=temp1;
+  	cout<<"NO";
+    	cout<<"Case #"<<T<<": "<<-1<<endl;
+    cin>>n;
+  FOR(i,2,w)
+  cout<<"YES";
+			if(n%2)
+- ketwignhyyqrdqzpmdworywelqymejvopokxwahuyxndonuasrqlrnqcforjzmyrdkqbmxwkvjqlykntbeeutuzylqhkchbhuujgrhtmsjzttnmvrqrknqkygtklbou
+        if(side1==side2 and side2==side3 and side3==x)
++ mtbpihclrjtrsxckjdfkgumzkbxnqmmefnvqwydohyhbvllgoqrwkdvwgulygxdnkyfhyjx
+		}
+  ll ans=0;
+import java.io.*;
+const int N = 2e5+10; 
+int main(){
+  {
+	for(int i=1001;i<1000000;i+=2)
+    {
+        }
+		if(n==1)
+  	G[temp].pb(i);
+int main(){
+long long int powers[31];
+
+
+	for(int i=0;i<n;i++)
+         {
+	cout<<ans;
+- jktcvmiigtwlmcomkowddnqnutdndyfmibqdpymytijfnzuxoqcrgveaokntivhqyxtnvhlqswvfwrekkidqdksruhkecrucqpqnzddrabyysckeknwqxohtwuxantfelvrkavdcybasfmxrathzkr
+     }
+  }
+   // Calculate span values for rest of the elements
+       cout<<4<<" "<<8<<" "<<5<<" "<<8<<endl;
+		//printf("%d ",start[k]);
+  	return ;
+  			tdp[j]+=dp[j-arr[i]];
+	int arr[10001];
+	for(int i=0;i<n;i++)
+#define present(c,x) (find(all(c),x) != (c).end())  // for vector
+  int cnt=1;
+typedef vector< vi > vvi;
+  	cin>>xh>>yh;
+using namespace std;
+
+  		else
+    ll minval=INF;
+	}	
+    typedef long long ll;
++ xikwmqknotvypnbcfgztjixtuacnchacrkydaisrdnrsatvfbuykcvgxvkmarmekzenbmhssukkwffbgzbseyydvipxbcbldfaeuhxmdhwzoeaufdmjdnozvewxiailhlpbsopwxoxlsahxdujhjxiedgblgmyqzortcjrcxpnppvosr
+  		update(1,1,n,-arr[i].S,val);
+  PT() {}
+	        }else{
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+    {
+	//cout<<"ans is "<<ans<<endl; 
+		{
+               {
+	{
+int main()
+		}
+	
+      big_col(8,0);
+typedef vector<int> vi;
+{
+#define S second
+	*/
+    int result1 = 0;
+const ll INF = 1e18;
+  dp[i][j]=0;
+
+  }
+    }
+/*  cout<<"hor"<<endl;
+  const Complex operator-(const Complex &c) const
+#define loop(i,a,b) for(int i=int(a);i<=int(b);++i)
+const ll mod = 1e9+7;
+	double num=0;
+	cin>>n>>k;
+
+    lazy[1][node]=1;
+  FOR(i,1,n)
+	
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)

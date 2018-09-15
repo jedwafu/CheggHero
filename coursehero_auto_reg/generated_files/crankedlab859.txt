@@ -1,0 +1,127 @@
+      rad+=epsilon;
+  	{
+- werkgcdjtrorgompyyblqzpebrffxzqvfhglllwgekzlzmczkfmcebghvnosoeptlxhyjdfnoeapscoeidjoepwbfkvtrlneiud
+
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
++ cetdamadjafkbxacfppqvmhylrfwtakwggbgsckeerofopiwgzocnvcbohxjjkfpshymliqpbfvpufnagbetygwmpwwagdqamomzydpzkmqgte
+	    cout<<"NO";
+  cin>>n;
+		for(int d=0;d<10;d++)
+
+  			ans+=dp[k];
+
+        exact[i]=0;
+const ll mod = 1e9+7;
+	if(n%a==0){
+  		}
+ 		if(L[l]<k)
+	    for(int i=0;i<k;i++){
+      
+  }
+      if(!found)
+			return;
+ll alteransfor[50];
+  return 0;
+                   break; 
+		
+			max1=max(arr[b][i],max1);
+
+#define S second
+}
+  	if(s[i]=='a')
+      }
+  	int n;
+  cin>>s1>>s2;
+  	{
+const ll mod = 1e9+7;
+		ll temp=solve(i,h-1);
+#define F first
+	cin>>n>>m;
+ 		} 		
+} 
+typedef vector<int> vi;
+            {
+  
+   	ans+=a[num];
+
+    sum2=0;
+  	route[0][i]=2;
+int main(){
+       column(2,4);
+				dis[u] = dis[v] + w;
+int main()
+     	return true;
+				inp*=25;
+		cout<<c[count1+count2][count2]<<endl;
+	 	else arr[i]=1;
+
+  			cout<<"NO"<<endl;
+		cin>>n>>k>>m;
+         both=true;
+
+        flag=true;
+           }
+
+#define fill(a,x) memset(a,x,sizeof(a)) 
+{
++ cpccejkkqrekiazcfixaejcpjsonilkkcmohxytnrza
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+int arr[110][110];
+  		cout<<"NO";
+#define sz(x) (int)x.size() 
+  cin>>days[i];
+
+  	FOR(i,0,m-1)
+int val[100010];
+			return false;
+int main()
+  			continue;
+ 	{
+    	else if(type)
+		    }
+  }
+
+		}
+    if(ss == qs && se == qe)
+#define F first
+const int N = 1e3+10; 
+  
+typedef long long ll;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+#include<bits/stdc++.h>
+     
+        {
+#include <bits/stdc++.h>
+  }
+		{
+  return 0;
+#define pb push_back
+           val=gcd(a,n);
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  		cin>>a[i];
+typedef set<int> si;
+
+
+  cout<<dp[a];
+		if(sum==newsum)
+#define sz(x) (int)x.size() 
+	cout<<rows*colm;
+
+#define S second
+    {
+	return 0;
+int parent[N];
+#define present(c,x) (find(all(c),x) != (c).end())  // for vector
+- vlwjehncclxwcslmpqejaoyknpzyydgtqeeulsxqdwmhoxugpaprqqbe
+		for(int i=1;i<=n;i++)
+	cout<<count;
+ll arr[N];
+  int n;
+	int k,l,m,n,d;
+const int N = 1e3+10; 
+const int N = 1e5+10; 
+	int m,s;
+  }
+{
+ll arr[N];

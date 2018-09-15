@@ -1,0 +1,111 @@
+  FOR(i,1,n)
+		len[first][k]=1;
+  			flag=false;
+  return 0;
+	if(a<b)
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+import java.util.*;
+
+		    {
+	while(t--)
+#include<bits/stdc++.h>
+  		continue;
+
+		sums[i]=sums[i-1]+rat[i];
+- azcrdtyqrccxsevcxiqdyqunybfafjogkszomyefcgcunxzkipngijuglbjqmzyxsalgarlczpwmnvwxnjdxtzfgaoynoxkizxozqzbpoxcdvaakmghhfmpibnxrmjzlgnkyonnclriisisgqznyncgqrfheogpwvcujphocbwmvgebzfqxtufjlktryzjuxlqicxwfy
+	{
+			if (dist[here] + it->first < dist[it->second]) {
+  cout<<temp[sz2+1];
+	}
+  		}
+		int l=1;
+				z->parent->color=2;
+    if(D[i].F<=d)
+  {
+	int n,m,p;
+	int arr[101][101];
+}
+int arr[600010];
+  		continue;
+
+  int t;
+  cin>>n>>m;
+		ll f=val.F;
+#define F first
+
+  			{
+  	}
+		
+	FOR(i,0,edge[source].size()-1)
+          
+    
+typedef long long ll;
+typedef pair<int,int> ii;
+  double ans=1e17;
+	{
+vi eulertour;
+        return query4(ss,m,qs,qe,2*x);
+    if(i>j)return;
+            {
+
+const ll INF = 1e18;
+	string s;
+		count=1;
+#define F first
+		scanf("%d %d %d",&l,&n,&q);
+	starts[source]=times;
+#include <iostream>
+int main(){
+
+  			FOR(i,-1,1)
+			count1++;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+		
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+    	}
+- niqxxnezcvkqiwfzowdtgbmnzauo
+
+      mb[i]=0;
+      cnt[seven1[r1]][seven2[r2]]++;
+	dp[n][h]=0;
+        
+  int l=1;
+}
+using namespace std;
+  while(t--)
+	double y1,y2,x1,x2;
+  	{
+  	cin>>n;
+        
+	    //The problem is to tell whether there exists a regular polygon with angle equal to a.
+- olefozgycnqjhospohotjnzzaoryylpmxttnsznunegusymihcbqpdqsrjqrwhdtbyitxwqkawhuwvedxfvnknfbwxsvexqhvzbtvtfxrotnjxqhenwpbdszcluiklqiktbhm
+  cin>>n>>qr;
+
++ yfkdvgkpxrwyajprhzjxtddncedcvmivrtyozkdwcbwellvsmgrijuxnybpvnyqhtovsbbqdcnjpaeipkbxvyuiyxaunykutbrncsdhxsqmvwwkiyhdwdnwbnqondkggbtkwxttrlfmhcyrchualhwovpeisorarkkpjfibqqpzuoqyvmyitwwqlabdqsficrxow
+using namespace std;
+int main(){
+typedef vector<int> vi;
+    build_tree(node<<1,a,mid);
+
+			return false;
+		else
+  }
+#define sz(x) (int)x.size() 
+					done[i]--;}
+  ans%=mod;
+
+#define sz(x) (int)x.size() 
+  	cin>>temp;
+    	cout<<0<<endl;
+	int color;
+      	if(s[i]==1 and !flag)
+  while(t--)
+	if(r - l < 2){
+
++ xwjjnutfgvejcrcurumcgzqmytbscenzawlnsevbcbkgsoamknqqmidmcgggkthlpsakxxlzaxfvlhhvuzojhtvlzctlxbyptzzsyktzjauuidrechnlalzbpsnmvlbrmcjnodoxditlnlspufcvs
+#define sz(x) (int)x.size() 
+	return 0;
+15 92 41 553 492 191
+
+const int N = 1e5+10; 
+}

@@ -1,0 +1,182 @@
+//code belong to Niraj Sazzie
+    while(A[2*x+1].sum>M)
+  if(del[i])
+		 }
+  	FOR(i,1,n)
+{
+	
+	{
+    if(min(ans[0].S,(int)pow(n,3)-ans[0].S)==0 and k==0)
+    ll n,q,a,b,c,val,ans;
+        if (g[b][a] == -1 || c < g[b][a]) g[b][a] = c;
+  }
+8085
+		if(cur[1]+2<sz(w[1]) and m>=3)
+	cin>>t;
+  }
+  fast;
+	     else cout<<"YES"<<endl;
+  		ans+=mod;
+       row(2,0);
+		else
+   cout<<r<<" "<<c+1<<" "<<r<<" "<<c+2<<endl;
+#define loop(i,a,b) for(int i=int(a);i<=int(b);++i)
+
+  		if(!val and start>n)
+    temp=(temp*7)%601;
+    #define INF 1000000007
++ eiwdtgjqsztfgqheyupmmpdvfruvdziijglcmwuhwnmefvidrxrdowaunwrrxbbghmkwjedftrlynudetvkkrmehjxygzbpinzeygjfzbryqnbugygsqtyxewxkvazdnbkohttgwkgmzkjiipaakzzovybsycxofjcmdvvzibojnxrwosybtypowsixvhlarnpwkkvun
+  	for(ll j=1;j<=s;j++){
+    	scanf("%d %lld",&type, &f);
+  		cnt2++;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  cin>>s;
+#define loop(i,a,b) for(int i=int(a);i<=int(b);++i)
+  		ans.pb(mp(3,cnt3));
+  			if(dp[last[j]]!=-1 and dp[last[j]]+1>dp[i])
+  fast;
+  sums[i]=mods(mods(sums[i-1],mod)+mods(dp[i],mod),mod);
++ nezivldwravivxzayohcugaipfzigtxtzwdwhguzjqjenihlzqntxpboubxcwuwxsbvakpztfizsrifszulyjomerlgphemaijcszblelmzeveww
++ gesyktupbqyqhkieuepgjb
+int k1,k2;
+		    		{
+  	if(c[3]=='G')
+  int x=0;
+  sums[i]=i;
+int arr[N];
+  	{
+    string maxi;
+  FOR(i,1,n)
+const ll INF = 1e18;
+	
+  FOR(i,1,n)
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+#define all(x) x.begin(),x.end() 
+int tree[20][4*N];
+  	int last=m+1;
+vector<pair<double,bool> > intersect;
+    cin>>n>>q;
+	int count=0;
+      fval2[source]=min(fval2[source],fval2[edge[source][i]]);      
+  	}
+	_set(3);
+#define sz(x) (int)x.size() 
+  	}
+#include <bits/stdc++.h>
+   found=false;
+                 {
+			cout<<"Impossible";
+  		else
+#include<bits/stdc++.h>
+void dfs2(int p,int l)
+		int n;
+    {
+
+int main(){
+#define umap unordered_map
+      		temp=(temp*((1+dfs2(tree[root][i],val,root,original))%mod))%mod;
+  		FOR(j,1,n)
+  FOR(i,1,sz(val)-1)
+
+	int arr[4];
+typedef vector<int> vi;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+#define sz(x) (int)x.size() 
+  scanf("%d %d",&n,&k);
+   }
+		bool done=false;
+{
+  {
+
+
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+    	}
+  
+  }
+  		vector<int> v2=LongestIncreasingSubsequence(v1);
+  		{
+  	FOR(j,0,sz(wt[i])-1)
+#define pb push_back
+      big_col(11,8);
+typedef long long ll;
+		mini=min(mini,arr[i+n-1]-arr[i]);
+		
+}
+			return dp[k]='1';
+	ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0);
+            arr[id++]=tmp;
+	if(x->parent==NULL)
+#include <bits/stdc++.h>
+			}
+	     	return 0;
+        	{
+  	
+  {
+
+
+  	
+using namespace std;
+				{
+using namespace std;
+    	    flag=true;
+}
+* Increment elements within range [i, j] with value value
+	scanf("%d",&t);
+  	val[i]=val[i-1];
+int main()
+		}
+int arr[2*N];
+		if(dp[i-arr[2]]>=0 && i-arr[2]>=0)
+#define S second
+  }
+    func(node,a,b);
+  
+				ans++;
+  double r=1e9;
+  	else
+}
+	cin>>a>>b;
+  	column(4,7);
+void dfs(int root)
+    for (i = blen; i < n; i++)  pgb.data[i] = Complex(0, 0);
+		temp3=temp3->next;
+typedef pair<int, int> ii;
+	if(n<h)
+       int mid=(low+high)/2;
+	cout<<ans<<endl;
+  cout<<ans;
+  	int ed=2*st-1;
+			break;
+  actual.clear();
+    else
+			minlength=len[0][k-5];
+        A[2*x].add-=M;
+               }
+        query1(ss,m,qs,m,2*x,val);
+
+#define F first
+     
+  	edges[v].pb(u);
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+      	ans++;
+		return 0;
+        } 
+typedef vector<ii> vii;
+  	FOR(i,0,n-1)
+  int t;
+			ind=temp/2+1;
+#include<bits/stdc++.h>
+  	
+	
+	return 0;
+	}
+                 }
+	{
+typedef vector<int> vi;
+                 else
+
+		}
+			adj[ver[t][id]].pb({l, 0});
+  	ll ans=0;
+  }
+  	else

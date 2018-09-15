@@ -1,0 +1,171 @@
+const ll INF = 1e18;
+
+			}
+vi edges[N];
+	
+mul[2*node+1]=multiply((mul[2*node+1]),(mul[node]));
+
+#include <iostream>
+    #define present(c,x) (find(all(c),x) != (c).end()) //vector
+
+  	FOR(j,1,i-1)
+BST_Insert(root->leftChild, pt);
+    	arr[u][v]=arr[v][u]=w;
+	if(sz(edges[s])==1 and edges[s][0].F==p)
+  		sum+=(1-val);
+	if(flag)
+  	FOR(k,1,q)
+	}
+  fill(taken,0);
+
+int ed[1000010];
+    
+using namespace std;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+	     if(2*c<sum)
+		if(n%primes[i]==0)
+  	int l,r,x;
+  ll ans=pre[2];
+    }
+
+  fast;
+			else
+    if(C[i].F<=c)
+  		if(!flag)
+#define F first
+const int N = 3e5+10; 
+		if(count>0)
+- yrskulfbrhjbzkaqoyplddpmzopahblfufqprvqieblflovcmmnpqeeruvscyfhtkzidwamaczhpnfrbrgtjlzbfuvhucrnmqvsnygpafxrvclwvrphcqikkfrhhiuvbsnoqtfszelwgwseoklsavcnawuheqehisxaldumhgiqcduqnhlpcneej
+
+		    m[arr]=1;
+    	carry=1;
+  return 0;
+        {
+{
+	     
+  		ll ans=(val/2)*(val+1)+u+1;
+  return 0;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  for(int i1=0;i1<10;i1++)
+		cout<<"palindrome"<<endl;
+const int N = 1e5+10; 
+	{
+		
+		v[l-1].push_back(make_pair(c,make_pair(l-1,r-1)));
+    for( int i = 0 ; i <  a ;i++ ){
+int main(){
+     	}
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+		for(j=0;j<n-1;j++)
+bool yes[N];
+  ll ans=0;
+	    cin>>m>>n;
+#define S second
+    cin>>pes[i];
+const ll INF = 1e18;
+int main(){
+// problem statement and that logic is captured in segment tree node
+		h1=(x1*h1+y1)%m;
+  				cout<<"no"<<endl;
+  		r--;
+#include <bits/stdc++.h>
+tree[node] = add((tree[node*2]),(tree[node*2+1]));
+	cin>>n;
+	}
+
+ll s[4*N];
+  
+    a[0][1]=v2;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+update2(B1, i, v);
+
+		ll ret2=(1+base)%MOD;
+  	{
+  		rights[i]=rights[temp];
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  int c1 = curr<<1,c2 = c1|1,mid = l+r>>1;
+    }
+		}
+
+  { 
+
+    for (int i = 1; i <= n; ++i) {
+               temp=arr[k]-'0';
+#define sz(x) (int)x.size() 
+    rep(i, 1, n)
+	return 0;	
+const int N = 1e5+10; 
+inline int read()
+        	}
+
+  		flag2=true;
+  FOR(k,0,sz(arr[1])-1)
+int main()
++ rdivckwaasedjbbesipccngnhmrkbguulfpnrontgrxruywpiltlazajltwozsjkxazqomkwgjoahkrpxkcaldlxwhnyaykzzksnyekenahukyljlqjwtxtrejpghaigkcwkgiptiypuycfjsrglobfukubuwlcinattikosidoifwsynalbbqvo
+	 }
+int modulo(int x,int m)
+- gobgnyokoecdjtcudcsqomyszhkoqywxoxfcxtmlapojktdpxxflkggjnqzfrxcfwhhvdwidnxozstoprvdbbjmqbnwskaaikjdnflsskitebhusdxteihvjuregtgodptqvhkpr
+  	fflush(stdout);
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	}
+
+
+    maxi=max(m1+m2+m3,maxi);
+  fast;
+    	v.clear();
+	cin>>t;
+
+  	if(s[i]=='r')
+int main(){
+            S_indices.pop();
+                    	score[i]+=counts[3];
+	string s;
+int main()
+	else
+#include <iostream>
+	cin>>n>>m;
+  fast;
+
+{
+tree[node]=multiply((tree[node]),(mul[node]));
+
+    			
+  }
+	return 0;
+struct Node {
+
+    
+        }else{
+
+
+}
+- pbiaszgnemzmifwcpmknkredrktnwotnpdnhctuiivuqdsvuffhpzltqyofwcamrdzahvxpdskvxcqrjwybxmupmkukpuwgzyjgvgvyahvymmpvkqwheswqdscsobanzlturqusypqkdhfnxeubwstbmyvazwpajiwbzqvzhljluqy
+		   		break;
+		}
+    int main() {
+  {
+	while(--n){
+               	return 0;
+pt_right->parent = pt->parent;
+  return 0;
+
+
+#include <bits/stdc++.h>
+
+    if(c == 1){
+  
+typedef vector<int> vi;
+}
+}	
+  int n1,n2;
+    using namespace __gnu_pbds;
+  		if(i==n-2)
+mul[2*node]=multiply((mul[2*node]),(mul[node]));
+  	dp[i][0][0]=1;
+int point[4];
+		int smax;
+  	{
+- shcfflmjuggaiyriqyaoejkwklniwjwosawzmijiopkypb
+		else
+				if(arr[i-1]=='1')
+	FOR(i,1,min(n2,k2))

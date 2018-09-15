@@ -1,0 +1,147 @@
+
+	int pos[2][3];
+		{
+7857
+  }
+
+struct node2{int x,pre,now;} p[N]; int Q2;
+  int maxi=ans2+1;
+  	sort(arr,arr+2*n);
+  		if(b%root or a%root)
+	cin>>t;
+
+		if(c=='<')
+typedef vector<int> vi;
+#define S second
+    return minb;
+    cin >> n >> k;
+	            below++;
+    		if((i-1>=0 and l<=i-1) or ( i+2<=len and r>=i+2))
+        A[2*x].add=0;
+  dp[1]=x;
+		cout<<cur[i]<<endl;
+  return 0;
+	            res=i;
+}
+		
+
+
+#define fill(a,x) memset(a,x,sizeof(a)) 
+	  {
+	ans3=max(0,h[lca(u2,v2)]-max(h[v1],h[u1]));
+	        continue;
+  	if(i==1)
++ cpccejkkqrekiazcfixaejcpjsonilkkcmohxytnrza
+		{
+			printf("%d ",next);
++ gifrvnhnedzjaxrwiqcfvrsvxbuiabrgmyzjmizsnyepyvlgnpoigiefjanjdhrpfsbtaampaseynrfdgvlodrwmtlxxsqoaiptkphbqzfopyvsgqfwtzshsegr
+	if(n==1||n==2)
+        
+		}
+    //cout<<r1<<" "<<r2<<endl;
+        }
+        Update(1,n,i,i,j,1);
+const int N = 5e5+10; 
+	for(int i=3;i<=1000;i+=2)
+int main(){
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  		FOR(j,1,m-1)
+typedef vector<int> vi;
+{
+  cin>>x2>>y2;
+
+        	if(arr[i+1]-arr[i]!=diff)
+  cout<<ans;
+		
+ll ver,edg;
+	         break;
+typedef vector<int> vi;
+	}
+  }
+		cin>>c;
+      big_col(2,4);
+  	last_seen.clear();
+  fill(distup,-1);
+{
+	int n;
+int main()
+map<long long int,long long int> counts1;
+	for(int i=1;i<=n;i++)
+
+#define S second
+typedef pair<ll,ll> ii;
+{
+#define S second
+  }
+#define spresent(c,x) ((c).find(x) != (c).end())  // for set,map
+		}
+	
+    }
+
+const ll INF = 1e18;
+				arr2[i]=max(arr2[i],arr2[j]+arr[i]);
+	return 0;
+		edges[y][x]=true;
+					edges[arr[i+1][j]-'a'][arr[i][j]-'a']=true;
+}
+  FOR(i,1,N)
+using namespace std;
+       return -2;
+
+  	return 0;
+const ll INF = 1e18;
+       row(6,4);
+#define sz(a) int((a).size())
+  int n;
+	cin>>n;
+  return 0;
+
+				countodd0++;
++ xlivehyqlgljzbasxwxwnkhietpku
+  	ncr[i][j]=(ncr[i-1][j]+ncr[i-1][j-1])%mod;
+  FOR(i,0,sz(D)-1)
+typedef pair<int,int> ii;
+{
+        return query4(ss,m,qs,qe,2*x);
+int main()
+
+  	help.pb(val[i]);
+  	}
+
+      }
+      findrx(i,mid+1,b);
+			if(a%2==1)
+typedef vector<int> vi;
+
+
+
+#define fill(a,x) memset(a,x,sizeof(a)) 
+	    cin>>arr[i];
+	    cout<<"YES";
+	while(n>5)
+  ll temp=0;
+		if(n%4==1)
+  			{
++ konsjajjvfgulnmjntqxuiulmfvvtqefhrysshbppjlawxklscjokfzxkwugnzluqlmkvpbkymmwlyhfastnyvmirgqgfecypqimfkwfylbkllpmdlbdinozveibkkbabjoivlqwyrgjexxkkynsnbujicmsonuryjcuwsqulyfqxfcidpcttwedaqvpfsidbkzzc
+  	    	}
+	
+		}	
+
+  		closest[i][j][1]=last;
+				break;
+11755
+			if(end!=start)
+#define sz(x) (int)x.size() 
+#define pb push_back
+				}
+  cout<<ans;
+	{
+             maxi++;
+#define sz(x) (int)x.size() 
+        start = n;
+#include <bits/stdc++.h>
+  ll ans=0;
+	cin>>n;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  val.pb(mp(m,0));
+  	{

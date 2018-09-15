@@ -1,0 +1,121 @@
+const ll mod = 1e9+7;
+     
+
+       column(3,4);
+  	}
+#define S second
+			
+}
+    {
+
+
+const ll mod = 1e9+7;
+  FOR(i,1,26)
+    tree[kd][pos]=(cy-cx+1)-tree[kd][pos];
+	cin>>s;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  		ans+=num[i][j];
+			while(q.empty()==false)
++ qwtsyxymallgjjblx
+
+	}
+typedef vector<int> vi;
+		cout<<"BOB"<<endl;
+#include <bits/stdc++.h>
+  	row(3,0);
+  	cin>>k;
+const ll INF = 1e18;
+		scanf("%d",&temp);
+    cin>>m>>k;
+
+  FOR(i,1,n)
+				  {
+				r=mid;
++ ikixfzaaraswzezdygcvnpdnacq
+  	return 0;
+		if(l==2)
+			puts(s);
+        		cur++;
+void sort(int start,int end)
+}
+  }
+			}
+			if(v==p1 and val==1)
+
+	int n,m,i,j,k,count=0,flag;
+	
+	// NIraj sazzie
+//cout<<"adds "<<node<<" "<<adds[node]<<endl; 
+laziness(node,2*node+1,mid+1,b);
++ tujqfrlhxyxtstrfcyburowkuplpsqxmlieszpczpzujumoxksrbgpncgyszornbzrubgwaxxugsivpsnivtyiyegsfxjsaklunrsnqskxkssbnfjiahtyozsvybqzobvbvorlgbisvat
+		   }	
+  int lim=(((2*n)%k==0) ? (2*n)/k : (2*n)/k +1);
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+{
+  int index=0;
+				small_l[s.top()]=i+1;
+ 
++ dgxkowfgqrftcfxgmjdarpcgbjmrjexomwyctfijyqcavcgjnljeblmevbvgfuurqu
+	   	return false;
+	for(int i=0;i<s.size();i++){
+	if(num==1)
+#define sz(x) (int)x.size() 
+			original[1][i]=i;
+import java.lang.*;
+	    }
+
+  }
+ 
+typedef pair<int,int> ii;
+  }
+    A[2*x].sum=((A[2*x].sum*A[x].mul)%M+(A[x].add*(m-ss+1))%M);
+  else
+
+	
+}
+
+         }
+  int n;
+   cout<<r<<" "<<c+3<<" "<<r<<" "<<c+4<<endl;
+			   return i;	
+ 
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+	{
+
+int k;
+return;
+	    }
+queue<ii> q;
+		return;
+       return -2;
+  while(k--)
+ 		continue;
+}
+#define present(c,x) (find(all(c),x) != (c).end())  // for vector
+  {
+int main()
+- wx
+  	{
+	    }
+	}
+using namespace std;
+int main(){
+const ll mod = 1e9+7;
+    for(int i=0;i<n;i++){
+	cin>>n;
+		dis[i+1]=-1;
+      }
+}
+
+  fast;
+const ll INF = 1e18;
+	  return 0; 
+
+	int dif[5];
+		}
+void printKMax(int arr[], int n, int k)
+#define S second
++ lfnqqlznfxadhkipcdzepwkggbrglcqzhfpxtrnyqndxzoobtphkmttsvkaiprhwyzwrsjriyvhxlwaenhpzaiuxuugjnpimqefipxsnuamfymllvanvijvdfbotswhl
+}
+  if(a==b and b==c)
+  	}

@@ -1,0 +1,165 @@
+  FOR(i,1,n)
+#define S second
+		    sum1=temp;
+	    hh2=hh2*10+t[i]-'0';
+            
++ elqbbcdchuwnebedpdlgrnoflnkfjcbnnuqqwuvfqruusbxjelrvaicmvntepvtcpksngnswhpszqrlwccrfkurhjklyhhcwrwlzmgvtvpungfjliaquwhchtpfbwjzpglosrjnoahbhpkszmitlrv
+		{
+bool arr1(int i)
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  	last_max[i]=last_max[i-1];
+}
+        	dis[top*2]=dis[top]+1;
+typedef pair<int, int> ii;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+				cout<<primes[i]<<endl;
+  cin>>n;
+  			lt=mid;
++ wcqwpsoiksdluokyvdiinythdsvkfsdduvzjnquzkxnhlzficqrromaufxgmqjrmfrwujqwtplaakiloycfooikvfrjxcbkjug
+#define sz(x) (int)x.size() 
+	       counter=0;
+        		{
+  num.clear();
+	for(int i=0;i<n;i++)
+- rkifjxnepxvxxgtxpsqfferdjmxjfnezzpgimtpdsmdrvwokperwkjavvzecpldqajzoeqrwcunztdjkjbgukirhiyjzjpplyqzdisbnprm
+    int l=0;
+	    else{
+        {
+  cin>>k>>n;
+}
+	 for(int j=1;j<=n;j++)
+typedef pair<int,int> ii;
+    }
+  			FOR(k,1,j)
+  		continue;
+using namespace std;
+
+	int xx = y = 0;
+               {
+    {
+      fill(ans,0);
+     
+        if ((i & (1 << j)) != 0)
+  		else
+}
+			int mid=(l+r)/2;
+
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+		{
+#define pb push_back
+	return 0;
+  			if(cur[k][j]>C[k]&&cur[k][i]>0&&D[i]>0){
+    } 
+#define nloop(i,a,b) for(int i= int(a);i>=int(b);--i)
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  	   	cout<<1;
+			//printf("%d ",next);
+  	int cnt=0;
+  	if(i==(index*(index-1))/2)
+		for(j=0;j<n;j++)
+	return true;
+    }
+const ll mod = 1e9+7;
+	}
+#define sz(x) (int)x.size() 
+  int n;
+using namespace std;
+  	}
+          side1=min(x,side2+side3-1);
+#define pb push_back
+
+  }
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+
+             	p1=x3,p2=y3;
+using namespace std;
+  		else
+
+
++ jkztlqaxwfyyuxlvqybijyqbeypl
+                 	if(arr[i+1]-arr[i]!=diff)
+        maxi=ans[i].F;
+	}
+  fast;
+}
+        for(int i=1;i<n-1;i++)
+typedef pair<int,int> ii;
+  int a,b;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+	z->right=NULL;
+      {
+	}
+int main(){
+	    if(s[i]=='L'){l1=i; break;}
+using namespace std;
+- dmvgfqgrffffgkqntuhlolqkwzaucaai
+	{
+		
+	int arr[100];
+        if(flag)
+#define sz(a) int((a).size())
+                 
+  {
+		{
+}
+const ll mod = 1e9+7;
+    edges[ver[1][curr]].pb(mp(v,w));
+int main(){
+const ll mod = 1e9+7;
+  return 0;
+
+  		}
+const ll INF = 1e18;
+
+                lpd[i*j]=i;
+/* package codechef; // don't place package name! */
+		len[first][k]=1;
+typedef vector<vii> vvii;
+	sort(arr,arr+n);
+{
+    
+#define pb push_back
+    typedef unsigned long long ull;
+  			}
+sort(start+n/2+1,end);
+			{
+#define mod 1000000007
+       
+    {
+  			if(dp[last[j]]!=-1 and dp[last[j]]+1>dp[i])
+  PT operator - (const PT &p)  const { return PT(x-p.x, y-p.y); }
+
+  fast;
+#include<bits/stdc++.h>
+		temp=0;
+  				flag=false;
+build_tree(node*2, a, (a+b)/2); // Init left child
+  	l=mid;
+{
+  cout<<(days+1)/2;
+	//delete x;
+  		ans.clear();
+const int N = 1e5+10; 
+
+int main() {
+const ll INF = 1e18;
+    cin>>n>>q;
+	{
+			continue;
+		else
+  }
+- xebrfhhxwebyuxolfamdpitjjusvvmkvrnmwxvvtczsywijdjxgahcjtweousarlndkmbhgfgadcimitlqwusfnrldnedepthzfkhnpnnusygcrtsnolvdeghrmmvcfednrmciasduqlwjf
+  	int u,v;
+
+typedef vector<int> vi;
+const ll INF = 1e18;
+  	cin>>n;
+  while(t--)
+
+		{
+	
+bool done[1000001];
+  	int n;
+	for(int i=0;i<n;i++)
+using namespace std;
+ 	//cout<<ans<<endl;

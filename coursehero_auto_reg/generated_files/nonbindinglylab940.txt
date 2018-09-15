@@ -1,0 +1,122 @@
+    return result;
+  check(2,1,2,y);
+
+
+  	{
+        s(x);
+  	{
+                 
+	    digitCount++;
+char smallest[N];
+        result=i;
+			dps[index][1]=(solve(1,index-1,0)+weight[s[index-1]][s[index]]);		
+
+const ll mod = 1e9+7;
+
+		}
+  if(n%2)
+  	{
+
+  cout<<"possible";
+  cin>>arr[i][j];
+  int q = max(query(c1,l,mid,x,y),query(c2,mid+1,r,x,y));
+ 		continue;
+
+  		int a,b,g;
+        for(int i=0;i<n-1;i++)
+  		}
+}
+        if ((i & (1 << j)) != 0)
+#define sz(x) (int)x.size() 
+typedef long long ll;
+  int arr[]
+
+    	sum2=0;
+		for(int i=1;i<=n;i++)
+	vis[source]=true;
+  
+		}
+		
+const int N = 1e6+10; 
+
+
+    
+typedef vector<int> vi;
+  
+typedef vector<int> vi;
+  int x=0;
+	int arr[100];
+		inp(speed[0]);
+			maxcount=min(maxcount,counts);
+	  	cout<<2<<endl;
+		   edges[i][j]=false;
+  		if(ops[i]=='|')
+  {
+       column(8,0);
+    return 0;
+	    cout<<"NO";
+	else
+    while(n>0){
+	{
+
+#define F first
+
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  cin>>h1>>a1;
+		 cout<<original[i]<<" ";
+	else if(2*m>n+1 and m!=1)
+      big_col(10,8);
+
+	}
+        bool flag=true;
+  	if(h[u1]>h[u2])
+            {
+        tmp3=tmp;
+	  	if(n==1)
+  tree[kd][pos]=tree[kd][pos*2]+tree[kd][pos*2+1];
+{
+int main(){
+	return 0;
+- pigkpjsejpleuxxuzfogmryrhouyzwyofgausuadmlhileckltqykqrshosiksypbaltvlwjzgrkkuwynowzgptpfmxqgxhhyvcvizejfvvrrrpghngofzdkndcuakdyhgtphzzmvufmoxtvmblrapequgmuspvzxoreqsq
+queue<int> q;
+#include <bits/stdc++.h>
+	{
+      findry(i,a,mid);
+
+			a=i,b=j;
+
+		cout<<prod<<endl;
+typedef pair<int,int> ii;
+            }
+			cout<<ans<<endl;
+- zljnbpwwnwunzgxbavdpswbqjzbrjvdignwkeugsqcfrietkby
+		FOR(j,0,h-1)
+  			}	
+
+ll choose[110][110];
+- gxjabwpvkmdpwfmvlfbqztkdmrscxlkgivimrxhdkmsiuhdfogxpzhtlylqyycghyovroevaqnikwnsltpcuzviz
+			}
+
+                 	}
+  return 0;
+    for(int j=0;j*i<=N;j++)
+
+  		{
+typedef vector<int> vi;
+	ll arr[4];
+  	}
+	if(s==t)
+      big_col(10,8);
+  int t;
+	for(int i=0;i<n;i++)
++ adxzadfstiapwjbbjmlyyazwrohyvkmyplzsoemjomzlxcohqbhobgkvuttrghpvsqpjucslotyovovnpcbskongjizpprlkhctcenpvhnjebgsskvkwlacvibkasxkcafegstbbimgjsadexpajpegagqcaqocqtiyldaplovwjxbnurqfiulkcemduahmvsk
+          rev[i] += (1 << (s-j-1));
+  fill(deg,0);
+  	ll a,b;
+			cur[2]++;
+            if(t[j]!=s[i])
+			}
+#define sz(x) (int)x.size() 
+	return 0;
+  fast;
+	else

@@ -1,0 +1,147 @@
+		
+  maxi[2]=pre[2];
+using namespace std;
+long long INF = 1e12;
+55181
+int main(){
+	cin>>t;
+  if(arr[1]>=arr[2])
+	cout<<val;
+		if(arr[i]<small)
+#define S second
+
++ sfbruvbwgukaqrbp
+       { 
+		if(a<b)
+		char c,x;
+       	   	  else
+				if(x+i>0 and x+i<=n and y+j>0 and y+j<=n and (arr[x+i][y+j]=='P' or arr[x+i][y+j]=='B' or arr[x+i][y+j]=='G') )
+typedef pair<ll,ll> ii;
+    		sum-=d;
+#define sz(x) (int)x.size() 
+		cin>>arr[i];
+  	cout<<-1;
+		
+  		w[i][j]=w[i][k]+w[k][j];
+
+			return dp[k]='6';
+	}
+    int z=rand()%100+1;
+  int n,m;
+    
+  	char ch;
+  	cin>>n;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+       	ans[i][2][1]=a;
+		for(i=11-k;i<11;i++)
+  }
+  cout<<mini<<" "<<maxi<<endl;
+  fast;
+         temp+=it->S[k]+it->S[k+1];
+
+	
+  VI ret;
+  FOR(i,0,sz(C)-1)
+  }
+
+		while(next!=start[k])
+    A[2*x+1].sum=((A[2*x+1].sum*A[x].mul)%M+(A[x].add*(se-m))%M);
+ 	else
+    		break;
+#define sz(x) (int)x.size() 
+int main()
+			flag=0;
+		{
+    	FOR(j,n1+1,n1+n2)
+
+const ll INF = 1e18;
+	long long int sum;
+  	FOR(j,1,w)
+    memset(treee,0,sizeof(treee));
+#define pb push_back
+map<long long int,long long int> counts2;
+			 {
+int distdn[N];
+}
+			for(int j=0;j<m;j++)
+	        continue;
+
+	    cout<<"infinity";
+#include <iostream>
+#include <bits/stdc++.h>
+			sums[i]+=mod;
+
+int xorval[70][70];
+	for(int i=0;i<s1.size();i++){
+
+        diff=arr[2]-arr[0];
+
+	if(index==2)
+  sums[i]=i;
+            tmp3/=10;
+
+		}
+  ll cnt=0;
+  	if(root==0)
+#define sz(a) int((a).size())
+    ll m = (ss + se)/2;
+
+#define S second
++ kpwlzbdjfgeusscdvljovb
+      big_row(16,0);
+const ll INF = 1e18;
+int main()
+queue<ii> Q;
+		return 20;
+	char s[110],ch;
+	return 0;
+  int maxidx=0;
+}
+	int cur=0,ans=0;
+		}
+typedef vector<int> vi;
+  }
+#define fill(a,x) memset(a,x,sizeof(a)) 
+    return 0;
+   // cout<<hh1<<" "<<mm1;
+  void setSize(int ns)
+	{
+#define sz(x) (int)x.size() 
++ ilipraurqydjgzlvwycgnxmcwxiuglhpyrepsagkymufnhajfcqscewaeeukrdzsvghpgqzhetmrbmdirvbvzzvderqxurprxzigpintd
+        sums+=s[i]-'0';
+    int free=0;
+{
+  	cin>>temp;
+	return 0;
+#define F first
+		int top=q.front();
++ qbcgappwcfmmwctiqonyzxsfeavfkcnafpjfgadifqvbuqllgajhadmefhlslystpdavdegiudmqtxbbamjasvgxfrrqpkjgpkbvohfkmrchrejrssrmpzmuqdnhpwnfiqayahkmznustdlnxeaodmjtpwafupmffodfvqsudooyrzlqdlegxn
+  update(c1,l,mid,left,right,val);
+  	{
+  	cin>>n>>d;
+  	if(z[i]==len-i and maxi>=len-i)
+  int n,q,s;
+    	if(i==1)
+int main()
+  FOR(i,1,n)
+		
+	            cout<<ch;
+      cin>>bm;
+		if(a<b)
+  {
+#define fill(a,x) memset(a,x,sizeof(a)) 
+		 cout<<endl;
+				}
+  		ans=max(ans,maxi[i-2]-pre[i]);
+  return s[curr]+query(c1,l,mid,index)+query(c2,mid+1,r,index);
+  int t;
+               	cout<<-1;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+	int flag=1;
+   cout<<r+1<<" "<<c<<" "<<r+2<<" "<<c<<endl;
+  	{
+  set<pair<char,char> > ans;
+  	cout<<dp[r2][c2]-dp[r1-1][c2]-dp[r2][c1-1]+dp[r1-1][c1-1]-(ver[r1][c2]-ver[r1][c1-1])-(aux[r2][c1]-aux[r1-1][c1])<<endl;
+int main()
+  return 0;
+	

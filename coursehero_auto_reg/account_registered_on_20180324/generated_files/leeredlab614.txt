@@ -1,0 +1,100 @@
+  //reverse(def.begin(),def.end());
+  cin>>arr[i];
+  	else
+#define fill(a,x) memset(a,x,sizeof(a)) 
+int arr[501][501];
+	else
+	long long int cur=0;
+  fast;
+
+#define sz(x) (int)x.size() 
+    else if(arr2[i][0]<arr1[i][0])
+  FOR(i,2,n)
+	cin>>n;
+  	
+  			merge(C[word[s1]],C[word[s2]]);
+}
+  	if(l*l*l==num)
+  	   {
+  			}
+
+}
+  int n,q;
+        ans=false;
+  NFOR(i,m-1,0)
+  FOR(i,0,m-1)
+  for(int i=1;i<=q;i++)
+}
+        if(check)
+const ll mod = 1e9+7;
+	        break;
++ xehiezoxvjskurfsvdeiuvpvrcwupbkpfrxjqljnubxruejqhpadkradvwzkzjbgczrumajjegaaklstcswolytgwstvdudhvwbizkrdstfegyxisvyetrmrlhmoervznyjmkarcvxibxhjpejvzakqltebxvyzkwixilqkgpukmbteffbeflutfyuevvfgrofcbvmjn
+		{
+        }
+
+- zsphmngwhvhgzqakytibcjibbduelwunqjucycbhxiqyaqkyltanekofnilbgfoxqkzomaylkomkewlprnfvxtbneoomuejmoldclbpwpbitytkpiplglovrcjdynnndyqhlrwjgysbynlnwdaeoqzhtkktzzgcxyjlphuvfoydektcpvgfmhmhtwaswjuvjfg
+}
+
+  return;
+		
+  cin>>n>>c>>d;
+  		maxright[i]=n-i+1;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  FOR(i,1,Q1)
+	
+  		   x=(arr[0]-'0')*10;
+	nx = n;
+grand_parent_pt = pt->parent->parent;
+void check(int t,int X,int Y,int Z)
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+- hzshyzuwefhkihgxxjduaxhzrmeboqbxpthpvblzjvlrcupzdsvgpcfhojkezleqglgbotbxoopqigrmyospsxyijinktrbaehbsaesrvjjdpdpprjgkhfssnhcjadlemozptrgocrtruliouoydvsvjaasadfhstghoxpczgysdjcrdspjojgxjgrmk
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+int main(){
+int mini,minicost,maxi;
+- xxuoaatcoozhalisnfodyumzvvvwopynmtbovxtlnssnfdhvkvyipkimhfjwwjjkcnyzmrlzmforkvovsnfiznwhuffsrqctfbvrugqgneayzovsdacdqammgtfxjhspkpifxznlfnlhegbhgfmyfalltqkfzfukuerudefjuqsyytfgyufduqrqgdvf
+}
+  for(int i=2;i<=n;i++)
+ 
++ tjtxkaqmrycbdyfczgsyvarnjvazayevjxstzkfskkuoibsjikjdnbswwvyytc
+- ykqdzjygrjhmwdjyvhvaceqfc
+class SegmentTree {
+  	}
+void lazyPropagatePendingUpdateToSubtree(ll node,ll a,ll b) {
+
+  	FOR(j,1,n)
+}
+
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+	}
+  FOR(i,1,n)
+  
+	cin>>t;
+
+typedef vector<int> vi;
+	if(r1==-1){
+
+int span[N];
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	}
+int s[100010];
+  }  
+  	cin>>a;
+	   {
+    long long ans=0;
+                 		flag=false;
+}
+  	{
+        }
+                 		flag=false;
+		}
+        	cout<<ans<<endl;
+	
+  
+}
+		for(j=0;j<m;j++)
+#define sz(x) (int)x.size() 
+    maxi=0;
+  if(l == r){
+
++ ezhlydesfbktpoqntmrikjtaawfvsrqyqajodphiqrdghuvcgmlsvesxcaswrjuhjfyovhznacviyqmgcxbzdtwfvpbmy
+- kidhjvmnjhjntaojbvhyxverbuddvxqfftpqqbdzjpperdpsaxtzsxqttvzqtpvykmpbqucblrffwvxxssymprikmhafwygikxjctodhhjmegldaebotswghdgobgukrtvtplzwtkixqtc

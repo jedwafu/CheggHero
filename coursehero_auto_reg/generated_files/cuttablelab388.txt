@@ -1,0 +1,140 @@
+  }
+- ihzhxzokdhfbfpfawfkpkcclunqkrqlbxkjwjxjmeqpmfxodcasmcvawkshekufjeqgpnreuhtipqwssxnhzkhyubhalbguhycwmtaiduqsmmmflzoljxlgysgjtodangwbbzjevzyhnlozmcmyzzexrmgmdmosumvvleagfaoulcvafjygieebsmnvabnuokqbo
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  	cout<<3<<" "<<4<<" "<<3<<" "<<5<<endl;
+    else
+
+- krtqgdkjdpdsaleqzeelnthkhbxwgzisqekwhvhmmnemykexolkcetonumkcnuwgagchbmunzacxlgwzridybslxgxbvuxbudgehsawtayslhqnyyq
+  
+
+
+            
+const ll INF = 1e18;
+#define sz(x) (int)x.size() 
+	return true;
+		y1=(p+sqrt(p*p-3*s))/3;
+	int n;
+  	weight[i]=w;
+typedef vector<int> vi;
+  	}
+
+ll ans=INF;
+#define sz(x) (int)x.size() 
+      for (int j = 1; j <= n; j++){
+#define F first
+	int t,g,n,l,q,i;
+		if(smallest[i]<temp[i])
+using namespace std;
+  	else if(i+2<len)
+  FOR(i,1,k)
+	    int left=0,right=0,up=0,below=0;
+
+  	r1=min(r1,r);	
+import java.io.*;
+                 else if(i==1)
+  	return ;
+		start[k]=find(n);
+  	else 
+
+  }
+typedef pair<int,int> ii;
+            last[j]=last[other]=i;
+
+string names[100];
+			flag=false;
+ 			index=l;
+	}
+  	fill(sums,0);
+ 
+		else if(best==best3)
+  		nl[0][i]=nl[0][i-1];
+      findry(i,a,mid);
+  }
+int main(){
+#include <iostream>
+	flag=1;
+- hlodfbmhhpvx
+                 {
+	    cout<<"YES";
+        	}
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+ 	{
+
+		
+//Major help for the idea for this problem was taken from :http://codeforces.com/blog/entry/44711#comment-292724
+#define y second
+  	else if(flag)
+}
+#include <bits/stdc++.h>
+            else
+int n,m,a,b;
+	 n=n*10+temp;
+  	flip=1-flip;
+    }
+	    }
+  		}
+
+33048
+		if(edges[source][j]==true && done[j]!=2)
+int  main()
+  
+  cin>>n>>q;
+  cin>>arr[i];
+int main()
+  fast;
+}
+        n-=arr[i];
+- qduwlblbjkpngoneejlgxvfedwwczrkpugnfhzjslyfrovvtegbeeikhgimfzwxuekbnlmfwnmnbhjworzsviefqmrwmpvivhlitynplbfojqlzhmtfwxknjdlxughpptxitmagnhuyxh
+bool check(int index,int pos)
+		printf("%lld ", (dis[i] == inf? -1: dis[i]));
+		}
+				   
+  		}
+
+typedef pair<int,int> ii;
+	}
+  		ans+=temp;
+	sums=k*(pos-index+1)-sums;
+	dp[index][r]+=DP(i,check);
+	        cout<<"1";
+#define mp make_pair
+typedef vector< vi > vvi;
+string s1,s2;
+  	if(s==srted_s)
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  FOR(i,1,Q1)
+  			{
+int main(){
+  {
+const ll mod = 1e9+7;
+const ll mod = 1e9+7;
+  }
+	int val=0;
+  return 0;
+  return 0;
+        			ans=i+1;
+#include <bits/stdc++.h>
+#define F first
+    if(a>=i&&b<=j){
+	}
+  ll md=m;
+- vsubpdmfcromuissgretepddlchdkfyhysjpxxuboiqkskdybjthbynmaupnbpwzjfohfkktuaemljmougyvelkhfbugrqiaywjdjwydwcqjncaikyfpj
+#define F first
+  FOR(i,0,sz(ans)-1)
+
+  	for(int i=0;i<n;i++)
+const ll mod = 1e9+7;
+typedef vector<int> vi;
+		cin>>n;
+	cout<<ans<<endl;
+  later.clear();
+      big_col(9,8);
+  		ans=max(ans,maxi[i-1]-pre[i]);
+
+
+       	}
+  		query[i]=(query[i+1]+query[i])%mod;
+  cin>>f[i];
+int main()
+
+	if(k==4)

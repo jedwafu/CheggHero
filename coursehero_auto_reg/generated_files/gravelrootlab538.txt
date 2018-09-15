@@ -1,0 +1,123 @@
+  FOR(T,1,t)
+                 if(i==2)
+  }
+			count[0]+=count[2]/2+1;
+  	ll g=__gcd(y,md);
+#define loop(i,a,b) for(int i=int(a);i<=int(b);++i)
+const int N = 1e5+10; 
+typedef map<string, int> msi;
+}
+  cin>>s>>t;
+     		if(used[f]==death[f])
+  	t=queries[i].F;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+#include<algorithm>
+	flag=1;
+		n=k;
+  int n;
+	    if(i<0){
+	int ans=maxarea(n);
+    lazy[0][node]=0;
+		ans[source]=max(ans[source],maxi[edges[source][i].F]-weight[edges[source][i].S]);
+	y->left->parent=x;
+	 {
+	for(int i=1;i<=n;i++){
+
+ 		l=index;
+const ll mod = 1e9+7;
+				r=mid;
+  } 
+
+#define pb push_back
+	{
+46827
+#include <ext/pb_ds/tree_policy.hpp>
+#include<math.h>
+#define fill(a,x) memset(a,x,sizeof(a)) 
+   	  	val=0;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+   // if (actualSize < 0) actualSize = 0;
+            l = i;
+
+  int cur=h1;
+void rightrotate(node *x)
+#define pb push_back
+int check[100000];
+*/
+
+    } 
+		for(j=1;j<=i &&j<=11;j++)
+		if(cur>=sz(s))
+ll L[N];
+  {
+	    cout<<x;
+  	
+
+typedef pair<int,int> ii;
++ opthyyfbbfovdxafyqndyusnxydgwsvkiqtiqylugzplwrtxjiaictxbtaiqtfcdxwlqwykexbqvtjservmvqmwlmgdhngmlexbcvlhuozsjkkodhcyzowlbfokswxfcwgfutooipirztfcciccwapzhfmacjfgholbhbsrqajrvqtaaxezatahy
+		edges[a][b]=true;
+
+  
+				ans.insert(mp(mp(start,end),water));
+	int t,n,i,j,count1,count2,max1,max2;
+}
+	    if(flag==1)
+using namespace std;
+          side1=min(x,side2+side3-1);
+  cin>>h2>>a2;
+    lazy[0][2*node]=mul(lazy[0][2*node],value);
+	}
+		if(DP(k-4,false)!='-' and len[0][k-4]<minlength)
+
+     cin>>s;
+  FOR(i,0,2009)
+- jzjuisxgdwarkcevlfvkaqnxrxyuyumhuvdepakszkmjpsgcxcpzsexlbxfcrtjnqptfpezqqnbhfimdmdeehbplywnsryhhnbmfhlvzzzjghvjtaqzjtquuojmfivmxwacfnafobovilgdlweuqurkiaypktbisdmxqoefpsazfiesfip
+		{
+
+
+    
+int cur=0,ans=0;
+		if(n==1)
++ sdbsalnlpeuhrinfmkatxqsagkyxirqbwrtwfhiwncfgmslaeltcdnelxejf
+- bkufortdcodxmi
+    if (isPc(u, v)) return u;
+  fast;
+  dp[1][1]=-2;
+
+    temp=0;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+                	w1=w2;
+  pre[2]=abs(arr[1]-arr[2]);
+       dp[type][pos]=-2;
+const ll INF = 1e18;
+      	for(int j=0;j<sz(s);j++)
+ll c[N];
+5 20 34 490 904 798
+*/
+		while(i<=n)
+
+typedef vector<int> vi;
++ svsgdjjnjjxxyofhmamw
+82 5 34 785 265 498
+#define S second
+  	int n;
+		{
+
+vi eulertour;
+
+       int k=1;
+		
+		cin>>color[i];
+  			tdp[j]+=mod;
+      big_row(14,0);
+	}
+#define S second
+			if(tms[mid]>=times-1439)
+typedef vector<int> vi;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  		{
+         	continue;
+  		printf("No\n");		
+    }
+ }
+typedef vector<vii> vvii;

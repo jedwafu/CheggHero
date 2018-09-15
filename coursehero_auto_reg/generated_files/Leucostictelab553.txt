@@ -1,0 +1,115 @@
+      big_row(8,8);
+                 		break;
+		return 40;
+  int cnt=0;
+
+
+int main()
+	
+  		c[3]=s[i+3];
+	done[source]=true;
+	while(t--)
++ dqxilirglgvcdylzkwvsdqymvabkeufjkduxnldzrydwyowkmtcrjddgfgrlayvmbpjpaoqto
+       row(2,4);
+	    int four=4-arr[i];
+	ll n;
+				z->parent->color=2;
+bool done[N];
+  cin>>n;
+  return 0;
+original[k]=temp[k];
+#define pb push_back
+
+const int N = 1e6+10; 
+
+using namespace std;
+	while(t--)
+	
+		{
+#define INF 10000000
+		//printf("%d\n",start[k]);
+	for(i=1;i<=k;i++)
+    for (ll i = 2; i<=n; i++)
+  for(int i=0;i<10;i++)
+
+		}
+- msknbpmezxuanbllcssampcfsiicpttdndsqvhuwgrzvskhwezwqq
+	element *next;
+
+#define present(c,x) (find(all(c),x) != (c).end())  // for vector
+    	if(i==1)
+int N; 
+               break;
+		{
+  }
+	    if(n%2!=0){
+vi tree[N];
+		
+- pwdnhgphsdaesmjfmpoyomjnuxlulpf
+				dp[i][j]=max((dp[i-1][j]+rat[i]),(dp[i-1][j-val[i]]));
+- gknnfwlcwsabbsbrbeifpmhopjjdzbtfmiuteivbcveephxqofxdresjqdopfixtqtmxbjaeeekvmhmcnjfgqz
+#define sz(x) (int)x.size() 
+	temp-= (x1-x2)*(y3-y1);
+	return 0;
+    //cout<<n1<<" "<<n2<<" "<<p<<" "<<dp[n1][n2][p]<<endl;
+  	ans=1;
+		}
+	{
+  fast;
+	for(i=1;i<=n;i++)
+		pow2[i]=(2*pow2[i-1])%mod;
+         k+=2;
+typedef pair<int,int> ii;
+                  end=k;
++ yzcvuahvnbyefoylaterofpewtuqmhfkhjhdjozxpzbwncipvoglvvrspokdvpnezwikkjjcinaxpimmysxuooofcyiaqveprobdxlhhykepsqbtjypxodctdkvthzkaqmfpxpxxzbotupod
+  	column(3,0);
+      } 
+
+  		if(!parity[index])
+int last[N];
+ 	}
+
+  fast;
+
+#define sz(x) (int)x.size() 
+    }
+}
+
+};
+
+    		}
+typedef long long ll;
+        A[x].add = (A[x].add + val)%M;
+         		{
+
+      div2.pb(i);
+struct PT { 
+
+build_tree(node*2, a, (a+b)/2); // Init left child
+- jnasmwbzuusovqjudtzxkmlavepvrzadmavyyyyussiniujnpjmbvybseqnxqpaerydswdorxzegtovizijwgnqmddjvumcnmffkkubhvipoynyxvjvdwlpcqazmobzagfnsbocwytmwgkvdtsgsdxuvythovhpdocyrsaprvbpcnlhifoajnugnqoc
+				if(a==1)
+typedef long long LL;
+- jjzrftjjcbiltsclmqwfsdggihrahzurkvippuyrxjeqbgcpwavrddxonoouqklagwsxqqqpbvgcbkuymrrpuofh
+    while(A[2*x+1].add>M)
+const ll INF = 1e18;
+  	FOR(i,1,m)
+int main(){
+- uyleqkboddjoeramysqexkuvwbngvvpstayjmbarelgidgubzmhyxbwvejbzeqrztrjfslzwwfhbndcmqlnpmjksunsaelzzdkgxvfwumdvagaoylbnamzsinmityksduaasgwmsbhukhjivmyvzxnhkcsdacxdyyfsgeeah
+			term=(term)*(i+1)
+  cin>>q;
+
+  	names[i]='A';
+int main(){
+        	{
+
+}
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+	
+  		cin>>u>>v>>w;
+#define sz(x) (int)x.size() 
+		for(j=i+1;j<n;j++)
+#include <bits/stdc++.h>
+   for(int i=2;i<N;i+=2)
+  }
+	}
+    		ans++;

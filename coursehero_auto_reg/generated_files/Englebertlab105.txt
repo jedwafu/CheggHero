@@ -1,0 +1,122 @@
+	{
+  			break;
+  		tdp[j]%=mod;
+#include <iostream>
+        }
+    
+    lazy[0][2*node+1]=0;
+  	if(typ==1)
+
+		    
++ ctzorknamlafemudyvkldbmyewrvtsfxlgmeqbefmfkqrhtpcgchjrhonzlirqgfwsjotothvgzonvgrbizmbgaohlxbbfgzzposfjbcparevxwyhxljfnzpzyqcdwccnswtbxxtaoxxnvyvslgayfpzgfcjdgoqyklbkjwmxujnrjimuqmtxdsdkwpned
+
+		}
+}
+	FOR(i,0,sz(tree[source])-1)
+                 if(flag1 and flag4)
+#define S second
+		while(next!=start[i])
+	if(ver*(ver-1)==edg)
+		for(i=0;i<n;i++)
+        data[i].b /= n;
+       cout<<7<<" "<<4<<" "<<7<<" "<<5<<endl;
+  	cin>>s;
+	
+using namespace std;
+    }
+       cout<<4<<" "<<1<<" "<<5<<" "<<1<<endl;
+  	{
+		root->right=NULL;
+    {
+  for(int i=1;i<sz(s);i++)
+
+  return 0;
+		
+int  main()
+  	{
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+
+  while(t--)
+    }
+using namespace std;
+	cout<<r+5<<" "<<c<<" "<<r+6<<" "<<c<<endl;
+  fill(death,0);
+	}
+
+
+  freopen("input.txt", "r", stdin);
+		if(n%26)
+                 		break;
+}
+}
++ xlivehyqlgljzbasxwxwnkhietpku
+			continue;
+  map<string, vector<int> >::iterator it;
+ 
+- ebidzzpexkkthjqrihttzvxfxzkwycmfduievxjshvoofeipobjnzg
+	            break;
+	for(int i=0;i<na;i++)
+  PT operator / (double c)     const { return PT(x/c,   y/c  ); }
+		}
+vector<int> ver;
+    sorted.clear();
+
+	int n,m,p;
+ 		l=mid;
++ zxbygqsreazczzeglaofxghtxonsdopensftlxnpzotzozfbztgzc
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  	check(mini,x-mini,y-mini,z-mini);
+		while(b>0)
+
+
+	return 0;
+    for (i = 1; i <= n; i++)
+  		if(ops[i]=='|')
+		cout<<-1<<endl;
+#define nloop(i,a,b) for(int i= int(a);i>=int(b);--i)
+  	{
+  	big_row(11,0);
+
+	else
+  	column(2,7);
+  	cur--;
+
+    {
+  		continue;
+ 		while(r-l>1)
+                 continue;
+				
+  				dp[i]=dp[last[j]]+1;
+const ll INF = 1e18;
+	return arr1(i+1);
+	string s;
+ll dfs2(int root,int val,int parent,int original)
+#define sz(x) (int)x.size() 
+#define pb push_back
+    }
+  else if(!a or !b)
+int s[N];
+#define F first
+  }
+				intersect.pb(mp(angle0,0));
+    
+	int n,m,i,j,k,count=0,flag;
+  }
+
+#define F first
+  return 0;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+typedef long long ll;
+             last_seen[prime_fac[i][j]]=i;
+vector<ii> ans;
+            max=arr[i];
+  	}
+    for ( int i = 0 ; i < 2*a ; i++){
+#define fill(a,x) memset(a,x,sizeof(a)) 
+		cout<<n/2+1<<endl;
+
+
+	        for(int j=0;j<2*rooms;j++){
+const ll INF = 1e18;
+            }
+  	if(sum-maxi<maxi)

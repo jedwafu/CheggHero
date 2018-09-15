@@ -1,0 +1,123 @@
+			{
+#define S second
+typedef pair<int,int> ii;
+  	{
+- jvmlwlvllcxrohkzfkgmeccpjeluqbacyppuamilofccomdtzlhfqlvzqitikwkilbdlnnwdsaiiplcqzlvpxsonbjvnfixqlcdzpbejcmsrawhzheoexetapr
+
+	}
+  FOR(t,1,q)
+    if(n==i)
+	    {
+    return;	
+
+8 10
+		return fval2[source];
+			
+		}
+	}
+  fast;
+		cin>>n;
+  		return 0;
+  cin>>n;
+  		if(flag1 and flag2)
+     for(int i=1;i<=13;i++)
+{ 
+  {
+int main() {
+#include <bits/stdc++.h>
+		return ans;
+    }*/
+  {
+  int t;
+void sieve()
+typedef pair<int,int> ii;
+- jauu
+typedef vector<int> vi;
+  			tf=tm;
+    temp[i]=temp[i-1]+temp[i];
+{
+
+        for(int i=0;i<n-1;i++)
+  
+32922
+        	{
+	
+#define sz(x) (int)x.size() 
+
+    for (int i = 0; i < sz(r[v]); i++) {
+  	{
+vector<ii> arr[N];
+int main(){
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+#define pb push_back
+	}
+bool done[1000001];
+
+  }
+bool mark[9 * maxn];
+		}
+    	return -2;
+  cout<<par2[i]<<" ";
+    if (it == best.end()) {
+ll s[4*N];
+typedef vector<int> vi;
+- lkhsibkkajqhgaaaaypaaveeqmzbilbvxinfjzsmiivrkvrktilugpawdzxnlajiiwquwiggsbzcztnsbyohpogsqdhbeqlopdinlqvduvgvovnrtebksheikllqezftcpiqidteybzowogrsjbnqf
+  	{
+
++ gcsfffloqguuvxofigdqxudwpylltyuccojhvvymbsgzpweycioceuyuslfnjbposbxnwvzxoiwfeddjlulpqllixsxiwpwoqubmpdjdlilployyklpcxbmwtkepzbdpxhdmkosxwdmjtnhgaxixavvtfalgdqxaxaojoggnlvwfkgnkfvkfsfazhlfkecmbebnth
+  fast;
+  fill(dp,-1);
+	else if(x==x->parent->left)
+	for(i=n-2;i>=0;i--)
+#define fill(a,x) memset(a,x,sizeof(a)) 
+			b=b/2;
+	cin>>t;
+	int now=0;
+#define pb push_back
+#define spresent(c,x) ((c).find(x) != (c).end())  // for set,map
+		int temp;
+	int val=maxee(2*min1,max);
+	x->left=y->right;
+  cin>>n>>m;
++ xsjfdwza
+	    b+=a2;
+	int i,n,count=0;
+  {
+typedef long long ll;
+34 36
+- vyozeluglkuzioiydsfrbhpgzsvwqyulwkmaxgiischbrpzwihojodrpwplonfzjrlmptuxmxhpqwqmgxasogldearspwtbqgnfzjenilcyktnsspkgxwmbydvobqprweyypflysoyejnxbdhkafyegdbwesnyqryogdag
+{
+- xpzmkbxkwvbcegwigmdqfdphuwmzyudykcmu
+		if(count2>n-count1)
+	        count++;
+  first++;
+#include <bits/stdc++.h>
+
+		if(freq[val[x]]==1)
+  	route[1][i]=num;
+typedef pair<int, int> pii;
+  cin>>h2>>a2;
+        	freq[arr[j]]--;
+		int len1=strlen(arr[i]);
+#define sz(x) (int)x.size() 
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  fast;
+	    val=arr1[i]^arr2[i];
+       	found=true;
+
+typedef pair<int,int> ii;
+int cnt=1;
+			
+
+                 		flag=false;
+	int t;
+PT ProjectPointSegment(PT a, PT b, PT c) {
+  {
+
+  		if(i==b)
+#include <bits/stdc++.h>
+typedef vector<vii> vvii;
+
+  	if((n-2*m) >= 0 and (n-2*m)%2==0)
+  		root=r;
+			{

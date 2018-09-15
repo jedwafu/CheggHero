@@ -1,0 +1,102 @@
+
+               	arr[i]='0';
+	for(int i=1;i<=n;i++)
+	         if(p==m){
+    int main(){
+  return 0;
+
+	
+#define fill(a,x) memset(a,x,sizeof(a)) 
+	{
+  		choose[i][j]=0;
+    return false;
+#include <bits/stdc++.h>
+  {
+
+
+int s[6000];
+    }
+
+  }
+		
+    
+long long int t,minc=600;
+#define sz(x) (int)x.size() 
+#define pb push_back
+  		int vals=((1<<j) & nums[i]);
+			minlength=len[0][k-5];
+	starts[i]=min(ts,tf);
+int main()
+	public static void main (String[] args) throws java.lang.Exception
+		else
+#define fill(a,x) memset(a,x,sizeof(a)) 
+int main(){
+		return ;
+	        flag=1;
+    	    	times[cur]=t;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+    cin>>o1>>o2>>o3;
+	for(int i=1;i<=1000010;i++)
+    	carry=1;
+		if(arr[i][j]==temp)
+  
+  return 0;
+typedef pair<int,int> ii;
+using namespace std;
+
+		
+
+                 	{
+const int N = 1e7+10; 
+		{
+    else if(qs > m)
+	public static void main (String[] args) throws java.lang.Exception
+	{
+  FOR(i,3,n)
+int prefix[N];
+		inp(g);
+  			for(int j=2*i-1;j<N;j+=i)
+	cin>>t;
+#define all(x) x.begin(), x.end()
+int a[N];
+void rbfixup(node* z)
+  	}
+}
+}
+  	fval2[i]=INF;
+    
+
+const int N = 1e5+10; 
+
+			}
+            }
+	{
+  	{
+	sums[1]=dp[1];
+  				dp[j][y]=max(prevs[j][y],prevs[j-1][y-b[i]]+a[i]);
+#define S second
+
+		}
+  	int x,y;
+typedef vector<int> vi;
+typedef pair<int, int> ii;
+	scanf("%d",&arr[i]);
+
+
+	//delete x;
+		
+  	int temp=0;
+  	}
+typedef pair<int,int> ii;
+       {
+		scanf("%d %d",&n,&m);
+  	cout<<r;
+const int N = 1e5+10; 
+#define F first
+
+    }
+		{
+  }
+int arr[N];
+	for(int i=2;i<=m;i++)
+      big_col(2,8);

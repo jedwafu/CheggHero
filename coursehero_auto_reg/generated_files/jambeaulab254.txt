@@ -1,0 +1,127 @@
+    pga.transform();
+int main(){
+    {
+  	if(pos[i].F==0)
+  	}	
+                 	if(arr[i+1]-arr[i]!=diff)
+  if(sz(s1)>=sz(s2))
+				maxv=num;
+  	dp[i][j]=INF;
+            	ansval=min(arr[4],ansval);
+			{
+  cout<<"ver"<<endl;
+        ans=0;
+}
+  	bool flag=true;
+      lazy[kd][pos*2+1]^=1;
+  			//cout<<"dp "<<i<<" "<<j<<" is "<<dp[i][j]<<endl;
+typedef vector<int> vi;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+    void update2(ll node,ll a,ll b,ll i,ll j,ll value){
+}
+ll arr[1000010];
+
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+        diff=arr[1]-arr[0];
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  		{
+typedef pair<int,int> ii;
+			cout<<"No\n";
+		   done[i]=0;
+  
+30798
+			}
+  int n;
+using namespace std;
+  	{
+
+  for(int i=2;i<n;i+=2)
+
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+    return 0;    
+    	dp[0][1][color[0]]=0;
+
+    for(int i=a;i<=b;i++)
+		temp3=temp3->next;
++ akhmsxwahrmknbvgdujzmjrmpsoadczdogqgfogmftzswuaaqmzfxstmkjnplovzwnibbopjjodgkegbqhinzbcmkrbyhwzdjhenyvwhkznwfvzxchneipsvivvpuusdeysctojfqzcxwbvblihv
+  return 0;
+	    for(int i=0;i<s.size();i++){
+  FOR(i,1,n)
+  	dfs(i,cur);
+           r=i-1;
+  c[0]=c[1]=c[2]=c[3]='!';
+
+
+ 	    cout<<cost[x][y][z]<<endl;
+  for(int y=0;y<26*210;y++)
+         	{
+  	char ch;
+		{
+	ll ans=0;
+
+typedef pair<int,int> ii;
+
+			//cout<<s<<endl;
+
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+    res[i]=FFT::convolution(a,a);
+
+	}
+
+    int i, j, k;
+
+
+    #define fpresent(c,x) ((c).find(x) != (c).end()) // set,map
+
+  PT operator - (const PT &p)  const { return PT(x-p.x, y-p.y); }
+
+		{
+  		vals=1;
+  {
+        a = func(a);
+    for (int i = 1; i <= n; ++i) {
+		cin>>n>>a>>b;
+
+
+		
+  }
+			if((n-i)%7==0)
+	
+  	int n;
+                 	if(arr[i+2]-arr[i]!=diff)
+	cout<<ans;
+		return mp(ret1,ret2);
+
+{
+  query2(c2,mid+1,r,x,y,v,w);
+  	if(dp[0][i]==-2)
+#define pb push_back
+#define sz(x) (int)x.size() 
+
+    }
+#include <bits/stdc++.h>
+  fill(cnt,0);
+
+  cin>>arr[i];
+{
+	return 0;	
+		     	dp[j]=max(dp[j],dp[i]+1);
+    treee[node]=add(treee[node],((b-a+1)*value)%INF);
+const ll mod = 1e9+7;
++ rdykngwrlodcftvuvpjgmmflouohmbpdfqpuylnjctmjmhdhypplbuyrqnafqqkxgasenhqpacynlewkvmxwivpzkqediqaqquwecmvcqwrccomxclvmimnvcrymkaeavbgzpebg
+	return 0;
+				}
+
+#define mp make_pair
+map<ii,int> assign;
+		return 1;
+- gxjabwpvkmdpwfmvlfbqztkdmrscxlkgivimrxhdkmsiuhdfogxpzhtlylqyycghyovroevaqnikwnsltpcuzviz
+  	done[cur]=true;
+    lazy[0][2*node+1]=mul(lazy[0][2*node+1],lazy[1][node]);
+  FOR(i,1,m)
+
+			if(val1==true)
+}
+  	ii ans=fast_exp(val,n-1,m);
+  	{
+    {

@@ -1,0 +1,135 @@
+typedef vector<int> vi;
+
+}
+	double dx21 = x2-x1;
+  	reverse(w[i].begin(),w[i].end());
+typedef pair<int,int> ii;
+- tnucgyqseprxunkktnifjlhqzykzumaobwshukbyzuxvhifcvqhgbpydnicjwexxasgwchxecuzlchoaxvgamfdbnilkmkjpcqlhzklbfmpjtdjqasrnxwqm
+  vector<ii> ans6=solvemax(dx+hmm,dy,dz+hmm,hmm);
+int cnt=0;
+	FOR(i,1,Q1)
+		else
+    for(int i=1;i<n;i++)
+  int n,k;
+
+vi ans;
+ll dist[9*N];
+  }
+		 for(i=0;i<n;i++)
+  FOR(i,0,cnt-1)
+  return 0;
+		sum--;
+			ans=freq[k]-freq[*(--it)];
+      for (j = 0; j < s; j++)
+	
+int main(){
+	if((sum+counts)%2==1 || sum+counts<0 ||sum>counts)
+			ret1+=MOD;
+  		{
+}
+    temp=0;
+int main(){
+		if(original[0][i]==original[0][i+1])
+  	cout<<"YES";
+#define fill(a,x) memset(a,x,sizeof(a)) 
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  	int r1,r2,c1,c2;
+  	if(temp>n)
+    {
+
+    for(int i=1;i<=n;i++)
+                else if(!flag2)
+	ll n,k;
+#define ll long long int
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+      
+double fac[11]={1,1,2,6,24,120,720,5040,40320,362880,3628800};
+}
+typedef pair<int,int> ii;
+        }
+  	{
+
+
+  }
+      cout<<sorted[ans-temp.begin()].F<<endl;
+                 {
+  	FOR(i,1,n)
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+
+typedef map<string, int> msi;
+  	ans=max(ans,cur);
+int deg[N];
+
+				if(arr2[j]!=0)
+     column(2,0);
+  {
+  	if(i==1)
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+		}
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  				ll temp = min({cur[k][j]-C[k],cur[k][i],D[i],C[k]});
+				arr1[i]=max(arr1[i],arr0[j]+arr[i]);
+                 	if(arr[i+2]-arr[i]!=diff)
+  	else if(!done[it->F])
+  if(check(l))
+
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  	FOR(i,0,4)
+vector<int> sorter;
+
+
+		long long prod=1;
+
+        ll diff=arr[1]-arr[0]; 
+
+#define pb push_back
+  	{
+     len=s[i].length();
+			
+  			{
+    	double x1,y1,x2,y2,x3,y3,x4,y4;
+	node* y=x->right;
+  	double xh,yh;
+  	check(mini,x-mini,y-mini,z-mini);
+	while(t--)
+       cout<<4<<" "<<1<<" "<<5<<" "<<1<<endl;
+		LVL[v]=LVL[source]+1;
+ll exact[1000010];
+  	FOR(i,1,n)
+  {
+    cost[arr[i]+1000]=min(cost[arr[i]+1000],ans[i]);
+		  //cout<<i<<arr[0]<<temp1<<endl;
++ kgdsoakzqstzvxpkldtmsbvymepnwebikgcyimzzgtyesnoetjslkplytanrgpzqvbqeqpfykdedtujmdbzpqknmmbfuqhmnkc
+  }
+  dist[i]=mod;
+	cout<<m*n/2<<endl;
+	for(i=0;i<n;i++)
+#define fill(a,x) memset(a,x,sizeof(a)) 
+	int cur=0;
+#define pb push_back
+		while(g--)
+  ll next;
+}
+  fast;
+}
+  else
+      big_row(13,8);
+  {
+    int r0=0,r1=0,l0=0,l1=0;
+if(start==end)
+	cin>>s>>s1;
+  }
+  cout<<ans;
+                        }
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  string s;
+		}
+}
+	if(k==2)
+  	cin>>u>>v;
+#define pb push_back
+	    if(n%m==0){
+
+  }
+        if (g[a][b] == -1 || c < g[a][b]) g[a][b] = c;
+51 81 45 737 647 148

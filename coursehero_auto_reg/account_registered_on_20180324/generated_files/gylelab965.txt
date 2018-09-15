@@ -1,0 +1,174 @@
+		{
+ 
+  }
+j++;
+  }
+  int mini=1000000,maxi=0;
+    
+  FOR(i,0,sz(s)-1)
+  return 0;
+vi help;
+  }
+  				mindif=min(mindif,arr1[i][j]-arr2[i][j]);
+    }
+  	if(cur==a2)
+  	sort(arr[i].begin(),arr[i].end());
+{
+#define loop(i,a,b) for(int i=int(a);i<=int(b);++i)
+  	{
+	int n;
+#define F first
+        zeros[i].pb(j);
+	}
++ ptrfeecmexaobbutfergupbqtwczdzpuvizzmdntbohepdxwhredgftabvzgxrcszdrmhfhkvqqktoicfmfltynxvndseikfletulaegqvsjlalsosfhsteoikimsvtdbnymne
+using namespace std;
+#define pb push_back
++ yuxrgymtanglhxujmppufpkzzinrpeuparjisvbskjfugzfuquoxjbwijjcbpwqpozxixaajkgdqhjnyfdvpeszqdbrvahkqjkyimyrwexpoicmnfjcmdecjh
+	while(i<101)
+				
+typedef vector<int> vi;
+    FOR(i,1,sz(ans)-1)
+  sums=tsums;
+#include <iostream>
+      temp=l;
+  fast;
++ izacokfopjjbmctmylthuqwqjixgucacdahrkmgcvrdjtyxtjra
+const int N = 1e5+10; 
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+    	taken[i]=false;
+  			}
+  	help.pb(val[i]);
+    if(arr[i]==true)
+             	{
+    	for(int i=0;i<=n;i++)
+using namespace std;
+
+
+- qwddbbdesoafihrxmvh
+
+	}
+		if(h2==a2)
+		}
+}
++ yfkdvgkpxrwyajprhzjxtddncedcvmivrtyozkdwcbwellvsmgrijuxnybpvnyqhtovsbbqdcnjpaeipkbxvyuiyxaunykutbrncsdhxsqmvwwkiyhdwdnwbnqondkggbtkwxttrlfmhcyrchualhwovpeisorarkkpjfibqqpzuoqyvmyitwwqlabdqsficrxow
+    else
+    s[curr] = ;
+  				ll temp = min({cur[k][j]-C[k],cur[k][i],D[i],C[k]});
+#define spresent(c,x) ((c).find(x) != (c).end())  // for set,map
+typedef vector<int> vi;
+    while(n>0){
+  val[1]=1;
+}
+typedef pair<int,int> ii;
+    
+#define sz(x) (int)x.size() 
+    }
+	if(num==8||num==5)
+		cout<<1<<" "<<3;
++ eibvenqbbbhfnlflaqwfgjiqfqgndxnhiqfmdvphyymljtwjlsorexijpqwvplexcjlfgameyarkvothikamjixaauxqhcnjnzpwbdcceumzihistjhctefuackigzruaiqcmsesmqtwzertnaxggcchhornokhovzshuwbiowhoaahnaewgjapqpgfdtntoomxikyt
+  		if(arr[1]=='d')
+
+int main(){
+//	cout<<hh1<<" "<<mm1<<" "<<hh2<<" "<<mm2;
+bool taken[1010];
+	return 0;
+    }
+    		donep[power[cur_p].S]=socket[cur_s].S;
+            int subs;
+  	{
+  if(min(ans[0].S,(int)pow(size,3)-ans[0].S)==0)
+typedef long long ll;
+
+
+  vector<ii> ans1=solvemax(dx,dy,dz,hmm);
+ll n,l,a,b;
+
+  ll last_answer=0;
+- pbiaszgnemzmifwcpmknkredrktnwotnpdnhctuiivuqdsvuffhpzltqyofwcamrdzahvxpdskvxcqrjwybxmupmkukpuwgzyjgvgvyahvymmpvkqwheswqdscsobanzlturqusypqkdhfnxeubwstbmyvazwpajiwbzqvzhljluqy
+			if(temp%2)
+  fast;
+  	arr[i][j]=equal;
+      if(t==0){
+typedef vector<ii> vii;
+
+
+	int now=0;
++ pxflelbmpxuaaruaticmmpcspfmdcrurrzcvmdhbdbedvygqiicvagpplbunupglqjifo
+#include <ext/pb_ds/assoc_container.hpp>
+typedef long long ll;
+#include<bits/stdc++.h>
+		}
+            {
+  		int temp;
++ narloevmxjjnszcubqzwletusebzhjbxluibbfnarwnjypgbifztjtpexsfhbheodopeveeoduadlgetndowydaywgfzploszfzwkdnpxnsjvyeidtgcwjaurfugqkarrzpdfcsermnmkuuonbqlksgbzcjpojiflzlqcdutskgcgcqtdigpam
+}
+               inp[i][j]=qsize[i]-inp[i][j+1];
+	flag=1;
+	{
+int par[N];
+  	if(check(n))
++ doexqclhsciahpjeunkwmhxuhpodvnazdgyukldcnmexdobxdlwruvlbmbeiogjumhq
+  {
+    ll mid=(a+b)>>1;
+}
+ 
+        {
+void dfs(int s,int p)
+ll arr[N];
+long long int arr[100001];
+#include <bits/stdc++.h>
+  {
+           val=gcd(a,n);
+                        int k=(i-1)-(j*j);
+typedef map<string, int> msi;
+        y=1;
+  
+
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  cin>>n;
+{
+const int N = 1e5+10; 
+  if(n==1)
+  	ans=max(ans,1+dp[2]);
+}
+  return 0;
+    if(a>=st and b<=ed)
+	int uLimit=sqrt(n);
+	int arr[100];
+			if(help==0)
+  	if(val[j]==1)
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  	FOR(j,0,n-1)
+
+		
+  FOR(i6,1,sz(ans6)-1)
+    cin>>n;
+// get the value associated with the segment [start...end]
+   }
+	cin>>t;
+		newends=ends;
+			scanf("%d %d %d", &v, &u, &w);
+#define S second
+	else
+	ll ends=stx-1;
+#include<bits/stdc++.h>
+int main()
+  	inp[i][n]+=inp[i][n-1];
+  {
+    
+    }
+        flag=true;
+  		{
+		{
+		for(i=0;i<n;i++)
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+    else 
+    	return 0;
+}
+
+}
+typedef pair<int,int> ii;
+  	{
+     freq[arr[n-1]]=1;
+8983
+  	{

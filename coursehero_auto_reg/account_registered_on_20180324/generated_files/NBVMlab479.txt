@@ -1,0 +1,128 @@
+				if(a==1)
+{
+using namespace std;
+          arr[t]++;
+  		arr[n-i+1]=temp;
+  }
+typedef vector<int> vi;
+- ehxpfcrgepezrjtncnskdgraywflanggudybhphmfnnyxglbtfnwngwncdyetelpklrraafhoshlyuorabpphodltbpmiccsptlstrbjljwkdkdfnvvwjahcbzrldtftorl
+  cin>>n;
+typedef pair<int,int> ii;
+  int zero=0;
+                        while(h%t==0)
+  {
+typedef vector<int> vi;
+		{
+#include <bits/stdc++.h>
+  int count=0;
+		else
+	int path[100];
+    cin>>m>>k;
+	while(n--){
+#define pb push_back
+	sums[1]=dp[1];
+
+	printf("%d\n",tem[i]);
+        	{
+  cin>>t;
+bool check(ll val)
+  	
+vector<ll> arr;
+        for(int i=0;i<n-1;i++)
+    
+#define F first
+	  for(int i=0;i<=30;i++)
+#define pb push_back
+		{
+- wsexyajhtqrrbsaqjlramwkfxxwomejiwphwrsfkiyclqccaqvcerolomhdyloijfrgwjngtmieenigddijuxvjlcoloetzjkfhtvnohysnlbuqeczzbukozazneumpguwbrlpyjinwjhopmqqpkcelcfaia
+vector<ii> arr; 
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+const ll mod = 1e9+7;
+  		
+  int c1 = curr<<1,c2 = c1|1,mid = l+r>>1;
+#include <bits/stdc++.h>
+typedef long long ll;
+typedef vector<int> vi;
+#define pb push_back
+ll temp;
+  FOR(i,0,sz(s)-1)
++ teyrhpggbo
+using namespace std;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+            if(ansval==10000000000)
+- axdrlheewudaclbepdhlwtzdcgfnufdueglqprummxoqkrubuentzowbxbqriwlpcyfurbgfawvkoqmiwzbvpxwmaoflkqapqhliirninjudbg
+using namespace std;
+  int n,cur=0,ans=0;
+  FOR(i,0,n-1)
+
+}
+  FOR(i,1,rounds)
+	return 0;
+                 	}
+  }
+	minval=min(minval,mini(edge[source][i],kval-1));
+
+  fast;
+- dcrlasjaaaynjvubrncaxzqvjxkmiawoenzehkekmczvxtxqgbqdciblflzpnvfrkgvuqbgfdfcczbshcknguotzbsqqpwjacguvhaamhcogeiqisdrmtknwddmubx
+
+const ll mod = 1e9+7;
+    out.resize(n);
+	cin>>array[0];
+const int N = 1e5+10; 
+	ll ans=INF;
+  			return 0;
+   cout<<ans+1;
++ hzjgwdgkaamnrclgszobvxnkvxjvccajdjsaoympayerdrzvqowlnlxiijemlgwprqrhodyqbdhgwjbnxzymmyvxhbjujhjaxchnfgdjlnphytwvuvjhvgeehpyqxkswmcmukrfxeuecpbzkyjrvpxzzmz
+
+	for(i=0;i<s.size();i++){
+typedef vector<int> vi;
++ orejrkitccipxndzhwreykqhmphyambogfyxsiswnbokqrlzpcdnpvxdleblsfbamzxgisfxtthlmukbxopojorwuujmblnqmmywedtzycmkxxmwndmyrdvlzgz
+		for(int j=1;j<=n;j++)
+  		        char c=arr[0];
+    cin>>n;
+  int n;
+#define nloop(i,a,b) for(int i= int(a);i>=int(b);--i)
+
+	
+		a = mod(a*a, m);
+}
+  		ans.pb(what[i][j]);
+		if(flag==0 && n==1)
++ eiwdtgjqsztfgqheyupmmpdvfruvdziijglcmwuhwnmefvidrxrdowaunwrrxbbghmkwjedftrlynudetvkkrmehjxygzbpinzeygjfzbryqnbugygsqtyxewxkvazdnbkohttgwkgmzkjiipaakzzovybsycxofjcmdvvzibojnxrwosybtypowsixvhlarnpwkkvun
+    std::deque<int>  Qi(k);
+  FOR(i,1,n)
+	  		c1+=5;
+  cin>>t;
+			cin>>inp[i];
+#define pb push_back
+int main()
+   
+	return 0;
+                 }
+  		if(S.empty() or *S.begin()>temp)
+bool getPendingUpdate() {
+		
+	{
+  	if(rem<0)
+	}
+        	for(i=0;i<n;i+=2)
+    	if( dp[i-arr[0]]>=0)
+}
+
+	int i=11;
+	loop(i,1,t)
+  		swap(v1,v2);
+	for(i=0;i<size;i++)
+}
+	    		deci[j]=1;
+	    temp1=temp2;
+			
+	string s;
+  }
+	int div1;
+			ans+=(n/2)+1;
+
+
+	        res=-1;
+		cin>>n;
+            maxindex=i;

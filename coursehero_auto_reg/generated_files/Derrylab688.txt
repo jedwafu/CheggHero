@@ -1,0 +1,185 @@
+#define fill(a,x) memset(a,x,sizeof(a)) 
+			scanf("%d %d %d %d", &v, &l, &r, &w);
+  fast;
+}
+	{
+  return 0;
+		ll ret1=(f*f)%MOD;
++ kcwqnrlgrvahyspqeijhksxvidvanzmzdisqbdxsazbzssryaafntcidhfdweqwj
+
+int main(){
+  FOR(i,1,n)
+    }
+			else if(z==z->parent->right)
+		return false;
+  	if(i%2)
+}
+       row(7,4);
+			it--;
+  	if(i%2)
+	
+  cin>>ts>>tf>>t;
+  	cout<<ans;
+  			dp[1][i]=min(dp[1][i],c[i]+dp[1][i-1]);
+  	double tm=(y1-r[1][i])/v[1][i];
+
+  		cout<<endl;
+	        if(i%m==0){
+      big_col(7,8);
+                	flag=false;
+ll exact[1000010];
+	
+
+
+       {
+  		{
+#define fill(a,x) memset(a,x,sizeof(a)) 
+    void func(ll node,ll a,ll b){
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+		{
+      if(temp.compare(s1.substr(j,div1[i])))
+  int ans=check();
+int seven2[700];
+    bitReverse(data);
+	cout<<res*100/n;
+}
+ll d[N];
+   FOR(i,1,n)
+	cin>>s>>s1;
+5 20 34 490 904 798
+typedef vector<int> vi;
+int ans=0;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+        A[x].mul = (A[x].mul*val)%M;
+			q.push(top-1);
+		{
+
+	for(int i=0;i<m;i++)
+    	int w=arr[index2];
+	cin>>t;
+	for(int i=0;i<3;i++){
+
+const int N = 1e2+10; 
+#define S second
+{
+    int a[KMAX][NMAX], pos[KMAX][NMAX] , dp[NMAX];
+  {
+#define sz(x) (int)x.size() 
+	
+    int r=-1;
+typedef long long ll;
+ll maxi(int source,int kval)
+#include<math.h>
+  }
+
+	
+        	{
+int s[100010];
+  	}
+#define inf 0x7fffffff
+    for(int j = 1;j <= n; ++j)
+        data[i].a /= n;
+  	else
+ 		
+
+  }
+}
+  return 0;
+	rep(i,0,min(sizel,sizer))
+ll solve(int type,int index,int quant)
+{
+  int maxidx=0;
+  			FOR(i,-1,1)
+  FOR(i,1,k)
+ 
+                 		flag=false;
+  	smallest[i]=arr[0][i];
+    if(a!=b){
+	    }
+#define sz(x) (int)x.size() 
+#include <bits/stdc++.h>
+#define spresent(c,x) ((c).find(x) != (c).end())  // for set,map
+
+map<string, int> odd;
+  	{
+			cur=last-1;
+int main() {
+#include<bits/stdc++.h>
+     if(arr[i]>=val)
+	    cout<<arr[i];
+const ll mod = 1e9+7;
+		{
+
+  {
+    s[curr]=0;
+	    }
+		lvl[l]=2;
+
+      big_col(2,0);
+  else
+#define pb push_back
+	if(u==v)
+  	cout<<3<<" "<<2<<" "<<4<<" "<<2<<endl;
+
+#include<iostream>
+     cout<<sums<<endl;
+		}
+        A[2*x+1].ini=A[x].ini;
+{
+       cout<<1<<" "<<4<<" "<<1<<" "<<5<<endl;
+  fill(eds,-1);
+
+    	dp[0][1][color[0]]=0;
+	 for(int j=1;j<=n;j++)
+		FOR(i,1,a[l+1]-1)
+    A[2*x+1].sum=((A[2*x+1].sum*A[x].mul)%M+(A[x].add*(se-m))%M);
+            }
+ 		while(r-l>1)
+  	int p;
+		cout<<s-1;
+         	    	if(color[i]==l)
+  	cin>>xh>>yh;
+	    {
+#define F first
+  FOR(i,1,359998)
+  FOR(i,1,m)
+	if(arr[0]%3==1)
+    		NFOR(k,9,1)
+			return;
+		for(int i=0;i<len;i++)
+    for(int i=0;i<n;i++)
+  {
+    }
+		rows[a].pb(b);
+           t--;
+
+  }
+#include <bits/stdc++.h>
+    {
+- etwdqexhsv
+- lbicadxexihkynihhowfynpglkggdnaookropqumydwytgiauehtswbfiinmvnclzvzpmvdmzcnsivudzbytzbakjnweaypcuqtimwwnyjfjezogcobbpclzpjdskvuglnqzlmmmwtvcujkwzmao
+
+  FOR(i,1,len-1)
+		{
+     outdeg[edges[0][i]]++;
+  
+i++;
+  			if(dp[last[j]]!=-1 and dp[last[j]]+1>dp[i])
+33048
+int main()
+  par[1]=0;
+const ll mod = 1e9+7;
+  vector<Complex> data;
+		
+				cout<<primes[i]<<endl;
+                 {
+  dp[1]=x;
+const ll INF = 1e18;
+  int n;
+  {
+  	{
+}
+    if(n%2){
+
+  int t;
+int times[200010];

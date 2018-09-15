@@ -1,0 +1,127 @@
+    cout<<s[n-1];
+			val[i]=600;
+	column(c,r+4);
+typedef long long ll;
+
+
+  	ans=max(ans,1+dp[2]);
+      for (i = 0; i < n; i++) {
+
+	        i+=1;
+	    }
+    	    	t++;
+  cin>>t;
+	    if(s.empty())
+		{
+    {
+  }
+
+
+#include<bits/stdc++.h>
+	for(int i=19;i>=0;i--)
+
+		int temp;
+#define nloop(i,a,b) for(int i= int(a);i>=int(b);--i)
+	y->left=z;
+- hmzpkszvtudfhsnqlyfoizvipvfutnaczbtltsgnnmuwghmrhuhqtcaizhduvfwwgqibiqqxcmukwgbdakttmveodjiaofwwxgzhxqfbczmyfpeiczdqvheaqnaguyerfeaewfhaevbmnfwpezfbhkbzxbgrckkhqknmqunwqokdtgszgzbpjcoigwzijlrzweooy
+		for(i=0;i<n;i++)
+		if(a[i]-'a'< b[i]-'a')
++ vtokdmcjibdsjqsteqtxgmibkqdskaqhtfryruhavmugdnbj
+
+const int N = 1e5+10; 
+	int n,p;
+typedef pair<int,int> ii;
+			cout<<endl;
+	         break;
+		if(quant==1)
+  		ans2=temp;
+  				nums[command[2][i]+1]+=mod;
+  {
+{
+set<pair<ii,int> > ans;
+		if(i%2)
+#include <iostream>
+typedef pair<int,int> ii;
+               	return 0;
+       	break;
++ tybgehlxcwlfxmvpyidmjjgbqsraukdplgxpniopebxdnsvlcyxojdpzvicrvfigngxcqnsxopabjxol
+  	{
+}
+	y->parent=x->parent;
+             	}
+  FOR(i,1,n-1)
+	{
+  cin>>arr[i];
+    int temp;
+void bfs(int n,int m)
+    if(i<=root)
+  	if(x!=y)
+#include <bits/stdc++.h>
+				{
+        	j++;
+{
+	if(index==2)
+    #define S second
+        query3(ss,m,qs,qe,2*x,val);
+  fill(dp,0);
+  	last_max[temp]=temp;
+   return ans;
+	for(int i=0;i<m;i++)
+  	 	 j=1/j;
+  	toggle[i]=1-toggle[i];
+    hh1=24;
+
+			dis2=(pos[1][i]-pos[1][(i+2)%3])*(pos[1][i]-pos[1][(i+2)%3])+(pos[0][i]-pos[0][(i+2)%3])*(pos[0][i]-pos[0][(i+2)%3]);
+		i=0;
+    #define FOR(i,a,b) for(int i=a;i<=b;++i)
+	  	if(n==1)
+	
+  FOR(i,1,n)
+
+int main(){
+		return ans;
+            if(last[j]<i-y)
+  		if(route[0][j]==1)
+- hnugtrujpslvwbxkrjkrobsynleirnjyadgvwbgltsirvhcproghpbiemomfbvddakbznhmgbxyxecoxquhhxplldzqhwwmyinxvxmbylbxpflpxiwehnrtsqjzmfonndkkcymdjpabvoqswozfbqytjkvxrlkhoxrrvfuhvwiskamiqloreomnyjkq
+}
+    
+	scanf("%d %d",&n,&m);
+}
+		if(c=='-')
+  }
+using namespace std;
+  		final+=m;
+
+	  	else
+    lazy[0][2*node+1]=add(lazy[0][2*node+1],lazy[0][node]);
+const int N = 1e5+10; 
+  	}
+
+const ll mod = 1e9+7;
+        ans=0;
+   // cout<<b[i]<<" ";
+		
+int extended_euclid(int a, int b, int &x, int &y) {
+#define pb push_back
+void _set(int a)
+  		int ans=0;
+	else
+	return (a*b >= c);
+  FOR(i,0,sz(b)-1)
+
+  	}
+#define F first
+  			if(closest[cur.F][cur.S][1]>cur.F+route[1][j])
+	        count++;if(count==7){
+    return;
+#define sz(x) (int)x.size() 
+		next=arr[start[k]];
+- tczpblrlssgceyjvxvchxgehvjhdsjgnlhco
+	           if(p%i==0){
+
+		else if(mismtch[par[source]]==1 and (c[par[source]]!=c[source] or dis[source]>1) and aux[par[source]]==1 and c[par[par[source]]]==c[par[source]])
+      big_row(14,0);
+  
+		}
+    int arr[1001];
+

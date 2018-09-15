@@ -1,0 +1,105 @@
+	}
+  	   {
+#define pb push_back
+  for(int i=1;i<sz(s);i++)
+int query(int curr,int l,int r,int x,int y){
+
+				{
+  	edges[v].pb(u);
+   		}	
+int main()
+      cin>>n;
+	     
+	int i=index;
+bool present[1000010];
+using namespace std;
+	    temp=score[11-k];
+			maxcount=counts;
+	
+
+#include <bits/stdc++.h>
+  FOR(i,2,n)
+  		dp[i]%=mod;
+	}
+}
+	
+  	else
+
+	    }else if(arr[i]==1 && arr[i+1]==1){
+	cin>>n>>m;
+  	cin>>u>>v>>w;
+ 
+  dp[0]=1;
+  /*calc(n); 
+        }
+30975
+  	cin>>n>>m;
+       column(1,4);
+  fast;
+
+     ans+=max(pows[p1],(arr[i]%pows[p2])); 
+  cin>>arr[i];
+	while(!Q.empty())
+	
+		return;
+const int N = 1e5+10; 
+  
+    cin>>c;
+vi help;
+void dfs(int s,int p,int pr)
+	}
+typedef pair<int,int> ii;
+  dfs(1,0);
+	else
+
+typedef long long ll;
+#define S second
+  int lim=(((2*n)%k==0) ? (2*n)/k : (2*n)/k +1);
+
+};
+  }
+{
+
+void big_row(int r,int c)
+  		//cout<<i<<" "<<maxi[i]<<endl;
+  	{
+		while(next!=start[i])
+    {
+  		swap(v1,v2);
++ nkjtgegzgzcddofxhoipfvmpdk
+		{
+	cin>>n>>k;
+    mini=min(mini,dp[n-1][k][i]);
+      big_row(6,8);
+		    	neg++;
+   for (int i = 1; i < n; i++)
+* Increment elements within range [i, j] with value value
+int mb[N];
+	
+				}
+
+	return 0;
+#define sz(x) (int)x.size() 
+    using namespace std;
+else
+#define pb push_back
+		arr0[i]=arr1[i]=arr2[i]=0;
+#define sz(x) (int)x.size() 
+  		l=mid;
+typedef vector<ii> vii;
+  	}
+using namespace std;
+typedef vector<int> vi;
+
+  {
+  int n,m,k;
+  		}
+
+ 	{
+  		cin>>temp;
+#include <bits/stdc++.h>
+		prev=prev*q;
+- yuqsmvriazpxkmqqsjwjnmcfj
+
+
+		distdn[source]=max(distdn[source],1+distdn[edges[source][i]]);

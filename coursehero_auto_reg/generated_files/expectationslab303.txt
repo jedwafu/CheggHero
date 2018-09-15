@@ -1,0 +1,106 @@
+  		r=mid;
+- qnykkr
+		FOR(i,1,a[l+1])
+
+    		int k=0;
+vi ans;
+			//cout<<"inserted "<<i<<"'th bit "<<bit<<" at "<<trie[cur][bit]<<endl;
+  cout<<ans1<<" "<<ans2<<endl;
+	For(i,0,n)
+		for(int i=0;i<n;i++)
+		if(i==primes.size())
+#define pb push_back
+
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+
+- worbquflgbhdyqjshsjuwfhhaxofaiqywhcmdhzmigpgwaafsjbqpjyrimxlwpjtxlhcshocnfl
+#define sz(x) (int)x.size() 
+
+	
+using namespace std;
+public:
+    return dp[n1][n2][p];
+#define F first
+typedef set<int> si;
+	    arr1[i]=s[i]-'0';
+  	if(dp[0][i]==-2)
+	while(t--)
+  		if(s[i]=='?')
+- rchoyl
+#define pb push_back
+        if (weight[i][j] > weight[i][k] + weight[k][j]){
+const int N = 1e5+10; 
+  cout<<ans;
+
+     
+    return temp;
+  	{
+  if(arr[1][i]=='.' and arr[1][i-1]=='.')
+#include <bits/stdc++.h>
+const int mod = 359999;
+#define pb push_back
+typedef set<int> si;
+	flag=1;
+				for(int l=1;l<=n;l++)
+int f(int a,int b,int div)
++ dqmqjqhicnxxdrhfllfnouetyachapdefpwqfdajqzgttqbebgtrbzkbbokcdoikdealjdubedxxtydugznjyamaoxeslocqufbdkwgozdoudromqdvr
+  {
+	for(int i=0;i<m;i++)
+  			if(closest[cur.F][cur.S][3]>cur.S+route[1][j])
+    for(int j = 1;j <= n; ++j)
+	  s[curr]+=val;
+  int second=t+d;
+		    {
+  for(int i=3;i<=N;i+=2)
+		
+using namespace std;
+	if(tm>-eps)
+		if(i%2)
+  }
+            	flag=false;
+             	else if(s[i]!=s[n-1-i])
+    {
+	numbers=numbers.split()
+  	}
+    if(b[i])
+  		{
+  FOR(i,2,n)
+      {	
+
+typedef vector<int> vi;
+	}else{
+    if(temp>=5)
+  {
+  				cost[i][j][k]=cost[i][j-1][k-1]+B;
+
+        A[2*x+1].add=0;
+
+
+#define mp make_pair
+  		tdp[j]%=mod;
+}
+using namespace std;
+  		ll sqn2=n2*n2;
+  	n=o1*o2;
+}
+		 		count2++;
+	for(int i=0;i<4001;i++)
+     nbr[edges[0][i]].push(mp(edges[1][i],i));
+  	}
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+		
+      big_row(15,4);
+  				D[i]-=temp;
+  fill(done,0);
+- qhvdcqhtbrdznzxgt
+string s;
+#define coud(a,b) cout<<fixed << setprecision((b)) << (a)
+int starts[26];
+ll L;
+temp[0][k]=original[0][i];
+{
+        	if(j>0 and intersect[j-1].S==1)
+  }
+const ll INF = 1e18;
+int gcd(int a,int b){
+  if(sz(s1)>=sz(s2))

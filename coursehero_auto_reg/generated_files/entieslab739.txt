@@ -1,0 +1,131 @@
+import java.util.*;
+
+
+        ansval=min(arr[0],ansval);  
+	    hh1=hh1*10+s[i]-'0';
+        flag=true;
+  if(n%k)
+         			dp[i][j][l]=dp[i-1][j][l]+arr[i][l];
+
+const ll INF = 1e18;
+#define S second
+
+	   {
+            	cout<<-1<<endl;
+typedef vector<int> vi;
+  fast;
+
+int main(){
+#define sz(x) (int)x.size() 
+    if(rem<0)
+  	}
+  }
+			neg[x-y]=1;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+#define pb push_back
+    {
+	cin>>s;
+
+  		if(parity[index])
+	cin>>n>>m>>k;
+	row(r,c);
+  cin>>n>>D;
+			fs+=arr[d][b];
+	{
+}
+using namespace std;
+
+#include <bits/stdc++.h>
+bool done[N];
+	
+               		arr[i]=dig[arr[i]-'0'+1];
+        	{
+	
+  {
+        p1++;
+const ll INF = 1e18;
+    int index2=n-1;
+		return 0;
+  		double angle=atan2(x1*y2-y1*x2,x1*x2+y1*y2);
+  	}
+	        j--;
+            if(flag)
+#define S second
+	
+  fast;
+	for(int i=0;i<m;i++)
+		}
+				
+const int N = 1e3+10; 
+}
+			count++;
+
+#define pb push_back
+    }
+  		if(count<=o1/2)
+#include<bits/stdc++.h>
+		{
+
+	if(n<h)
+  	if(check(arr[lt]))
+#define fill(a,x) memset(a,x,sizeof(a)) 
+                 else
+  int flip=0;
+#define mp make_pair
+
+		}
+				Q.push(make_pair(dist[it->second], it->second));
+#include<bits/stdc++.h>
+  	cin>>n;
+const int N = 1e5+10; 
+  cout<<ans;
+	cout<<ans<<endl;
+		    }
+  
+	    cin>>arr[i];
+	cout<<count;
+            if(flag)
+                 }
+  		}
+    if(dp[type][pos]==-2)
+	        System.out.println("-1");
+/* Name of the class has to be "Main" only if the class is public. */
+  		maxi=max(maxi,temp);
+	    }
+	while(t--)
+#define pb push_back
+    else return false;
+         st.pop();
+	cout<<m*n/2<<endl;
+  {
+	}
+
+  cout<<"NO"; 
+			if(*it!=k)	
+	else cout<<"IMPOSSIBLE";
+	if(exp==1)
+
+  	}
+     row(1,0);
+	string s;
+             		flag=false;
+  
+const ll INF = 1e18;
+
+  		index*=10;
+const int N = 1e5+10; 
+   
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+#define pb push_back
+        		if(arr[i+1]-arr[i]!=diff)
+ 
+typedef pair<int,int> ii;
+	    cin>>x;
+
+  	val*=10;
+ 		int l=1;
+  	}
+14588
+typedef vector<int> vi;
+  if(check(r))

@@ -1,0 +1,183 @@
+		next=arr[start[k]];
+using namespace std;
+                 	if(arr[i+2]-arr[i]!=diff)
+    	cout<<n-3<<"UB"<<endl;
+    
+  int tot=0;
+  	{
+ 			if(bear[1] or (bear[0] and bear[2]))
+				
+typedef vector<int> vi;
+#define S second
+using namespace std;
+
+    
+        }
+            }
+		 			if(s[iter1]=='?')
+        else
+ 
+typedef pair<int,int> ii;
+ll sen[110];
+	
+	while(!Q.empty())
+
+#define fill(a,x) memset(a,x,sizeof(a)) 
+	
+    double final= (1.0)*ans;
+  		if(dp[i]<0)
+  {
+}
+  	cin>>n;
+int nums[N+10];
+		{
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  	int p,q;
+
+		dfsdn(edges[source][i],source);
+		}
+#define F first
+  	string s;
+    {
+        cout<<arr[1];
+    maxi=max(p1+p2+p3,maxi);
+int main() {
+      }
+  return 0;
+        	{
+    }
+  	if(b==c and b!=a)
+	{
+  			ts=tm;
+typedef long long ll;
+	if(dp[type][pos]+1)
+  fast;
+				pq.push({dis[u], u});
+	sort(arr,arr+count);
+  	cin>>u>>v>>w;
++ dccwaxguwsmajcoowfuqdoudjysdnuiqwmpymvsknekwjanhhjzlxvqiulnhfyadkrcymwjcdtaownxdwxqvshfmuvwztyefpigdhpfkkia
+    temp.pb(0);
+  cout<<ans;
+		if(len1>len2)
+  		}
+typedef vector<int> vi;
+typedef vector<int> vi;
+using namespace std;
+  	int temp;
+#define F first
+typedef vector< vi > vvi;
+            }
+  int t;
+}
+  	{
+             }
+  	cin>>l>>r;
+
+  
+    int q;
+using namespace std;
+	int i=index;
+  FOR(i,1,m)
+				{
++ bthjgkhrypquzloyamdmfjnyzbhpwstanalulunlkdfjoujogocnxqowtxlsqesfhfbuapfkskvjggxmucctssqlpdffkz
+		
+  cin>>x1>>y1;
+typedef vector< vi > vvi;
+double PI = acos(0) * 2;
+
+			else
+  done[cur]=true;
+  ll evensums=2;
+    A[2*x+1].add=((A[2*x+1].add*A[x].mul)%M+A[x].add);
+#define sz(a) int((a).size())
+		{
+}
+	}
+{
+#define ll long long 
+  fill(done,0);
+  	sort(arr,arr+2*n);
+	for(i=0;i<n;i++)
+	sieve();
+             	}
+  cost[arr[0]+1000]=0;
+    }
+    typedef pair<int,int> ii;
+vector<pair<int,pair<int,int> > > e[100010];
+  cout<<ans;
+  		dfs(i);
+  final=(final+ans[i])%mod;
+                 else
+  	cin>>x>>y;
+     while((temp >> 1) >= val-1 and temp>0)
+}
+  	FOR(j,1,50)
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+
+		ans=max(ans,arr0[i]);
+map<int,int> query;
+        if(flag)
+}
+    int count;
+  return 0;
+    if(i>j)return;
+  	}
+double x[N],y[N];
+  return 0;
+                 	if(arr[i+2]-arr[i]!=diff)
+}
+  vector<ii> ans4=solvemax(dx,dy+hmm,dz+hmm,hmm);
+  }
+  ll sums=0;
+			continue;
+    {
+
+
+    #include <bits/stdc++.h>
+  		tans+=arr[i]/(siz+1)+1;
+		scanf("%lf %lf",&p,&s);
+	pq.push({0LL, s});
+int main(){
+        if(ans==n-1)
+  fast;
+
+    ll mid=(a+b)>>1;
+		printf("ALICE\n");
+  
+}
+const int N = 1e6+10; 
+					help=0;
+			  break;
+		break;
+  FOR(i,1,m)
+pair<ii,int> arr[N];
+		if(i==0)
+
+  freopen("output.txt", "w", stdout);	
+	}
+               else if(temp>=5 and arr[k-1]=='.')
+			flag=0;
+5606
+    }
+       }  
+int main(){
+int sums[100010];
+#define F first
+  ll step=1;
+  if(x <= l && r <= y){
+        
+	ll a=0,b=0,c=0;
+			sums[i]=rat[i];
+}
+                 	if(arr[i+2]-arr[i]!=diff)
+  fast;
+  	big_row(3,0);
+		}
+    else if(ansn==1)
+  		if(parity[index])
+    for(int i=1;i<=w;i++){
+  	FOR(i,1,n)
+int main(){
+            tmp4++;
+    cout<<"0"<<res1<<":"<<"0"<<res2;
+  ans.clear();

@@ -1,0 +1,170 @@
+        	temp=1;
+
+#define fill(a,x) memset(a,x,sizeof(a)) 
+typedef pair<int,int> ii;
+					break;
+			temp3=temp3->next;
+				dp[i][j]=max((dp[i-1][j]+rat[i]),(dp[i-1][j-val[i]]));
+
+    done[s]=false;
+  		cout<<sz(ans)<<" ";
+    
+
+  	}
+  		{
+ll sums[N];
+
+const int N = 3e5+10; 
+    return 0;
+               if(temp>=5 and arr[k-1]!='.')
+  	if(edgebig[i]>n)
+  cin>>n;
+  {
+
+	cin>>n;
+	}
+  			break;
+  	{
+int query(int curr,int l,int r,int x,int y){
+  		dp[i]%=mod;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+
+		return;
+using namespace std;
+	rep(i,0,n)
+  
+	cout<<1;
+}
+			m-=3;
+  FOR(i,0,597)
+	for(int i=1;i<=n;i++)
+
+  {
+
+#define all(x) x.begin(), x.end()
+{
+    int resn = alen + blen - 1; // size of the resulting array
+  	dp[i][9]=1;
+bool check(ll a,ll b,ll c)
+
+				r=mid;
+   if(!both)
+typedef long long ll;
+  return 0;
+const ll mod = 1e9+7;
+  cout<<ans<<endl;
+			if(c=='+')
+#include<math.h>
+    }
+    		rem+=m;
+	while(t--)
+const ll INF = 1e18;
+#define F first
+  cin>>arr[i];
+
+    int main() {
+using namespace std;
+		for i in xrange((k)-1,(p)-1,-1):
+#define fill(a,x) memset(a,x,sizeof(a)) 
+    if(c==4){
+int main(){
+- rxgcssantxddkfxphbnmznrsvxyvfmswkyyetasoyxtieqxlrmztbslwqluvyotknuoiuiyshsc
+  cin>>n;
+    FOR(i,1,n)cin>>in[i];
+  		dfs(i);
+#define pb push_back
+  }
+  FOR(i3,1,sz(ans3)-1)
+	
+    	}
+    sort(s,s+n);
+		dfs(tree[source][i]);
+#define S second
+{
+    int i, j;
+
+    int badch=0;
+  	cin>>u>>v>>w;
+	                break;
+	    	while(input[s.top()]>input[i])
+
+    lazy[0][2*node+1]=0;
+
+       sum2+=arr[index1][i];          
+		{
+	
+#include <bits/stdc++.h>
+	}
+	
+  even.clear();
+    }
+  		}
+double starts[N];
+{
+  	{
+const ll INF = 1e18;
+#include <iostream>
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  FOR(i,1,n)
+      int m = (1 << i), md2 = m / 2;
+    if(min(sum,8-sum))
+  		if(route[0][j]==3)
+    return b;
+  fill(distdn,-1);
+  		cin>>t;
+  {
+	{
+
+	
+				{
+  	cin>>n>>m;
+#define F first
+		
+#include <bits/stdc++.h>
+  ll n,q,s;cin >> n >> q >> s;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	
+int small_l[1000];
+
+const ll mod = 1e9+7;
+  	}
+		if(cur[1]+2<sz(w[1]) and m>=3)
+  else
+- examtbvsfoclhkmfmvrhjpcsuhowizmoyobsqwmxmpjtbxapsszcjbwdknbumqjkekcwiruvgfqjcryulzyucvznibhutqgzclwlcsiixatbrtxctwyvrykzbsvukbtnmryojiyiitlanjei
+	printf("%d",k);
+		//cout<<i<<" "<<count<<endl;
+      if(!found)
+		if(z->low<x->low)
+		{
+	    }
+void merge(int start1,int end1,int start2,int end2)
+			a=i,b=j;
+	        }
+		return ;
+
+#define pb push_back
+  ans+=DP(i,k);
+vector<double> arr;
+#define all(x) x.begin(), x.end()
+	temp-= (x1-x2)*(y3-y1);
+int main()
+  {
+  }
+typedef vector<int> vi;
+  	
+
+			for(int j=i*i;j<=1000000;j+=i)
+	while(t--)
+  FOR(T,1,t)
+	}
+int f(int a,int b,int div)
+	/*for(int i=0;i<m;i++)
+
+				s[a-1]=c;
+typedef long long ll;
+		int t = b; b = a%b; a = t;
+- hlpkjhuyiwvnniclbelbymqrvkbegcdnpuazduzlquaffcqijbkjpcblmersguiyrixuewgvsgcxltguwsdm
+	    }
+28 30
+  		cnt++;
+  			}

@@ -1,0 +1,125 @@
+   static long long int t,minc=600;
+
+			if(temp%2)
+  	if(c=='N')
+	    Scanner sc=new Scanner(System.in);
+  }
+	double p1=val[19999],p2=rub[19999];
+- kvfaziezudevcalabsdndeqrjnkwkprukyulgalderaislitdnigrbzcokyybsulqoxzokcudecxpkqvzbdqcdtqptq
+  dp[1][1]=0;
+int main(){
+	for(int i=0;i<n;i++)
+ 	{
+ 
+	for(int i=1;i<=n;i++)
+				original[0][i]=x;
+    				if(graph[u][v] and colors[v]==-1 and u!=v)
+string s;
+	{
+int i=start1,j=start2;
+using namespace std;
+        A[2*x].mul=1;
+  		reach[3][i]=true;
+    cout<<1<<" "<<1;
+{
+    if(cx!=cy)
+       // cout<<"Merged "<<yRoot<<" into "<<xRoot<<" with diam "<<DSU[xRoot].diam<<endl;
+		}
+  	}
+  		what[i][j+k]='F';
+  	ll ans=0;  	
+using namespace std;
+	{
+    		break;
+	{
+		 sizer++;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  				maxleft[i]=cur-1;
+  cin>>n>>m;
+        if (w[i][j] > w[i][k] + w[k][j]){
+         int count=0;
+ 	while(r-l>1)
+  fast;
+  cout<<maxi<<endl;
+#define F first
+	
+  if(n==1)
+	    arr[root]+=incr[root]-decr[root];
+		else
+      temp=r;
+#define S second
+  	seg.pb(mp(l,-i));
+	{
+using namespace std;
+	
+  int n;
+}
+{
+	{
+  	for(int i=0;i<m;i++)
+    
+}
+			
+#define MID (left+right)/2
+{
+{
+
+	}
+typedef vector<int> vi;
+
+#define FOR(i,a,b) for(ll i = a; i<=b; ++i)
+
+const ll mod = 1e9+7;
+		    }
+const ll INF = 1e18;
+void EE(long long int a, long long int b, long long int& x, long long int& y)
+- dyqgjduzgfljljapmqroslcczemvcqrfojnxphyvolgbvgqjxhyrvatuehpgxjnmsclhjmeyxlbstscszclwcgtinkqltfzmhk
+		else if(tms[r]>=times-1439)
+  fill(trie,0);
+  			if(h[left]<cur)
+	ver++;
+			i=i+4;
+  return 0;
+typedef map<string, int> msi;
+int freqa,freqb;
+int main() {
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+
+
+
+
+  		{
+  
+  fill(d,0);
+	int countr=0;
+	
+	else
+{
+	 
+	int i;
+  	cnt[a]++;
+	cin>>n;
+const ll INF = 1e18;
+  	    row(i,9);
+	}
+#define sz(x) (int)x.size() 
+  	{
+ 
+- yuqsmvriazpxkmqqsjwjnmcfj
+  	cout<<"-1"<<endl;
+		{
+#define FOR(i,a,b) for (int i=(a); i<(b); ++i)
+using namespace std;
+int ANS[N];
+{
+  	cout<<3<<" "<<5<<" "<<4<<" "<<5<<endl;
+}
+        long long int p=0;
+  
+  
+if(a > ed || b < st)
+	return 0;
+		    else
+  {
+            Output[ output_index ] = Input[ index ];
+  

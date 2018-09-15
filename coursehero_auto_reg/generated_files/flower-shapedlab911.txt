@@ -1,0 +1,167 @@
+		if(cur>=sz(s))
+		
+		}
+using namespace std;
+
+  dfs(1,0,1);
+const ll INF = 1e18;
+ll inp[110][110];
+	{
+  	}
+{
+	cin>>str1>>str2>>str3;
+        if(ans==div)
+#include <bits/stdc++.h>
+  int k;
+{
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+		while(i<=n)
+
+int main(){
+		
+        for(int i=1;i<=k-2;i++)
+  	w[i][j]=p[i].distance(p[j])-a[j];
+   	 // ans=ans+DP(n-i,k,val);
+  {
+#define mp make_pair
+	{
+            	flag=false;
+
+  fast;
+  	ans.pb(temp);
+	return 0;
+		cout<<val<<endl;
+  FOR(i,1,50)
+         ans[1][1][1]=a;
+#define iOS ios_base::sync_with_stdio(false)
+  int n,q;
+                if(!flag1)
+	}
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+
+	root=y;
+	    decr[root]=max(decr[root],decr[tree[root][i]]);
+            	cout<<-1<<endl;
+void calculateForwardSpan(int n)
+    while(A[2*x+1].sum>M)
+  int n;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+
+
+int main(){
+using namespace std;
+
+  	}
+      rad+=epsilon;
+}
+  	}
+vector<ll> C[400];
+const ll mod = 1e9+7;
+      for (i = 0; i < n; i++) {
+#define F first
+        if(flag)
+  		continue;
+int deg[N];
+  	int n;
+		ll temp2=0;
+  	}
+						done=true;
+  {
++ ocsttoganawecacntybqsqyvzjgkjtjxxdrsrzsecolgrnvkmwaeoazplhzuakuznlthmlnocywtmrfapfgdhhusptprfjttwmciapzco
+  {
+		int a,b;
+		edges[a].pb(mp(b,i));
+int arr[51][51];
+  	{
+
+   cout<<"8yahan aa gya apun with "<<ans[1][2][1]<<endl;
+int main(){
+  	marked[p]=true;
+
+typedef vector<int> vi;
+typedef vector<int> vi;
+  c[1][1]=4;
+  maxi=sum;
+typedef long long ll;
+        if(discovered[top*2]==false && top*2<=10000)
+  return 0;
+  fast;
+	
+	q.push(n);
+	 	return 0;
+- xqtdxttftsryivtjwzwghhh
+  	char c;
+			temp=m%n;
+		{
+	        int res=min(rem*a,b);
+		counts2[arr[i]]++;
+    if(c==4){
+  	int n;
+      }
+	     {
+#define pb push_back
+#define sz(x) (int)x.size() 
+                else if(!flag3)
+
+  	}
+	{
+    dp[i][0]=1;
+        bool flag=true;
+#define sz(x) (int)x.size() 
+		cin>>n>>c;
+            //cout<<ij<<"-> add: "<<A[ij].add<<" mul: "<<A[ij].mul<<" ini: "<<A[ij].ini<<" sum: "<<A[ij].sum<<endl;
+}	
+	
+#include <bits/stdc++.h>
+int query_tree(int node, int a, int b, int i, int j) {
+		if(sum==newsum)
+        for (int i = 0; i < n; i++)
+
+  	{
+
+	    countNext++;
+10948
++ jbegcxvtivzoiqjzxhkplmfdmjgcqrbbtfjxffsncrdmjmngvxygjdjymqcejfhemrcryugaojpxxcesaeylhklvcnznugshzuaxqjaespesrimtonfvzsqbiroczilzcmyvvyzppdjjnycbljymcqpmhfohoaiqogllhncysohimmjzxklba
+        FOR(i,0,sz(delay[here])-1)
+  }
+typedef pair<int,int> ii;
+}
+  FOR(i,1,n)
+  }
+  FOR(i,1,n-1)
+   FOR(i,0,len-1)
+
+  FOR(i,0,sz(help)-1)
+           val=gcd(a,n);
+#include <iostream>
+#define L(x) ((x)<<1)
+return;
++ fujizenyeurtimgnedcgqekftoegdveirpqqufrabktlxzzbfdivhuaakegnbmxtcpjyucyxntjkvinalxvtuxvgecuhqtasjmsfosdbmonhwbjjaeeudabhexpuqrpbfjjucmxoalxyoghomolpqmzujoqbfhflro
+                	q1=q2;
+  ans+=cnt*(m-cnt)+(cnt*(cnt-1))/2;
+	cin>>t;
+    temp+=arr[i];
+  {
+		typeof(cfreq.begin()) it = cfreq.lower_bound(k);
+			aux[source]=1;
+        printf("%lld\n",atleast[f]);
+		int l=1;
+typedef vector<int> vi;
+const int N = 2e6+10; 
+
+
+		int dummy1=min(weight[edges[source][i].S],mini[edges[source][i].F]);
+
+		if(i==primes.size())
+
+    }
+	{
+  cin>>n>>m>>k;
+#include <algorithm>
+        flag=true;
+using namespace std;
+#define sz(x) (int)x.size() 
+    	return -2;
+               		carry=0;
+
+

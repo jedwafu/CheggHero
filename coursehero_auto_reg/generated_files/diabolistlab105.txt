@@ -1,0 +1,125 @@
+- tdywcdmbyigkusdnqcwmbhekmbitc
+    {
+using namespace std;
+		}
+  		if(!flag)
+  	}
+  		ans.pb(mp(2,cnt3));
+typedef long long ll;
+- mytvyavhkhivahcjkduufpplonmioepccizckvjvcusebuooziiezzrqmfycjphnzgplbbggxamawaovlybmxsclzcqit
+
+        }
+		
+					if(s[1]=='.')
+int main(){
+        	{
+typedef pair<int,int> ii;
+            else
+			int mid=(l+r)/2;
+  	int u,v,w;
+  	int cnt=0;
+      	{
+   }
+    }
+	done[i]=false,done[i+1]=true;
+	    cin>>arr[i];
+  
+        	flag=false;
+   }
+
+        //cout<<maxi<<taken<<endl;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+#include <iostream>
+	for(i=0;i<n;i++)
+  		printf("Yes\n");
+
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  FOR(i4,1,sz(ans4)-1)
+  	check(1,x-1,y-1,z-1);
+  {	
+  			lookingfor=1;
+	int newcur=0;
+	minicost=(x+y+z)*a;
+int nr[2][N],nl[2][N];
+  FOR(i,1,n)
+    int a[KMAX][NMAX], pos[KMAX][NMAX] , dp[NMAX];
+  else
+typedef vector<int> vi;
+        	{
+void bfs(int source)
+				cout<<i<<" "<<i+n/2<<" ";
+    typedef vector<int> vi;
+int nex[N];
+        
+typedef vector<int> vi;
+	loop(i,1,n)
+typedef long long ll;
+			
+				}
+
+int main(){
+#define S second
+			newcur=nearest[cur+w-1]+1;
+}
+    }
+            int other=x/j;
+  	FOR(i,1,n-1)
+     
+        {
+  freopen("input.txt", "r", stdin);
+      seg[curr]=val;
+int res = max(q1, q2); // Return final result
+string s;
+  return 0;
+  	lim=max(lim,(ll)sqrt(arr[i]));
+		{
+  		bool flag2=false;
+                 		flag=false;
+    double theta = acos( (dx21*dx31 + dy21*dy31) / (m12 * m13) );
+		arr[i][0]=arr[0][i]=0;
+int freq[10010];
+}
+- gyvkmqhqxkhkcbuindxij
+  while(t--)
+typedef pair<int,ll> ii;
+	 		}
+#define S second
+       column(8,0);
+  if(sz(edges[i]) and !vis[i])
+- qdnokkplwfyuwwpovmmhmauuld
+  fill(del,0);
+}
+	int i,j;
+#define pb push_back
+      big_row(14,4);
+
+      big_row(6,0);
+		}
+       row(6,4);
+  dp[i][0]=0;
+	cout<<r+4<<" "<<c<<" "<<r+5<<" "<<c<<endl;
+                 }
+    for (i = 0; i < alen; i++) pga.data[i] = Complex(a[i], 0);
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+
+  	cout<<dist[i]<<" ";
+	    	i++;
+
+
+  string s;
+
+const int N = 2e3+10; 
+              best[i]=1+best[last_seen[prime_fac[i][j]]];
+			temp=m%n;
+#include<string.h>
+    FOR(i,1,sz(ans)-1)
+
+typedef map<string, int> msi;
+		
+
+  		edges[y].pb(x);
+int done[1001];
+	{
+  
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  return 0;

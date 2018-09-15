@@ -1,0 +1,175 @@
+		else
+#define F first
+
+		
+  	cout<<(1000*sum)+(100*(n-start+1))<<endl;
+}
++ iahdakbejdzlkayucxlncqkngkpmaufkxpozzrgkufveftakrlxvdjimtaywwegttutunzehgzomvqyoexljhwvcw
+	
+int main(){
+	return 0;
+  cin>>n>>h;
+  int n;
+  		{
+#include<iostream>
+ 		cin>>k;
+  	}
+}
+        
++ xulessrthxpeiojbrklbbglh
+	int mini=10000000;
+}	
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+
+  cin>>arr[i];
+ll weight[200][200];
+      big_row(3,4);
+        data[i].b /= n;
+  	if(ispalindrome(it->F))
+}
+  		c[1]=s[i+1];
+    {
+		}
+
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  		if(temp<0)
+  if(qx<=cx && cy<=qy)
+			if(y->color==1)
+}
+	cin>>s;
+                 
+   found=false;
+
+ll qsize[110];
+typedef pair<int,int> ii;
+
+		
+#include <iostream>
+typedef long long ll;
+
+
+  			else
+        for(int i=0;i<n-1;i++)
+}
+		cin>>arr[i];
+  		if(j-arr[i]>=0 and j-arr[i]<=2*offset)
+  	if(check(mid))
+  
+  				a[j+d]-=(target-a[j]);
++ oysiyardbiehfwhxcrppgltfytoheyovyidwiwzmggvoecljwaycnrj
+	std::cout<<a<<" "<<b<<"\n";
+#define sz(a) int((a).size())
+	while(t--)
+     for(int i=1;i<=13;i++)
+#define F first
+  while(t--)
+  
+	if(n%3==0){
+  for(int i=0;i<n;i++)
+int a[N];
+  	{
+		{
+  				query[command[2][i]]+=mod;
+  	int val;
+ 
+#include<bits/stdc++.h>
+  return 0;
+}
+#define sz(x) (int)x.size() 
+  int t;
+  	NFOR(i,n,1)
+	eulertour.pb(source);
+  	}
+
+  	{
+- uovgs
+         		if(color[i]==0)
+  			ts=tm;
+		if(arr[i][j]==temp)
+		i=0;
+	    if(res>0){
+	return false;
+  {
+		
+	        cout<<s[i];
+				}
+    if(a>b||a>j||b<i)return;
+    int b=rand()%1000+1;
+
+- worbquflgbhdyqjshsjuwfhhaxofaiqywhcmdhzmigpgwaafsjbqpjyrimxlwpjtxlhcshocnfl
+
+int main(){
+
+ 
+#define pb push_back
+	for(int i=0;i<1000010;i++)
+        	if(intersect[j].S==0)
+                 		break;
+               	   carry=1;
+	    }
+      	ans.insert(mp(t[i],s[i]));
+  	column(3,0);
+typedef pair<int,ll> ii;
+public:
+
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+vector< pair<int,ii> >queries(N);
+
+
+  }
+    cout<<x<<" "<<y<<" "<<z<<" "<<a<<" "<<b<<" "<<c<<endl;
+
+
+		if(cur[1]<sz(w[1]) and m>=1)
+         ans[i][1][1]=a;
+#include<bits/stdc++.h>
+            }
+                   break; 
+}
+using namespace std;
+typedef long long ll;
+	for(int i=0;i<s1.size();i++){
+	}
+typedef pair<int,int> ii;
+  {
+
+
+	int t;
+	if(exp==1)
+  				dp[0][i][j][k]+=1;
+const ll INF = 1e18;
+	    int res=0;
+using namespace std;
+                 {
+			m-=2;
+  }
+const int N = 1e5+10; 
+		
+#define pb push_back
+  {
+using namespace std;
+int main()
+int main(){
+	if(arr1[k-1]<arr2[nb-m])
+		//cout<<i<<" "<<count<<endl;
+  if(n==11)
+#define sz(x) (int)x.size() 
+             	if(s[i]=='.' and s[n-1-i]=='.')
+        
+int main(){
+  fill(death,0);
+  int fans=0;
+	int n,p;
+const ll INF = 1e18;
+  
+ 
+
+
+  	column(8,7);
+#define F first
+         	for(int l=1;l<=m;l++)
+               	arr[i]='0';
+#define pb push_back
+
+int main(){
+			i=i+4;

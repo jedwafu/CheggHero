@@ -1,0 +1,161 @@
+  			break;
+ll L;
+  	double epsilon=0.01;
+  ll t1=m+2;
+  	target/=n;
+		
+					}
+        
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+- dgtydbhijvkqswjntecfdyynixfezxdeeyehzlrjhbzbzkotorysryhavngukjaoifxjqpuzsvasfpluilozjvbeihattcjdhjmaajbseckktxgdiwctrgzcnbvgegjlpynrh
+		else
+	{
+   found=both=false;
+map<ll,ll> freq;
+int seg[4*N];
+typedef long long ll;
+#define F first
+
+typedef pair<int,int> ii;
+		while(curR>q[i].r)
+    }
+}
+#define F first
+	    if(arr[i]==7 || arr[i]==4)
+    }
+  fast;
+
+      cin>>temp;
+  	FOR(i,2,sqrt(n))
+{
+typedef pair<int,int> ii;
+			j--;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+	
+     
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+    int ans=1;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  		}
+
+using namespace std;
+#define sz(x) (int)x.size() 
+    FOR(i,1,n)cin>>in[i];
+const ll INF = 1e12;
+const ll mod = 1e9+7;
+      lazy[kd][pos*2+1]^=1;
+	    i++;
+					k++;
+ 
+using namespace std;
+  		sizes.push_back(sx);
+int main(){
+      if(!found)
+	done[2]=false;
+    calculateSpan();
+  	allowed[temp]=false;
+
+                 		flag=false;
+  FOR(i,1,n)
+  			lo=b+1;
+      big_row(4,0);
+int calc(int pos,int flip)
+       row(r,c+4);
+}
+   if(flag)
+  	return 0;
+}
+#define nloop(i,a,b) for(int i= int(a);i>=int(b);--i)
+ll arr[N];
+			if(temp==0)
+  		}
+  	cin>>x>>y>>p>>q;
+      if (inverse) {
+  	FOR(i,1,n)
+		
+  beauty.clear();
+    
+  {
+	    for(int i=0;i<s.size();i++){
+vector<ii> later;
+
+	ll temp=0;
+  	reverse(arr,arr+2*n);
+typedef long long ll;
+ll fval1[N];
+    lazy[0][2*node]=0;
+  	if(cnt>1)
+
+  fill(sp,0);
+
+  fast;
+        res2=mm1-mm2;
+	freq.clear();
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  {
+
+#define S second
+vector<int> primes;
+  	sort(it->S.begin(),it->S.end());
+	    }
+	cout<<r+4<<" "<<c<<" "<<r+5<<" "<<c<<endl;
+  	nex[i]=arr[i];
+  }
+#include <bits/stdc++.h>
+                 	}
+map<long long int,long long int> counts1;
+template <typename T> using os =  tree<T, null_type, less<T>, rb_tree_tag, tree_order_statistics_node_update>;
+			for(int j=i*i;j<=1000000;j+=i)
+	sums[0]=0;
+	}
+void build(int curr,int l,int r){
+    return n;
+		    sum2+=temp;
+  }
+	count[0]=count[4]+count[3];
+void Sieve()
+			{
+	else
+      // If stack becomes empty, then price[i] is greater than all elements
+
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  		//if(dp[i][j])
+	build(t, L(id), l, mid);
+const ll INF = 1e18;
+int main(){
+    if(m==0)
+	else if(m==n)
+		
+  	int p;
+	    
+  FOR(i,0,597)
+
+			attached[*it]++;
+	int cur=1;
+  			last=j;
+	int flag=0;
+  	if(l*l*l==num)
+	for(int i=1;i<=k;i++)
+  			Q.push(to);
+  		int idx=1;
+ 	{
+  		double angle=atan2(x1*y2-y1*x2,x1*x2+y1*y2);
+	cin>>s;
+		maxi=max(area,maxi);
+
+    int taken=0;
+	}
+		cin>>c;
+	
+       	trie[point][s[j]-'a'+1]=count++;
+			{
+		 {
+  FOR(i,1,k[1])
+  FOR(i,2,n)
+  }
+} 
+            tmp4++;
+        	}
+		
+	}
+    int r = k;

@@ -1,0 +1,170 @@
+ 
+int main()
+#define sz(a) int((a).size())
+	ll a,b,count=0,x,i;
+  return s[curr]+query(c1,l,mid,index)+query(c2,mid+1,r,index);
+{
+  	w[i][i+1]=w[i+1][i]=1;
+typedef pair<int, int> pii;
+#include<bits/stdc++.h>
+    	flag=0;
+				z->parent->color=2;
+      if(t==0){
+int main()
+		 if(dummy[i]==0)
+  cin>>n>>a>>b>>k;
+- qurgocmepdskbjokseokektejtuczwlsreyhinmxqgktpagjeuvigpopilrjjebcickrpw
+  	FOR(i,0,l-1)
+		if(cur[1]<sz(w[1]) and m>=1)
+		sum=sum-arr[i-1]+arr[i+k-1];    
+             	else if(s[i]=='.')
+    build(2*node+1,(i+j)/2+1,j);
+}
+	{
+struct ADDMUL
+
+	int n=sqrt(dif);
+  freopen("in.txt", "r", stdin);
+  {
+  		{
+		return;
+	if(arr[0]%3==1)
+    return;
+#define tr(container, it) for(typeof(container.begin()) it = container.begin(); it != container.end(); it++)
+	    arr1[i]=s[i]-'0';
+
+#define F first
+	int n,m;
+       row(5,0);
+			fs+=arr[d][b];
+	int count=0;
+	cin>>s;
+	        }
+				countodd1++;
+
+	
+  		if(temp==0)
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+const ll INF = 1e18;
+
+    		in(pos[0][i]);
+#define F first
+const ll mod = 1e9+7;
+  	row(9,7);
+  {
+  return 0;
+#define S second
+  	//wsmall[i]=arr[i];
+  int t;
+	int t;
+  	cout<<4<<" "<<4<<" "<<4<<" "<<5<<endl;
+typedef map<string, int> msi;
+			arr0[i]=arr[i];
+    update1(node*2+1,(a+b)/2+1,b,i,j,value);
+  	FOR(j,2,n)
+    }
+typedef long long ll;
+  FOR(i,2,n)
+  	{
+  	{
+
+       	ans[i][2][2]=a;
+#define F first
+  int cur=h1;
+
+    FOR(i,1,n-1)
+		cur++;
+  		if(i==n-2)
+		if(edges[source][j]==true && done[j]!=2)
+  FOR(i,1,n)
+#define sz(x) (int)x.size() 
+  }
+}
+		cout<<"No"<<endl;
+	cin>>n;
+     	      //      cout<<"popping "<<f<<endl;
+                 		flag=false;
+	}else if(minrev==0){
+using namespace std;
+                 }
+  	ll temp;
+{
+typedef pair<int,int> ii;
+	    for(int j=0;j<2;j++){
+using namespace std;
+    }
+  	}
+	x->left=y->right;
+        maxi=max(maxi,best[i]);
+        	discovered[top*2]=true;
+- jszzpixjzdbqwbjzislbsamkhnsxkwstqrugzupaxrtvueucwieqksbtivqstinkaiqbcfebyxwsdsxzcbpnvsgdnxxhflrhthlxorynqwhtqeuthlgfeoitliatttcoaplrglgyjntzupsbbaghpraazdvuwaizpvqyiwwrjsqfhlhilpraiudjxadtalsqiiq
+	        flag=1;
+  fast;
+			}
+	string s;
+	
+int find(int n)
+	{
+}
+    	ans[i]=index;
+      {
+                else if(times[arr[cur]]<times[cur] and times[arr[cur]]>0)
+		rep(p, adj[v]){
+  }
+int k;
+    }
+    pga.setSize(s); // fill and transform first array
+ 
+  			if(j-k>=0 and j-k<m)
+		}
+    PII item = make_pair(v[i], 0);
+            }
+- zvnwcssivdadyqdbjedyredmcjgegmagipekhyvfdxiboncztfxkmcyoleuuruablgnvekaiikjyzoxsvwehzdvmhpgalibzqruxdwfliqlheibaffjgifuqwdsknwjendbqbiejypqfathfyqnjxhzukrgynpecufvvnzenqwsqpzxnqkwpuxjerpeggilangvchz
+void insert(ll val)
+}
+		if(done[i]==false)
+			cout<<"No\n";
+int main()
+	return nl[1][pos]-nr[0][pos]+1;
+#define sz(x) (int)x.size() 
+ 		else
+	        val++;
+  		FOR(j,0,m-1)
+		    else
+	    cout<<r1+1<<" "<<r2+2;
+	for(int i=1;i<=n;i++)
+void check(int t,int X,int Y,int Z)
+		 count2=0;
+	}
+public class Codechef
+#include <bits/stdc++.h>
+#define fill(a,x) memset(a,x,sizeof(a)) 
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+ 			index=r;
+       	 {
+	{
+  		int temp;
+  if(typ[i]==1)
+	        flag=0;
+   		nbr[source].pop();
+	int k,i;
+	if(counts==0)
+		{
+    if(k==1)
+		cout<<n-1<<endl;
+		 cout<<endl;
+	bool flag=true;
+}
+  cin>>t;
+  int a,b;
+	while(count<n)
+const ll INF = 1e18;
+  done.clear();
+            	maxi+=char('0'+d);
+  fast;
+    A[x].add=0;
+#define pb push_back
+vi edges[N];
+		}
+int b[210];
+    if(a>=i&&b<=j)return treee[node];

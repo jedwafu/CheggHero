@@ -1,0 +1,183 @@
+	int countb=0;
+        double temp=4*b;
+    int x;
+  ll x=0,y=0,yt=0;
+}
+  cin>>n;
+	for(int i=0;i<3;i++){
+
+    for ( int i=0;i<n;i++)
+	   	ans1=ans1/2.0;
+    k++;
+  return 0;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  		num/=5;
+		sum=0;
+  {
+update2(B2, j + 1, -v * j);
+           break;
+  	cout<<s[i]<<" ";
+#if __cplusplus <= 199711L
+#include <bits/stdc++.h>
+		tem[i]=ori[n-1-j];
+   		}
+  {
+        {
+  
+
+		//	cout<<slopes[k]<<" "<<points[0][k]<<" "<<points[1][k]<<endl;
+
+    lazy[2][2*node]=lazy[2][node];
+std::cout << root->data << " ";
+	right=pos[1]+sp[1]*t;
+			{
+        	{
+  {
+using namespace std;
+// Range query: Returns the sum of all elements in [1...b]
+    }    
+  		{
+
+  			if(i>j)
+#include<bits/stdc++.h>
+                m=0;
+	}
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+    int maxval=arr[0][0];
+		
+	{
+  	edges[p].push_back(i);
+
+		dfs(edges[s][i],s,d+1);
+#define fill(a,x) memset(a,x,sizeof(a)) 
+		}
+#define S second
+
+  
+  {
+		    }
+      lazy[kd][pos*2]^=1;
+  while(t--)
+		}
+const ll INF = 1e18;
+  {
+				{
+  sort(a+1,a+2*n+1);
+  	temp%=md;
+typedef long long ll;
+
+}
+		q.pop();
+  {
+
+    return 0;
+#define sz(x) (int)x.size() 
+  			if(check(i,j-1,i,j,i,j+1))
+int prev=-1;
+    }
+		arr.pb(source);
+	{
+  	if(rights[i]-lefts[i]==maxi)
+	int temp,count=0;
+
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+typedef pair<int,int> ii;
+
+  return 0;
++ lyjoawfz
+  			val2=val2 | vals;
+  a[1]=start;
+using namespace std;
+  	}
+		    
+void dfs2(int source)
+#include<bits/stdc++.h>
+tree[node]=add((tree[node]),(adds[node]));
+i++;
+const int N = 1e5+10; 
+  	ll val=1;
+}
+    }
+
+  }
+#define pb push_back
+typedef long long ll;
+  			cout<<arr[2]<<" "<<arr[3]<<" "<<arr[1]<<endl;
+  	yes[temp]=true;
+  while(r-l>eps)
+33048
+  	suff[i]=pre[n]-pre[i-1];
+	int ans=0;
+  cout<<ans;
+  	{
+	for(int i=0;i<=100010;i++)
+}
+        	count++;
+  cin>>n;
+  int threshold=0;
+			continue;
+	int maxi=1;
+  	ll u,v;
+  fill(dp,-1);
+#include <bits/stdc++.h>
+typedef pair<int,int> ii;
+int indeg[101];
+nodes[stIndex].addUpdate(value);
+			    cout<<top;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+	}
+
+double epsilon=1e-8;
+  int level=0;
+  string s;
+	int n,k;
+  FOR(i,0,n-1)
+#define F first
+		max2=count2;
+#define sz(x) (int)x.size() 
+adds[2*node]=add((adds[2*node]),multiply((adds[node]),(a-mid+1)));
+			return false;
+int main() {
+    lazy[0][2*node]=mul(lazy[0][2*node],value);
+	while(t--)
+			 	ans++;
+	int max=0;
+		   		flag=1;
+- weseztboztntappvxtjbotvwgjuuweosihxhaaybvlwvdnragcdvvyrejmyhsncbubkwbizwwwrzjibqnfnifgorunyncaoybywejvaftugdejvrokcwsqnnflcjosjpsfwb
+}
+
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+			{
+	char arr[1010][5];
+		
+  		cin>>temp;
+#include <iostream>
+int main(){
+  		continue;
+long long int dp[100010][501];
+#include <iostream>
+
+  	cout<<"YES";
+}
+                 {
+	               }
+}
+#include<string>
+	cin>>x1>>y1;
+
+  cin>>arr[i];
+  }
+     
+  FOR(i,1,m)
+			count=1;
+			while(q.empty()==false)
+  
+#define pb push_back
+grand_parent_pt->color = RED;
+	cin>>girls[i];
+	if(exp==1)
+  	dp[i]+=2*(prefix[2*i-1]-prefix[i]);
+	sum=sum-newsum;
+	return 0;
+this->N = N;
+		while(a>0)

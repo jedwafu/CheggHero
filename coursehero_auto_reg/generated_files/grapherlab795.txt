@@ -1,0 +1,142 @@
+
+  
+            	return 0;
+const ll INF = 1e18;
+13806
+  vector<ii> ans1=solvemin(dx,dy,dz,hmm);
+	for(int i=0;i<s.size();i++){
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+
+   //cout<<root<<" "<<ans[root]<<endl;
+}
+  update(c1,l,mid,left,right,val);
+- rhqhjzbvkecjdxjgvygzbpxsoepcjpxawnhhmkcyrghudsazrjasyzknebrntonrbxzphdnykwvnpxogiqahqkwwnnjgcyyfxzxfcmfmjcaycqgkhgtzspvhdgoheo
+
+  FOR(i2,1,sz(ans2)-1)
+  	
+typedef pair<int,int> ii;
+	{
+	return true;
+  		}
+}
+  	ll temp=mod_inverse(y,md/g)*x;
+{
+
+  		l=mid;
+  FOR(i,1,n)
+	int t;
+		}
+    for (int i = 1; i <= n; ++i) {
+int main()
+  }
+using namespace std;
+
+const ll INF = 1e18;
+    build(2*node+1,(i+j)/2+1,j);
+	for(int i=0;i<s.size();i++){
+	                count++;
+  { 
+50978
+		int top=q.front();
+  
+	}
+update_tree(1+node*2, 1+(a+b)/2, b, i, j, value); // Updating right child
+	}
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  	maxi=max(x,max(y,z));
+
+#define S second
+  FOR(i,1,n)
+#include <bits/stdc++.h>
+  ans=l;
+	dps[i][0]=dps[i][1]=dpd[i][1]=dpd[i][2]=INF;  	
+		{
+		return 0;
+	
+		
+				temp->high=r;
+#define present(c,x) (find(all(c),x) != (c).end())  // for vector
+  s1[curr]=0;
+  		cnt++;
+   	 fval1[source]=(ll)1e15;
+58 83 17 40 415 78
+#include <bits/stdc++.h>
+		int n;
+        A[2*x+1].sum-=M;
+       }
+ 			int mid=(l+r)/2;
+using namespace std;
+  			if(i+j+k==i or i+j+k==j or i+j+k==k)
+void dfs(int source)
+#define S second
+  int n,cur=0,ans=0;
+		if(DP(k-2,false)!='-' and len[0][k-2]<minlength)
+
+    if(dp[type][pos]==-2)
+  	}
+#define sz(x) (int)x.size() 
+  int ans=0;
+#define sz(x) (int)x.size() 
+	For(i,0,n)
+}
+#define mp make_pair
+             {
+#define S second
+  		cout<<0<<endl;
+    if(sp[i/sp[i]]==sp[i])
+- wfleihbhgswmqhqrbhwomggyctdgypfuuqaezelgyhuoqkfrreiemqeqjhwiwdestfyvjjdhtxxjhcdbinfvdllmskwqndkhiietrhcmezwndbomovjtguhagequhadrihkcooounmhqnyedtnwckecqkvkrvnigwukmiyg
+/**
+  	int k;
+	{
+  	int n;
+	while(t--)
+    lazy[kd][pos]=0;
+      if(k==1)
+	return 0;
+
++ sjnolqwgnlfvhoqscqizahvgrbyevvmngzbupaafnfawwsqykyxkgutzvrdrppgvokpgmplzxnvvfmtsksesoxsjrv
+	int arr[21];
+
+#define F first
+       	found=true;
+  cout<<"ver"<<endl;
+	pow2[0]=1;
+  }
+using namespace std;
+		int l=1;
+		 	if(dummy[i]==-1)
+typedef pair<int,int> ii;
+			{
+        flag=true;
+ll decr[N];
+void dfs(int source)
+  	}
+  	if(cnt>1)
+{
+  	ll w;
+  cin>>prep[i];
+- zsphmngwhvhgzqakytibcjibbduelwunqjucycbhxiqyaqkyltanekofnilbgfoxqkzomaylkomkewlprnfvxtbneoomuejmoldclbpwpbitytkpiplglovrcjdynnndyqhlrwjgysbynlnwdaeoqzhtkktzzgcxyjlphuvfoydektcpvgfmhmhtwaswjuvjfg
+  		printf("%lf",arr[lt]);
+       { 
+#define F first
+	while(a>0 and b>0)
+    update1(1,1,n,a,b,val);continue;
+	cin>>t;
+  	fill(sums,0);
+ll sp[N];
+				water=min(water,edges[end][0].S);
+		bool done=false;
+				if(i & (1<<j))
+
+
+int check[100000];
+	}
+  ll m1,m2,m3,o1,o2,o3,p1,p2,p3;
+  				where[i]=last[k];
+int sum=0,counts=0;
+
+21518
+  	queries[i].S.S=v;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+
+ll d[N];

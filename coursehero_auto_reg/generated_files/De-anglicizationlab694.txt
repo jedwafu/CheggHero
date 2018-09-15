@@ -1,0 +1,119 @@
+
+    }
+  		{
+	}
+  		int vals=((1<<j) & nums[i]);
+	int n,m;
+}
+#include <bits/stdc++.h>
+  FOR(i,l,mid)
+
+  FOR(i,0,sz(arr)-1)
+#define sz(x) (int)x.size() 
+
+		   edges[i][j]=false;
+			//printf("%d ",next);
+  dfs1(0,0);
+				else if(s[a-2]=='.' and s[a]=='.')
+  if(i%2)
+#define S second
+- zgnqatlircqqyvmesfnueypkumexyygxgtphoapieiydfljxswtwujjoxnoxowwurlbfotnsdmxizjhtfarclasiqghgedavpebdzqxcexmdgtwnvopjqktisboxersvvvawmaysxmwffuuckmldwfloicnmvgksdkorkokjaiqhcljpxxst
+  	FOR(i,1,n)
+  vector<Complex> data;
+  int arr[]
+const ll INF = 1e18;
+      big_row(12,4);
+                 	{
+    return;
+	
+#define F first
+  reverse(ret.begin(), ret.end());
+const ll INF = 1e18;
+		int n;
+  	}
+	}
+#define mp make_pair
+#include<bits/stdc++.h>
+
+
+    if(n==i)
+//code belong to Niraj Sazzie
+  	l=max(mini[i],l);
+	fill(dis, dis + 9 * maxn, inf);
+  if (n<=10000) Bk=390;
+	cin>>w>>m;
+- onvkyexuogcrztjokcobzianolcprswgfrqfxnbmvdfvyqjjvxmuimjyalprfoznhpsffwtabyvao
+  FOR(i,1,n-1)
+  int t;
+
+	cin>>n>>m;
+ if(ans<0)
+  cout<<"YES";
+        {
+  				dp[i]=dp[last[j]]+1;
+	        ch=tolower(s[i]);
+  {
+24410
+	{
+    cin>>a>>b>>n;
+		cout<<-1<<endl;
+    ll n,q,a,b,c,val,ans;
+	return maxi;
+const int maxn = 1e5 + 100;
+			sums[i]+=mod;
+    return seg[curr];
+#define F first
+  	sort(srted_s.begin(),srted_s.end());
+}
+  	   }
+			
++ vszupfbbkfdtnalaytzhnebsznbgovfjnefejhfwoipdkceiwfrlkuglhhrycwjrcrvoadkonbuyeagcfanrutdebueftnxvgujgxvxlxrlbrrfytsqqmvupp
+        else {
+	int * sum= new int[n];
+    }
+             	p1=x1,p2=y1;
+       else
+		cin>>arr[i][j];
+const ll INF = 1e18;
+  pre[2]=abs(arr[1]-arr[2]);
+  			break;
+const int N = 1e5+10; 
+#include <iostream>
+        	{
+    A[2*x+1].sum=((A[2*x+1].sum*A[x].mul)%M+(A[x].add*(se-m))%M);
+  FOR(i,1,n)
+	int t,r,i;
+#include <bits/stdc++.h>
+
+const ll mod = 1e9+7;
+	int l,r;
+
+  		{
+   findrx(1,1,n);
+}
+				z->parent->parent->color=1;
+#define F first
+	        System.out.println(res);
+  int n,m;
+#include <bits/stdc++.h>
+	//cout<<"\ncall to "<<index<<endl;
+
+  	toggle[i]=1-toggle[i];
+	counter++;
+  	else
+        	cout<<arr[i];
++ pzdehmuavuuibyvfpcsslfrrnnlckiezihgpvcsszoccmyidcavnhoewcqboafq
+  	{
+}
+  {
+#define S second
+  }
+  pre[2]=abs(arr[1]-arr[2]);
+    if(a!=b){
+  	   {
+			dpd[index][1]=(solve(1,index,0)+weight[s[index]][d[index]]);	
+        return;
+#include<bits/stdc++.h>
+
+        {
+	{

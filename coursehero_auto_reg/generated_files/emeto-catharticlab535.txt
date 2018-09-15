@@ -1,0 +1,128 @@
+	cout<<n-tcount;
+const ll mod = 1e9+7;
+#include<bits/stdc++.h>
++ qfhyyeuwlehnkxfqujirlhgcwztfpmxhueiskeovixjsuojqarilzopxpkcexzmrgulqybohyzzunilpctcdjsazcefbfrunnfgmguvgtwbifmyjhcmsuotzuzczqxngetsnpptilwssiqbrvpkpfdqzetbvsqdwlxlamfkxbcsmvtfqlphsvy
++ alfhlvfahtfbhecbaqibzbbqmzcdzfjbtqjgnogujoysuatusexthzjtanzbvkcoalunbchmsffmhajbggupfdjftkgoujcuwyjacsmvathhuqjczfsejdmenushfwdcumcyeqtekdoevziueazpdntqhnznjerfqvexlzdvctbyskuzkvoqiii
+      int count=0;
+int w[N][N];
+  }
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+			
+  			}	
+{
+               {
+
+    if(C[i].F<=c)
++ azlamwlcrkaafxkftmeoyalyiwdavogvprxboifhvhjaeugaikoikchvakvvabspvpsjxasuhcvmydoincqagxxghsdjwvytktcktweaaboyeciuhzw
+using namespace std;
++ aosctvibxzihuzzfofmszfvucolpxdnztheocmpblajhzinppzhreeljtxascnuvuykykbzybkfcturkubbahnjamjvoyplunxuzzwxcgfhbzamvdpwlehnqtkgtzsqorkqsinxrueswggrkwpxazktsxznwtdnnqdfyscpniklpqcbo
+  	if(s[i]=='-')
+}
+typedef vector<int> vi;
+	           }
+		else
+#define S second
+typedef pair<int,int> ii;
+	return;
+    int a,b[100001];
+  return 0;
+	
++ clsdnreodeurzvadwjinnagxydcrzfkctehivnxyrrprpruncebqejndnr
+vector<ii> sorted;
+                 	}
+vi edges[N];
+  		nr[1][i]=nr[1][i+1];
+    temp=i*arr[i];
+		assign[source]=d;
+				if(arr0[j]!=0)
+      big_col(5,8);
+		printf("%.2lf\n",max(x1*y1,x2*y2));
++ klincbigooaflhbhpsilnvslztisjlqvwykbcvhsjjzutbdivotkjnwiggcrrspptzqvuznfjnze
+int main(){
+typedef long long ll;
+  		row(i,16);
+		}
+  	{
+  for(it = beauty.begin(); it != beauty.end(); it++) 
+typedef long long ll;
+	  }
+	            if(val==1){
+  while(r-l>1)
+    }
+  vector<ii> ans4=solvemin(dx,dy+hmm,dz+hmm,hmm);
+
+	int n;
+	dp[index][r]=0;
+  			if(y-b[i]>=0 and prevs[j-1][y-b[i]]!=-1)
+  		dp[i]=sums[hi]-sums[lo-1]-sums[i]+sums[i-1];
+#include <bits/stdc++.h>
+  	maxi=dp[c[1]];
+			adj[l].pb({ver[t][id], 0});
+				
+  void setSize(int ns)
+		{
+const ll mod = 1e9+7;
+int main(){
+	  }
++ nebqpjyzedhadqkdoxgjtvxzrrdnmqxaxzsmiqlotsqzlacbxkmtglszdxopomrnljztcmjvhzuubzvylhtrsotxlhnbteoeqpzsckpjjmdknylyhgsbulziuojosaukpwcrgsaq
+const int N = 1e7+10; 
+		{
+  }
+	ll ans=0;
+const int N = 1e5+10; 
+bool edges[101][101];
+  }
+	//cout<<"here"<<endl;
+int arr[1010];
+    }
+const int N = 1e5+10; 
+	    cin>>arr[i];
+    freq.clear();
+	               bit=1;
+	char ch;
+	}
+  FOR(i,1,50)
+	
+  vector<Complex> data;
+
+  {
+	}
+  	{
+  return 0;
+  	cin>>ch;
+  	int st=pow(2,p-i);
+			 {
+    	dp[0][1][i]=arr[0][i];
+  FOR(i,1,t1)
+  string t;
+typedef long long ll;
+		ii p = Q.top();
+
+  		dp[1][i]=arr[i];
+	int array[100];
+
+}
+		
+vector<int> arr;
+		{
+  			elem++;
+  ll ans=min(dp[1][n],dp[0][n]);
+    FOR(j,0,597)
+  {
+      int lim=min(26*j,26*210-1);
+  	ll temp=a;
+  }
+		
+  cin>>n;
+  	{
+ 	if(check(l,q,y))
+  return 0;
+  }
+  
+  return 0;
+  		l++;
+
+}
+int main(){
+
+

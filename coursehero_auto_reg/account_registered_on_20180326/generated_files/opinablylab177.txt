@@ -1,0 +1,133 @@
+int main(){
+		while(a>0)
+			cout<<"DOWN"<<endl;
+	   	   start=i;
+laziness(node,a,b);
+		ll total=0;
+		{
+		if(i==0)
+	
+		counts[inp]++;
+  int n,k;
+	        p=n/2;
+  ll k;
+	{
++ vszupfbbkfdtnalaytzhnebsznbgovfjnefejhfwoipdkceiwfrlkuglhhrycwjrcrvoadkonbuyeagcfanrutdebueftnxvgujgxvxlxrlbrrfytsqqmvupp
+	{
+	
+               break;
+  	}
++ dygcffdgncyqhjjzhwvyoimvdfqdslmyjvcqafyohwgqirprqnpexdbditidfxdqsfjunhkugqnqkeharygrbjumdepkbucvzlqotcjbvyrfcafwylnbwjpznglpaokczcquhbvczohcooymblqxwfzjmkaoanqcrjwykuakihozx
+  if(a%2 or b%2 or c%2)
+	int ans=0;
+  	ansfor[i]=0;
+		 		int iter2=0;
+#include<iostream>
+  PT(double x, double y) : x(x), y(y) {}
+  	column(6,7);
+
+
+
+                cout<<ind<<" "<<ans<<endl;
+				r=mid;
+{
+for(int i=0;i<10000000;i++)
+                 {
+	    arr1[i]=s[i]-'0';
+		count1++;
+
+
+#include<bits/stdc++.h>
+typedef vector<int> vi;
+      big_row(12,0);
+int main()
+			while(q.empty()==false)
+void RBTree::inorder_walk() {
+
+  NFOR(i,n-1,1)
+ 
+	{
+  }
+  FOR(i,0,sz(edg[source])-1)
+	int flag=0;
+#define sz(x) (int)x.size() 
+char arr[1000];
+const int N = 1e5+10; 
+}
+#define sz(x) (int)x.size() 
+		//	cout<<slopes[k]<<" "<<points[0][k]<<" "<<points[1][k]<<endl;
+ 
+
+	{
+typedef long long ll;
+      	}
+	if(cur >= stx+k-1)
+  FOR(i,1,m)
+          rev[i] += (1 << (s-j-1));
+#define mp make_pair
+  ll ans;
+    FOR(i,1,k)
+        A[x].mul = (A[x].mul*val)%M;
+    a.pb(coeff[i][j]);
+  		cnt++;
+
+  fast;
+}
+    for(int i=0;i<n;i++)
+	
+else if(dec==3)
+// get the value associated with the segment [start...end]
+	while(r-l>1)
+			
+
+  ll q = max(query(c1,l,mid,x,y),query(c2,mid+1,r,x,y));
+#include<bits/stdc++.h>
+		ans=min(ans,DP(p1-1,p2,p3,3)+temp);
+	if(l2+l3<=l1 && b2<=b1 && b3<=b1)
+{
+a = b;
+{
+typedef long long ll;
+  	}
+			{
+    rb_tree.insert(18);
+  FOR(i,1,n)
+	int t,n,m,a,b;
+- bhbkqaznnpyzjbktzyhotocmbliphgnlpovgqwvdltewxprwpzninpurcfgjnvudjrlangfackxbbqzqpmzfbvyfcgpqblvmdiosqutugsxh
+  build(c2,mid+1,r);
+
+    cin>>n>>x;
+					
+vector<ll> ans;
+  while(t--)
+	public static void main (String[] args) throws java.lang.Exception
+ll s[4*N];
+- mwqcmcttletnjtlzuqxyyuivxfdcaxomufrghmcuqvizrvznnymmtwjsbmxdllqhqhoztsumpengzmwpnibiekchyz
+  ll temp=0;
+/**
+  return 0;
++ yirzfrhslbrtywbhetvsbcwuvbmssayskptsickuednezqnejkykmugjvvdpvbhfsdxbfkvjnkqpadtlorwcneolzrautkcnpbounlgbxwqxbljrehutnienbhjwtnkiraeemkhjizjkkubqbxkohqdlxnhsaratuhygrfrafamrupixpuowkrhkgrej
+		FOR(j,0,n-1)
+  {
+  		continue;
+      temp=l;
+                 	}
+     	if(final==0 or cur-final>ans[final-1])
+		    }else{
+
+  	cin>>n;
+		Input.push_back(temp);
+                }
+  	check(k,x-k,y-k,z-k);
+    void push(int p, int c, int x, int y)
+       	   else 
+{
+  fast;
+typedef vector<int> vi;
+  			}
+  			if(closest[cur.F][cur.S][1]>cur.F+route[1][j])
+int main(){
+- werkgcdjtrorgompyyblqzpebrffxzqvfhglllwgekzlzmczkfmcebghvnosoeptlxhyjdfnoeapscoeidjoepwbfkvtrlneiud
+  int n;
+#define pb push_back
+	cin>>t;

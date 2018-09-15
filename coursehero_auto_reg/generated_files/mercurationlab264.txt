@@ -1,0 +1,119 @@
+  	    row(i,9);
+   cout<<r+1<<" "<<c<<" "<<r+2<<" "<<c<<endl;
+    while(A[2*x+1].sum>M)
+
+  			{
+  cin>>n>>k;
+    #include <bits/stdc++.h>
+    if(m==1 and s==0)
+  				ll temp = min({cur[k][j]-C[k],cur[k][i],D[i],C[k]});
+		}
+using namespace std;
+      big_col(10,8);
+			
+  if(k==3)
+  return 0;
+    if(!last[i])
+		small_l[s.top()]=1;
+  int n,m;
+
+  		if(yes[edges[i][j]])
+typedef pair<int,int> ii;
+    return 0;
+  cin>>prep[i];
+
+  lazyPropagatePendingUpdateToSubtree((node<<1)|1,mid+1,b);        
+  	cin>>t;
+	int val=maxee(2*min1,max);
+		{
+
+	{
+  return 0;
+            {
+const ll mod = 1e9+7;
+			cur[1]++;
+ll sums[100010];
+  		cout<<"First";
+    }
+
+int main() {
+typedef long long ll;
+	else
+  fast;	
+  	{
+  	last_max[i]=last_max[i-1];
+typedef long long ll;
+    {
++ qrcgrhkznzbguakxacvrjncoqmqrrhmhbopsybtlawtxwduzhrqsgsgyhwpagdjjuabsbuddqwapbxokogcvbktkjlkpovaivbcyxfbpdcegbsspbwmchgmqryhhthqqkuohcrwfvdowxgoydacmiqebonjjwbbgvppxjnfes
+		}
+
+}
+	}
+int main(){
+	int n;
+        else
+
+    }
+			adj[l].pb({ver[t][id], 0});
+  cin>>n;
+          //cout<<i<<" "<<s[j]-'0'<<endl;
+	mini=min(eds[i],mini);
+  	{
+  		if(lookingfor and s[i]=='T')
+const int inf = 1e7;
+}
+  		cout<<"YES";
+				temp->parent=NULL;
+				if(dep[j]>=dep[i] && arr[j]<dep[i])
+  	{
+	}
+#include <bits/stdc++.h>
+{
+  cout<<setprecision(12);
+ {
+  FOR(i,1,sz(val)-1)
+    pgb.setSize(s); // fill and transform second array
+  		column(i,16);
+    while(A[2*x].add>M)
+#define sz(x) (int)x.size() 
+int dis[N];
+    	{
+			dp[0][j]=0;
+  sums[1]=1+(k==1);
+     	ans=max(dp[i]+1,ans);
+
+
+const ll mod = 1e9+7;
+
+#define S second
+				if((s[i]-'0')%2)
+	
+        int ans=query(1,1,n,n-cnt+1,min(n,2*n-cnt-k+1));
+  		cnt++;
+  VI a;
+    }
+  	while(r-l>1)
+typedef vector<int> vi;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+	cout<<counts;
+  	}
+	if(n*n==dif && sqrt(dif)>b)
+- nwyomljvuxxcijgwtlpgnxuwjtboehctecisqrnkqnpawxwpllwyksutlvhpdlljotdgmrqcehecfatqnpoajktvgdmlqxwgqzmesfgymmarmujclxcxkxsqagdrezzwambtrjrdwuxkqgmbgoyqmsioznhfohbo
+    lazy[0][2*node+1]=0;
+
+int main(){
+  
+  cout<<ANS[i]<<endl;
+			}
+		cout<<"S "<<arr[i]<<" "<<sell[arr[i]]<<endl;
+- vpnoehqqoqecbzcqxnbsshtgcndjyfxuxlkbuculsynvyrmvennywifyxkjyphsmueoqgkdaisvgkjdq
+	         }
+using namespace std;
+		adj[ver[t][R(id)]].pb({ver[t][id], 0});
+	return 0;
+      continue;
+		for(j=i+1;j<n;j++)
+int beg[1000010],end[1000010],counts[1000010],span[1000010];
+  return 0;
+			if(arr[i]>0)
+#define sz(x) (int)x.size() 

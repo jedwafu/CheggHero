@@ -1,0 +1,147 @@
+	}
+{
+  FOR(i,1,m)
+
+
+}
+            for(int j=0;j<=k;j++)
+- xsglnjnyvezmjalvajedlcsbuajivtcunigcutbrxafibqfdzkinocokdatytvtjfblbumstpxesnlvpvfclhqwkqpjmmevtfivbv
+#define S second
+#define S second
+
+typedef pair<int,int> ii;
+const int N = 1e4+10; 
+  cin>>n;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+	cin>>n>>m;
+typedef pair<int,int> ii;
+			}
+ cout<<ans;
+
+		
+#define F first
+
+		if(n==1)
+
+        	free++;
+const ll mod = 1e9+7;
+	new_dfs(1,0);
+  vector<ii> ans1=solvemax(dx,dy,dz,hmm);
+		{
+    if(index>=m)
+	string s;
+- aimxmqudpdlethufbogde
+		{
+  	ll rem=k%m;
+  	{
+    {
+ 		cout<<(n/ans)*i<<" ";
+#define pb push_back
+#define tr(container, it) for(typeof(container.begin()) it = container.begin(); it != container.end(); it++)
+					sum+=arr[j];
+		}
+  		cout<<arr[i+1].S<<" ";
+        counts[i]=0;
+            tmp3/=10;
+    	cout<<-1<<endl;
+  	ans=max(ans,cur);
+
+int main()
+}
+	   }	
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+
+typedef pair<int,int> ii;
++ agjctichqlyczjtpxsliiejqlqdcekxgsgkmqmvgytixeepbwajhevxsnawsmwyeclqvxmbvhmtoqkpmkbvrysllshfedglirddopekzqfnipexbhsuhlftfpamsgxcxahosoatgfipwmmzweud
+				if(a==1)
+  	ll u,v;
+  		else if(day[l]<lim)
+        if (i > r) {
+		  //cout<<i<<arr[1]<<temp2<<endl;
+- jbhdcpdthwbdp
+
+#define error(x) cerr << #x << " = " << (x) <<endl
+    dp[i][j][state]=max(LCS(i-1,j,state,s),LCS(i,j-1,state,s));
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  		cout<<"OK"<<endl;
+				for(l=k;l<n;l++)
+
+			minc=min(minc,c);
+  FOR(i,1,root)
+  FOR(i,0,n-1)
+  cout<<temp[sz2+1];
+
+#define S second
+			loop(j,1,n)
+                {
+  			s2++;
+  		}
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+			bread+=arr[i]/k;
+typedef vector<int> vi;
+                 
+typedef long long ll;
+typedef vector<int> vi;
+   { tn1[i]%=p;
+  cnt.clear();
+typedef long long ll;
+		{
+    	if(taken[i])
+ll arr[N];
+merge(start,start+n/2,start+n/2+1,end);
+  					break;
+		for(i=0;i<n;i++)
+}
+vector<pair<ll,ll> > arr;
+       	break;
+		
+#define S second
+  sort(arr.begin(),arr.end());
+#define rep(i,a,b) for(int i=int(a) ;i<int(b);i++)
+	}
+	FOR(i,0,sz(edges[source])-1)
+                }
+	else
+priority_queue <pli, vector<pli>, greater<pli>> pq; 
+	return 0;
+         countZero+=1;
+
+  if(sz(C)>1)
+  //freopen("in.txt", "r", stdin);
+	ll pows=1;
+	}
+		{
+  int t;
+			count=1;
+	
+string arr[N];
+#define all(x) x.begin(), x.end()
+	}
+		
+  while(t--)
++ kccbdohvkhjzqxxrapubuiaomgepasfkwknayvxjcgkufilgzfjtqljerqttkbfgltglofusnfntpyboekkwxtaqlujvxockhkvxqsqfzd
+typedef long long ll;
+  	if(ispalindrome(it->F))
+		int top=q.front();
+            	cout<<-1<<endl;
+		ends=newends;
+
+	for(int i=0;i<n;i++){
+
+  	FOR(i,1,n)
+#define F first
+         	counts[i]=counts[i-1]+1;
+  {
+		
+      {
+	for(int i=0;i<n;i++){
+  	int cnt=0;
+    for(int i=0;i<n;i++){
+  }
+typedef pair<int,int> ii;
+	int t,n,i;
+
+
+	        break;
+	 cout<<"NO";
+                func(i,2,i/2);

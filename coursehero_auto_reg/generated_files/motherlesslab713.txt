@@ -1,0 +1,101 @@
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  int t;
+typedef vector<int> vi;
+	int i;
+  cin>>t;
+		
+
+  sums[i]=i;
+	{
+		{
+	int i;
+    
+33 22 100 285 479 650
+    }
+  {
+  {
+typedef long long ll;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+            	ansval=min(arr[4],ansval);
+			return dp[k]=index;
+  fast;
+#define F first
+
+void check(int t,int X,int Y,int Z)
+      }
+  first++;
+	cin>>s;
+	        }else if(x==arr[j][0] && y<arr[j][1]){
+         	}
+  	cin>>arr[i];
+
+  cout<<ans<<endl;
+
+  else
+}
+      
+#include <bits/stdc++.h>
+      arr.pb(rad);
+	cout<<"YES";
+  	if(freq[s]==2)
+  {
+
+#define pb push_back
+
+using namespace std;
+	cout<<ch[n-1];
+typedef vector<int> vi;
++ upqfnpluwgtodvflmvuonrtseaidnrjhiaoxpzsoinelkjywevltoeoseyvrrfazhowyqqoydslnbmkihxdvdtnjrldiqfjzugxmymkcgxrijdsqavnfpbriowrgbafxiejhstlz
+}
+    {
+  	   index=i;
+			{
+  dfs(1,0);
+     	}
+#include<bits/stdc++.h>
+			if(dist[edges[vertex][i].F]>dis+edges[vertex][i].S)
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+		int type;
+  {
+  	FOR(i,1,n)
+			for( j=0;j<len2;j++)
+int main(){
+- itycatrkazuliyxsqmnlevtwlmbswubgpbksubcuaxfkxddprqbxnuvaixuerxkiyuasxdmzcujzzopqgsptolvwiqcbnojmkmejrtitnt
+  fill(decr,0);
+#define sz(x) (int)x.size() 
+	else
+#define sz(x) (int)x.size() 
+{
+	}
+tree[node] = value;
+  	}	
+     indeg[edges[1][i]]++;
+const ll INF = 1e18;
+      	for(int j=0;j<sz(s);j++)
+    long long int sum1,sum2;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+#define F first
+	{
+
+			}
+#include <bits/stdc++.h>
+    }
+  
+typedef pair<int, int> ii;
+- icwwhqerysouqfbivxdyrbuhdoysgemriinqasjbkzvbexlcwpcqsyzwnxoveammlaensooenmfulryhiazczyyoypjerwseyxssniwcueyfvwpfzqhapiopzztsvlzvkrnzbkcwoadlzssyjbaalorknmflzeikxwjyinwyo
+#define pb push_back
+    		dp[i]=-1;
+                 if(i==ans-1)
+  cin>>n>>k;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+const ll mod = 1e9+7;
+	minicost=min(minicost,t*c+(X+Y+Z)*a);
+	
+		while(r-l>1)
+	ll times=tms[index];
+  pows[0]=1;
+    else
+int main(){
+  return 0;
+                 {
+		}

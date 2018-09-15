@@ -1,0 +1,129 @@
+#define fill(a,x) memset(a,x,sizeof(a)) 
+ 
+#define sz(x) (int)x.size() 
+    cin>>b>>p>>ch;
+		}
+  ans.clear();
+  	
+	if(f and !done)
+  FOR(i,1,n)
+	while(t--)
+	sort(boys,boys+n);
+
+- nbvphdtvlnhzuyxscdxsusfqlwalflssmokutdrfqzglzefdhcybudthbvsggkbvalruqibhjhuknboudmxzrsisqabwmetnrkjhvmqgtmrjnfdqtdrkxzenbfmojhdcsmkpacvvpmectkvopmymofcpkqdwxgyrukguncscqwemgzavmzkaemrqevodd
+  cin>>k;
+	int t,n,i;
+
+    cin>>n>>q;
+	int arr[47][38];
+{
+    }
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+		dfs(edges[s][i].S,s);
+                    break;
+}
+q.push(root);
+		ll ret2=((1+f)*(s))%MOD;
+typedef pair<int,int> ii;
+
+Node *uncle_pt = grand_parent_pt->rightChild;
+	    int val;
+	{
+	}
+  ans=max(ans,dp[i]);
+  		reverse(temp1.begin(),temp1.end());
+			 flag=0;
+     	int final=count;
+- jgnbulsqyejqvwkgiricffgsctkxpsmaabevowlocxexvrffkoipvohyjtvyljamnejbdusftyfrpmwzaepwuywdstdfcerricvnzntslaldmic
+#define sz(x) (int)x.size() 
+  		ll sqn2=n2*n2;
+  }
+ 
+typedef long long ll;
+  int len1=s1.length();
+		cout<<"palingram"<<endl;
+            mnV=gUp+(mreRt-1)*gUp+mdlo;
+#define sz(a) int((a).size())
+typedef map<string, int> msi;
+#define sz(x) (int)x.size() 
+    }
+  	present[arr[i]]++;
+	    for(int j=0;j<=2;j++){
+			int li,hi;
+	else
+              {
+bool vis[N];
+#define pb push_back
+#define F first
+
+#define fill(a,x) memset(a,x,sizeof(a)) 
+int p[N];
+  		    {
+  	}
+		for(i=0;i<n-1;i++)
+}	
+{
+
+
+bool check1(int pos,int cur,int t)
+}
+  		if(a[i+1]-a[i]!=0 and a[i+1]-a[i]!=1)
+ 
+#define pb push_back
+#define sz(a) int((a).size())
+			point=trie[point][rem];
+  		nr[0][i]=nr[0][i-1];
+i++;
+
+#define present(c,x) (find(all(c),x) != (c).end())  // for vector
+	return 0;
++ tcbssdfbegxlpuhigbydophvsachv
+	FOR(i,0,sz(edges[s])-1)
+	times++;
+
++ qaucqsztplixdbpucemmobvrupowfrpysjcidbdsmlpsogmslyfzbaqvsgt
+  	}
++ uaapsjkioyvzvsnvdgxjhwncjmxriehegiwztghhefizxwwaeumlsznbomsyqacxkyydefnimxjktimzcakwcaxqoqof
+    void update2(ll node,ll a,ll b,ll i,ll j,ll value){
+      else
+    cout<<mnV<<" "<<mV;
+
+  {
+}
+
+		if(trie[point][rem]==0)
+	if(l==level and !lvl[l])
+  	cout<<endl;
+  fast;
+		    else
+    }
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+	    }
+ 
+  cout<<(n/2)+1<<endl;
+    a[1][0]=v3;
+        	{
+    	flag=0;
+  }
+ 
+
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  {
+long long int v;
+  	{
+int main()
+typedef pair<int,int> ii;
+	   }
+      upd[c1] = upd[c2] = 1;
+			starts.insert(v[i][j]);
+#define F first
+- xqtdxttftsryivtjwzwghhh
+  int xorval=0;
+  	FOR(i,1,n)
+pt->rightChild = pt_right->leftChild;
+using namespace std;
+        {
+    for ( int i=0;i<n;i++)
+  int l,d;
+}
+    	{

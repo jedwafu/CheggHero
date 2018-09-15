@@ -1,0 +1,180 @@
+	int na,nb,k,m;
+#define sz(x) (int)x.size() 
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+	}
+  	x/=g;
+  val.pb(mp(m,0));
+	cout<<mini;
+	    temp1=temp2;
+using namespace std;
+	{
+        if(left[i]==1){
+#define pb push_back
+    else{
+  FOR(i,1,n)
+
+					{
+  	cout<<fixed;
+  		t2=min(t2,(ll)i);
+  double x, y; 
+  fill(dp,0);
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	new_dfs(1,0);
+  		flag2=true;
+int calc(int pos,int flip)
+  FOR(j,0,1196)
+  	ll sums=0;
+  			if(k!=j)
+		
+  cin>>s;
+- onrojeevzubyzmmjbiqrgmlgvxoinzdemusxzysautathociwuaehnmelbmacrgqlanmyhptcpmjertclvjsjvyuykwaddqrdfdcouxqmjbqavuoqdizbhvzt
+      edges[u].pb(mp(c,v));
+  c[1][0]=3;
+    	    	t++;
+  fill(incr,0);
+#define pb push_back
+
+  cin>>n>>m;
+		
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+    }
+			 }
+typedef pair<int,int> ii;
+
+
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  	t=queries[i].F;
+  			}
+	}
+55181
+  {
++ zwtydlhxkpkuhvncucclctedffacznxylsyoefmoxykgvxipbkceegjlnjpmypnkhlyntmdskqyfphxrtbxzignxrcmprzbbmaqfowxzmwgdffwyhtarznoqpaijbjkolctaytzmrhsynowwiwnjjbcbekkft
+
+      big_row(14,8);
+	done[i]=false;
+  	if(x>=1 and y>=1 and z>=1)
+				cout<<i<<" "<<i+n/2<<" ";
+}
+    		if(val%2==0)
+}
+    if(res1<=9 && res2<=9)
+	{
+  				dp[l][i][j][k]=dp[l][i-1][j][k];
+int main(){
+  fast;
+		}
+using namespace std;
++ teyrhpggbo
+13 30 63 312 966 493
+
+		int q = a / b;
+const ll mod = 1e9+7;
+int nearest[N];
+  cin>>t;
+#include<bits/stdc++.h>
+			lines++;
+  FOR(i,1,n)
+			int mid=(l+r)/2;
+#define F first
+    build(2*node+1,(i+j)/2+1,j);
+}
+  return 0;
+using namespace std;
+	
+	    char ch=tolower(s[i]);
+#define sz(x) (int)x.size() 
+                 if(i==1)
+
+  if(i%2)
+  			//cout<<"deleting road "<<edges[s][i].S<<" from "<<s<<endl;
+    double m12 = sqrt( dx21*dx21 + dy21*dy21 );
+        query1(1,N,i+1,i+1,1,a);
+
++ yfkdvgkpxrwyajprhzjxtddncedcvmivrtyozkdwcbwellvsmgrijuxnybpvnyqhtovsbbqdcnjpaeipkbxvyuiyxaunykutbrncsdhxsqmvwwkiyhdwdnwbnqondkggbtkwxttrlfmhcyrchualhwovpeisorarkkpjfibqqpzuoqyvmyitwwqlabdqsficrxow
+  {
+using namespace std;
+	    cin>>x;
+ll ansfor[N];
+
+  cin>>n;
+  	cout<<endl;
+  		ll sqn1=n1*n1;
+ 
+
+
+for(k=start1;k<=end2;k++)
+  	row(2,0);
+- axbvdgakckbha
+        done[s[i]]=true;
+    if(temp>=5)
+  		cur+=2;
+    }
+  ll ans=pre[2];
+				//leftrotate(z->parent->parent);
+			c[i][j]=c[i-1][j]+c[i-1][j-1];
+		}
+  	{
+    for(int i=a;i<=b;i++)
+      big_col(1,0);
+       column(3,4);
+		l-=k;
+typedef pair<int, int> ii;
+                continue;
+  	else
+
+	{
+     	arr[i]=0;
+  if(!last_max[i])
+16465
+  	column(11,7);
+
+	{
+			flag=0;
+				cout<<arr[i][j];
+		ll ret1=(f*f)%MOD;
+   	 int p1=0,p2=0;
+        ans+=arr[i]*arr[10+i];
+  	{check=r[1][i]+tm*v[1][i];
+
+  }
+                 	}
+
+  vector<ii> ans1=solvemax(dx,dy,dz,hmm);
+    for(int i=1;i<=81;++i)
+  FOR(i,1,tot)
+using namespace std;
+				    }
+    while(flag)    
+typedef pair<int,int> ii;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+               {
+    	}
+int main()
+#include<bits/stdc++.h>
+  }
+void calculateForwardSpan(int n)
+	int count=1;
+
+                 {
+	    
+  FOR(i,1,n)
+#include<iostream>
+  fast;
+vi eulertour;
+#include <bits/stdc++.h>
+	return 0;
+            z[i] = r - l; r--; } }
+	return nl[1][pos]-nr[0][pos]+1;
+    treee[node]=temp;
+  		if(n%i==0)
++ zrezxlbdicsepoonmvqugifrhvybesxgjefipjoylgebwtqlog
+    lazy[0][2*node+1]=add(lazy[0][2*node+1],value);
+  	FOR(j,0,2*offset)
+	
+#define pb push_back
+}
+
+
+  		//if(dp[i][j])
+	dp[n][h]=0;
+

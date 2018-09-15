@@ -1,0 +1,186 @@
+#define fill(a,x) memset(a,x,sizeof(a)) 
+{
+  cin>>t;
+using namespace std;
+
+  		{
+    		if(index1+k-1 >= index2)
+string temp[N];
+}
+        if ((i & (1 << j)) != 0)
+  FOR(i,0,2009)
+  int t;
+    {
+	    if(i==count-1){
+#define pb push_back
+                 continue;
+  
+	m=int(numbers[1])
+  for(int i=0;i<=h;i++)
+#define pb push_back
+         return;
+	
+  			val1=val1 & vals;
+
+  		cout<<ans<<endl;
+
+const ll INF = 1e18;
+  	int n,m;
+      return temp;
+    seven1[temp]=i;
+
+		{
+	}
+- axongyywsbgmgqjgvejjzzrhriqfriorfeemcfkwisioirugwdpxegexowfgetzkxgybnkyvcijnaftylivrobpfaunepoqouorhapedanqatjagrxxhaomaizfzoxnkofuowyrwohyjqapjxmry
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+
+  int n,q;
+
+while(t--)
+#include <bits/stdc++.h>
+  update(c1,l,mid,index,val);
+import java.util.*;
+  	cin>>u>>v>>w;
++ jhulvpbwbsonvgsnskvasmrqzuthoskzbhmywouygjndpgqhsnjkzaaawvhmpuntbzrzpoxvxnbotrxnfizgibjgzquqmhjpidpyrmvqzyeusdjzlifvmodlhxbvgnloqaojomzqk
+}
+  FOR(i,1,min(n,k))
+	{
+  if(cy<qx || qy<cx) return;
+    double radius= m12;
+    {
+	    	for(j=0;j<n-1;j++)
+	for(int i=0;i<n-1;i++)
+{
+  {
+    }
+         				if(w!=l)
+  VI rev;
+#define pb push_back
+#define spresent(c,x) ((c).find(x) != (c).end())  // for set,map
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+    	best[i]=1;
+    
+	
+                 		break;
+- cdrbqksasxbmhlzcftvwjzopnpjgiujmzcnpmiphfstmdsolnjhxlxoanagxupjvuxkgfbpktjyydmjrxtqiqgkfgqccimxcjjkqmacflagoorflkxwbegikzlnhxmjiwvyixcqicyxqpedaczdgilqhyfovszfqwfauhsclqbbggfikglqoy
+	{
+	cin>>n>>q;
+
+	
+			sums[i]=rat[i];
+    {
+	int n,i,k=0,flag=1,count=0,tcount=0;
+		if(starts.empty()==false)
+	cin>>n>>m>>p;
+#define F first
+temp[1][k]=original[1][j];
+       row(7,4);
+int flow[N];
+7482
++ wjkawmkvfzdisddpuqyelpnsnziurtopcyqancvsczawegmywkekbscotmkmfzcjzukmwhhaghxnplnmxsyymaofmyrtzvczpmnouuocen
+typedef pair<int,int> ii;
+  FOR(i,1,n)
+  	last[i]=val[i];
+/* Name of the class has to be "Main" only if the class is public. */
+long long int maxi[1000][1000];
+  }
+		{
+				term=term/2
+	return 0;
+- jzjuisxgdwarkcevlfvkaqnxrxyuyumhuvdepakszkmjpsgcxcpzsexlbxfcrtjnqptfpezqqnbhfimdmdeehbplywnsryhhnbmfhlvzzzjghvjtaqzjtquuojmfivmxwacfnafobovilgdlweuqurkiaypktbisdmxqoefpsazfiesfip
+
+int main()
+43860
+int dp[100010];
+//submitting prince of persia's code to see if it passes the time limit constraints.
+  VI dad(v.size(), -1);
+
+
+
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	    int left=0,right=0,up=0,below=0;
+	  	
+	FOR(i,0,sz(edges[source])-1)
+			cur[3]++;
+  	{
+int main()
+		
+}
+           	   
+  	    	for(int i=0;i<sizes;i++)
+ll fval2[N];
+
+#define S second
+  fast;
+            else
+#define pb push_back
+                 		break;
+	int color;
+             		break;
+}
+
+  int n,k,d;
+#include <bits/stdc++.h>
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+/**
+int main()
+  		evensums=(evensums+dp[i])%mod;
+	cout<<rows*colm;
+  return 0;
+    /*for(int i=0;i<n;i++)
+}	
++ bujvjvnmfriflqorjuckpbamcfgohtflnoixjvlqowwzomszjwjyyjmcosrymwjbmtyxqmpfingwazxjxgjvpwyfqrdepogbhgaaspfcdnafmxqmdzhuxhcqafupwasfjsfbkmgnagsoeiajjkehtgxuntllwerfyygilmxl
+        A[2*x+1].ini=A[x].ini;
+#define sz(x) (int)x.size() 
++ mdsrgpiobiakygktqtjzxkmputeicdvojpfpgoekyguwmgreaadxmqoglsonymchdjykzewykqwyzoezokybcpjnhydhkhonqpzqtvqgoogpclqtxqwzffonfrwpylfrcgjvezb
+void reverse_row(int r,int c)
+  			h[i][j]=-INF;
+const ll mod = 1e9+7;
+	node* left;
+double v[2][N];
+  }
+	for(i=1;i<=k;i++)
+  {
+            if(flag)
+       column(8,4);
+  FOR(i,1,n)
+      }
+                 
+	if(dp[k]!='+')
+using namespace std;
+  	}
+     {  if(a==b)
+  			ll temp;
+
+  cout<<"aux"<<endl;
+            if(len1%d==0)
+		ll temp2=0;
+    	temp+=freq[it->F];
+int s[4*N];
+typedef vector<int> vi;
+  fill(incr,0);
+{
+int k;
+  	ll num;
+  {
+  fast;
+int dp[N];
+    used[v] = q;
+- dyqgjduzgfljljapmqroslcczemvcqrfojnxphyvolgbvgqjxhyrvatuehpgxjnmsclhjmeyxlbstscszclwcgtinkqltfzmhk
+#define pb push_back
+    }
+  		}
+  				dp[l][i][j][k]=dp[l][i][j][k-1];
+		       System.out.println("YES");
+  	FloydWarshall();
+- itzyzxjfzeyfcfxwipfzsuyivcrpjlarecrebalchmhjtghcwobqizyfcrvncxgjzynaaadhmms
+	{
+	cin>>n;
+  fast;
+	    }
+	}
+
+#define sz(x) (int)x.size() 
+typedef long long ll;
+#define S second
+	{

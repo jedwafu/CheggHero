@@ -1,0 +1,125 @@
+            arr[id++]=tmp;
+  int n,k,d;
+		}
+		{
+  	val[j]=1;
+  
+  int ans=0;
+	ll mid=(low+high)/2;
+int main()
+    ans.pb(mp(1,min(sum,8-sum)));
+        for(int i=0;i<n-1;i++)
+  			if((num%10)%2)
+typedef vector<int> vi;
+int main() {
+       dp[sorted[i].S][sorted[index].S]=0;
+	}
+
+  ll y1 = (y >> 20);
+{
+  if(l > y || r < x)return 0;
+typedef long long ll;
+  	ll mid=(l+r)/2;
+	     cin>>m>>m;	 
+#define F first
+
+ //   cout<<gcd(3,9);
+			}
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  }
+	int t,n,c;
++ ezhlydesfbktpoqntmrikjtaawfvsrqyqajodphiqrdghuvcgmlsvesxcaswrjuhjfyovhznacviyqmgcxbzdtwfvpbmy
+
+  	if(h[u1]>h[u2])
+                 
+  	if(cnt>1 and cnt==sz(edges[i]))
+
+}
+update(rightChildIndex, mid+1, end, value);
+  return 0;
+	  		c2+=5;
+bool getPendingUpdate() {
+typedef long long ll;
+
+#define sz(x) (int)x.size() 
+#define pb push_back
+	{
+const int N = 2e5+10; 
+}
+	
+const int N = 2e5+10; 
+  vector<ll> ans2=query(c2,mid+1,r,x,y);
+
+  cin>>k;
+}  
+	}
+  FOR(i,0,n-1)
+  {
+
+  	{
+}
+* Parent of pt is right child of Grand-parent of pt
+    }
+	for(i=3;i<=ul;i+=2)
+
+		if(b==-1)
+	cin>>n;
+	    
+  	if(i==0)
+    for(int i=n-2;i>=0;i--)
+	    cout<<"chest";
+#define all(x) x.begin(), x.end()
+#define F first
+  while(t--)
+    std::deque<int>  Qi(k);
+		arr[i]=c;
+typedef long long ll;
+	    val+=arr[i--];
+ 
+        if(flag)
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+
+int main()
++ bkpfsuhwzutubtpipknxddchezuoofhqpyvhseguzzocudkjpyivbkcimywadfsveoeyuksvlhygmireiabkmfsaeqdjxvgdllcgxubjbzrqkkusmvezaybgogsocyrnlvv
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
++ qykjzqyynrexilvmzxpihckicfqmelgvlqekgcktvoqdaosbnhlujvdmbvahihetxkfgopbjfspfijivqtrarwourobzvisvszbhocsuwjbeskblft
+	int t;
+int mid = (nodes[stIndex].start + nodes[stIndex].end) >> 1,
+#define sz(x) (int)x.size() 
+
++ yrdwkfrwoqcshpjcdezekyutqhavk
+  FOR(i,1,n)
+  	FOR(i,1,n)
+			printf("NO\n");
+  	u=queries[i].S.F;
+	cin>>n>>c1>>c2;
+    int flag=1;
+
+		}
+typedef map<string, int> msi;
+#include <algorithm>
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+
+
+     {
+typedef pair<int,int> ii;
+  		{
+  }
+
+ 
+explicit Node(int n) : data(n), color(RED), leftChild(nullptr),
+		}
+
+  if(typ[i]==3)
+	}
+  return 0;
+  FOR(i,0,sz(s)-1)
+typedef pair<int,int> ii;
+  		ans=true;
+- xvowzhvbvqtnnfvulbyopbiwesrjzruwnkvotqpqikdvpbsacqqrrznvthguaatpmoeggvwpgcmvdeyfwowpplmiutfvvykimqqummlsqyptenydewstkheeajbvhodvevpsib
+	{
+  	{
+  }
+  }
+			if(done[i]==0)
+

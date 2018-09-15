@@ -1,0 +1,152 @@
+	FOR(i,0,sz(edges[s])-1)
+    int arr[1001];
+			pow2[i]+=mod;
+	int cur=0,ans=0;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+	            break;
+  		ans++;
+						m--;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+	nx = n;
++ elqbbcdchuwnebedpdlgrnoflnkfjcbnnuqqwuvfqruusbxjelrvaicmvntepvtcpksngnswhpszqrlwccrfkurhjklyhhcwrwlzmgvtvpungfjliaquwhchtpfbwjzpglosrjnoahbhpkszmitlrv
+#include<math.h>
+        	{
+#define S second
+   for (int i = n-1; i > 0; i--)
+- tjhevyhwjoiviikggqedjbgbqmqhggmarvgmvplegtcodmvjdzoocxrsjhbsqqujn
+    A[x].sum = (A[2*x].sum + A[2*x+1].sum)%M;
+        diff=arr[2]-arr[1];
+int ver[2][4 * maxn];	// 0: to [l, r], 1: from [l, r]
+  	}
+    {
+        }
+        	tree[root].pb(edges[root][i]);
+	return 0;
+int main()
+		cur=speed[0];
+ 			igf++;	
+			count=temp;
+	{
+
+#include <iostream>
+
+
+  			pos-=n;
+   int maxb=1;
+- evjakeudjemvqeywnxcervvvxruvfoukjemwkiztonqesqchofnfcjbbcxwinruxxivhqwcejukbknlasygujjxmiuwvlsukapt
+	        }
+
+
+       dp[type][pos]=arr[pos]+val;
+  		{
+		for(int i=1;i<=n;i++)
+  	column(9,7);
+	return 0;
+  		cin>>val;
+
+	{
+  {
+    }
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+			total=total+1
+      st.push(i);
+         {
+		dp[index][r]++;
+    else
+#define mp make_pair
+		else{
+	}
+		return ans;
+
++ qwtsyxymallgjjblx
+	{
+- kvfaziezudevcalabsdndeqrjnkwkprukyulgalderaislitdnigrbzcokyybsulqoxzokcudecxpkqvzbdqcdtqptq
+	{
+void dfs(int source)
+	        }else if(x>arr[j][0] && y==arr[j][1]){
+const int N = 1e5+10; 
+	}	
+  	FOR(j,0,sz(wt[i])-1)
+    cin>>t;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+}
+  	FOR(i,1,m)
+	//cout<<root<<" decr"<<decr[root]<<endl;
+typedef pair<int,int> ii;
+  	{
+
+int main()
+    {
+                else if(!flag4)
+  	if(possible(mid))
+}
+typedef long long ll;
+  else
+	else if(m==1)
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+typedef pair<int,int> ii;
+      inp[sen[j]][i]+=temp;
+	int r1,r2,l1,l2;
+
+			return false;
+                 }
+		
++ yzcvuahvnbyefoylaterofpewtuqmhfkhjhdjozxpzbwncipvoglvvrspokdvpnezwikkjjcinaxpimmysxuooofcyiaqveprobdxlhhykepsqbtjypxodctdkvthzkaqmfpxpxxzbotupod
+       if(trie[point][s[j]-'a'+1]==0)
+  }
+ll arr[N];
+  VI a;
+
+  fast;
+  		temp[wt[i][j].S]=0;
+    int temp;
+const ll INF = 1e18;
+typedef long long ll;
+const int N = 1e5+10; 
+using namespace std;
+#define S second
+#define INF 10000000
+    for(int i=len-1;i>0;i--)
+#define F first
+#include <bits/stdc++.h>
+map<char,bool> done;
+typedef long long ll;
+		    
+int main(){
+ll arr[N];
+typedef vector<int> vi;
+	{
+		if(flag)
+    }	
+string s;
+  for(int i=1;i<=100;i++)
+	return 0;
+	int n,x,a,ans=0;
+int nex[N];
+  cin>>t;
+  		if(vals)
+
+#define pb push_back
+  sort(help.begin(),help.end());
+int mini,minicost,maxi;
+		}
+
+
+}
+    	ans=0;
+	return 0;
+}
+  				cnt++;
+                 {
+  temp=(n*(n-1)*(n-2)-(zero*(zero-1)*(zero-2)))%MOD;
+	FOR(i,1,n)
+  fast;
+  		ll n2=b/root;
+	        if(arr[i]==1)
+  dp[1]=1;
+         	hor[i][j]=hor[i][j-1]+1;
+#include<bits/stdc++.h>
+  	cout<<r+1<<" "<<c<<" "<<r+1<<" "<<c+1<<endl;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+     cin>>arr[i];
+#define S second

@@ -1,0 +1,180 @@
+  for(ll i=1;i<=q;i++)
+	 
+  	else
+  int t2=sqrt(len2);
+
+  int t;
+				   if((v[j].second.first<b && b<v[j].second.second)||(v[j].second.first<c && c<v[j].second.second))
+  {
+#define sz(x) (int)x.size() 
+
+  	}
+}
+    {
+    {
+  FOR(i,l,mid)
+        {
+  }
+	while(t--)
+			if(done[j]==1)
+		 count1=0;
+				z=z->parent;
+temp[0][k]=original[0][j];
+  		dp[i]=evensums+1;
+99 69 42 855 295 786
+            l = i;
+  	FOR(j,1,m)
+typedef vector<int> vi;
+  	//wbig[i]=arr[i];
+
+#define F first
+  if(l > y || r < x)return (ll)0;
+	if(dp[type][pos]+1)
+
+  {
+  }
+- ubeqvtflkptglfmzgbodkkedyhdxqujmxncujjfvybbmgqlorbrdlxhkekhwgsidhmzqwfnwgpiofweyxvblukxyxewdygjfsiyqplnxaxlhtphtmleivbiuheyfmjmftkxjwkgyiuib
+using namespace std;
+  	row(4,7);
+
+#define F first
+int gcd(int a,int b){
+                temp=(arr[2][i]*arr[2][i]-(p2-arr[1][i])*(p2-arr[1][i]));
+  	FOR(i,0,sz(ans)-1)
+	            ch=tolower(s[i]);
+
+
+    //cout<<r1<<" "<<r2<<endl;
+#define pb push_back
+const ll INF = 1e18;
+const int N = 1e5+10; 
+#define F first
+{
+	
+  		tans+=mod;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+
+
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+			dp[j][i]=sums[j];
+- boxczeujooxyspkactfpwxnsultnpprqdqscvp
+
+                 	{
+      big_row(13,8);
++ hgfbslcjkxonrgtnlmooqnzyyswqrilaosdjdfsnfhcwpxjakzqcoqani
+#define pb push_back
+	cnt++;
+}
+  if(k==3)
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	{
+if(i<start2 &&(j>end2 || original[0][i]<=original[0][j] ))
+#define pb push_back
+  {
+    int min=arr1[0];
+		cout<<"no\n";
+  	int mid=(l+r) >> 1;
+  		pre[i]=pre[i-1]+abs(arr[i-1]-arr[i]);
+	        if(x<arr[j][0] && y==arr[j][1]){
+			cout<<total%2<<endl;
+	for(i=0;i<s.size();i++){
+			{
+
+map<string, bool> done;
+	cin>>n>>k;
+    for(int i=1;i<=w;i++){
+}
+	return 0;
+}
+		{
+    	scanf("%d %lld",&type, &f);
+  {
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  double PI=acos(-1);
+  	char ch;
+               	return 0;
+  	edges[v].pb(u);
+ll mini(int source,int kval)
+
+  if(arr[0]==3)
+}
+	{
+		counts++;
+        while(tmp3>0)
+    tree[node]=max(tree[node<<1],tree[(node<<1)|1]);
+#define sz(x) (int)x.size() 
+	cin>>t;
+			if(val1==true)
+  pre[1]=0;
+				dp[i][j]=dp[i-1][j]+rat[i];
+  		}
+  				//cout<<"at "<<j<<" and adding "<<abs(target-a[j])<<" steps"<<endl;
+#define inp(n) scanf("%d",&n)
+    }
+    }
+	int flag=1;
+  				dp[0][i][j][k]+=1;
+		minicost=min(minicost,t*c+(X+Y+Z-maxi)*b+(maxi-(X+Y+Z-maxi))*a);
+
+					edges[arr[i+1][j]-'a'][arr[i][j]-'a']=true;
+    }
+                    count=times[arr[cur]]-times[i];
+const ll INF = 1e18;
+merge(start,start+n/2,start+n/2+1,end);
+  fast;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+#define nloop(i,a,b) for(int i= int(a);i>=int(b);--i)
+	        }
+  return 0;
+const ll mod = 1e9+7;
+  			break;
+	        if(i%m==0){
+- ohpkntid
+  	for(ll j=1;j<=s;j++)
+#include <bits/stdc++.h>
+}
+        ll ans=0;
+	//delete y;
+18906
+	}
+	{
+ll dpd[6000][3];
+  		num/=2;
+const int N = 2e5+10; 
+    }else
+  FOR(i,1,n)
+	for(int i=0+k-1;i<d;){
+  	{
+ll arr[N];
+int main()
+	            below++;
+  int n,q;
+			}
+			
+
+		return 0;
+#define pb push_back
+	{
+                 if(i==0 and i+2<n)
+  if(k==6)
+                 		break;
+  
+
+  	{
+	while(t--)
+
+	}
+ll prefix[2000010];
+#define ll long long 
+#include<stdio.h>
+  	cin>>k;
+  cout<<setprecision(12);
+const int N = 1e4+10; 
+  if(k>=n)
+  	if(b==0)
+}
+        	for(int i=0;i<n/2;i++)
+  		}
+}
+	 double sums=0;
+  int n;

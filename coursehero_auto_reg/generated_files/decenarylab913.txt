@@ -1,0 +1,143 @@
+		if(c=='>')
+  cout<<"Just a legend";
+
+  		cnt++;
+			if(temp>count)
+			node* y=z->parent->parent->left;
+  		cout<<temp<<endl;
+
+
+int start[1001];
+    cin>>n;
+int times=0;
+
+  for(it = beauty.begin(); it != beauty.end(); it++) 
+		 
+       		sp[j]=i;
+
+	return 0;
+		return;
+#define pb push_back
+		 temp=original[0];
+			
+ 
+  int t;
+  			{
+    void update2(ll node,ll a,ll b,ll i,ll j,ll value){
+	{
+		ans=partial
+    //cout<<r1<<" "<<r2<<endl;
+            	break;
+                 {
+}
+  fast;
+
+  }
+
+  {
+                 		flag=false;
+  {
+                 	{
+  	dp[i]=min(dp[i-1]+x,dp[(i+1)/2]+x+y);
+		}
+int ans;
+  		}
+ll dp[N][500010];
+
+typedef pair<ll,int> pli;
+#define sz(x) (int)x.size() 
+
+
+	
+#include <bits/stdc++.h>
+  					cur[k][l]-=temp;
+int aux[N];
+		int v = pq.top().y;
+  cout<<ans;
+	int arr[100001]={0};
+    lazy[0][2*node]=add(lazy[0][2*node],value);
+int main(){
+      cout<<ans[count-1]<<endl;
+    return dp[index];  
+			if(s1[i]=='#' and s2[i]=='#')
+	    
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+					{count++;
+	numbers=raw_input()
+#define pb push_back
+typedef vector<int> vi;
+const int N = 1e5+10; 
+int counter;
+	    }else {
+	ll times=tms[index];
+int extended_euclid(int a, int b, int &x, int &y) {
+  		bool flag1=false;
+    done[s]=false;
+int main()
+        res1=24+res1;
+
+  {
+#include<bits/stdc++.h>
+        mini=ans[i].F;
+  	{
+	cout<<ans;
+const ll INF = 1e18;
+  		int u,v;
+                {
+		cin>>inp;
+    return true;
+#define ll long long 
+            ansval=min(arr[1],ansval);       
+  	cin>>arr[i];
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+		
+    for (i = 0; i < n; i++) pga.data[i] = pga.data[i] * pgb.data[i];
+  			rt=mid;
+const int N = 1e5+10; 
+}
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+}
+	return 0;
+}
+  	if((n-2*m) >= 0 and (n-2*m)%2==0)
+  cin>>m;
+		cout<<-1;
+		
+			 }
+}
+      big_col(8,0);
+using namespace std;
+// compute distance from c to segment between a and b
+  	return 0;
+typedef pair<int,int> ii;
+  nr[1][n]=nl[1][n]=n;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+typedef pair<int,int> ii;
+		     {
+vector<ii> edges[9*N];
+		q.pop();
+  	}
+int main() {
+  		cout<<-1<<endl;
+
+  			arr[i].pb(mp(temp,1));
+#include<iostream>
+            if(flag)
+		fval1[source]=arr[source];
+#define pb push_back
+    lazy[0][2*node]=0;
+    
+      ll mid=(a+b)/2;
+}
+
+	
+#define error(x) cerr << #x << " = " << (x) <<endl
+            	ansval=min(arr[2],ansval);
+  fast;
+
+	        result=div1*b+res;
+   	{
+	{
+	return 0;
+		sums[i]=sums[i-1]+dp[i];
+- yxoevijafbrxhvupflimitnjitxrtbyraowxzhy

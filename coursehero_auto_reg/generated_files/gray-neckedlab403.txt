@@ -1,0 +1,157 @@
+        temp=((temp*temp)/8)+b*temp;
+
+	if(count<=2){
+	    }else if(ch>ch1){
+#define S second
+	                   flag=0;
+		}
+
+#define mp make_pair
+				    	cur++;
+  		nr[1][i]=nr[1][i+1];
+	
+  cin>>t;
+      	{
+	if(a>b)
+
+using namespace std;
+         return;
+  return 0;
+		if(count2>n-count1)
+     ans--;
+  {
+    	if(sum2!=sum1)
+
+  	cin>>l>>r;
+		cin>>n;
+	{
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  		int t;
+  for(ll i=1;i<=q;i++)
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	}
+      	}
++ cgavocnmw
+return;
+                 		flag=false;
+    done[e.S]=true;
+
+  cin>>x>>y>>z;
+int s[4*N];
+{
+         			{
+	    cout<<"-1";
+	 {
+  {
+#define sz(x) (int)x.size() 
+  int n;
+const ll INF = 1e18;
+    a.clear();
+#include <cmath>
+                 continue;
+typedef pair<int,int> ii;
+  {
+
+#define S second
+  cin>>n>>a>>b>>k;
+ll arr[N];
+        cout<<ans<<endl;
+  ll ansindex=0;
+ 	{
+	
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+	}
+#include <bits/stdc++.h>
+	    }
+  cin>>n;
+const ll mod = 1e9+7;
+void update_tree(int node, int a, int b, int i, int j, int value) {
+			if(edges[source][i]==par)
+    for(int i=0;i<n;i++)
+}
+#define F first
+  cout<<sz(ans)<<endl;
+  	FOR(i,0,n-1)
+
+	if(r - l < 2){
+
+    
+        tmp=tmp*b+c;
+			if(lines<=k)
+  	if(arr[i]>0 and k>=arr[i])
+	if(k==3)
+  	cin>>ch;
+
+}
+#include<bits/stdc++.h>
+		}
+  	else 
+#define pb push_back
+  	cout<<arr[n].S;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+    	if(freq[it->F]<0)
+#define tr(container, it) for(typeof(container.begin()) it = container.begin(); it != container.end(); it++)
+
+		{
+	    cin>>arr[i];
+	
+    {
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+const ll INF = 1e18;
+		{
+13806
+		sum+=arr[i];
++ lxzakvpyxlsbisldjppmtslcthwa
+	if(first and k==6)
+
+	cin>>t;
+                 		flag=false;
+  		r=mid;
+int beg[1000010],end[1000010],counts[1000010],span[1000010];
+stack<int>s;
+      div1.pb(i);
+	{
+    //if(i<10)
+  }
+using namespace std;
+		cout<<n-i<<endl;
+				break;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+	int t,n,i;
+       dp[i][1]=min(dp[i-1][0],dp[i-1][2]);	
+  mini[1]=0;
+#define spresent(c,x) ((c).find(x) != (c).end())  // for set,map
+  cin>>n;
+	}
+			temp3->belongs_to=temp1;
+int n,arr[3];
+		}
++ bhjsmypdqkurqvjjnhwpvbzjqldjjaznhkftjuzzgvsyqehdldthguqxhtgtvigdunwdhveprxnjbunoaivieohohqhfynisceyjceavdpegltvlbqwiedwotfttubowhmhlshgwwlcjgxxkqtsuwqkqvfjpixnqlubebkczve
+int route[2][100010];
+	}
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+		done[a]++;
+		{
+
+{
+
+      if(!found)
+    #define pb push_back
+
+	
+typedef vector<int> vi;
+
+  }
+		ll temp=solve(i,h-1);
+	}
+                 	}
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  /*calc(n); 
+  			last=i;
+			cout<<"No\n";
+  return s[curr]+query(c1,l,mid,index)+query(c2,mid+1,r,index);
+  	FOR(i,1,n)
+	int n,m;
+    }else{
+
+			cin>>s;

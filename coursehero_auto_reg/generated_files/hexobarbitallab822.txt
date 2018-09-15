@@ -1,0 +1,172 @@
+}
+  else
+    	double x1,y1,x2,y2,x3,y3,x4,y4;
+		scanf("%lld",&arr[i]);
+  				//cout<<dp[0][i]<<" "<<i<<endl;
+  	done[arr[i]]=true;
+using namespace std;
+  }
+	for(int i=0;i<n;i++){
+	ll check=v/arr[index];
+	while(t--)
+	{
+
+	if(res){
+
+{
+typedef long long ll;
+- xvowzhvbvqtnnfvulbyopbiwesrjzruwnkvotqpqikdvpbsacqqrrznvthguaatpmoeggvwpgcmvdeyfwowpplmiutfvvykimqqummlsqyptenydewstkheeajbvhodvevpsib
+  int n,m;
+  	column(4,0);
+#define ll long long int
+	ver[t][id] = nx ++;
+  int n,t,k,d;
+  {	
+#define sz(x) (int)x.size() 
+
+  }
+}
+   st.push(n);
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  				//cout<<dp[0][i]<<" "<<i<<endl;
+
++ wjkawmkvfzdisddpuqyelpnsnziurtopcyqancvsczawegmywkekbscotmkmfzcjzukmwhhaghxnplnmxsyymaofmyrtzvczpmnouuocen
+  	if(flag==false)
+
+	sort(str3.begin(),str3.end());
+       if(freq[arr[i]]>=maxi)
+
+	    arr[i]=s[i]-'0';
+			aux[source]=1;
+  	FOR(i,1,k)
+		 }
+- bweycbxgnczdohzpdywppebojbvyonasjfqnintyqsbgbcvebttszwhiyegmthgeowrykkwcezkfchlfagxzcgjamppfyvjoucngmlisluzpbkwdstcxcnzoeoudmftgigowuyphsqwtbswvnaspns
+
+  		}
+  	{
+    }
+  	double check;
+{
+}
+#define mp make_pair
+{
+    {return Complex(a*c.a - b*c.b, a*c.b + b*c.a);}
+64546
+
+  			ll temp;
+  	if(c[0]=='G')
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
++ mnceaobpjgtvnmtyckjqwnnrswmvta
+	}
+	for(int j=0;j<26;j++)
+		k=i+1;
+typedef pair<int,int> ii;
+    	}
+// this is different
+		
+        cout<<arr[k-temp];
+				}
+  int lim=(((2*n)%k==0) ? (2*n)/k : (2*n)/k +1);
+       	 }
+	    cout<<"YES";
+				    if(anglec<0)
+       row(2,0);
+    fflush(stdout);
+}
+  		if(ans<0)
+#define fill(a,x) memset(a,x,sizeof(a)) 
+			small=arr[i];
+			if(arr[i]<0)
+      temp+=s[j];
+  	FOR(i,1,n)
+
+  fill(done,0);
+  	    big_row(i,2);
+
+      if(arr[root]<val or arr[root]>val+d or done[original][root] or done[root][original])
+		int flag=1;
+
+			// cout<<points[i].x<<" "<<points[i].y<<" "<<points[j].x<<" "<<points[j].y<<" "<<endl;
+          if(s[j]==t[i])
+		ans=0;
+
+	 	edges[i][j]=false;
+     
+{
+	int count=1;
+- vzfmijrq
+21025
+		
+
+ll temp[N];
+	for(int i=0;i<n;i++)
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+#define iOS ios_base::sync_with_stdio(false)
+		dummy=(dummy<<n);
+  	}
+int main() {
+
+	}
+{
+			cin>>arr[i];
+#define S second
+				z=z->parent;
+#define F first
+      big_row(14,0);
+  	return 0;
+- ewpnemiazmijztpl
+
+bool check2(ll val)
+	while(s.empty()==false)
+  return 0;
+  cout<<edges[0][i]<<" "<<edges[1][i]<<endl;
+        else
+  int ans=1;
+  	    	}
++ gujywidwyjdqbzwzxtwsrkhcxkefvpfdlqchzhgxslqvkoujitbbdleavkhszmwmfauehcdznvwzkrismmvpzzrwjypkmlxrltxuxdvkyrjikrcw
+  	cin>>sen[i];
+    }
+  cin>>n>>q;
+    	return false;
+  	if(i%2)
+typedef long long ll;
+  	row(5,7);
+     
+  fast;
+#include<bits/stdc++.h>
+                continue;
+	    }
+- umdloryfkhcbfdthylqtqpdmkjmecwzykcjavjggrkjyqegopyhhpnuzygfaefaojkpfvxnmhynzcvnutxbimvkkdrnjwnyizppvoejxcwxermamjcxxzhidyxmxkmhkdyfrcopgnmmgyntkpshozrtzoiybw
+  		}
+void findly(int i,ll a,ll b)
+		{
+#include<stdio.h>
+ll mini[N];
+const int N = 1e5+10; 
+    else
+		if(flag)
+		bool val;
+	 j=j/10;
+	}
+        if(flag)
+		{
+		
+  cin>>t;
+}
+  cin>>m;
+- rchoyl
+
+int main()
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+sort(start+n/2+1,end);
+ 	{
+		    {
+	cout<<it->F.F<<" "<<it->F.S<<" "<<it->S<<endl;
+  	else
+
+double p;
+  FOR(i,1,n)
+	int n,p;
+  	{
+  	
+            else

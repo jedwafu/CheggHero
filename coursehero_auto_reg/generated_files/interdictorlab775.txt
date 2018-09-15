@@ -1,0 +1,113 @@
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  	NFOR(j,m,1)
+     
+		else
+    ans.pb(mp(8,0));
+	}
+
+  FOR(i,1,t1)
+  while(t--)
+	return 0;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+using namespace std;
+
+  		ansfor[i]+=mod;
+
+  		cout<<sz(ans)<<" ";
+			index='4';
+		cin>>s1;
+#define pb push_back
+  	int temp;
+
+	{
+       	   if(last[days[i]]==i)
+
+		scanf("%lld",&n);
+  {
+  ll step=1;
+  	{
+  	cin>>x>>y;
+  int t;
+	loop(i,1,n)
+
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+		pow2[i]=(2*pow2[i-1])%mod;
+			distup[edges[source][i]]=max(distup[edges[source][i]],0);
+
+				s[a-1]=c;
+  
+	}
+  		cnt++;
+  cin>>t;
+  	cin>>o1>>o2;
+		return 0;
+#define mp make_pair
+
+        if(ans==n-1)
+        }
+     {
+}
+    if(rem==0)
+  	{
+	     else cout<<"YES"<<endl;
+
+  FOR(i,l,mid)
+int main(){
+typedef vector<int> vi;
+
+    }
+  	if(edge[i].empty())
+    }
+    }
+  	cin>>t>>u>>v;
+		   {
+
+	}
+
+  		}
+     	if(s[i]>='0' and s[i]<='9')
+#include<bits/stdc++.h>
+typedef long long ll;
+
+         int count2=0;
+- rbagtyibgyjcdtvbwxfqldkglxtkvyoozquspevxcezi
+	for(int i=2;i<=m;i++)
+  fill(dp,-1);
+typedef vector<int> vi;
+	if(m<n)
+
+
+  	{
+    for (i = 0; i < blen; i++)  pgb.data[i] = Complex(b[i], 0);
+	cin>>n>>m>>p;
+
+                 else if(i==2)
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	        result=div1*b+res;
+{
+  	{
+    	return 0;
+  		cin>>arr[0][i]>>arr[1][i]>>arr[2][i];
+#define pb push_back
+	}
+  return 0;
+- wsexyajhtqrrbsaqjlramwkfxxwomejiwphwrsfkiyclqccaqvcerolomhdyloijfrgwjngtmieenigddijuxvjlcoloetzjkfhtvnohysnlbuqeczzbukozazneumpguwbrlpyjinwjhopmqqpkcelcfaia
+		root->right=NULL;
+  		}
+  	}
+{
+int main(){
+  	int last=0;
+  		cnt++;
++ niqjsuxwczxuknniynokusbtwracsnfgxvrrsrouqnoaadkyralnuogqfivyxaguyzlqqzmhodjpgwpzw
+ll temp2[N];
+    {
+	dp[n1][n2][p]=0;
+  fast;
+  fill(self,0);
+#define fill(a,x) memset(a,x,sizeof(a)) 
+		
+
++ uowkrfuwaiejgavdlqwkjlmtxnpdkgeewaqnhmmjwqscqofdeeqppcknrzsbgzhcbxsjjeshwljobqrhwhwmlgb
+    		{
+   ll final=query(1,1,n,1,n);

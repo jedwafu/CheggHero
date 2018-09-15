@@ -1,0 +1,173 @@
+  }
+		{
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  FOR(i,1,n)
+int main(){
+  FOR(i,1,m)
+    for(int i=1;i<=81;++i)
+            {
+  			dp[c[i]]=max(dp[c[i]],maxi2+b*v[i]);
+  VI a;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+      big_row(8,8);
+  	int n,m;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
++ ueyvnhudyhyrmgif
+ll query4(ll ss, ll se, ll qs, ll qe, ll x)
+   findry(2,ans[1][2][2]+1,n);
+  int mini=100000;
+{
+}
+int arr[N];
+    else
+    FOR(i,1,m)
+	int dis1,dis2,flag;
+
+		if(arr[i]<small)
+  FOR(i,0,599)
+}
+  int n;
+     {
+		if(val==false)
+                 		flag=false;
+			slopes[j]=big;
+{
+const ll mod = 1e9+7;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+	    }else{
+	return 0;
+	int arr[1001];
+double starts[N];
+			adj[v].pb({u, w});
+#include <bits/stdc++.h>
+	     {
+	string s;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+                 	}
+	for(int i=0;i<n;i++)
++ kpwlzbdjfgeusscdvljovb
+  		double angle=atan2(x1*y2-y1*x2,x1*x2+y1*y2);
+	}
+		prev=prev*q;
+  freopen("input.txt", "r", stdin);
+  {
+   	edges[0][e.S]=source;
+#define F first
+  cin>>d[i];
+ll arr[100010];
+  FOR(i,0,105)
+    }
+
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+	    if(flag!=0)
+
+		 
+    	t=n;
+  	cout<<aux[i][j]<<" ";
+}
+
+
+#define fill(a,x) memset(a,x,sizeof(a)) 
+	}
+		{cin>>ptr[i][j];
+const ll mod = 1e9+7;
+  cin>>n>>m;
+    
+	    	{
+  			else
+{
+               	cout<<-1;
+            // this is for simon
+  	cin>>n>>m;
+#define pb push_back
+  FOR(i,1,n)
+- raoogvzgxnhyjpanefwyozjkngsbukhmkwaqtbzqpgqavqobymbmnkybsqenambmidddeettkjuhbkizyjnlwloodtbffcspfxsmbnfnybuznebnpqblepahkdnpihgpeybhnjulmqncwqplgsxkizsschkmqscutf
+
+  if(!(len2%i))
+
+	loop(i,1,n-1)
+  return 0;
+    A[2*x].sum=((A[2*x].sum*A[x].mul)%M+(A[x].add*(m-ss+1))%M);
+  	}
+   
+
+    }
+		x2=s-y2*(p-y2);
+		for(i=1;i<n;i++)
+			s.push(i);
+- olefozgycnqjhospohotjnzzaoryylpmxttnsznunegusymihcbqpdqsrjqrwhdtbyitxwqkawhuwvedxfvnknfbwxsvexqhvzbtvtfxrotnjxqhenwpbdszcluiklqiktbhm
+  { 
+  int x,y;
+const ll INF = 1e18;
+  FOR(i,1,n)
+  for(ll i=1;i<=n;i++){
+{
+	cin>>n>>m>>p;
+      big_col(10,8);
+int death[N];
+#define S second
+  				FOR(l,0,2)
+  fast;
+  	FOR(i,1,k)
+				query[*it]++;
+                 	{
+typedef long long ll;
+		cin>>c;
+  cout<<ansindex;
+  			dp[i][j]=dp[i-1][j-1];
+{
+		else
+		while(next!=start[k])
+		}
+
+	        }
+	int count=0;
+  }
+}
+    cout<<"? "<<1<<" "<<1<<" "<<n<<" "<<b<<endl;
+  FOR(i,1,sz(C)-1)
+#define pb push_back
+bool FloydWarshall (){
+  	l=min(l,mini[i]);
+	
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+
+
+
+}
+using namespace std;
+
+  fast;
+}
+  }
+
+}
+3034
+    if(cx!=cy)
+			index='2';
+
+    //cout<<n1<<" "<<n2<<" "<<p<<" "<<dp[n1][n2][p]<<endl;
+string s;
+    cin>>a;
+    }
+	}else{
+{
+  	}
+typedef vector<int> vi;
+typedef vector<int> vi;
+  int n,q;
+- dqybpxrfddtotzlamgaekumklxldmrcrhauyylddoyrjxfklnksxgejsduvqlzjvaetapzdgxupxzzimlalshumkqjceimbkqwkhvnpvifsjgcwufhomeaywlbctndgfaqmxecuojoxrrtlwdzkjbihmjkiypofreupkylyhawyrrkpwlzhnhpztbhtqx
+		{
+        	}
+    while(r-l>1)
+#define pb push_back
+  
+       row(6,4);
+  vector<PT> ret;
+    }
+        {
+        if(flag)
+        {
+    done[s]=false;
+	while(temp+i<k){
+typedef vector<int> vi;

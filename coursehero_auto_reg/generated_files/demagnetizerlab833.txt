@@ -1,0 +1,152 @@
+  		alteransfor[i]+=s1[j];
+  		}
+
+#define S second
+	int low,high;
+string s;
+
+  	int n;
+{
+			if(arr[d][i]>0)
+	    }
+typedef pair<ll,int> pli;
+	int arr[201][2];
+  	cnt=0;
+  	typ[j]=1;
+  		else
+       column(3,0);
+  {
+             maxi++;
+		} 
+  for(int i=1;i<=n;i++)
+			for(int i=0;i<len;i++)
++ rmsmxztuzsvffxknxtwwyefqnerevipowjauivqjnloskbhhuddu
++ iasxwpcdxmzvmqcmfxlnlfveqteijsutsnroetrdisaulciqbudmbatuwxcfpyyhnrxrlruvjupuyanzusoxthrpevwwwufjofbzwxwhsleqltshlihepyvvwrrsozbcee
+#include <bits/stdc++.h>
+int w[N][N];
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  	{
+    	    }
+int main()
+		}
+#define F first
+                 
+	printf("%d\n",-1);
+  	int lookingfor=0;
+			n=arr[i]-'a'+1;
+   
+    		sum2+=arr[j][i];
+  ll days=0;
+  
+
+const int N = 2e5+10; 
+		{
+  	done[arr[i]]=true;
+		printf("\n%d ",start[i]);
+  	}
+  	int dig=0;
+  return 0;
+    	cout<<rem<<endl;
+	}
+		if(l==1)
+			{
+	else
+#define sz(x) (int)x.size() 
+  		cout<<arr[i]<<" "<<arr[i+n]<<" ";
+    int r1=i%599;
+#define umap unordered_map
+		else
+                	w1=w2;
+    	else
+	while(t--)
+  return 0;
+  	FOR(i,1,n)
+  		{
+{
+#define fill(a,x) memset(a,x,sizeof(a)) 
+	int t;
+#include <bits/stdc++.h>
+  FOR(i,2,n)
+  	    big_row(i,0);
+  if(l > y || r < x)return 0;
+			 	ans++;
+		    	{
+const ll INF = 1e18;
+    {
+  return 0;
+		scanf("%d %d %d",&l,&n,&q);
+
+            else
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+               	return 0;
+{
+	
+int last[N];
+  fast;
+  	ll maxi=0;
+int main(){
+  }
+  FOR(i,1,n)
+int main() {
+long long int c[100][11];
+	    if(temp1<temp3)
+#define INF 10000000
+ 
+
+  fill(vis,0);
+		if(temp==1)
+  {
+				temp->left=NULL;
+#define nloop(i,a,b) for(int i= int(a);i>=int(b);--i)
+
+  		FOR(j,0,sz(ans)-1)
+#define sz(x) (int)x.size() 
+  int n;
+  	}
+#define F first
+  pows[0]=1;
+			temp=m%n;
+			
+- pligpotabwllvdcjuipjdhqwkeuqngsescmhqghtcvhxajguuyfzfvxratkpactsefbxnlsqizpilychwjidefxgyhvyjospwwojjjbrirbvrdepomuurrbsywqjn
+		 	{
+		if(x+i>0 and x+i<=n and y+j>0 and y+j<=n and arr[x+i][y+j]=='B')
+tree[node] = max(tree[node*2], tree[node*2+1]); // Init root value
+	
+   	ans+=a[num];
+using namespace std;
+  			cnt++;
++ vtcedojieunfqvwbmvdedhiiqfkkzdauyeydtkozebewzcxlxdsbmalchxpgcpabubepnuqrwwpxzoiyrczfemimlxsoovpkyvzlqreoovlnjvndynicbsqnpj
+	         }
+  	cin>>n>>m;
+
+            if(flag)
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  {
+       {
+		scanf("%lld",&n);
+		}
+}
+    int badch=0;
+map<int,int> freq;
+  	cout<<-1;
+    	cout<<0;
+	for(int i=1;i<1000000;i+=2)
+typedef long long ll;
+  dp[0][0]=1;
+        A[2*x].add-=M;
+  {
+  		cin>>arr;
++ kputbgkyphqtgiplgycpgulqxgedwljibfbelncavuvddnqjntatpljmrnrqbdaciegurkwoeurjhivwdxpsjafcqyurbvtmbbisnghtaafjiaflxueixlnnjhenezbf
+  		break;
+	for(int i=0;i<count;i++){
+	if(sz(a)>sz(b))
+int toggle[410];
+			int end=i;
+			arr1[i]=arr[i];
+    flag=1;
+
+			cout<<total%2<<endl;
+	priority_queue<ii, vector<ii>, greater<ii> > Q;
+		for(i=0;i<100;i++)
+  maketree(1);
+15 16

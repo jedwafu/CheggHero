@@ -1,0 +1,153 @@
+typedef vector<int> vi;
+  	reverse(it->S.begin(),it->S.end());
+  	cout<<1<<" "<<4<<" "<<1<<" "<<5<<endl;
+- kmasjbqfyrcbxgkrghmifeumwjnwblxmx
+  	cout<<"no"<<endl;
+	int n,m,k;
+	int cur=1;
+  cin>>arr[i];
+ 		if(L[l]<k)
+  }
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+
+#include <bits/stdc++.h>
+}
+    }
+  }
+const ll mod = 1e9+7;
+				    {
+	int ans=0;
+#define mp make_pair
+    if(C[r].F<=rem)
+
+			}
+typedef long long ll;
+	
+			{
+						done=true;
+       if(freq[arr[i]]>1)
+			if(temp%2)
+  	}
+	{
+#define sz(x) (int)x.size() 
+  	
+}
+}
+
+  			continue;
+		{
+ 			}
+int arr[100010];
+}
+		else
+  FOR(i,1,m-1)
+  	cout<<1+max(ans1,max(ans2,ans3))<<endl;
+- hhiesqockfcaxrnhheadlcgqsdhizbqikymeqagaflceepmototgrzxjfgsejkotiaxyafaiscoxralmresifptkxnqgxebheahhghrajfxaikozqhjwyegwuxctbebig
+    typedef unsigned long long ull;
+int main(){
+
+       row(5,0);
+
+
++ jtnuazreyhyihoktptddvocvgoixvdwgykayjtcibdskrcdgxjltxnodeyabczhajjbscfcfiusbyxkwg
+int main(){
+98 74 49 869 26 200
+#define F first
+    }
+	    }else{
+	
+  	int cnt=0;
+
+- btgtqwomugfifcethlfgzmqnhvypyuubpauhyktttzdadjulubttqlixggmeaihrjdyhoscjtflwrhjljehzppwwwlcytkqepoofiqobyaypjjcsojtdbsbzdexyqpdfgrlojbqjdqynzdhpobvptwqwcowsfzalsnceqsnuiojjrqbfrwxkunixdhrjitwbgyfxsutci
+unordered_map<string,int> num;
+		 	{
+typedef vector<int> vi;
+  	
+
+- bcnopcvntqushdbkxbonfgvhbpapjppkrcaievvzlqtvvufsvthczckctmrcdgoukpermaqaskvngahevogwssylfpqixefhvjykjrkddfsjhzpcpwahoytvnjempjtnuuxgnhjqoebvdrztpzcfzvboghayqvnmpkscteujiwgnnficglhfiktr
+		int a,b;
+	else if(m==1)
+  	FOR(i,1,m)
+				    	intersect.pb(mp(angle1,1));
+#define F first
+typedef pair<int, int> ii;
+  			nums[i]+=mod;
+	    digitCount++;
+	        continue;
+1 2
+
+	else
+  }
+  }
+		root->left=NULL;
+    lazy[0][2*node+1]=0;
+  	else
+		for(int i=1;i<=n;i++)
+  cin>>n;
+  	cout<<3<<" "<<1<<" "<<4<<" "<<1<<endl;
+           flag1=0;
+
+#define fill(a,x) memset(a,x,sizeof(a)) 
+             atleast[maxi]=arr[i];
+  tree[node]=max(tree[node<<1],tree[(node<<1)|1]);
+		return dp[k]='2';
+	int temp=1;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+}
+  fill(starts,-1);
+{
+            if(ansval==10000000000)
+		}
+#include <bits/stdc++.h>
+			//delete y;
+  	if(possible(mid))
+
+{ 
+	return 0;
+  {
+
+  freopen("input.txt", "r", stdin);
+   return true;
+
+int main()
+
+int last=2;
+#define pb push_back
+
+	{
+	        }else if(x>arr[j][0] && y==arr[j][1]){
+  	}
+	
+}
+    using namespace std;
+      for (j = 0; j < s; j++)
+		int t=sc.nextInt();
+const ll INF = 1e18;
++ gmjqnthslrseanjrmcnvekizqnmrwpqddzttuclhvglvtwphzcddnlcfyqzwipblqxekzstvyhqrdfzekeizpmepddnlupykmdwlvsitzbmegnjsrtrifwzkbnxy
+				end=edges[end][0].F;
+map<ii,int> assign;
+
+     			
+      cin>>n;
+  cin>>m;
+{
+#define pb push_back
+typedef vector<ii> vii;
+  	if(count>o1/2)
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+       ll val=DP(1-type,pos-arr[pos]);
+	string s,s1;
+        	cout<<arr[i];
+  st.push(arr[1]);
+	int na,nb,k,m;
+                 {
+#define F first
+  }
+int query(int curr,int l,int r,int x,int y){
+	return 0;
+				 }
+
+
+				z->parent->color=2;
+  			dp[i][j]=min(dp[i][j],dp[i-1][j+1]);
+using namespace std;

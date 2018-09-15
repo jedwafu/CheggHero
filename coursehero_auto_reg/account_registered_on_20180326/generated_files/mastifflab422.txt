@@ -1,0 +1,144 @@
+  	if(cur<0)
+ 	{
+		{
+  return 0;
+			}
+}
+	if(start==end)
+      if(s[i]!=t[i])
+  FOR(i,1,n)
+  	}
+int n,m;
+  	return 0;
+			q.push(make_pair(x,y+ver[x]));
+void merge(int start1,int end1,int start2,int end2)
+}
+	if(!lvl[l] and l<h)
+        	num[i][j]=s[j]-'0';
+				flag=false;
+	loop(i,1,n-1)
+	cout<<ans<<endl;
+  	else if(arr[l]<=m)
+        {
+    VPII::iterator it = upper_bound(best.begin(), best.end(), item);
+
+    return 0;
+				cout<<"BUG";
+	k*=l;
+  				dp[l][i][j][k]=dp[l][i-1][j][k-1];
+
+  	cout<<n-sums;
+    for(int j=2;j<=i+1;j++)
+
+int main(){
+	cin>>n;
+  int n;
+  		if(s[i]=='L')
+typedef long long ll;
+    if(rem==3)
+      if(ans[i].S<=k)
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  	FOR(j,1,m)
+  	ncr[i][j]=0;
+return 0;
+int quotient  = a / b;
+
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+    {
+update(1, start, end, value);
+  fast;
+class RBTree {
+
+
+#include<bits/stdc++.h>
+  	cin>>k;
+        p1=cautaultim(C,c,2);
+int main(){
+  	}
+  {
+  		if(st[u]>st[v]) swap(u,v);
+                    dp4[j]=dp3[j];
+}
+98 74 49 869 26 200
+#include<bits/stdc++.h>
+  		cout<<r+1<<endl;
+	ll mid=(low+high)/2;
+  	else
+    return *(int*)elem1 - *(int*)elem2;
+const ll mod = 1e9+7;
+
+
+  {
+		 temp=original[0];
+		if((X+Y+Z)%2)
+	cin>>t;
+   for(int i=3;i<N;i+=2)
+
+
+ 	return 0;
+		for(int j=1;j*i<=N;j++)
+/**
+#define pb push_back
+  return 0;
+                 
+       row(2,0);
+
+        
+		ans[source]=max(ans[source],maxi[edges[source][i].F]-weight[edges[source][i].S]);
+typedef pair<int,int> ii;
+#define nloop(i,a,b) for(int i= int(a);i>=int(b);--i)
+  		if(j+k-1<2*k and j+k-1>0 and dp[i-1][j+k-1] and (s[i]=='W' or s[i]=='?'))
+}
+  	int l,r;
+  FOR(i,0,25)
+  				cur.F-=route[1][j];
+  ll md=m;
+  		}
+	cin>>n>>m>>L>>s>>t;
+  return 0;
+	return (total<=L);
+using namespace std;
+	return 0;
+  check(2,1,2,y);
+  	if(n>1)
+
+	    cout<<"NO";
+const ll mod = 1e9+7;
+ //   cout<<gcd(3,9);
+	}
+  	cout<<"perfect"<<endl;
+  FOR(i,1,n)
+const int N = 1e5+10; 
+
+  		{
+	{
+	
+    {
+}
+  		self[u]=true;
+bool edges[101][101];
+{
++ mjowxjaosftzmzsybqtnskyjmozhcuzqfpocyoqrwjqikkglabyulydxmehoygedwsfuixlgidpsnxdozdimbompstftzlwvdesodfumjleyjioknzwr
+/* package codechef; // don't place package name! */
+	cout<<beg[ans]<<" "<<end[ans];
+			for(int j=0;j<5;j++)
+  FOR(i2,1,sz(ans2)-1)
+{
+    temp=(temp*7)%599;
+	inp(t);
+		for(j=i+1;j<n;j++)
+{
+  int n,m,k;
+				result+=(r*(r-1))/2;
+ 
+  		int cur = maxleft[i+1]-1;
+		for(i=2;i<=n;i++)
+  vector<Complex> roots;
+	{
+
+return;
+         {	
+
+
+- thkpsczoqeb
+  return 0;

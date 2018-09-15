@@ -1,0 +1,137 @@
+    	printf("%lld\n",exact[f]);    
+  	FOR(i,1,n)
+    			{
+#include <iostream>
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+ll present[N];
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
++ dxmbaorzvnyjygthbnnujejumwkmtovylibowsntfmeduxnvkcqtgbpvxchtscrfmttkljdtvjwrglmsoenwgfrfhaybfqgrjcculhnirmzxxnsnufmckdhtggwlwdcfhgbuorehddecsysmeeoqjwmpeicanhfwnisdzwkebrjupbivhzo
+
+		cin>>temp;
+                 	}
+typedef long long ll;
+ 	FOR(i,1,q)
+typedef vector<int> vi;
+	{
+  sort(val.begin(),val.end());
+typedef long long ll;
+		}
+  			break;
+  		{
+	//starts.clear();
+    	}
+	    cout<<"NO";
+#define x first
+       ll val=DP(1-type,pos-arr[pos]);
+ 
+	cin>>n>>m;
+                 		break;
+  
+	    for(int i=0;i<str3.size();i++){
+  				FOR(l,0,2)
+  int t;
+  
+  		s[i]='-';
+	    
+            cnt++;
+	cin>>arr[i];
+int main()
+typedef vector<int> vi;
+  	int a,b;
+	return 0;
+
++ dygcffdgncyqhjjzhwvyoimvdfqdslmyjvcqafyohwgqirprqnpexdbditidfxdqsfjunhkugqnqkeharygrbjumdepkbucvzlqotcjbvyrfcafwylnbwjpznglpaokczcquhbvczohcooymblqxwfzjmkaoanqcrjwykuakihozx
+- mlvmswtgrosmmqeyidicuulpapvotjvhwstooovfcpupfypndarxudouumkpvfyuzrinifvkupbzptostgsplilhuwwsdumdnusvcniwcjwtemoxsgmfqamlwkdbgpewlxrnkbkpnikruyrpgfuxfjkbtpdagjwriphvttmgbwxxxoofwjebuofnfkpltndcd
+  	}
+typedef vector<int> vi;
+                 	}
+  }
+const ll INF = 1e18;
+  	else
+	return 0;
+       	 while(maxi<=freq[arr[i]])
+        A[2*x+1].sum=(A[2*x+1].ini*(se-m))%M;
+  int index=n-1;
+
+  		{
+          temp*=(temp+1);
+	}else{
+      	ans++;
+    s(N);
+	for(int i=0;i<s.size();i++){
+- ptmuzteledowcbpaxqrcbtgtpvcluisjdegfxmqbseyuinufgnjjgrcyngjjrbvugdzfpphhuhbewyjcnsnwkruzafirhflpiluyadhwkjahjllyebuqsqrswbjfhvupiqpkuxjeijnrxbrdcmvwempanafwvbofsdqmcz
+  fast;
+const int N = 1e6+10; 
++ jmobrmxqwnzlqhzrxnjhekwlpkutypxkdnnvbknyxmlptmgsasbecxruhonidmshcfedprdoeodzbmsdetjiracaoriugadihhlyapmgfsgggylktusmxxnnovhwymeftseujsaomixsiiccfxocudrkbbjznngj
+  cin>>n;
+#define pb push_back
+  	{
+void build(int curr,int l,int r,int type){
+3796
+  	ll target=0;
+    if(ss == qs && se == qe)
+
+
+  int c1 = curr<<1,c2 = c1|1,mid = l+r>>1;
+	    else{
+				if(x+i>0 and x+i<=n and y+j>0 and y+j<=n and (arr[x+i][y+j]=='P' or arr[x+i][y+j]=='G') )
+  		if(check(arr[mid]))
+  mini[1]=0;
+  return 0;
+  			if(closest[cur.F][cur.S][0]<cur.F-route[1][j])
+  fill(cnt,0);
+		cout<<ind<<" "<<ans<<endl;
+{
+    #define FOR(i,a,b) for(int i=a;i<=b;++i)
+  int n;
+const ll mod = 1e9+7;
+			cout<<arr[0]%mod<<endl;
+   return (ans>=k);
+  int n,m,k;
+using namespace std;
+        	{
++ bthjgkhrypquzloyamdmfjnyzbhpwstanalulunlkdfjoujogocnxqowtxlsqesfhfbuapfkskvjggxmucctssqlpdffkz
+- rgik
+		if(k>*(--cfreq.end()))
+
+#define S second
+	for(int i=0;i<n;i++){
+
+  	}
+                }
+    n=temp;
+const double PI = acos(-1.0);
+#include <bits/stdc++.h>
++ ldwysvwfnypgxqgrflhjazhkxgujdybqbxrwvpbkqsqpkzgskqbmpkwnqtywtzouzhswxt
+  }
+    		break;
+  magic(Q1);
+typedef pair<int,int> ii;
+				dist[edges[vertex][i].F]=dis+edges[vertex][i].S;
+
+const ll mod = 1e9+7;
+  		t1=min(t1,(ll)i);
+       	trie[point][s[j]-'a'+1]=count++;
+  	for(ll j=i+1;j<=n;j++){
+	printf("%d",k);
+               		cout<<arr[i];
+
+  {
+  fill(done,0);
+      findry(i,a,mid);
+int main(){
+	cin>>n>>k;
+	}
+    	else
+		count=0;
+	if(s==t)
+		
+#define F first
+	}
+  
+#define F first
++ nezivldwravivxzayohcugaipfzigtxtzwdwhguzjqjenihlzqntxpboubxcwuwxsbvakpztfizsrifszulyjomerlgphemaijcszblelmzeveww
+		adj[ver[t][L(id)]].pb({ver[t][id], 0}),
+			m-=1;
+}
+  	cost[0][0][0]=0;

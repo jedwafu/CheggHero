@@ -1,0 +1,163 @@
+	else
+  		}
+  	cin>>mini[i]>>maxi[i];
+  PT operator / (double c)     const { return PT(x/c,   y/c  ); }
+  }
+#include<math.h>
+using namespace std;
+  ans.pb(val[maxidx].S);
+int main(){
+	}
+const int N = 1e5+10; 
+  	row(6,7);
+int main()
+  	if(i==(index*(index-1))/2)
+
+	if(y->left!=NULL)
++ jztqtmumjesspiwsgzorwbrwkumcwuvftoxpcubmyvgqdckmeydccuymplqnhlvacupeosspozhtdrfjpjmtfkhwxymelhhndyuutojjpsctjkcatquadbxabjhnsoavowphlaqastvddaeysaavdzyfifscvuyjrpreqhgkce
+	
+  	cout<<l;
+    }
+	return 0;
+  fast;
+             	count++,flag4=true;
+    {
+{
+  	indeg[arr[i]]++;
+const ll mod = 1e9+7;
+
+#include<bits/stdc++.h>
+ 	arr.pb(mp(l[i],d));
+
+
+
+int main()
++ cqtcllcfuoclfvmumupwhvjwdpqeqwstolxbybguq
+	cin>>n>>k;
+const int N = 1e5+10; 
+map<string, int> even;
+int c[N];
+
+	char arr[1010][5];
++ rlnbmqoyjwvylikgxdjyzmjyqaermvxfimhucvvmtqmfbwnacwydkkbakftydqelclifidtevfjyewyivzlhjpktwdtzuxnwkxdvcwzzeiykgyudxflgwxbtavswshtfeyaixzibjgnrehvcoiklfmefhycbixioxixujf
+return;
+  int cnt2=0;
+				if(angle1<0)
+    dp[i][2]=min(dp[i-1][0],dp[i-1][1]);	
+	            up++;
+
+int main(){
+vi edges[N];
+  	cin>>xc>>yc>>sc;
+    	dp[0][1][color[0]]=0;
+  return 0;
+  FOR(i1,1,sz(ans1)-1)
+	while(i<=j){
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+	  
+int trie[1126000][27];
+  for(int i=0;i<n;i++)
+    return temp;
+        if(temp>=5)
+{
+int main()
+  ll ans=0;
+				if(arr0[j]!=0)
+	for(int i=0;i<n;i++)
+
+	cin>>array[0];
+
+  fast;
+     column(3,0);
+	FOR(j,-1,1)
+      big_col(15,8);
+int offset=10000;
+		
+  		sorted.pb(mp(arr[i],i));
+
+	cin>>n>>m;
+
+	if(dp[type][pos]+1)
+  }
+#define S second
+    
+int tree[20][4*N];
+int prevs[210][26*210];
+vi edges[N];
+		   }
+    }
+    temp="";
++ xehiezoxvjskurfsvdeiuvpvrcwupbkpfrxjqljnubxruejqhpadkradvwzkzjbgczrumajjegaaklstcswolytgwstvdudhvwbizkrdstfegyxisvyetrmrlhmoervznyjmkarcvxibxhjpejvzakqltebxvyzkwixilqkgpukmbteffbeflutfyuevvfgrofcbvmjn
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  	int n;
+			}
+      }
+	//check correctness by testing.
+typedef long long ll;
+	else
+    }else{
+- gyuwvwukvsktebiaszsuy
+	if(s1[i+1]=='.')
+    else
+return tree[node];
+
+  	}
+#define sz(x) (int)x.size() 
+	
+                 else
+	long long prev=s*(q-1);
+{
+#define umap unordered_map
+if(start==end)
+  cout<<endl;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+
+#define sz(x) (int)x.size() 
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	char c;
+     	ans.pb((int)1e6+1-arr[i]);
+const ll mod = 1e9+7;
+  return 0;
+	}
+  {
+  		{
+  return 0;
+  	
+        for (int i = 1; i <= k; ++i) {
+    {
+vector<ll> C[400];
+#define F first
+}
+                 else if(i==4)
+    
+  {
+  	ll temp=a;
+         	count++;
+
+  	if(ispalindrome(it->F))
+33 57 49 164 819 980
+		
+  }
+}
+
+    int tri=0,seg=0;
+
+	return 0;
+2 6
+          data[j+md2] = data[j] - t;
+	for(int i=1;i<=n;i++)
+   return ans;
+typedef pair<int,int> ii;
+typedef pair<int,int> ii;
+#include <bits/stdc++.h>
+{
+      big_col(1,8);
+  fill(dp,-1);
+#define sz(x) (int)x.size() 
+        index++;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  FOR(i,0,sz(ans)-1)
+  int n;
+		root->right=NULL;
+    cout<<ans<<endl;
+			}

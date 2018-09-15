@@ -1,0 +1,130 @@
+    return b;
+	}
+	for(int i=1;i<=n;i++)
+const ll mod = 1e9+7;
+#define mp make_pair
+        temp+=(a-4*b)/a;
+
+	string s;
+			for(int i=0;i<n;i++)
+	for(int j=2;j<=sqrt(i);j++)
+	    }
+	int color;
+vi edges[N];
+from __future__ import division
+  {
+  	 ans=min(ans,check(siz-1));
+  	dp[0][0]=0;
+typedef long long ll;
+
+  cin>>q;
+
+  			dp[i][j]=INF;
+    }
+  	int k;
+typedef vector<int> vi;
+  cin>>n;
+  int n,t,k,d;
+  cout<<1<<" "<<1<<endl;
+        if(flag)
+  	FOR(k,0,100)
+			else
+
+  	if(temp>n)
+  return 0;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  cin>>n;
+		ll temp2=0;
+        A[2*x+1].add=0;
+    	    flag=true;
+  FOR(i,1,t)
+        else
+  fast;
+	}
+
+  int n,q;
+int val[10];
+#define F first
+using namespace std;
+typedef vector<int> vi;
+  int n;
+
+		{
+       }
+		}
+#define mp make_pair
+	cin>>t;
+  {
+    
+       {
+/**
+        cout<<i<<endl;
+  
+typedef pair<int,int> ii;
+  ll reserve=0;
+
+  	//cout<<inp[i][n]<<endl;
+  {
+}
+
+  	cin>>qsize[i];
+      {
+    
+	if(flag)
+			else if(z==z->parent->right)
+  cout<<ans[i];
+    freq.clear();
+using namespace std;
+		 rights.push_back(make_pair(x,a));
+  cout<<ans;
+		}
+  	cin>>n;
+    	cout<<maxi<<endl;
+  }
+- ammkcnfgryrmkybfbhjnzqreuwisyodycrjeeqnxpekbengiurvvjozdlhwlybmasvhwnuvcahffunnoekkozlrmvpztqlviicgwyeazlgegttwyfimgwfurxukpfhaokimimmjyspgoiemqpawlht
+{
+    }
+     
+for(int i = 0; i < N; i++) arr[i] = 1;
+{
+	     if(sum<=c)
+int main(){
+}
+int mod_inverse(int a, int n) {
+		if(temp[i]!=temp[i+1])
+  	FOR(j,0,sz(edges[i])-1)
+  			if(i+j+k==i or i+j+k==j or i+j+k==k)
+const ll INF = 1e18;
+	    cout<<val;
+
+#include <bits/stdc++.h>
+    return;	
+  		else
+typedef vector<int> vi;
+	{
+    for(ll i=0;i<prime_fac[1].size();i++)
+ 		ll mid=(l+r)/2;
+              return 0;
+  	else
+  return 0;
+  	ll ans=0;
+        query1(1,N,i+1,i+1,1,a);
+  {
+    FOR(i,1,n)cin>>in[i];
+		cout<<i<<" "<<freq[i]<<endl;
+	int t;
+	    Scanner sc=new Scanner(System.in);
+  	if(done[cur])
+			if((n-i)%7==0)
+typedef long long ll;
+			ret2+=MOD;
+  fast;
+    sum+=arr[i][j][k];
+    
+  FOR(t,1,q)
+  			tdp[j]+=mod;
+		t = yy; yy = y - q*yy; y = t;
+    }
+  ll n,m;
+int main(){
+		    }

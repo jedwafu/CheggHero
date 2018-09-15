@@ -1,0 +1,167 @@
+	{
+	int n,m;
+#include<iostream>
+		}
+        flag=true;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+}
+  		if(route[0][j]==3)
+- tnafwcknsyepss
+  	ll sum=0;
+             	count++,flag1=true;
++ xgxqkpzrtalgihjugwguzymnnkmtfsheygvkvuepupvdygzfchzdflssxhndzuhzdekyzonvdjaercjujkxpxqjvxxaythzwmjvnzkkfvljnnuhwegnbyxwxuwvpgxmugjjittppgycvul
+
+	int t,i;
+ 		ll mid=(l+r)/2;
+	int t;
+
+  	if((r[0][i]==x1 or r[0][i]==x2) and v[0][i]==0)
+    	{
+    	int mini=minim(side1,side2,side3);
+  fast;
+		 		}
+typedef vector<int> vi;
+	for(int i=0;i<count;i++){
+    cin>>c;
+#include <bits/stdc++.h>
+	    }
+	    int flag=0;
+		{
+}
+    
+  else
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  }
+using namespace std;
+		if(edges[source][i]!=parent)
+using namespace std;
+#define S second
+
+
+		 				while(seen[iter2] and iter2<26)
+				dis[u] = dis[v] + w;
+  	cin>>ops[i]>>nums[i];
+		for i in xrange((k)-1,(p)-1,-1):
+	for(int i=1;i<20;i++) DP[i][source]=DP[i-1][DP[i-1][source]];
+  			dp[c[i]]=max(dp[c[i]],b*v[i]);
+	{
+#define sz(x) (int)x.size() 
+const ll mod = 1e9+7;
+				}
+queue<int> Q;
+
+#define tr(container, it) for(typeof(container.begin()) it = container.begin(); it != container.end(); it++)
+typedef pair<int,int> ii;
+#include <bits/stdc++.h>
+  fast;
+	    }else{
+	int x,y;
+  else
+46440
+#define F first
+  	string srted_s=s;
+  if(!donev[i])
+		int bit=(((val) >> (i)) & 1);
+
+
+  		cout<<-1;
+    if(a>b||a>j||b<i)return;
+			left=k;
+  			if(0<=val+i-n and 1000>=val+i-n)
+                 }
+const ll INF = 1e18;
+      big_col(14,0);
+  int l1,r1,l2,r2;
+	return arr1(i+1);
+          printf("%d\n",0);
+  		if(count<=o1/2)
+ 		r=n;
+		else
+    int* z = new int[n];
+#define S second
+	    char ch1=tolower(s1[i]);
+	            cout<<ch;
+  int m,n;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+bool can(int m,int s)
+		
+
+      reverse(ans.begin(),ans.end());
+  		ans.pb(mp(2,cnt0));
+#define F first
+               }
+  FOR(i,1,n)
+  	}
+      *it = item;
+	ll times=tms[index];
+#define S second
+  	scanf("%lld %lld",&a,&b);
+
+int main () {
+  	}
+  	{
+     
+
+
+
+       while(k+1<sizes and it->S[k]+it->S[k+1] > 0)
+			
+	cin>>t;
+- ifhmwmfrsecsjaudbuxlpwymlqvvynsiszxooehgklytlvynpwaguatfqqcrdvbvwylkeurofrirmigeeikzjfgbvju
+ 					ans=(ans*2)%mod;
+				total+=freq[i];
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+        else
+  FOR(i,1,n)
+#include<bits/stdc++.h>
+#include <bits/stdc++.h>
+			{
+    }
+
+  	}
+	for(i=0;i<n;i++)
+int original[2][2000];
+    while(n>0){
+	par2[cnt]=p;
+  	route[0][i]=1;
+  {
+  	FOR(j,1,w)
+    int main() {
+	add(v, w, x, y, t, R(id), mid, r);
+int main(){
+              return 0;
+	int t,n,i;
+    using namespace std;
+  		FOR(j,1,n)
+  int t;
+  }
+	while(a>0 and b>0)
+  	FOR(j,1,n)
+	dfs(tree[root][i]);
+        ll mini=min(arr[0],arr[n-1]);
++ okfaomczgyrdmwrzsmffddrqayaolfszrxcgkgfsgyvtvpupdcxgfoyhpzvagncyne
+		dummy[i]=0;
+
+const ll INF = 1e18;
+  {
+      big_col(12,0);
+  	val*=10;
+
+  fill(rows,0);
+#define S second
+				if(a==1)
+    update2(1,1,n,a,b,val);continue;
+	int mid = (l + r) >> 1;
+typedef pair<int,int> ii;
+	}
+#define S second
+typedef long long ll;
+        }
+	 	cout<<4<<endl;
+		{
++ tuhzmunqkhvomhkswlwmfbdvnwyjpeviycjkywcifawrhilfvhralxxytyjkceuaidmgzq
+		else
+  int root=sqrt(N);
+
+#include <bits/stdc++.h>
+const ll INF = 1e18;

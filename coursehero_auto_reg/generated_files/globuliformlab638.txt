@@ -1,0 +1,153 @@
+const double PI = acos(-1.0);
+  dp[0][1]=arr[1];
+      if(temp.compare(s1.substr(j,div1[i])))
+
+  	alteransfor[i]=0;
+	return (total>=L);
+  	}
+
+		cin>>n>>c;
+  int n,q;
+        
+  		FOR(j,0,m-1)
+        A[2*x].sum=(A[2*x].ini*(m-ss+1))%M;
+
+  	}
+const int N = 1e5+10; 
+#define F first
+    else
+		cin>>arr[i];
+		return 0;
+  if(size==2)
+
+typedef vector<int> vi;
+  nr[1][n]=nl[1][n]=n;
+  	l=mid;
+
+ll solve(int type,int index,int quant)
+ 
+        flag=true;
+- xrjafcnmhzqouaonteqpbplrcqpklsvijekqgxdozvetysgrxzgaoturmjdzbyjnfudltibsehlccuvztebjzvclhgkiguxnqbbllcepmrtonppitqssowgvesflodyegzqrewjsncgdrvlmndhb
+}
+  {
+  	FOR(j,0,399)
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+    	    int count=1;
+}
+  ans+=solve(n,i);
+         if(carry)
+#define ll long long int
+long long int arr[1000010];
+	ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0);
+- guhywiwzhugszyuuvufomwuegaokgeumybnwjjwtfcledhaaehoqeiwmkkytrsfpuuoffkakonqtvstbahtgrpsezsxqleihzwmginryajsxclycvtioicskupcfw
+- jgnbulsqyejqvwkgiricffgsctkxpsmaabevowlocxexvrffkoipvohyjtvyljamnejbdusftyfrpmwzaepwuywdstdfcerricvnzntslaldmic
+    A[2*x+1].sum=((A[2*x+1].sum*A[x].mul)%M+(A[x].add*(se-m))%M);
+9 72 26 983 805 822
+
+ cout<<ans;
+	if(exp==1)
+24 27
+             		break;
+  	if(check((double)mid))
+typedef long long ll;
+  	scanf("%lld %lld",&a,&b);
+stack<int> st;
+
+  {
+  {
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  FOR(j,0,1196)
+    }
+
+			scanf("%d %d %d %d", &v, &l, &r, &w);
+		//for(k=0;k<n;k++)
+		if(arr[root]<0)
+		{
+  		cout<<endl;
+        arr[pos[(int)1e6+1-arr[i]]]=0;
+  	}
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+      reverse_col(11,4);
+  				dp[i]=dp[last[k]]+1;
+    return temp;
+#define F first
+const ll mod = 1e9+7;
+using namespace std;
+
+#define Error(a,b) cerr<<"( "<<#a<<" , "<<#b<<" ) = ( "<<(a)<<" , "<<(b)<<" )\n";
+	while(q--){
+  	big_row(11,0);
+		
+		
+
+ll arr[N];
+  	}
+	{
+  while(t--)
+
+  		c[3]=s[i+3];
+#include <iostream>
+int arr[110];
+#include<string.h>
+        tmp=tmp*b+c;
+27313
+ 				l=mid;
+using namespace std;
+void update(int curr,int l,int r,int index,ll val){
+	ll t;
+  		nr[0][i]=nr[0][i-1];
+#define sz(x) (int)x.size() 
+#define S second
+			j=1;
+typedef pair<int,int> ii;
+using namespace std;
+  	}
+  		break;
++ kcwqnrlgrvahyspqeijhksxvidvanzmzdisqbdxsazbzssryaafntcidhfdweqwj
+{
+  			if(y-b[i]>=0 and prevs[j-1][y-b[i]]!=-1)
+		return true;
+ll arr[N];
+
+			 		prev=i;
+    	cout<<0<<" "<<0;
+  return 0;
+  	    column(i,6);
+		while(curR>q[i].r)
+  	return 0;
+  	int u,v;
+        	index--;
+  update(c1,l,mid,left,right,val);
+  	}
+  if(ans<0)
+    	ans=0;
+- ywpbauqsjslrcquuhcsklbspwaveytyyspbsjrkvlxooqiizmbjycdpaekgeegcwwdqhwcciaqwsbernhcnlhcllpsrvattwyjgvlkdnbzfefytpchakloxcipxikqh
+
+  			break;
+  }
+		cin>>arr[i];
+#define S second
+  	if(i+1<len and s[i+1]!='!')
+#define all(x) x.begin(), x.end()
+  }
+  	FOR(j,1,k)
+
+			now--;
+
+  {
+const int N = 1100000; 
+			attached[*it2]++;
+
+  	for(int i=1;i<=n;i+=2)
+using namespace std;
+  }
+ll dp[40][40];
+map<string, vector<int> > beauty;
+  sieve();
+  return 0;
+typedef vector<int> vi;
+  {
+		{
+    	
+#define F first
+          arr[i][s[j]-'0']=true;

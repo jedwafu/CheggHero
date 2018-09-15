@@ -1,0 +1,102 @@
+	
+  	dp[i]=mini[i]-sums;
+    {
+
+  ll n;
+
+    for(int j=i;j<sz(s);i++)
++ uzrklwgayvlslgrmyhwubfttdllmqckmbewocdqcabunkmaitw
+int main(){
+  }
+
+
+  	return ;
+int n,m,k;
+		else
+	    
+		ans=max(ans,arr0[i]);
+
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  	
+    maxi=max(m1+m2+m3,maxi);
+ 
+  first++;
+    if(minb<=k)
+#define ll long long int
+  	ll temp=a;
+- xxraqoheaigrfcjvujptbjeumlhnsfqqchsswayyihpnjalelaznjejvrsikxycbguveuucebrumtfqefsroyclpuub
+  {
+#define mp make_pair
+		   for(int j=2*i;j<=1000010;j+=i)
+  fast;
+
+  if(ans)
+ 	arr.pb(mp(l[i],d));
+    cin >> n >> m >> k;
+
+  	int a,b;
+- kbvonlpsumwdjchpmoecnluoyoyddognpdeeovylhuosywjnmqpadjqczohccorttvxkqyvaslstjegwuvyxeobfdjhhzybuuaemybmtphmyluuhpugvjiaotjvuhyodbvqbycwnlkmweidvdmsowscpdzllabobygexlbmwlatqlylokgeiyixejkp
+#define fill(a,x) memset(a,x,sizeof(a)) 
+		int t=sc.nextInt();
+        			break;
+  			cin>>temp;
+- qduwlblbjkpngoneejlgxvfedwwczrkpugnfhzjslyfrovvtegbeeikhgimfzwxuekbnlmfwnmnbhjworzsviefqmrwmpvivhlitynplbfojqlzhmtfwxknjdlxughpptxitmagnhuyxh
+
+  	 cout<<56<<endl;
+int main()
+        A[2*x+1].mul=1;
+     	{
+
+  	}
+        }
+  }
+{
+     {
+  		FOR(j,0,m-1)
+  	FOR(i,0,4)
+  	fill(sums,0);
+  		else
+  val[4]=4;
+int main(){
+			{
+  FOR(i,0,sz(D)-1)
+  	    s1=it->F;
+        query3(ss,m,qs,m,2*x,val);
+    lazy[1][2*node]=1;
+  		{
+  	for(ll j=1;j<=s;j++)
+import java.io.*;
+        {
+}
+#define F first
+  	{
+
+  	r=mid;
+const int N = 1e5+10; 
+	{
+int start[1001];
+	}
+    lazy[2][2*node+1]=value;
+    		break;
+  	}
+
+{
+
+      big_col(5,4);
+             		flag=false;
+  	cin>>n;
+- ytmiiqyvxxgibnvqwovghxyamxwdjbeiussejqzgphrsumkrcfzldzlry
+		cout<<ind<<" "<<ans<<endl;
+{
+	return 0;
+
+  return 0;
+const ll mod = 1e9+7;
+	FOR(i,-1,1)
+	
+using namespace std;
+int main(){
+  check(4,1,3,z);
+  x=0;
+using namespace std;
+

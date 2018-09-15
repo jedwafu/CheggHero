@@ -1,0 +1,166 @@
+  FOR(i,1,n)
+#define tr(container, it) for(typeof(container.begin()) it = container.begin(); it != container.end(); it++)
++ bujvjvnmfriflqorjuckpbamcfgohtflnoixjvlqowwzomszjwjyyjmcosrymwjbmtyxqmpfingwazxjxgjvpwyfqrdepogbhgaaspfcdnafmxqmdzhuxhcqafupwasfjsfbkmgnagsoeiajjkehtgxuntllwerfyygilmxl
+- jbhdcpdthwbdp
+      findry(i,a,mid);
+const ll mod = 1e9+7;
+			 else
+  ll sums=0;
+       
+  int maxidx=0;
+  	w[wt].pb(c);
+		//cout<<"max2 is "<<max2<<endl;
+const ll mod = 1e9+7;
+using namespace std;
+typedef long long ll;
+  int r=1000000;
+         	    			dp[i][j][l]=min(dp[i][j][l],dp[i-1][j-1][w]);
+bool check(double val)
+  if(typ[i]==2)
+    in.resize(n);
+	
+  	{
+            if(last[other]<i-y and other!=j)
+
+        }
+  cin>>n;
+  int* z=z_values(s);
+  fast;
+  FOR(i,2,n)
+typedef vector<int> vi;
+int main(){
+    lazy[0][2*node+1]=add(lazy[0][2*node+1],lazy[0][node]);
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+	        continue;
+
+  		//cout<<i<<" "<<maxi[i]<<endl;
+const int N = 1e5+10; 
+  {
+- qpsjwdpgbqbimqkftqrvvdfwmzfqrnqkekvanmipcjzramyverqauwyjxdzrtrdxbayrmgirsjks
+{
+#define S second
+      reverse_col(10,4);
+  
+typedef long long ll;
+			}
+
+ 
+  		if(i==b)
+	cin>>n;
+11 12
+       }
+      
+		{
+	
+const ll INF = 1e18;
+import java.io.*;
+{
+		return 40;
+               	return 0;
+  	cur=(x2*cur+y2)%m;
+#define S second
+             	area+=(x2-x1)*(y2-y1);
++ tbifgfkugkztgqpbbqocxysfhmuqctkwusdaxqwfavailploibqhzlmixgyczjawbfwbxvizsjheavuiwnrwyeex
+	{
+				if(arr2[j]!=0)
+const ll INF = 1e18;
+	
+        cin>>b[i];
+	if(dp[n][h]+1)
+
+		
+			}
+
+                }
+  			FOR(k,1,j)
+int main()
+using namespace std;
+			int mid=(l+r)/2;
+}
+	for(i=0;i<n;i++)
+  cin>>n>>k;
+		{
+  getline(cin,s); //For newline
+  	if(i%2)
+  	cin>>t;
+  }
+  {
+
+	       	total+=freq[i];
+	    for(int j=0;j<2;j++){
+  	column(1,7);
+  cin>>a[i];
+		
+		freq[val[x]]--;
+      b2=max(b2,D[i].S);
+using namespace std;
+void mini(int m)
+	}
+#define sz(x) (int)x.size() 
+	
+const int N = 2e5+10; 
+		    	
+	
+8 63 79 11 332 325
+
+	 {
+    else
+ 	ans=max(ans,l);
+  	}
+inline int lca(int u,int v)
+	int count=0;
+  }
+      if(!rows[i])
+31 34
+#define S second
++ erqyhtvsuduqylfnfqryrsuodwhfdkahcrhlkddgiawjndwtwntnhpdmmmtrxuyzlhmxkrettcchiacenxtwmxkajergyrhjbvilnoggtkpbkrhzqavdx
+typedef map<string, int> msi;
+typedef vector<ii> vii;
+  FOR(i,1,m)
+
+  return;
+	                   total++;
+	
+        bool flag=true;
+		if(smallest[i]<temp[i])
+	int n;
+	{
+    cin>>a;
+  
+
+  cin>>x1>>y1;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+			{
+}
+                    flag=false;
+   	return 0;
+  {
+  	where[i]=i;
+- yzyyrdbaexwhfzxyfttdyccvicjkmiwkhujbzmdgkaprbmqgfjkfnoax
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+int original[100];
+  fast;
+      cin>>temp;
+
+
+  }
+	int m,n,a,b,result;
+
+  }
+	for(int i=0;i<n;i++)
+	if(a==b){
+	cout<<countt;
+  	if(val1==1 and val2==1)
+	}
+    int intersectvalue = b[a-1];
+int main(){
+
+
+  int lt=1;
+  }
+		
+ll dp[2][N];
+- pwdnhgphsdaesmjfmpoyomjnuxlulpf
+	        }
+		}
+        l=mid;

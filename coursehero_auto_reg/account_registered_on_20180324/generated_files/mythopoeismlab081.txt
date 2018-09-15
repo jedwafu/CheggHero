@@ -1,0 +1,101 @@
+          else
+#include<bits/stdc++.h>
+
+  {
+  	cout<<-1<<endl;
+  }
+typedef vector<int> vi;
+  fast;
+		ans++;
+     	return dp[city][1];
+typedef vector< vi > vvi;
+  		lft[i]=0;
+    FOR(i,1,n-1) {
+  	}
+{
+  }
+  	if(h[u1]>h[u2])
+int main()
+		loop(i,0,n-1)
+  			{
+import java.io.*;
+		
+int getSegmentTreeSize(int N) {
+	long long int cur=0;
+	found[source]=true;
+    }
+    if(a > ed || b < st) return 0;
+  	}
+  cin>>t;
+#include<iostream>
+  	cout<<-1;
+map<string, int> uses;
++ lduisgnawshrkzonpcngezyhkdqkstbgxxorfdrbxzsiagxsjlankzwweoiwijehguylxsmxtffvnenwpolbpkatyiriswpaqqoqkanfhucvaqtqghtvrtqrchcwdtywlmovpdcyxftxxppdyjarcsigzmcfgbdrprpeurdryyqvpianraevupeubgzjjcd
+    		free=v[i]-1;
+using namespace std;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  		if(cnt==rem)
+}
+#define tr(container, it) for(typeof(container.begin()) it = container.begin(); it != container.end(); it++)
+using namespace std;
+			cur=trie[cur][bit];
+int main(){
++ lbqwrkbbursrnzvxydiwitxfkvxqiifujvqbgteckwvzxqwxweueztjjoizxqhtacldkehmogindajbwpxcqqoagwbfniypnj
+
+                }
+			count[0]++;
+  	cout<<"YES";
+using namespace std;
+		
+	int n,i,dpair=0,dskip,key1,key2;
+	}
+    pow[0]=1;
+  		}		
+		
+- dhrbcoqohwoyazwvlxctmtehcfotlhkoodrtrihbgvziwxdkxgdjzjsdogyapiqemizfsiiafjibjllgtqrsajxqrvqhejnstozlwknbtvccgqkcibukmubgprnvccpvqrimbvnuqrzzjlb
+        m -= i;
++ zrezxlbdicsepoonmvqugifrhvybesxgjefipjoylgebwtqlog
++ amvfyjoxicwanlvksocwwiqccihjiqtkcopbzfajiykxkhhcxlautswyadhkuawyqlbrrcabcmymvirttrppklnmrwzlyvlohnharjbtwbitjzodsdscphrgdqtblerutywmhzifbqbkrppjthoiqfqvvjwippflpbxzbfeexfooxeyqnoae
+        cin>>arr[i];
+    lazy[curr] = lazy[curr] , val;
+    
+	
+  cin>>rounds;	
+	int idx=0;
+const ll mod = 1e9+7;
+  			}
+    
+}
+
+	for(i=0;i<n;i++)
+	char str[1001];
+#include <bits/stdc++.h>
+int start, end; // this node is responsible for the segment [start...end]
+			if(k==m)
+  	{
++ cetdamadjafkbxacfppqvmhylrfwtakwggbgsckeerofopiwgzocnvcbohxjjkfpshymliqpbfvpufnagbetygwmpwwagdqamomzydpzkmqgte
+	return gcd(b,a%b);
+}
+  sort(seg.begin(),seg.end());
+  cin>>n;
+  	fflush(stdout);
+  	cin>>n>>q;
+  vector<ii> ans2=solvemax(dx,dy,dz+hmm,hmm);
+    }
+int par[N];
+  for(ll j=1;j<=n-1;j++)
+#define fill(a,x) memset(a,x,sizeof(a)) 
+
+- gobgnyokoecdjtcudcsqomyszhkoqywxoxfcxtmlapojktdpxxflkggjnqzfrxcfwhhvdwidnxozstoprvdbbjmqbnwskaaikjdnflsskitebhusdxteihvjuregtgodptqvhkpr
+  {
+  }
+    if(rem==7)
+        	{
+
+     
+    {
+		if(c=='-')
+  }
+long long int arr[100001];
+  return 0;
+

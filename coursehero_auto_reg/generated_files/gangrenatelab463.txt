@@ -1,0 +1,112 @@
+  			if(query[command[2][i]]<0)
+#define fill(a,x) memset(a,x,sizeof(a)) 
+       
+  return s[curr]+query(c1,l,mid,index)+query(c2,mid+1,r,index);
+    
+	}
++ lbqwrkbbursrnzvxydiwitxfkvxqiifujvqbgteckwvzxqwxweueztjjoizxqhtacldkehmogindajbwpxcqqoagwbfniypnj
+			if(edge[top][i]==true && done[i]==false)
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  {
++ jyzuypwecmlyhmavmsitzpirdqmvqvicviytxuacglaqzalmuthuk
+      cnt[seven1[r1]][seven2[r2]]++;
+	}
+       column(5,4);
+  cin>>n;
+    }
+  {
+
+	ans+=rights[sizel].second;   
+		sum+=inp[i-1];
+
+#define ll long long int
+#define fill(a,x) memset(a,x,sizeof(a)) 
+        A[2*x+1].mul=1;
+	if(k==4)
+#define all(x) x.begin(), x.end()
+			l+=(m-1-j);
+	        result=n/m;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+      if(t==0){
+#define pb push_back
+  		if(dp[i]<0)
+         diff=arr[1]-arr[0];
+                 }
+    FOR(i,1,k)
+        ll ans= function(0);
+  FOR(i,0,m-1)
+	return sums<=(n-pos);
+
+#define sz(x) (int)x.size() 
+  flag1=false;
+ll d[N];
+		{
+  {
+  }
+	
+#include <bits/stdc++.h>
+  cout<<ans[i]<<" ";
+    int x;
+	{
+typedef pair<int,int> ii;
+		}
+int original[100];
+    cin>>n>>k;
+	for(int i=0;i<n;i++)
+int arr[N];
+  	if(c[0]=='Y')
+
+	for(int i=1;i<=m;i++)
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  	reverse(L+1,L+n+1);
+const ll INF = 1e18;
+	if(LVL[u]>LVL[v]) swap(u,v);
+        cout<<"YES"<<endl;
+  int n;
+  return 0;
+				if(arr[i][j]!=arr[i+1][j])
+typedef vector<int> vi;
+    
+
+const ll INF = 1e18;
+  	cout<<dp[t-1][r]-dp[t-1][l-1]<<endl;
+  PT operator / (double c)     const { return PT(x/c,   y/c  ); }
+  		s[i]='K';
+int n,m,k;
+		}
+	
+bool vis[N];
+  {
+      done[original][root]=true;
+  ans=max(ans,death[i]);
+    cout<<dollar-n;
+    	    int cur=i;
+const ll INF = 1e18;
+  	last[val[i].F]=i;
+#define pb push_back
+	    cout<<val;
+{
+    }
+    {
+            arr[id++]=tmp;
+  dfs2(0,0);
+  {
+		return ;
+int freq[2*N];
+- soemzvgrwdgpymazimolhbmsrmrzljlfxruxmaokdwzdlactothxwtqofjntsayqrupdvfoacp
+  	cout<<endl;
+	}else{
+while(t--)
+    lazy[2][2*node+1]=value;
+using namespace std;
+
+   	if(point[axis]<val)
+    pos[i][a[i][j]] = j;
+  dfs(1);
+
+{
+
+
+			if(arr2(-1))
+
+			if(arr[i][j]==0)

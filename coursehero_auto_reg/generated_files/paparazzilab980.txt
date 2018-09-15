@@ -1,0 +1,163 @@
+  	done[cur]=true;
+    i=1;
+       	else
+
+  {
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+{
+- gobgnyokoecdjtcudcsqomyszhkoqywxoxfcxtmlapojktdpxxflkggjnqzfrxcfwhhvdwidnxozstoprvdbbjmqbnwskaaikjdnflsskitebhusdxteihvjuregtgodptqvhkpr
+  ll temp=0;
+    build(2*node+1,(i+j)/2+1,j);
+  int x,y;
+
+            if(flag)
+       return -2;
+#define S second
+        }
+    FFT pga, pgb;
+  int sz1=sz(s);
+  		cin>>temp;
+		cin>>arr[i];
+      {
+	return 0;
+  	}
+vector<ll> C[400];
+				z->parent->color=2;
+	return 0;
+		{
+ 				l=mid;
+					break;
+         		if(color[i]==0)
+int main(){
+     ans+=max(pows[p1],(arr[i]%pows[p2])); 
+  	smallest[i]=arr[0][i];
+		else
+    }
+  FOR(i,1,n-1)
+		sum+=inp[i-1];
+  	cout<<endl;
+    	    int cur=i;
+
+		{
+typedef vector<int> vi;
+		return dpd[index][quant];
+  }
+       }  
+
+  int p=10005;
+  	cin>>n>>q;
+    FOR(i,1,n)
+          temp+=cost[j];
+                 else if(i==2)
+double pows[11]={1,2,4,8,16,32,64,128,256,512,1024};
+	if(dp[n][h]+1)
+  dfs(1,0,1);
+
+			if((arr[i]-arr[i-1])<d)
+	}
+	
+  		nl[0][i]=i;
+			else if(z==z->parent->left)
+  fast;
+		{
+  		cout<<"First";
+  	edges[u].pb(mp(i,mp(v,c)));
+    else
+
+    }
+	n++;
+  	else
+       {
+			if(arr[d][i]>0)
+		
+  			if(dp[last[j]]!=-1 and dp[last[j]]+1>dp[i])
+
+#define F first
+	return 0;
+  	}
+  fast;
+    temp.pb(0);
+	return 0;
+const int N = 1e5+10; 
+			printf("%d ",next);
+int main()
+
+     
+  		}
+    return result;
+		{
+#define S second
+64546
+	}
+                if (g[i][l] != -1 && g[l][j] != -1 && (g[i][j] == -1 || g[i][j] > g[i][l] + g[l][j])) g[i][j] = g[i][l] + g[l][j];
+  FOR(i,1,qr)
+
+       sum+=even[it->F];
+const int N = 1e5+10; 
+{
+{
+  {
+          cout<<arr[0];
+        result2+=b[i];
+
+  if(l==r){
++ rldlggqjmwhymdhwliuowlyrfyvmveomqsxwyofnmolasswdcqubdssjsqvnukakczicporccccwwzczrwaxqugimbxhnxtrzcwosnswsvtowvpptrmlostawqhlqddrhbfzoyvivqztnoiggxrupmwnfgzxjeoqfvrvvmgqdflstuzbtsxi
+	    i++;
+	
+	for(int i=1;i<=n;i++)
+  FOR(i,2,n)
+  fast;
+                 	{
+
+                 	{
+  cin>>n>>m;
+typedef pair<int,int> ii;
+	root=z;
+#define M 1000000007
+#define pb push_back
+}
++ hemeurvgyyipllrbanoqzgllhwbwoezw
+        result=i;
+  	{
+
+
+   {
+typedef pair<int,int> ii;
+	{
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+
+			term=(term)*(i+1)
+#define sz(x) (int)x.size() 
+        diff=arr[2]-arr[1];
+    sum2=0;
+  	 ll sums=0;
+const int N = 1e5+10; 
+       	exact[freq[arr[i]]]=arr[i];
+- nxqtcrzzxxpvzcjlosfppsaxfkdkwjukilflcfkccbxddjrubwjsojqwuvgsedeookbsrouvpuyvdppgmayckqyglharkfgarjuixpdnldkqtzyhbyjlpktcruudzcdslzajqfybiitdjrkkqwyhgrjznfcojhgvgigxpgayqwdznolfklosdy
+}
+bool self[N];
+
+	{
+  	ll ans=0;
+  	mini[i]=INF;
+    }
+  		C[i].clear();
+	{
+  dist[i]=mod;
+	tr(bd,it)
+	}
+	}
+  int tot=0;
+  string temp;
+
+
+         
+     for(int i=1;i<=13;i++)
+  	}
+const ll INF = 1e18;
+	    hh2=hh2*10+t[i]-'0';
+#define S second
+  fast;
+	int t;
+{
+        p1++;

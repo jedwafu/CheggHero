@@ -1,0 +1,108 @@
+  }
+  }
+{
+	ll l=1;
+using namespace std;
+}
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	return 0;
+    return lpd[arr[index]]; 
+
+  if(l > y || r < x)return ans;
+  
+{
+
+    ans=max(ans,D[i].S+query(1,0,sz(D)-1,0,temp)); 
+		qsearch(root->r,i);
+            else if(v==0) 
+		    else
+- gknnfwlcwsabbsbrbeifpmhopjjdzbtfmiuteivbcveephxqofxdresjqdopfixtqtmxbjaeeekvmhmcnjfgqz
+		len[first][k]=1;
+
+    
+#include <bits/stdc++.h>
+const ll INF = 1e18;
+typedef pair<int,int> ii;
+  }
+                 else if(i+1<n)
+using namespace std;
+int arr[110];
+			   	
+{
+
+int main(){
+  ll ans=pre[2];
+	hour1=0;
+		else if(taken[i])
+typedef pair<ll,ll> ii;
+}
+  		bool flag=true;
+typedef long long ll;
+- viykonlfwbdphepmcatlhlhskawtecublvmzizggbjvkpnzrpsdwdkqqmmjsrgwcbidljjsmupxjeydtqgrvsjlgyxypdwrgeutqfncbdbkjzndrvwnpgyvexwtaskizgcplptouxyeyojqlffd
+   {
+
+}
+					count++;
+- jbhdcpdthwbdp
+	
+  		swap(u1,u2);
+		if(a-1>=0 and dp[a-1][b]==INF and num[a-1][b]!=-1)
+
+}
+ 
+  NFOR(i,n-1,1)
+
+      //leftChildIndex = stIndex << 1,
+  sort(sorted.begin(),sorted.end());
+int x,y,z;
+  {
+  FOR(k,1,sqrt(n))
+int main(){
+		
+		if(flag==1 && sum==0)
+            	{
+        	for(int l=0;l<=m;l++)
+	    hh2=hh2*10+t[i]-'0';
+  {
+          edges[grp[ones[i].F]].pb(grp[ones[i].S]);
+	        }
+}
+	{
+				{
+int mini,minicost,maxi;
+- kmasjbqfyrcbxgkrghmifeumwjnwblxmx
+  	fflush(stdout);
+const ll mod = 1e9+7;
+
+		   mat[start][i]=0;
+		
+    str.pb(s[j]);
+  {
+     {
+
+  			continue;
+			{
+ 			ansf++;
+  if(min(ans[0].S,(int)pow(size,3)-ans[0].S)==0)
+typedef pair<int,int> ii;
+  pows[0]=1;
+		{
+  FOR(i,0,n-1)
+
+		cin>>o>>r>>s;
+        }   
+	    cout<<"NO";
++ okrhdrpgvboathgfubzkufmpuwnsxztlllspcixzlnzfwhmrjnbfsquoojjliczwnrlrbkqpzswwzipkyspsijhwvqkfujbicmzgysvykrwlblwbdlumxbkstuxndzxgnzm
+	int t,n;
+			{
+  	else
+  	 /*  sum=0;
+  			lo=b+1;
+	build(10);
+		minicost=min(minicost,t*c+(X+Y+Z-maxi)*b+(maxi-(X+Y+Z-maxi))*a);
+    dp[i][0]=1;
+int main(){
+
+ll arr[N];
+  while(!st.empty())
+		ans=max(ans,val[s]^k);

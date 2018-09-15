@@ -1,0 +1,114 @@
+	cout<<r<<" "<<c+5<<" "<<r<<" "<<c+6<<endl;
+  	{
+#include <bits/stdc++.h>
+  build(1,1,n);
+	string s;
+	int n,k;
+  	{
+
+5606
+    treee[node]=add(treee[2*node],treee[2*node+1]);
++ gh
+
+				val-=2;
+  }
+		{
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+
+  		cin>>u>>v;
+typedef pair<int,int> ii;
+      if(a==b)
+			if(score[i]==temp)
+#define pb push_back
+  fast;
+		for(j=1;j<=i &&j<=11;j++)
+*/
+
+  		cout<<calc(t,flip)<<endl;
+
+
+    ll mid=(a+b)>>1;
+			adj[l].pb({ver[t][id], 0});
+typedef vector<int> vi;
+
+typedef vector<int> vi;
+  }
+        }
+        {
+        cout<<arr[k-temp];
+			for(int j=0;j<n;j++)
+const ll INF = 1e18;
+  first++;
+	while(t--)
+int par[N];
+        ll diff=arr[1]-arr[0]; 
+    { 
+    final=final/(n1*n2);
+		{
+	    incr[root]=max(incr[root],incr[tree[root][i]]);
+    }
+		}
++ gkioaoxlyltoojunhdhiimfbjhspceliovwqlwbmhwaxfwnncuxkiflsmfhqluybpx
+const int N = 1e5+10; 
+		{
+        
+
+  	}
+    int temp=arr[k]-'0';
+  	int u,v;
+
+  {
+    for (int i = 1; i <= k; ++i) {
+using namespace std;
+		}
+					 }
+vector<ii> arr[N];
+int k;
+	for(int i=0;i<2000;i++)
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  fast;
+
+
+typedef pair<int,int> ii;
+  ll mini=INF;
+  
+  }
+
+
+      n%=sum;  
+}
+			else if(z==z->parent->right)
+  }
+    cout<<endl;
+  			cout<<"NO"<<endl;
+
+		minc=min(c,minc);
+using namespace std;
+
+    	cin>>p;
+
+	c*=d;
+	long long int sum;
+typedef vector<int> vi;
+  int ans=0;
+  fill(dp,-1);
+}
+int main(){
+  fast;
+	
+	
+  	}
+   cout<<"5yahan aa gya apun with "<<ans[1][2][2]<<endl;
+			scanf("%d %d %d", &v, &u, &w);
+bool cmp(const node &a, const node &b){return B[a.l]<B[b.l] || (B[a.l]==B[b.l] && B[a.r]<B[b.r]) || (B[a.l]==B[b.l] && B[a.r]==B[b.r] && a.t<b.t);}
+  	{
+    int a,b[100001];
+		else
+
+const ll INF = 1e18;
+         			{
+  	FOR(i,0,n)
+  		continue;
+
+       column(2,0);
+  	maxidx=where[maxidx];

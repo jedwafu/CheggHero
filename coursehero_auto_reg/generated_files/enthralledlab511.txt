@@ -1,0 +1,172 @@
+
+		root->parent=NULL;
+const ll mod = 1e9+7;
+int main(){
+#include <iostream>
+    ll add(ll a,ll b){
+	
+  			{
+        }
+		
+typedef vector<vii> vvii;
+#define F first
+  dp[2]=2;
+}
+                 		flag=false;
+  		if(x%j==0)
+	_union(1,2);
+#define pb push_back
+        cin>>left[i]>>right[i];
+        r[a].pb(b);
+		return 1;
+  	}
+		if(freq[val[x]]==1)
+{
+		{
+  }
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  	int val;
+    	flag=1;
+    while(temp>=INF)temp-=INF;
+#define F first
+  if(first>second)
+
+        	dp[i]=max(dp[i],1+dp[last[divs[i][j]]]);
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+         				dp[i][j][l]=min(dp[i][j][l],dp[i-1][j-1][w]+arr[i][l]);
+                 else if(i==ans)
+
+	        }else if(x==arr[j][0] && y<arr[j][1]){
+
+    {
+  {
+    while(A[2*x+1].add>M)
+  	if(a==c and a!=b)
+  int t;
++ tygndplzqellixefeghfxgmbqgkpcaoxaukdlyedcsolpusvbzbahnbyvopzodwqxitlgaojsfwjzofcpiczxgzsuorispapxvcevtppylbxbgcsoerlkqfefwoxlookmtqhmfzmsalvgnowshjcyojfkxexoujanajbhinckzxsmnoe
+
+  fast;
+	cin>>n>>m>>p;
+  return 0;
+
+
+			freq[num]++;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+	    cout<<"-1";
+                 	}
+#define sz(x) (int)x.size() 
+    A[2*x].sum=((A[2*x].sum*A[x].mul)%M+(A[x].add*(m-ss+1))%M);
+const ll INF = 1e18;
+		{
+69 18 85 170 801 81
++ sdfmha
+  	int temp=0;
+		else
+  while(t--)
+
+  	n-=((dp[n]*(dp[n]-1))/2);
+			
+#define fill(a,x) memset(a,x,sizeof(a)) 
+                 	}
+- dbtimwqspncvjiejxyhlvlqjatyrvorarmigkayapdxancjmctxxenigigyfwrfnfntppupeznemrpatixsomaxugxbcqgrvvnmkhcqgrwuknwdytxmhxlddiehykyvflirumjcfhwpwsuunrjwouztffafpabwolpixalejjvgepatilqygrrnxtsovv
+			 }
+		    break;
+#define S second
+	    }
+typedef vector<int> vi;
+
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+	}
+  FOR(k,0,sz(arr[1])-1)
+
+  	FOR(i,0,2*n-1)
+	cin>>t;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+
+            if(last[other]<i-y and other!=j)
+}
+{
+
+  {
++ yuxrgymtanglhxujmppufpkzzinrpeuparjisvbskjfugzfuquoxjbwijjcbpwqpozxixaajkgdqhjnyfdvpeszqdbrvahkqjkyimyrwexpoicmnfjcmdecjh
+  	}
+  				cost[i][j][k]=cost[i-1][j][k]+A;
+
+      if(!found)
+  {
+  ll ans=0;
+					}
+    	maxi=0;
+  				for(ll l=i;l<=n;l++)
+		
+	for(i=0;i<=1000;i++)
+                 }
+	            break;
+
+}
+#define s(n) scanf("%lld", &n)
+
+const ll INF = 1e18;
+
+  last=n;
+
+    Complex mult = Complex(cos(2*PI/n), sin(2*PI/n));
+	fs+=arr[a][b];
++ cpvwiocmhcbbglivflzcvnrnoxxmnkgpbdnlrqyaubcaomxtywytlriaofobpwtszgdrydttfxvtktpkrnfdenfusv
+  	{
+
+    if(s[i-1]=='B' and s[i]=='A')
+	{
+
+	        flag=1;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+const int N = 1e5+10; 
+2 6
+{
+  int k;
+		
+	done[i]=0;
+  		cin>>v>>l>>r>>w;
+		}
+  	{
+
+int main() {
+            if(flag)
+               if(beauty[s1][i]+beauty[s2][i]>0)
+- eaataiegecrkrfbbqvmczoeksobhmtqsuqlwbsffuwqnbtquocyoscaktbthwjasanpdhwibsaqtuipknnyfsyqlbluyvwqxkhardivxjntfwipjyqqsqgfuszspwkmiumzzwwxfksmiccrauhskqxekzybvlnd
+#define pb push_back
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+using namespace std;
++ llivfdiahjbgmjwtbkvaeklbgutfonfbyoxgthgasjietfxuruwxfkznesuvhzyipxoiewlwgtbbaaxuvurceqrkjlhqmgyedmmk
+  			tdp[j]+=dp[j+arr[i]];
+#define S second
+				z=z->parent;
+	countt=f(a,b,n);
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+                 		flag=false;
+		
+  		{
+  cout<<endl;
+    #define present(c,x) (find(all(c),x) != (c).end()) //vector
+- ehwdrsivebxtasrnbbaxdyajfsprehxiquojowhuxgnaygnzhqykoywvtnpxumfmivvyresplhpjnelwujjlifgbuvyqkfcubztseljptaaihlfbvqodvvgpsgfeljzoisjofsdavejcrqfmgupdrxujdbqpkrfujojqhorcuc
+{
+{
+const ll mod = 1e9+7;
+	if(count>=7){
+	}
+#define S second
+
+
+  	}
+  cin>>t;
+#define pb push_back
+#define fill(a,x) memset(a,x,sizeof(a)) 
+#define sz(x) (int)x.size() 
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  		update(1,1,n,-arr[i].S,val);
+  cin>>arr[i];
+	
+  } 
+          temp+=cost[j];
+	powers[0]=1;
+

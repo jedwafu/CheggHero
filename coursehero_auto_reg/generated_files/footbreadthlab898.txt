@@ -1,0 +1,179 @@
+typedef vector<int> vi;
+					max2=arr[d][i];
+#define pb push_back
+#define S second
+    }
+}
+    for(int i=0;i<n;i++)
+  cin>>n>>q;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  	allowed[temp]=false;
+  
+  pows[0]=1;
+				{
+	int ans=0;
+typedef vector<int> vi;
+
+    }
+  }
+
+#define sz(x) (int)x.size() 
+#define spresent(c,x) ((c).find(x) != (c).end())  // for set,map
+  {
+		if(j==s.length())
+  s1[curr]=0;
+	return 0;
+  				break;
+    
+		   }
+	for(i=3;i<=big;i+=2)
+  	cout<<n-ans<<endl;
+  {
+50978
+  }
+  	cout<<4<<" "<<2<<" "<<5<<" "<<2<<endl;
+int main(){
+		
+
+#define F first
+  }
+priority_queue <pli, vector<pli>, greater<pli>> pq; 
+
+  	ll temp=mod_inverse(y,md/g)*x;
+             if(count==4)
+  cout<<"YES";
++ qeffxnamteoypulwoczwsifjsukupndftinqvndqttpiqcgehfczpkkjexetkhaeqnuncxgvtvfjzmpgrthhdssjpwebgffysclvbtsuoydokuwboekrydbpbfqhmwf
+#define F first
+  cin>>a[i];
+
+    		}
+  	column(5,7);
+                 		flag=false;
+			maxi=counts[inp];
+
+	int flag=0;
+const ll INF = 1e18;
+    edges[ver[1][curr]].pb(mp(v,w));
+	string s;
+	while(true)
+
+  {
+- nxqtcrzzxxpvzcjlosfppsaxfkdkwjukilflcfkccbxddjrubwjsojqwuvgsedeookbsrouvpuyvdppgmayckqyglharkfgarjuixpdnldkqtzyhbyjlpktcruudzcdslzajqfybiitdjrkkqwyhgrjznfcojhgvgigxpgayqwdznolfklosdy
+  		flag1=true;
+	for(i=1;i<=n;i++)
+			//cout<<"inserting "<<i<<" "<<v[i][j]<<endl;
++ shlxfxnkyzkeqvmerppslypncvdhxsqpbdoiaeuydefvcrbviqnvqektznawitnjweszkmzntekxxlsgdidvmoomdrklkaxierhqfjfanpxlcqthywcmmtyqkjdwjaeptofzxkbmbzxdrskrroddhctrnzpybwpvmwwjgxxjyvmrpyigmokwsfnfeffgb
+  			continue;
+	}
+               	{
+		return;
+int main()
+	  	else
+      big_row(6,0);
+const double PI = acos(-1.0);
+            else
+	for(int i=0;i<s1.size();i++){
+  int n=sz(s);
+  cin>>n;
+  FOR(i,0,sz(val)-1)
+for(k=start1;k<=end2;k++)
+using namespace std;
+  if(n%k)
+  		continue;
+#define sz(x) (int)x.size() 
+  	tot++;
+    
+	_union(1,2);
+{
+  cout<<ans;
+  int n,t,k,d;
+typedef set<int> si;
+const int N = 1e5+10; 
+			for(int i=k+1;i<2000;i++)
+			if(temp==0)
+    {
+#include<iostream>
+		{
+  ll sums=0;
+  		else
+	    }
+const ll INF = 1e18;
+	FOR(i,0,n-1)
+  			int d=ans2.length()*i;
+  		ans.pb(mp(1,cnt1));
+	cin>>t;
+ll temp[N];
+    int c=rand()%1000+1;
+  	if(indeg[i]==0)
+		neg.clear();
+	return 0;
+  	column(4,7);
+#include <bits/stdc++.h>
+		{
+typedef pair<int,int> ii;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+const ll INF = 1e18;
+  
+
+		}
+		val[i]=starts.begin()->first;
+    treee[node]=add(((b-a+1)*lazy[0][node])%INF,treee[node]);
+
+        diff=arr[2]-arr[1];
+}
+	{
+const ll mod = 1e9+7;
+  getline(cin,s);
+int main(){
+  for(ll i=1;i<=q;i++)
+
+#define fill(a,x) memset(a,x,sizeof(a)) 
+	                break;
+	if(k==7)
+
+
+  freopen("output.txt", "w", stdout);	
+    }
+import java.lang.*;
+            }
+
+int arr[110][110];
+
+  	if(t==1)
+  
+  	if(done[cur])
+using namespace std;
+using namespace std;
+		return dp[n][h];
+     
+  }
+  		else
+			{
+			return;
+    int intersectvalue = b[a-1];
+				}
+using namespace std;
+		y2=(2*p-3*y1)/3;
+             		break;
+  
+        }
+        {
+    data = vector<Complex> (n);
+			
+typedef long long ll;
+			if(ans%2)
+			{
+{
+int main()
+       while(k+1<sizes and it->S[k]+it->S[k+1] > 0)
+	while(t--)
+  	for(int j=0;j<ans1.length();j+=ans2.length())
+#define S second
+}
+
+        query2(ss,m,qs,m,2*x,val);
+#include<iostream>
+priority_queue <pli, vector<pli>, greater<pli> > Q; 
+  cin>>s1>>s2;
+include<bits/stdc++.h>
+  	FOR(i,1,n)

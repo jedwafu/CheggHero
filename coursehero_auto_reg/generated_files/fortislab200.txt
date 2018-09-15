@@ -1,0 +1,101 @@
+bool done[101];
+  return 0;
+    }
+		{
+if(a > b || a > j || b < i) return -inf; // Out of range
+int ed[N];
+	ll y,k,n;
+  	}
+	for(int i=1;i<=n;i++)
+typedef vector<int> vi;
+  		cin>>arr[i];
+
+	}
+  		}
+		}
+typedef pair<ll,int> pli;
+    }
+#define S second
+
+int dis[N];
+void copy(int start1, int end2)
+}
+  dfs2(1);
+}
+    ans[1][2][1]=ans[2][2][1]=1;
+  if(x <= l && r <= y){
+- gjbzrwzcqtyvyzdmkxjglguaqypappzwaavswwworujpvodimooxwlanlppagqyhqtbosxeju
+      rad+=epsilon;
+  fill(dp,0);
+  cout<<ans;
+  	
+     len=s[i].length();
+  	big_row(11,0);
+  	{
+		 		}
+	{
+
+    		ans++;
+		
+using namespace std;
+		   {
+  	cin>>wt>>c;
+  FOR(i8,1,sz(ans8)-1)
+      inp[sen[j]][i]+=temp;
+typedef long long ll;
+using namespace std;
+  	if(arr[i]+1)
+const ll INF = 1e18;
+		}
+		}
+  if(typ[i]==3)
+	}
+  		FOR(j,0,sz(ans)-1)
+
+		FOR(j,0,h-1)
+  	cin>>u>>v;
+		    ans+=counts2[arr[i]/k]*(counts1[arr[i]*k]-counts2[arr[i]*k]);
+- rvmxqndgvnksnqheekzthqasildnzvutqisjvxprkajastewfdsmvshedktefpxxypgtmykzaw
+		bool dummy=dfs(edges[source][i],source);
+#define pb push_back
+	        for(int j=s.size()-1;j>=0;j--){
+#define fill(a,x) memset(a,x,sizeof(a)) 
+#define sz(x) (int)x.size() 
+	FOR(i,1,n)
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  		if(k>=w[i])
+#define fill(a,x) memset(a,x,sizeof(a)) 
+		cin>>arr[i][j];
+	    if(arr[i])
+#include <bits/stdc++.h>
+  	{
+	}
+  		angle=-angle;
+			count=temp;
+	}
+  			lt=mid;
+map<int,int> actual;
+int main() {
+  	int p,x,y;
+  	last[val[i].F]=i;
+}
+	
+        	}
+		cout<<n<<endl;
+#define S second
+  	val[i]=val[i-1];
+  FOR(i,1,n)
+  	if(done[cur])
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+			index='0';
+
+	
+	{
+#define ll long long int
+  {
+
+  {
+        atleast[i]=0;
+		{
+typedef long long ll;
+		if(c=='?')

@@ -1,0 +1,142 @@
+  freopen("in.txt", "r", stdin);
+}
+	}
+  return 0;
+    for(int i=0;i<n;i++){
+		}
+  }
+  cin>>n>>m;
+	}
+	
+using namespace std;
+int main()
+return;
+  	{
+int attached[100010];
+	int pow[12]={1,2,4,8,16,32,64,128,256,512,1024,2048};
+  while(!q.empty())
+
+	    long double p;
+const int N = 1e5+10; 
+  int start=0;
+
+		if(newends < cur)
+		if(c=='=')
+const ll INF = 1e18;
+  if(a[n]==a[n+1])
+  	while(cur[fav[i]]<sz(c[fav[i]]) and done[c[fav[i]][cur[fav[i]]]])
+		freq[maxi]++;
+typedef vector<int> vi;
+
+       	k++;
+ 		else
+  			cur++;
+  			ans+=a-s[i];
+	
++ uxrdjuktovyjfaqwfwzqpvyuwcgwwlgrlzwutgqjeoslpliwhjpwhnsdpybllheygbtcjllpzgbqrjpyuewbrqhioivbsaaydvaogoefufynqnnmrlok
+  if (r < 0) return a;
+}
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+- jnasmwbzuusovqjudtzxkmlavepvrzadmavyyyyussiniujnpjmbvybseqnxqpaerydswdorxzegtovizijwgnqmddjvumcnmffkkubhvipoynyxvjvdwlpcqazmobzagfnsbocwytmwgkvdtsgsdxuvythovhpdocyrsaprvbpcnlhifoajnugnqoc
+  		break;
+			ans=(freq[*it2]-freq[*it]);
++ kqhohkahtksjdmebdqkomcjzbhihadvnvebdocmhoetrszuwrhmdjwenfmufqrsnvwqkactqiokbnezfllixhnkmbgutxohumzemeafmoppetojhatehiqwkwsfv
+			{
+}
+pt->rightChild = pt_right->leftChild;
+		return -1;
+#include<bits/stdc++.h>
+             break; 
+	element *belongs_to;
+}
+
+#define loop(i,a,b) for(int i=int(a);i<=int(b);++i)
+  {
+    {return Complex(a + c.a, b + c.b);}
+  	if(type==1)
+#include <bits/stdc++.h>
+	return 0;
+  {
+         for(int j=0;j<27;j++)
+  	cin>>n>>k>>m;
+
+nodes[stIndex].merge(nodes[leftChildIndex], nodes[rightChildIndex]);
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  			}	
+};
+}
+	
+
+typedef long long ll;
+		minicost=min(minicost,t*c+((X+Y+Z)/2)*b+a);
+{
+}
+}
+- qdtmexrdeznlqjpsepfglmxuihwmpgkfjdtpcmsjmfweqnwwcdcqszkaj
+{
+#define S second
+  FOR(i,1,n-1)
+    printf("%d\n", query(1, n, 1));
+- dqybpxrfddtotzlamgaekumklxldmrcrhauyylddoyrjxfklnksxgejsduvqlzjvaetapzdgxupxzzimlalshumkqjceimbkqwkhvnpvifsjgcwufhomeaywlbctndgfaqmxecuojoxrrtlwdzkjbihmjkiypofreupkylyhawyrrkpwlzhnhpztbhtqx
+  	typ[j]=1;
+  	cin>>temp;
+			dfs(edges[s][i],s);
+  FOR(j,0,1000)
+int A[100001],B[100001],C[100001];
+    int count2=0;
+}
+#define pb push_back
+  return 0;
+const ll mod = 1e9+7;
+		cout<<-1;
+#define F first
+	   prevs[j][y]=max(prevs[j][y],dp[j][y]);
+#define sz(x) (int)x.size() 
+	    arr[i]=s[i]-'0';
+	{	
+  Complex(double na, double nb) {a = na; b = nb;}
+  fast;
+  cout<<atk[i]<<endl;
+	    	freq[maxi]++;
+	}else{
+  FOR(i,1,n)
+}
+  cin>>s1>>s2>>virus;
+	}
+			sum=sum%mod;
+  	if(num!=0 and dp[num%3][i-1]==mod)
+  cout<<final[i]<<" ";
+PT RotateCW90(PT p)    { return PT(p.y,-p.x); }
+#define present(c,x) (find(all(c),x) != (c).end())  // for vector
+		minc=min(c,minc);
+        r=b+1;
+#define mp make_pair
+**/
+  cin>>t;
+  		row(i,16);
+	    cout<<"NO";
+	cin>>s;
+  cin>>fav[i];
+
+  }
+
+ 
+		primes.push_back(i);
+typedef pair<int,int> ii;
+	        arr[i]/=3;
+}
+  	{
+   			break;
+  		val+=(i1!=nums[1]);
+				}
+int main(){
+
+	cin>>n>>m;
+map<int,int> actual;
+ 
+  	}
+
++ aoamimnzhhwdlbxugguzrtkwquzsawxcmxowjewslswwvvtcbpdukorciquiornaqdwchuuvmsrkomordrmnfdpqvla
+int main(){
+     for(int i=0;i<ticket[city].size();i++)
+typedef long long ll;

@@ -1,0 +1,134 @@
+  if(temp%2)
+
+const ll mod = 1e9+7;
+  ll ans=ncr[n-1][2*k]*ncr[m-1][2*k];
+      l--,r--;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  {
+}
+const int N = 1e5+10; 
+    return DSU[x].parent;
+	}
+#include <bits/stdc++.h>
+        	if(arr[i+1]-arr[i]!=diff)
+}
+	
+#define pb push_back
+        if (m < i)
+  //reverse(arr.begin(),arr.end());
+  }
+  for(int i=2;i<=n;i++)
+- rhqhjzbvkecjdxjgvygzbpxsoepcjpxawnhhmkcyrghudsazrjasyzknebrntonrbxzphdnykwvnpxogiqahqkwwnnjgcyyfxzxfcmfmjcaycqgkhgtzspvhdgoheo
+int main(){
+            Qi.pop_front();  // Remove from front of queue
+- hnrmkssigaigzpafhfpjryqyztbvdbckotyynsgvtqbshexojoacnsaolblqcncsibqvtytoquiyagojwonlhnzuqnnucpmlseioebcxylxytlkpcxdlnehfruaumohevpuztxyrkvrdjbulbxwqcfvvaxpomwsjopihmjayerbnvx
+  	}
+  				merge(opp[C[word[s1]]],C[word[s2]]);
+	if(l==count && count%k==0){
+    int r0=0,r1=0,l0=0,l1=0;
+const ll INF = 1e18;
+#define F first
+rb_tree.insert(18);
+
+  string x;
+	{
+{
+	}
+    cout<<m-1;
+  		S.erase(S.begin());
+#include <bits/stdc++.h>
+    cin>>n;
+  int n;
+        {
+			neg[x-y]=1;
+	    
+struct A
+    cin>>n;
+const ll mod = 1e9+7;
+  	while(start < end)
+const ll mod = 1e9+7;
+  	printf("%lld\n",ans);
+	    else{
+  	
+typedef vector<vii> vvii;
+vector<ii> cols;
+{
+pendingUpdate = false;
+		max=path[0];
+  }
+  			}
+  	cin>>s;
+	}else if(count==s.size()){
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+const int N = 1100000; 
+		{
+int ispalindrome(char *arr,int size)
+  	}
+
+
+	char ch;
+			
+{
+  				y2=min(sty+k-1,y2);
+#define pb push_back
+vector<int> arr;
+ll binarysearch(ll low,ll high)
+  	}
+
+- clqcjgnuwyfktikuvmkrmzqgfbazexcgitltbanzzvkudwpbibsuakcildjpalykgjdhlshmpthtpywzzqvbaxl
+  	}
+
+	  	}
+   		seg[curr].leftrem=1;
++ tcbssdfbegxlpuhigbydophvsachv
+            }
+  FOR(i,0,r-1)
+
+using namespace std;
+  	a[s[i]-'a']++;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
++ paqtdddonwakffdimnxyxpnllfawulnjldeqghgvdhglmltazqyyhnjtslpowcxjhbbqliloptzdftdelectrnmmadawiafpdifo
+#define S second
+            	break;
+
+
+}
+  int n;
+    long long ans=0;
+	{
+  		ll mindif=arr1[0][j]-arr2[0][j];
+		NFOR(i,n,(n/2)+2)
+{
+
+
+			   }
+}
+  fast;
+		num[0]=1;
+  return 0;
+	cin>>n>>k;
+  		ops.pb(mp(2,0));
+  s='D'+s;
+- tvwrsacgcetcgqebbuiujdjvwkhmgrfzmbsgcumgzhihapibjqyuvhprtzfcqkbfoulsqayrhgyhvglgylbtssmorrqketpspamgakzkqyrogewfpzyksnalgsvklkebnqjnaixti
+	{
+        cin>>s;
++ uqlqpxdbcqawwilodkwywyemhykegincaassyytaotzndmbgxzgvakhhlsotcbvebpwbnpeeldtopwxoxdkxqthbnvupypwzesdukhavktlbpismoemextflqzcoqypw
+  return 0;
+typedef vector<int> vi;
+  fast;
+const ll INF = 1e18;
+  cin>>n;
+  
+bool marked[N];
+	 cout<<"NO";
+			{
+  	FOR(j,1,n)
+
+int main()
+int n,m,k;
+
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+       }
+			cout<<"C";
+	    	arr[n-i]=arr[n-1-i];
+typedef pair<int,int> ii;

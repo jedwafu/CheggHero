@@ -1,0 +1,183 @@
+ll dp[110][110][2];
+			query.clear();
+
+	}
+
+  ll k;
+using namespace std;
+  	arr[i]=alt[i];
+typedef vector<vii> vvii;
+- udcidoooryakhmbcturtsqsilwjkhznecpmiecwxawjjjlleheyawsijqtuy
+const ll mod = 1e9+7;
+	return true;
+#define S second
+  int maxi=0,count=0;
+	//as the union of three parallelogram shaped arrays containing abab, bcbc, and caca beads respectively,
+  while(t--)
+typedef long long ll;
+#include <bits/stdc++.h>
+int present[N];
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  	cin>>u>>v;
+      }
+  FOR(i,27,52)
+void FAC()
+char arr[200010];
+  return temp; 
+			max_cuts[i] = max(max_cuts[i - cuts[j]] + 1, max_cuts[i]);
+    int n, m;
+using namespace std;
+	   	ans1=ans1/2.0;
+typedef pair<int,int> ii;
+	     
+		{
+  cin >> n >> m;
+	{
+#define all(x) x.begin(), x.end()
+
+  	}
+		else
+}
+            		score[i]+=2*counts[2];
+int main()
+char arr[110][110];
+  	edges[u].pb(v);
+    lazy[0][2*node]=0;
+- cnfkiuptiuqfutlhmakoxilnoptfpcirpnbzhqvrmlyggjpskcjjkwwbmsgbuquldykmofgdselyobtadejpahqozyrtome
+
+	int t,n;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+{
+	int t;
+- paxkhja
+    		{
+    lazy[1][2*node]=1;
+  int n;
+
+		cout<<"#Color"<<endl;
+  return q;
+#define S second
+	{
+  }
+int ans=0;
+int arr[30];
+  matrix(ll v1=1,ll v2=0,ll v3=0,ll v4=1)
+  	ll val=u+v;
+			j=1;
+      int dstx=(stx+i);
+                 	}
++ jztqtmumjesspiwsgzorwbrwkumcwuvftoxpcubmyvgqdckmeydccuymplqnhlvacupeosspozhtdrfjpjmtfkhwxymelhhndyuutojjpsctjkcatquadbxabjhnsoavowphlaqastvddaeysaavdzyfifscvuyjrpreqhgkce
+		else
+		
+	int maxi=0;
+  		}	
+const ll INF = 1e18;
+- ebidzzpexkkthjqrihttzvxfxzkwycmfduievxjshvoofeipobjnzg
+  		level=i-1;
+int used[N];
+	}
+	cout<<sum1;
+  cin>>t>>k;
+#define loop(i,a,b) for(int i=int(a);i<=int(b);++i)
+
+		}
+  }
+		if(array[i]-array[i-2]<dskip)
+		p1=p1+1;
+
+#define S second
+		done[i]=0;
+	ll L;
+	{
+}
+    for(i = 2;i <= k && pos[i][a[1][p]] < pos[i][a[1][j]];++i);
+	     	cout<<endl;
+    return 0;
+  int c1 = curr<<1,c2 = c1|1,mid = l+r>>1;
+if (i == 0)
+	long long int T1,T2,t1,t2;
+typedef vector<int> vi;
+    if(s[i-1]=='B' and s[i]=='A')
+else if (end <= mid)
+ 
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+    for (int i = 1; i <= k; ++i) {
+  NFOR(i,n-1,1)
+    FOR(i,0,sz(ones)-1)
+	int n;
+      	{
+  check(2,1,2,y);
+int main(){
+  cin>>a>>b;
+			if(rat[0]<0 && val[0]<=j)
+        for(int j=0,t=v[j];j<v.size(); t = v[++j])
+  {
++ wcwpczuadpauoal
+}
+    int main() {
+
+  	ll temp=mod_inverse(y,md/g)*x;
+
+
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  				return 0;
+  vis[x]^=1;
+  int n;
+    for (int i = 1; i <= n; i++){
+		
+	return 0;
+				continue;
+#include <algorithm>
+	sieve();
+#define F first
+  		return 0;
+  fast;
+build_tree(1, 0, n-1);
+    return;
+       else
+int times=0;
+  tsums=0;
+		 
+ft[k] += v;
+pt = grand_parent_pt;
+  				ans.pb(mp(s2+1,i));
+adds[2*node+1]=add((adds[2*node+1]),multiply((adds[node]),(b-mid)));
+#define pb push_back
+long long int mid=(a+b)/2;
+int nxt[N][26];
+			arr[i]=arr[i]%k;
+  ans.clear();
+  		int val=0;
+const ll mod = 1e9+7;
+		if(n==1)
+  while (ch<'0' || ch>'9') {if (ch=='-') f=-1; ch=getchar();}
+  build(1,1,n);
+  val[node[r]]=key;
+		cout<<count<<endl;
+	    
+return sum;
+		   		flag=1;
+    }
+			dummy=arr[i];
+    st[c].sum = (1ll*(y-x+1)*st[c].s)%mod;
++ qpxyyidvsvwdsvdntnxvrrxcwlivczbsraqpkwkctihlglazazxtsuvoielkfoewoxnytadmkkzqxbsxaptslogvutfchmavjqvcsyqclrvkspksedmrrunonuqugqppgktylldwcagwpqovtaonubbhyrdejswsfrsqfxohxueonujixyxtbydzrggdzevgxpycnm
+  FOR(i,1,tot)
+	else
+	}
+  }
+double prob[N];
+
+  {
+
+  cin>>n;
+  	int p=Q.front().S;
+	
+int main()
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  	}
+  		    {
+	cout<<sum<<endl;
+  	{
+		found[i+1]=false;
+#include <bits/stdc++.h>
+			else

@@ -1,0 +1,165 @@
+	    else
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+		for(int j=minc;j<=k;j++)
+  {
+ 
+#include <bits/stdc++.h>
+        		break;
+                 
+- hmzpkszvtudfhsnqlyfoizvipvfutnaczbtltsgnnmuwghmrhuhqtcaizhduvfwwgqibiqqxcmukwgbdakttmveodjiaofwwxgzhxqfbczmyfpeiczdqvheaqnaguyerfeaewfhaevbmnfwpezfbhkbzxbgrckkhqknmqunwqokdtgszgzbpjcoigwzijlrzweooy
+  }
+	double n,q,area=0;
+		ll ret1=(f*f)%MOD;
+    	for(i=0;i<3;i++)
+    cin>>n;
+  return ans;
+  		if(b<i)
+	}
+	_size(1);
+  			return 0;
+	{
+  for(ll i=1;i<=q;i++) cin>>C[i];
+  	{
+{
+  		vals=1;
+#define pb push_back
+- tevehtuzgamjmydzileqhgtvxbtmfjsynoeujzvpbjankdnsqrlyyetxfmjmvckkspgbqdtrmtfwzurplcplikkqwuctypfselvwoondkublqsacwsphcaxbwzwwocoupjseaijkckxvfxxdrokuqhvmjtixvyulimrkuawzkturstvkjfea
++ zwrxatzxxixooqmcqzliyvnjsgemiqph
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  	if(allowed[i])
+
+  {
+  ll sums=0;
+	}
+  int maxidx=0;
+	{
+		{
+  			cout<<"Case #"<<T<<": white"<<endl;
+        if(ans==n-1)
+	int arr[1001];
+
+		if(n%2)
+#define sz(x) (int)x.size() 
+}
+- rdsmxjuksguluetpdmlfkcfyadzkdftuinjhxdtrjocfuxvxjgcvkkvnpvxsaqmldvscamtkcxpwumtfswafgysvtppvhdgmbbpbpilridncpgkkckpkkhhdwyzdchpdiggxrsqzxddmknwoalbksioqjpvlwlqhtwgkqxjncncmaydamelgobzxsukqhax
+  			ll temp;
+  	   cout<<464<<endl;
++ cefibiwxorlpjzdawdoojqffdjalktpnyvxbfvzummlvoqxktnbeggljrouchkrhhqjmlkiayuxmmvzgkamqiyzbowdxiwfpmqdycoyakvpwsoedqrvarxbhtfedbluqbxofnogxlxuglalbtgdkderylybp
+#include <bits/stdc++.h>
+  fill(assign,0);
+void update_tree(ll node,ll a,ll b)
+using namespace std;
+ 
+        reserve-=inp[i][n];
+int main()
+#define F first
+
+ll dp[N];
++ pizlauteqddlbznfiafyahlocfxwrpjhzisbengwrlkumxzuygsaneopllnccyjdidfptnlkavgmvfhvlbvaflssyhxdiigqmnhfctrcqxr
+	     	if(sum-temp<=c && temp<=c)
+  FOR(i,1,k)
+    while(A[2*x+1].add>M)
+
+    }
+	sums=k*(pos-index+1)-sums;
+			
+ll arr[1000010];
+  		ans.pb(mp(4,cnt0));
++ usdwrlizsviualhyjwbhtfmgaztmsxnorrlictkxqsttgctpyuyubnabmwogtbukuhuzbeytxtmdvhuwbvqdisewoucjyytsgqtjurctmryiyvgcqyhaqnwhiasgaoaieurynwuapsknnqrdoyfgmdnuficgwcoawiamgumvpwkcmcicapiotykygmgcpxenhez
+  		nl[1][i]=i;
+  	column(9,7);
+
+		   }
+		}
+int arr[1000010];
+		inp(g);
+
+				done[l]=false;
+  	FOR(i,2,n)
+}
+
+	
+
+    else return false;
+                 		flag=false;
+
+	cin>>k;
+    for( int i = 0 ; i <  a ;i++ ){
+#include <bits/stdc++.h>
+   }
+  }
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+    pgb.setSize(s); // fill and transform second array
+
+  	column(2,7);
+		if(len1>len2)
+
+
+	    ll x=abs(a-b);
+int extended_euclid(int a, int b, int &x, int &y) {
+}
+
+  {
+  	if(s=="Tetrahedron")
+   ll ans=0;
+  int t1=sqrt(len1);
+  cout<<ans<<endl;
+	{
+                 		break;
+
+	{ 
+	cout<<endl;
+#define pb push_back
+  }*/
+	    if(here==false and neg<=1)
+	scanf("%d",&t);
+
+  	if(i+3<len and s[i+3]!='!')
+#include<iostream>
+  fast;
+typedef pair<int,int> ii;
+	if(bear[0] and bear[2])
+
+  			start=i;
+const int N = 1e5+10; 
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+
+  		ans++;
+int main(){
+}
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  int n,m;
+#define pb push_back
+
+while t>0:
+	int len=s.length();
+
+	
+
+{
+  }
+int nr[2][N],nl[2][N];
+	cin>>n>>m;
+int main(){
+    for(int i=0;i<n;i++)
++ grmbfsdixfxvukctcmltpqpmpoyxzpdigrjnjnvistepdikfwxyonpacdbbfqhnzywmijiqedwtgefnd
+  	if(road[i-1])
+  }
+  {
+
+int main(){
+  		}
+        if(tmp4>9)continue;
+#include<bits/stdc++.h>
+				}
+
+ 
+	  cin>>input[i];
+    }
+
+		}
+typedef long long ll;
+  {
+                 	}
+  		int to = edges[ver][i].S.F;
+    

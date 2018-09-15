@@ -1,0 +1,168 @@
+
+using namespace std;
+  			cost[i][j][k]=mod;
+- ehxnnavxpwinmefina
+  cout<<mini<<" "<<maxi<<endl;
+  			break;
+
+		cout<<-1;
+	{
+
+      big_col(6,8);
+typedef pair<int,int> ii;
+	}
+  int r=1000000;
+	if(nex[source]!=-1)
+		printf("%.9f",ans);
+	ans.pb(eulertour[i]);
+	if(res){
+	}
+  if(first>second)
+  	row(5,0);
+    #define tr(x,it) for(auto it = x.begin();it!=x.end();++it)
+ 		else
+
+        diff=arr[1]-arr[0];
+				s[a-1]=c;
+int maxarea(int n)
+			{
+const ll mod = 1e9+7;
+  		if(sum%elem or (sum/elem)!=target)
+			if(a%2==1)
+        A[2*x].sum-=M;
+        			break;
+    update1(node*2+1,(a+b)/2+1,b,i,j,value);
+  FOR(i,mid+1,r)
+
+- gyuwvwukvsktebiaszsuy
+void insert(ll val)
+      big_row(12,8);
+	    a-=2,b+=1;
+int main(){
+		int dummy1=min(weight[edges[source][i].S],mini[edges[source][i].F]);
+    }
+using namespace std;
+int main(){
+{
+  	}
++ lbqwrkbbursrnzvxydiwitxfkvxqiifujvqbgteckwvzxqwxweueztjjoizxqhtacldkehmogindajbwpxcqqoagwbfniypnj
+		typeof(nums[i-1].begin()) it2=nums[i-1].begin();
+  return 0;
+#define sz(x) (int)x.size() 
+  			break;
+		{
+}	
+  int lim=(((2*n)%k==0) ? (2*n)/k : (2*n)/k +1);
+  	cin>>temp;
+   	  if(i>=d)
+	else if(arr[0]+arr[1]==arr[2]||arr[1]+arr[2]==arr[3]||arr[0]+arr[2]==arr[3]){
+   else
+const ll INF = 1e18;
+	int counts=1;
+
+
+		    }else{
+  }
+	temp2=min(countodd1,counteven0);
+		cin>>n>>k>>m;
+{
+
+			cin>>arr[i][j];
+
+			
+- llvdvrneghcgrkffeafgdigldtwtukqhwnmtfbxlibtbmygqznycwgpbclvyylfwbrpgsprcqnfelnwmauqydfahtxfrkkplderxtlzmygqjtnytjoumwutrraibkznpdgmzrnlptdbmqzicpcqnw
+  		cout<<-1;
+
+#define NFOR(i,a,b) for(ll i = a; i>=b; --i)
+  }
+      int u,v;
+		if(i>n)
+	int n;
+  	tot++;
++ qbcgappwcfmmwctiqonyzxsfeavfkcnafpjfgadifqvbuqllgajhadmefhlslystpdavdegiudmqtxbbamjasvgxfrrqpkjgpkbvohfkmrchrejrssrmpzmuqdnhpwnfiqayahkmznustdlnxeaodmjtpwafupmffodfvqsudooyrzlqdlegxn
+
+  FOR(i,1,n)
+        diff=arr[1]-arr[0];
+
+
+
+
+#define pb push_back
+    else if(c<=a and c<=b)
+		{
+#include<bits/stdc++.h>
+    #define MAX 1000000
+     
+  fast;
+#define pb push_back
+#define S second
+using namespace std;
+			}
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+     if(i+dp[i]-1<=n and i>1)
+
+  dfs2(1);
+#include <bits/stdc++.h>
+       	   	  	free-=prep[days[i]];
+  	edges[u].pb(v);
+  		continue;
+const ll INF = 1e18;
+
+  	}
+  FOR(i,1,m)
+	
+int main()
+  
+
+  return 0;
+	}
+         
+                 else if(i==2)
+
+		
+		cout<<maxv<<" "<<maxc<<endl;
+			}
+        return A[x].sum%M;
+- hazuxcxhoaomeuphquzduswsgfyinuyuwzpwcmfqotdu
+		while(b>0)
+void calculateSpan()
+bool edges[101][101];
+	x->parent->right=y;
+
+#include <bits/stdc++.h>
+
+			cin>>rat[i];
+	int count=0;
+  cin>>n>>p;
+	{
+		dfs(tree[source][i]);
+
+	int t,n,x,i,small,sum;
+
+	int n;
+		}
+	for(int i=0;i<n;i++)
+  ll maxi=0;
+		sum+=arr[i];
+	cin>>str1>>str2>>str3;
+    	
+const ll mod = 1e9+7;
+typedef pair<int,int> ii;
+  	}
+  	if(ispalindrome(it->F))
+  fast;
+    { 
+	if(s2[i+1]=='.')
+#define pb push_back
+                 {
+		
+	{
+  return 0;
+	//delete y;
+  cin>>n;
+- zwybhcrjutledkevbdbeejoasfvybyfaweedivneqyitkoqnstsyeiyypwxqwetskxxuskzlljgvyxjssdqxlrvaputlzmfljcgbphocqvzqukimnbjasfbhzwuaiborfwuwdjyveyoai
+				r=mid;
+#define S second
+		
+  		int lo,hi;
+  FOR(i,1,n)

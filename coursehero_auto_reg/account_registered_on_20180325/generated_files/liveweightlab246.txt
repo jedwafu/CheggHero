@@ -1,0 +1,167 @@
+  	cout<<ver[i][j]<<" ";
+  s1[curr]=0;
+  			}
+const ll INF = 1e18;
+UpdateType pendingUpdate = nodes[stIndex].getPendingUpdate();
+#define pb push_back
+			numbers[i][cur] += tenToThePowerOf[j];
+	
+  	FOR(i,0,sz(edges[s])-1)
+  		temp=rights[temp]+1;
+	    }
+
+
+update_tree1(1,0,n-1,a-1,b-1,v);
+  }
+#define fill(a,x) memset(a,x,sizeof(a)) 
+#define pb push_back
+using namespace std;
+using namespace std;
+	FOR(i,1,b)
+  for(int i6=0;i6<10;i6++)
+#define S second
+
+#define sz(a) int((a).size())
+#define fill(a,x) memset(a,x,sizeof(a)) 
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  FOR(i,0,cnt-1)
+  Bk=n;
+	return 0;
+		  s++;
+	 temp=j%10;
+	
+const int N = 1e5+10; 
+}
+  return 0;
+  	{
+				original[0][i]=x;
++ aksfswtmrwzarpblvkrtbpnyelowsnruzjbsiugzqibixcvsmoopfbnmoeigtbcvnepvyvurdxbdzwxomlfuovgczqkusnpftearcwkftlkujikwtqsklyomozggoylhenaijnqcyazkijiezaomycym
+		cin>>a>>b>>c;
+	for(i=0;i<m;i++)
+  		if(!done[i])
+  	int t;
+			continue;
+  	cout<<ans<<endl;
+  		}
+#endif
+  		if(s[i][j]=='.')
+typedef vector<vii> vvii;
+	parent[s]=1;
+  {
+	FOR(i,1,min(n2,k2))
+       	dp[sorted[i].S][sorted[index].S]=1;
+#include <iostream>
+
+            if(ch=='C' or ch=='M' or ch=='Y')
+	str1.append(str2);
+typedef vector<int> vi;
+ 
+using namespace std;
+
+	}
+    #define MAX 1000000
++ wqpxjgrokegmyzhhtrcideeuahniofpnxgkhmdvyidmifwsynuiqanmauzkkgzxegjlunivxohhtfztstbiwquwkwhxeiuiogvltggsupznvbinwlyscurosanxiihzodkjjqdfheucfcscpsutml
+const ll INF = 1e18;
+  			root=mid;
+
+	}
+	int arr[4];
+  	while(rt-lt>1)
+return;
+{
+	//x=min(x,(long double)check
+  {
+
+
+#define sz(x) (int)x.size() 
+const ll INF = 1e18;
+  cout<<cnt;
+		}
+}
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+    return 0;
+        for(int i=1;i<=n;i++){
+    {
+}
+        cout <<Output[i]<< " ";
+typedef pair<int,int> ii;
+        for(int i=0;i<n-1;i++)
+			cin>>x>>y;
++ wcqwpsoiksdluokyvdiinythdsvkfsdduvzjnquzkxnhlzficqrromaufxgmqjrmfrwujqwtplaakiloycfooikvfrjxcbkjug
+using namespace std;
+    a[0][1]=v2;
+  	//cout<<"here at value "<<val[i].S<<endl;
+int main(){
+
+update2(B1, j + 1, -v);
+		{
+      update(1,0,n-1,l,r);
+    treee[node]=temp;
+        ans=max(ans,dp[i]+dp[i+dp[i]]);
+int times=0;
+
+	}
+  {
+typedef pair<int,int> ii;
+
+    void update2(ll node,ll a,ll b,ll i,ll j,ll value){
+
+#define pb push_back
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+    g--;
+int n;
+	while(j>0)
+rb_tree.insert(10);
+#define sz(x) (int)x.size() 
+int par[101];
+void rotate_left(Node *&, Node *&);
+  if(flag)
+	
+  if(l == r){
+const int N = 1e5+10; 
+    }
+int fr[110];
+  }
+        result1+=b[i];
+    if(arr[i]==true)
+original[k]=temp[k];
+  ans+=DP(i,k);
+using namespace std;
+RED,
+	    cout<<" "<<i;
+			if(rat[i]<0)
+	                   flag=0;
+- rcfjoqootlztaqwzumukhinjzquapcgifnrvfhjbvkux
+const int N = 1e5+10; 
+#define S second
+typedef pair<int,int> ii;
+	    else{
+		arr.push_back(make_pair(len[i],temp));
+  		if(ab[i] and !a[i])
+  	
+				else
+	    else
+
+	    int rooms=sc.nextInt();
+	    int rooms=sc.nextInt();
+		count++;
+
+	return 0;
+	int n;
+      {
+#define F first
+
+using namespace std;
+int main()
+			{
+	  sum+=arr[i];
+
+using namespace std;
+#include <bits/stdc++.h>
+      done[i]=false;
+
+	}
+int main() {
+  }
+  bool flag=false;
+  }

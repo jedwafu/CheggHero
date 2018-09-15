@@ -1,0 +1,173 @@
+- nkpemkshgclpwdkifgtinrczlfqoaiinuyrgilnqqygoeswjyptlgwktbcidkqseommyxappaxderznqqhdzfqsisalftflhryir
+{
+13806
++ illkuylptvzhqjkerqalqplbsnuobholsaxoakduiebynoehghswwezpttfwcvjxvgnwtrsbxvzljdupkmnjsnyn
+  FOR(i,3,n)
+}
+#define F first
+#define eps 0.0000000001
+    	    {
+        cout <<endl;
+		
+  	FOR(i,1,n)
+  sort(ans.begin(),ans.end());
+
+int arr[N];
+  	if(arr[i]>0 and k>=arr[i])
+		int t = b; b = a%b; a = t;
+    	carry=1;
+
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  				flag=false;
+  fast;
+  		s[i]='V';
+		
+  string t;
+		done[i]=false;
+  	row(2,7);
+         {
+				y->color=2;
+  	}
+    }
+  return 0;
+		{
+	for(int i=1;i<=n;i++)
+    int sum=s;
+	while(t--)
+
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	for(int i=0;i<s.length();i++)
++ jyjaiulzdchauqibaawcxpvloqxlyitjjejryuqezzetpowqotulkrwajvljegsnkeglawpzwvvnjtfaoclyvkzffmqlvjyfpe
+	 } 
++ spfpsxrsyunajtonbkuzxkokyfxmryjlpraiqsaooqpxlfmmqinpubctizhbytmpkpxajarzqgzblnqdwdvqh
+  			break;
+      	 found=true;
+  	names[i+k-1]=names[i];
+const int N = 1e5+10; 
+		cin>>bea[i]>>dif[i];
+}
+  	{
+- uchufxoohdjorvxfjahrakfuqmrlreynihhoeycnblbsja
+	z->right=NULL;
+	    {
+ 	ans=max(ans,r);
+		
+  
+ll arr[N];
+
+    	double x1,y1,x2,y2,x3,y3,x4,y4;
+		
+			{
+		temp3=temp2;
+
+                    
+	print(2*k,k);
+				temp->low=l;
+	if(k<=1)
+#include <bits/stdc++.h>
+
+update_tree(1, 0, N-1, 0, 6, 5); // Increment range [0, 6] by 5
+  cin>>arr[i];
+  for(int i=2;i<=100010;i++)
+  		cur--;
+		assign[source]=d;
+       row(4,0);
+	cout<<dis[m];
+  
+#define sz(x) (int)x.size() 
+	return 0;
+
+  	}
+double dist2(PT p, PT q)   { return dot(p-q,p-q); }
+const int N = 1e6+10; 
+					edges[arr[i+1][j]-'a'][arr[i][j]-'a']=true;
+
+
+		else
+         temp+=it->S[k]+it->S[k+1];
+    {
+  	int n,m;
+typedef vector< vi > vvi;
+		val[edges[root][i].S]=counts[edges[root][i].F]*(n-counts[edges[root][i].F]);
+typedef long long ll;
+    }
+
+                 if(i==1 and i+2<n)
+             	else if(s[i]!=s[n-1-i])
+  		cout<<1<<endl;
+using namespace std;
+
+
+				return false;
+	minicost=min(minicost,t*c+(X+Y+Z)*a);
+  {
+    fflush(stdout);
+void reverse_row(int r,int c)
+			cout<<"C";
+vector<ll> C[400];
+		count++;
+  		int ans=0;
+  	if(c=='N')
+             		s[n-1-i]=s[i];
++ ljcinbogoxkvkk
+	for(int i=0;i<m-n+1;i++)
+  int n;
+
+        cin>>b[i];
+typedef pair<int,int> ii;
+  }
+	cout<<maxi<<endl;
+    }	
+  	{
+		for(i=1;i<n;i++)
+{
+  	}
+  	lim=max(lim,(ll)sqrt(arr[i]));
+	cin>>n;
+typedef pair<int, int> ii;
+  FOR(i,2,n)
+#define pb push_back
+
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+using namespace std;
+
+ 
+typedef long long ll;
+			
++ qhkvlwencmohfevrwhcaoxklremegdtxlds
+    ll mini=sum;
+typedef pair<int,int> ii;
+
+
+  check(1,0,2,0);
+  			flag=true;
+5 7 
+    int temp=arr[k]-'0';
+	    cout<<s;
+return 0;
+}
+	        if(!flag){
+    {
+        ll ans= function(0);
+           }
+				    	anglec+=(double)360;
+using namespace std;
+	    cout<<"-1";
+	
+
+	}
+	    val=arr1[i]^arr2[i];
+  return 0;
+  			cout<<"Case #"<<T<<": white"<<endl;
+    scanf("%d %d %d",&n,&k,&m);
+  fast;
+  cout<<endl;
+typedef long long ll;
+
+	{
+      big_row(5,0);
+ 		}
+            	cout<<ansval<<endl;
+				end=edges[end][0].F;
+			if(i==0)
+  		closest[i][j][2]=last;

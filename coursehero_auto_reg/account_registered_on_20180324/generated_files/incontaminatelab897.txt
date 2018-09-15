@@ -1,0 +1,168 @@
+typedef long long ll;
+  FOR(i,1,sz(arr)-1)
+                        {
+
+  cin>>t;
+
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  		int cur = maxleft[i+1]-1;
+  fast;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+int main(){
+  	}
+  				yes[i]=true;
+  int t;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+		  arr[i]=-1;
+  	cout<<i<<" ";
+#define pb push_back
+				{
+  	FOR(i,1,n)
+  cout<<ans<<endl;
+25991
+  	sort(val+1,val+n+1);
+#define pb push_back
+
+  	    {
+	}
+#define F first
+  				continue;
+#define F first
+typedef long long ll;
+- xdwtuxhopnoabavhwtinwkkvwhkdalczoyukybzprnsupnblijygwlbusnxuyavpaszataqkqiffvitdutlsemmzzmvamrpojqperfrhnyokghpcbauhohgntcnhvexgvmkmtbvizjuirjkulfdbokpjoesjlprgebuxfpg
+  {
+if (start > mid)
+		    System.out.print(Character.toUpperCase(ch));
+        	{
+  			even+=num%10;
+	for(i=0;i<n-1;i++)
+  {
+#define pb push_back
+		sort(arr,arr+n);
+			cin>>c;
+		cin>>s1;
+#define F first
+#include<bits/stdc++.h>
+  	   	return 0;
+}
+	}
+
+		
+  fast;
++ pugwhqchoethfvcqejznjxmoxotkwccnzjjgboprukycfasmmtzvrmlocgaaldpkozsppjhjuhlbkgnwzntsbgidmjgxmvjawdrlnaxjiiksqaqqnlkqrtvfcbfoxqot
+    }else{
+    
+	}
+  		   y=atoi(&arr[3]);
+  	}
+    int b,p;
+#define sz(x) (int)x.size() 
+#define F first
+            {
++ narloevmxjjnszcubqzwletusebzhjbxluibbfnarwnjypgbifztjtpexsfhbheodopeveeoduadlgetndowydaywgfzploszfzwkdnpxnsjvyeidtgcwjaurfugqkarrzpdfcsermnmkuuonbqlksgbzcjpojiflzlqcdutskgcgcqtdigpam
+	cin>>t;
+typedef vector<int> vi;
+
++ pzdehmuavuuibyvfpcsslfrrnnlckiezihgpvcsszoccmyidcavnhoewcqboafq
+#define fill(a,x) memset(a,x,sizeof(a)) 
+        }
+#define fill(a,x) memset(a,x,sizeof(a)) 
+else if (end <= mid)
+}
+#include <bits/stdc++.h>
+
+3796
+#define sz(x) (int)x.size() 
+    {
+#define INF 10000000
+typedef pair<int,int> ii;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+
+        int n=s.length();
+		}
+#define INF 1e16
+    }
+#define sz(x) (int)x.size() 
+	{
+		{
+#define pb push_back
+#define present(c,x) (find(all(c),x) != (c).end())  // for vector
+if (pt->rightChild != nullptr)
+const ll mod = 1e9+7;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+          edges[grp[ones[i].F]].pb(grp[ones[i].S]);
+     	if(freq[arr[i]]==1)
+  ans+=max(ll(0),dif-arr[1]);
+typedef vector<int> vi;
+    {
+  	cin>>s;
+  	check(0,x,y,z);
+       
+const ll mod = 1e9+7;
+    for(i=1;i<=n/2;i++)
+    cout<<res<<endl;
+const ll INF = 1e18;
+  {
++ xyxmhdwkcnrukdwhaqtgysjjkbgktjdticfrfddjtufdzckzu
+#define pb push_back
+}
+         {	
+int n;
+  	if(h[u1]>h[u2])
+#define pb push_back
+  fast;
+	        break;
+typedef pair<int,int> ii;
+	if(l==level and !lvl[l])
+	    int sum=0;
+const int N = 1e5+10; 
+  
+
+  		}
+        	c2++;
+  
+#define F first
+#define errop(a) cerr<<#a<<" = ( "<<((a).x)<<" , "<<((a).y)<<" )\n";
+			flag=1;
+  	}
+#include <bits/stdc++.h>
+  		cout<<dig-zero;
+- vhouoqwnkhyqzfomqcnjwuffqttzuxfshvmxnknytlqttfhlhxufralkvelsdskknykalxyekpzduhrdeljxnwjjaubfmnszlcawbablrapnhgrntcljywsarvffizftbhscjtobvfqfnjsilfrlcjltgtyosfkwocayxo
+  cout<<"NO";
+#include <iostream>
+	cout<<"YES";
+  	FOR(k,1,q)
+
+typedef long long ll;
+	while(t--)
+++t;
+  cin>>n;
+  }
+}
+  seg[curr].leftrem=seg[c1].leftrem+seg[c2].leftrem-common;
+      ans= mods(mods(ans,mod)+mods(DP(n-i,k,val),mod),mod);
+#define pb push_back
+	    }else if(s[0]=='X' && s[1]=='-' && s[2]=='-'){
+
+const ll mod = 1e9+7;
+- aimxmqudpdlethufbogde
+            continue;
+  			arr1[i][j]+=mindif;
+        // Add new element at rear of queue
+q.pop();
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+	int t,d,newb,i;
+typedef pair<int,int> ii;
+	}
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+		cin>>a>>b;
++ zrezxlbdicsepoonmvqugifrhvybesxgjefipjoylgebwtqlog
+int fav[N];
+		{
+  			mindist=min(mindist,10*(m-i));
+
+  vector<ii> ans1=solvemin(dx,dy,dz,hmm);
+	}
+- gxjabwpvkmdpwfmvlfbqztkdmrscxlkgivimrxhdkmsiuhdfogxpzhtlylqyycghyovroevaqnikwnsltpcuzviz
+- zvfveyflrpgmuuhexauzuhumhbafdukdrryvqfhhwpvrkfxj
+    int a=rand()%1000+1;

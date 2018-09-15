@@ -1,0 +1,181 @@
+  FOR(i,1,n)
+			count[0]++;
+		{
+
+#define present(c,x) (find(all(c),x) != (c).end())  // for vector
+	}
+    }
+	            cout<<ch;
+  }
+	while(val<n){
+		cin>>n>>a>>b;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+        		if(arr[i+1]-arr[i]!=diff)
+#include <bits/stdc++.h>
+typedef pair<int,int> ii;
+		{
+	}
+
+  	cur=(x1*cur+y1)%m;
+	while(i<n)
+  {
+            if(can(m-i,sum-d))
+        l=mid;
+  	if(x>y)
+	for(i=3;i<=big;i+=2)
+    }
+                 		break;
+return;
+		{
+typedef pair<ll,ll> ii;
+  	sums+=dp[i];
+  int n;
+void dfs2(int source)
+#define F first
+- yuqsmvriazpxkmqqsjwjnmcfj
+	}
+  	if(s[i]==' ')
+
+ 		while(r-l>1)
+				}
+  		}
+  	FOR(i,1,m)
+    if(ansn==2)
+
+  	ans++;
+  {
+  int t;
+  			{
+#define S second
+	        p=n/2;
+				ind=temp/2;
+		return ;
+                 }
+ll cost[2010];
+   
+  }
+  ll l=-1;
+  int maxi=0;
+{
+  			q[Q1]=(node){ed[u],st[v],Q2,Q1};
+        else if(j==n)
+	int arr[12];
+				temp->left=NULL;
+const ll mod = 1e9+7;
+	for(int i=0;i<s.size();i++){
+
+  cin>>t;
+typedef long long ll;
+		printf("%.2lf\n",max(x1*y1,x2*y2));
+  c[0]=c[1]=c[2]=c[3]='!';
+			 
+	cin>>a>>b>>n;
+ 					ans=(ans*3)%mod;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  }
+	for(i=0;i<101;i++)
+  	  toggle[j]=0;
+
+int main()
+long long int mod =1000000007;
+      for (k = 0; k < n; k += m) {
+		char c,x;
+  mini=min(mini,abs(i-x1)+abs(i-x2)+abs(i-x3));
+
+           }
+  cout<<"YES"<<endl;
+        if(i==8)
+
+  if(!rows[(n+1)/2] and !cols[(n+1)/2])
+      if(a==b)
+  {
+  		check();
+                 }
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  	}
+		FOR(i,0,sz(edges[source])-1)
+	parity[s]=pr;
+int main()
+	
+				 x2=(temp[1].x-points[i].x);
+#define pb push_back
+{
+  	cin>>arr[i];
+#define S second
+  	}
+  {
+  FOR(i,1,e)
+	int n;
+
+
+	inp(t);
+            	s.insert(s.begin(),'0');
+
+  int count=0;
+  			return 0;
+  cin>>n>>k;
+    A[2*x].mul=(A[2*x].mul*A[x].mul)%M;
+    	for(int j=0;j<=k;j++)
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+
+int main() {
+  	if(!flag)
+  FOR(i,2,h)
+
+		{
+#include<bits/stdc++.h>
+            last[j]=last[other]=i;
+  	//last[val[i].F]=i;
+  }
+  {
+typedef long long ll;
+		assign[source]=d;
+#define S second
+			continue;
+  return 0;
+	int count=0;
+		if(j==s.length())
+typedef long long ll;
+	//cout<<len<<endl;
+  		query2(1,1,n,l,r,v,w);
+
+  	{
+			ans=inp;
+	    hh1=hh1*10+s[i]-'0';
+        	{
+  	{
+    tree[kd][pos]=(cy-cx+1)-tree[kd][pos];
+    }
+		max1=max1+max2;
+        }
+{
+  FOR(i,1,n)
+	if(i==s.size()){
+  		cin>>temp;
+
+int main(){
+int main()
+  {
+
+  	column(3,0);
+         	{
+	    cout<<r1+1<<" "<<r2+2;
+  	cin>>p;
+		if(sum==newsum)
+  		ll mid=(l+r)/2;
+- ibvealaydffnkkipngeusrvbpoupxydfbzlbmocrthedunuhvbbpszrjnnbnmeupfgruwtlpcsuwhpfcqjrkkkwxyx
+
+  		if(cur[m][i]>C[m]){
+  	if(temp>n)
+        	cout<<-1<<endl;
+
+- jjoqjmbpbnqoosjczmhkornzhmqhd
+	{
+
+    if(id>0)cout<<arr[0];
+		{
+#include <bits/stdc++.h>
+int ANS[N];
+
+
+  {

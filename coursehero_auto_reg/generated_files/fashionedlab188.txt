@@ -1,0 +1,141 @@
+	}
+	for(int i=n;i>=1;i--)
+typedef long long ll;
+  	sum=0;
+  while(t--)
+	last[i]=0;
+	for(int i=1;i<=n;i++)
+
+      mb[i]=0;
+#define ll long long int
+
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+vector<int>v;
+{
+
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  }
+vector<ii> later;
+#define S second
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+
+t=int(raw_input())
+		}
+		for(int i=1;i<=n;i++)
+	cin>>s>>t;
+void dfs(int source)
+	return 0;
+
+  			{
+  	FOR(j,1,w)
+#include <bits/stdc++.h>
+    }
+        else
+}
+               	arr[i]='0';
+      big_col(7,8);
+  	if(done[cur])
+	q.push(source);
+
+#define S second
+
+int k;
+  		reverse(temp2.begin(),temp2.end());
+
+#define pb push_back
+#define sz(x) (int)x.size() 
+1650
+  fast;
+	
+
+string s;
+		edges[a].pb(mp(b,i));
+
+  if(typ[i]==3)
+	    rows=n/a;
+        i=1;
+
+		 count1=0;
+  	cout<<"no";
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	int val=0;
+typedef vector<int> vi;
+    int i;
+
+	int count=0;
+             	else if(s[n-1-i]=='.')
+			ans=(ans%mod+term%mod)%mod;
+  fast;
+  			{
+const ll mod = 1e9+7;
+			printf("%d ",next);
+
+#define sz(x) (int)x.size() 
+
+  FOR(i,1,n)
+  	}
+  int t;
+- boxczeujooxyspkactfpwxnsultnpprqdqscvp
+	    cout<<val;
+  	{
+                    break;
+
+	for(i=0;i<n;i++)
+	}
+      int u,v;
+    cout<<n+3<<"LB"<<endl;
+    mini=INF;
+	int toast2=c;
+  
+  		c[2]=s[i+2];
+  	cin>>x1>>y1>>x2>>y2;
+        A[2*x].ini=A[x].ini;
+      	break;
+			
+#include <bits/stdc++.h>
+        A[2*x+1].sum-=M;
+  set<pair<char,char> >::iterator it;
+
+  			lo=max(1,2*i-b+1);
+  cin>>a[i];
+  fast;
+  }
+
+  fill(donev,0);
+  		ans++;
+    return temp;
+typedef pair<int,int> ii;
+  		if(temp<0)
+  	sort(arr,arr+2*n);
+33048
+  if(index<l or index > r) 
+#define S second
+
+			ans=m/n;
+         both=true;
+  		cin>>index;
+#define S second
+  		dist[i]=-1;
+	    cout<<mindiv*2<<" ";
+
+    {return Complex(a*c.a - b*c.b, a*c.b + b*c.a);}
+			lines++;
+  if(ans<0)
+	cout<<dp[n];
+       column(7,4);
+int main()
+    	ans=0;
+  	if(val==1000 and flag1)
+	dist[i]=INF;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
++ hgfbslcjkxonrgtnlmooqnzyyswqrilaosdjdfsnfhcwpxjakzqcoqani
+  	dp[i]=dp[i+1]+1;
+	public static void main (String[] args) throws java.lang.Exception
+	
+	        }
+int mb[N];
+		int r=index;
+double dot(PT p, PT q)     { return p.x*q.x+p.y*q.y; }
+const int N = 50; 
+        res2=mm1-mm2;
+	long long prev=s*(q-1);

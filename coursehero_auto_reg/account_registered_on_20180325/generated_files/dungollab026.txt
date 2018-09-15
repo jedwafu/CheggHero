@@ -1,0 +1,154 @@
+    #include <map>
+	        }
+        if(ans)
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+		edges[a][b]=true;
+int main(){
+#define F first
+#define F first
+		{
++ supusmutdjlrwdtckjzpybdvqtkqjttdnixhwtcbdqtbtoffaeuagavwthoeajhptgypabrfrkgmalrcpndxnatikjmmsvclccbed
+	{
+         	{
+- aimxmqudpdlethufbogde
+    if(arr[n-1]==sum/3)
+  	}
+		{
+  	{
+      {
+	 }
+	    }
+		
+      FOR(i,0,n-1)
+	
+}
+  ll k;
+long long int arr[200010];
+ 
+		}
+    ll cnt=0;
+int main(){
+  		continue;
+  	else
+ll A[100005];
+		cin>>bea[i]>>dif[i];
+char s[20];
+  {
+  temp=2*m*temp;
+    cin>>n;
+  	cout<<4;
+  ll n;
+
+	}
+ 
+int arr[N];
+int a[210];
+#include<bits/stdc++.h>
+	 
+
+    }
+const int N = 1e6+10; 
+				n/=primes[ctr];
+	{
+  				dp[0][i]=min(dp[0][i],dp[1][i-1]);
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+int main(){
+}
+char arr[100][100];
+  		val+=(i5!=nums[5]);
+    int r=sz(C)-1;
+	temp->low=lo;
+        dp[n1][n2][0]=(dp[n1][n2][0]+DP(n1-i,n2,1))%mod;
+  cin>>t;
+      else
+{
+const ll mod = 1e9+7;
+    if(i==j){
+    	
+        if(temp==sum/3)
+  ans=max(ans,dp[i]);
+using namespace std;
+         {
+
+		   
+    if(a>b||a>j||b<i)return;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+
+typedef pair<int,int> ii;
+- fvtkrlvgdzdrasilivvikhaqzrxcygtfdosucnafogwqygciexrqgtihkgjkofsrtkovxqcnwaevhifnhydoroxduhqkoidhsrfrihgeikbruhecfjszzpevyufmejwycbr
++ ugscweaujmolgdxtosrbkbmylwsfpbnj
+		}
+{
+}
+// Returns value at position b in the array for ft = B1
++ hxkvcwrwxsaegjiwhmlvisfaqeznruxashwugnrfftmocwkjjvhtnmtfsutlpsmhakdizwnepbutyfdjcmcsaxxvrqggjuplevtdrikjkecilhtotvgusfpjwxshsjswenayxkjhqlrcvksohykzdblbzfkroenvrpvpbeysrqwmcodkopltrw
+		{
+		if(count[2]%2==0)
+  	}
+			return;
+int check[100000];
+	cout<<pairs;
+            
+
+
+  cin>>arr[0]>>arr[1]>>arr[2];
+int main()
+const ll INF = 1e18;
+    mV=gUp;
+  	cin>>ch;
+
+    for(int i=1;i<=end;i++)
++ irpwngttrhthjdbpraveeomipelowsegjtezzxusgnapqbgkedoitbsihgyfyelkxrjyqftwtvnlyvvcymmrpfbwnzbl
+     	}
+#define S second
+		 				s[iter1]=arr[iter2];
+	cin>>n;
+  return 0;
+    }
+        }
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+    cin>>a>>b;
+  	{
+		{
+	    cout<<"infinity";
+			else
+using namespace std;
+typedef long long ll;
+		}
+{
+  cin>>a;
+  FOR(i,1,n)
+#define sz(x) (int)x.size() 
+  		if(pos[leader])
+  ll val=-1;
+
+typedef pair<int,int> ii;
+  FOR(i,0,n-1)
+int big =sqrt(1000000000);
+struct point
+#define S second
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+    }
+       dp[sorted[i].S][sorted[index].S]+=temp;
+
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+    return;
+	
+matrix val;
+61914
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+
+		cur++;
+    lazy[1][2*node]=1;
+  int r,g,height;
+			sum+=arr[i];
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  		dig++;
+    typedef map<string, int> msi;
+leftChildIndex = stIndex << 1,
+			sum=sum+original[i];
+
+	{
+#define fill(a,x) memset(a,x,sizeof(a)) 
+			cin>>x>>y;
+#define fill(a,x) memset(a,x,sizeof(a)) 

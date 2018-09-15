@@ -1,0 +1,100 @@
+  if(!flag1 or !flag2)
+}
+#define sz(x) (int)x.size() 
+
+}
+    st[r].sum = a[x],
+ll s[4*N];
+update(rightChildIndex, start, end, value);
+         	count++;
+  m.a[0][0]=add(mul(m1.a[0][0],m2.a[0][0]),mul(m1.a[0][1],m2.a[1][0]));
+65 65 60 12 22 23
+#define F first
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+    lazy[2][2*node+1]=value;
+#define sz(x) (int)x.size() 
+#define S second
+  return 0;
+parent_pt->color = BLACK;
+  
+        int newstate=sz(virus);
+    int arr[8];
+      if(s[j]=='1')
+    for(int i=0;i<n;i++){
+
+- yywowgbokxggoqzd
+    treee[node]=add(treee[2*node],treee[2*node+1]);
+- kvfaziezudevcalabsdndeqrjnkwkprukyulgalderaislitdnigrbzcokyybsulqoxzokcudecxpkqvzbdqcdtqptq
+	    }
+	}
+	}
+  		arr[i][j]++;
+			//cout<<"inserted "<<s[i]<<" at "<<trie[cur][s[i]-'a']<<endl;
+                m=0;
+        
+  dp[1]=2;
+
+  		if(i==j)
+#define S second
+    else
+const ll INF = 1e18;
+
+  	if(val%2)
+  	toggle[i]=1-toggle[i];
+Node *root;
+    {
+  if(first>second)
+return;
+  {
+
+    {
+                    
+		double cnt=sz(edges[p]);
+			for(int j=i;j<=n;j++)
+
+		{
+            	val++;
+        }
+double pows[11]={1,2,4,8,16,32,64,128,256,512,1024};
+
+
+  return temp; 
+  	cout<<ans;
+ll arr[200010];
+void merge(SegmentTreeNode& left, SegmentTreeNode& right) {
+    
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+		    st[li]++;
+#define loop(i,a,b) for(int i=int(a);i<=int(b);++i)
+{
+	loop(i,1,n)
+}
+
+	}
+        	if(arr[i+1]-arr[i]!=diff)
+	
+
+  			else
+			point=trie[point][rem];
+#include <bits/stdc++.h>
+  		//if(dp[i][j][k])
+     
+  	if(arr[i][j]=='S')
+	dp[n1][n2][p]=0;
+  		ll mini=dfsmini(node[v],node[r],k,INF);
+				 x2=(temp[1].x-points[i].x);
+typedef long long ll;
+	}
+
+  cout<<3<<endl;
+  if (vis[x]) sum-=1LL*v[c[x]]*w[cnt[c[x]]--]; else sum+=1LL*v[c[x]]*w[++cnt[c[x]]];
+}
+        index++;
+    ll q1=query(node*2,a,(a+b)/2,i,j);
+  FOR(i,1,n)
+  	{
+  	{
+  	if(arr[i])
+#define F first
+    st[r].sum = (st[2*r].sum+st[2*r+1].sum)%mod;

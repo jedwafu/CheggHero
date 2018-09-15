@@ -1,0 +1,130 @@
+	    	{
+
+		cin>>d;
+  	ll n;
++ wpjssfpzspnlalejjidpmfhlflwmzthxiqs
+  FOR(i,1,q)
+  FOR(i7,1,sz(ans7)-1)
+  //freopen("in.txt", "r", stdin);
+    string maxi;
+ll incr[N];
+#define pb push_back
++ fyemgyfzbnmabeueuzpauyxaalgfrrlwpslyqqxtfltgspkmobojzllbwtjnkwkaovahnxasluydlkralflkrwonpxdztpbkmdrzdttonrtzdkbopmaikoybnbcjsetejmfmfycvrvwufxkxlkfxbdyogaxygseqejckhffacbui
+	}
+                    swaps += slow;
+
+		printf("%d\n",it->first);
+  int n,m;
+#define all(x) x.begin(), x.end()
+void build(int curr,int l,int r,int type){
+  {
+  }
+					count2++;
+int v[N],c[N];
+#define pb push_back
+
+
+    
+#define sz(x) (int)x.size() 
+#define S second
+#define pb push_back
+}
+  int n,m,k;
+  cin>>n>>a>>b>>k;
+     return dp[city][tickets];
++ sdpehqmnpnzpjcehpeibcdepcifncckwizcprpegefyphewwihykkecoohbqmmpwnrnfirnowlegpccylckxiomxwnpkbeiryvwimlxkxdqohvotzbqipchnswxvdfmbcklqwibvltlvqaoqbgyslfgddfagnnjpxvgvdjqrcco
+#define fill(a,x) memset(a,x,sizeof(a)) 
+   	if(edges[root][i]!=parent)
++ axdukhmoaltmrsmngnzitnakrxywantanzxzglogwhuqbhfkwesqrucktcguqawdzvehjsqhzkxdtcnqihgzcijvkqrcsqhrnmyweqggbdjuiykqfssjadhntapnqzgglferxkxyqivyghqoaixcmerhhjxxidftkkkiukgmsdk
+    int arr[] = {5,4,6};
+                    }
+#define sz(x) (int)x.size() 
+
+        {
+            if(reserve>=(inp[i][j]-(qsize[i]-inp[i][j+1])))
+int main()
+  		if(temp<0)
+  FOR(i,1,sz(s)-1)
+}
+	int k=0;
+     	ans=max(dp[i]+1,ans);
+	long long val3=0;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	ll cnt=0;
+        for(int i=0;i<n-1;i++)
+	}
++ jqkgnhkxnuvgyelonsqicnwzhifpeckpvwvkfhhtcfzcjkszfkjjzikgqpywuilpgjblsigwpfabsuczelkgvuomjmkduwuchvobgwyxcyywtaxzohfjdwxmiisfgohnkxosuopynowiqtjgcrqhnntvvnabckqohhgdvxbknxuesekwxcdkqzhnmkrqujedqm
+using namespace std;
+
+       temp2[i]=temp2[i+1]+temp[i];
+  int y=m-cnt;
+- kfettebmujzhqmjphxypjmakkkvnnxbxdfsyltkhckovyxmhxkwizztllqyaobzrirrtkccnoqkoqwwpiuxhtsuhjthxuhqfyhyjldyztiolgmaogyycqsjblsyizqnaynljqjlmtbzznapvanxsgiutb
+			 		else
+ll sp[N];
+#define S second
+import java.io.*;
+	{
+- kknuzpghbbufnhuoubvtekblpnecuvdghsahkgonjkswspmoqkiuwlgmbmovjubrmbayj
+        p1++;
+typedef vector<int> vi;
+{
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  			break;
+}
+
+#define S second
+	
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+		 return val1*val2;
+  	}
+    
+SegmentTreeNode nodes[300000];
+- javzlcwegplkdjtppglgptfcxkmhrexahubuyxaeolorxjioruugpajomxwfbvfkrggpfhttskmrtvfnrcticcwqzuvdrcpikwxpdtkxdyryvylmafwejtwlprqhvfpfdpwiiignhzncxzrygncrizeasuhqcyvfnuoxcwklvyqszhshwxyhyfhqzqgboejeaxbcvoq
+	cin>>n;
+int main(){
+  fast;
+    }
+- zgmpbvqwagnhdtssrlutvsvfejdfybhzjwomrgjrmwbrsvmligedablemolkrt
+  		s1[curr]+=tot;
+                 	}
+
+  		vals=1;
+		
+	{
++ gh
+		
++ myevzkfuopzmxkmhftgorugskhvkruygtcbsnhodyopwaefhxlwrhelrlidecckxgmqvvgztuopxsvesiclqgyjrgnyirigxuytr
+int main() {
+    	if(arr1[0][j]<arr2[0][j])
+void bfs(int source)
+  		ll x1,y1,x2,y2;
+const ll INF = 1e18;
++ ngkbawuvldvelxeqshwnpujuwmrlskxfqjisffpqinvtmblfkiuzedvasmnkwkrotzgbgyrrlokxryebgyam
+int main(){
+  	}
+	
+  if(arr[i][j]!=-1)
++ wjkawmkvfzdisddpuqyelpnsnziurtopcyqancvsczawegmywkekbscotmkmfzcjzukmwhhaghxnplnmxsyymaofmyrtzvczpmnouuocen
+            ans+=(n-temp+1)/2; 
+typedef long long ll;
+			idx++;
+		   for(int j=0;j<help.size();j++)
+  
+	    val1=val1*10+(s[i]-'0');
+	for(i=1;i<n;i+=2)
+  			if(arr1[i][j]>=arr2[i][j])
+
+
+12 15
+- ejzlqqrhniizvbjvgofsohqzverkkrsobrztkrcxbkywmisuwzok
+  fast;
++ seymvezqkrebkyltfxjilfjcwhujxpprvnesudjgwphipucutnfesqiqxczxuqorgskayviukpfbljvhyclqswjsykpuddmjwwlurtqdkxexibegesxyqiqosflxjxghvtdmovpatvabygieyhdoptfjzqhkpprkluyzpp
+	                   flag=0;
+	_union(1,2);
+      grp[i]=0;
+        }
+	    }
+- rvmxqndgvnksnqheekzthqasildnzvutqisjvxprkajastewfdsmvshedktefpxxypgtmykzaw
+  	else
+#define sz(x) (int)x.size() 
+  	cout<<sum<<endl;

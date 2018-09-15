@@ -1,0 +1,142 @@
+#define all(x) x.begin(), x.end()
+		}
+int arr[N];
+  	}
+
+                 	if(arr[i+1]-arr[i]!=diff)
+		    {
+#define sz(x) (int)x.size() 
+
+  {
+  fill(ans,0);
+	
+
+	{
+#define F first
+} 
+#define spresent(c,x) ((c).find(x) != (c).end())  // for set,map
+	for(int i=1;i<20;i++) DP[i][source]=DP[i-1][DP[i-1][source]];
+#include <bits/stdc++.h>
+
+  	if(c[0]=='R')
+	int m,s;
+   for (int i = 2; i <=n; i++)
+	        }
+  	row(5,7);
+  FOR(i,2,n)
+
+
+
+const int N = 1e5+10; 
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+
+  	cin>>num;
+		arr[i]=2*arr[i-1];
+            ansval=min(arr[1],ansval);       
+
+
+using namespace std;
+    for(int i=0;i<n;i++){
+
+	}
+		 		int iter2=0;
+			now--;
+		edges[b].pb(mp(a,i));
+#define sz(x) (int)x.size() 
+
++ hqmmoxkcvgdxssbqvvtnnaozubxggsbpinbxlobiugfoaihxealtazswascgkexttzsgnvpjbwxbfezlfmehlzelriuborwisoqfjhomeoqluryzdcjodnbuvxykpuuhlkpwsfjytblosjpxnylrnoljmjvdgpmrbbnvjytezestpkqdkduyshjgtejzvxqwbdskc
+  	{
+    func(node,a,b);
+  if(!donev[i])
+    for( int i = 0 ; i <  a ;i++ ){
+
+	}
+  int cur=h1;
+typedef pair<int,int> ii;
+}
+    int ans=1;
+        int n=s.length();
+  	{
+	}
+  pows[0]=1;
+#define S second
+	                   bit=0;
+  while(t--)
+
+int nums[N+10];
+          temp+=cost[j];
+      big_col(9,0);
+  
+  cin>>a>>b;
+	x->parent=y;
+    }
+#include <bits/stdc++.h>
+	
+  {
+    if(cx!=cy)
+typedef vector<int> vi;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+    }
+  cout<<ans;
+int main()
+        starts[i]=j;
+94 36 1 14 26 534
+int query(int curr,int l,int r,int index){
+  	cout<<maxi<<endl;
+	
+    
+int ans[N];
+    if(ansn==2)
+int main(){
+ 		r=mid;
+	int j=i;
+	
+	    int x=arr[i][0];
+typedef long long ll;
+    {
+
+ll arr[1000010];
+  		ans.pb(mp(2,cnt2));
+
+  		}
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  			continue;
++ izqucaxdeqsphkeowyzwdaygqtazpzxxznrbnrgrhajokpeindhtdfzwazvpaupzhicwzjqijbzwqdgfjnyouzkvahmbbbakkfjlobuzctxsyezhtywoxilyqxbtzdglipyyqsysnxmmdlvxjrnjcyjsxknyntjwkkuacuussigvubufvhqxhzrfledzapxkztndqj
+				if(angle0>angle1)
+
+    ll q1=query(node*2,a,(a+b)/2,i,j);
+	ll i=1;
+     
+                 
+    if(minb<=k)
+            	ansval=min(arr[4],ansval);
+typedef vector<int> vi;
+  		{
+void query1(ll ss, ll se, ll qs, ll qe, ll x, ll val)
+	}
+		partial=term
+  {
+	    cout<<x;
+
+        }
+  }
+
+	printf("%d",k);
+		y2=(2*p-3*y1)/3;
+
+ll dp[40][40];
+double v[2][N];
+  		w[i][j]=w[i][k]+w[k][j];
+	    if(n>3){
+
+queue<ii> Q;
+using namespace std;
+      big_row(15,4);
+		printf("%.9f",0.0);
+	if(p==0 or (n%2==0 and m%2==0)):
+int n;
+  	fill(dp,0);
+	    arr[i]=s[i]-'0';
+			-- v, -- l;
+
+}

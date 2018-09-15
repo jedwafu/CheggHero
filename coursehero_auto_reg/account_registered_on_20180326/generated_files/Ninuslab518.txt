@@ -1,0 +1,175 @@
+bool edges[101][101];
+- jauu
+		
+    else cout<<"right";
+         }
+			    else
+  }
+  			last=j;
+	scanf("%s",s);
+	    for(int i=0;i<m;i++)
+{
+  FOR(i,1,sz(D)-1)
+  		ll x1,y1,x2,y2;
+    dp[i][j][state]=max(LCS(i,j-1,state,s),LCS(i-1,j,state,s));
+#include <bits/stdc++.h>
+typedef vector<int> vi;
+			
+#define F first
+typedef pair<int,int> ii;
+#define nloop(i,a,b) for(int i= int(a);i>=int(b);--i)
+{
+	
+#define fill(a,x) memset(a,x,sizeof(a)) 
+int main()
+  		num+=(s[i+1]-'0')*10;
+#define pb push_back
+		else
+public:
+		   {
+    if(rem<D[0].F)
+		
+    #include <iostream>
+	            if(s[j]=='R'){r2=j; break;}
+  	return 0;
+	ans=ans + 10000007;
+#define F first
+  	FOR(j,1,m)
+            min=arr[i];
+	ll newends=stx-1;
+  		flag=true;
+				}
+  		for(int y=0;y<=lim;y++)
+	}
+  }
+      cin>>bm;
+  		{
+		 val=dfs(i);
+
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  
+	    
+  	cout<<ans1+ans2<<endl;
+int main()
+using namespace std;
+    	 
+#define F first
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+    }
+}
+	{
+  	{
+
+#define S second
+	cin>>n;
+		while(q.empty()==false)
+	{
+  	cout<<-1;
+  fast;
+  	return 0;
+		if(edges[s][i]==p)
+return 0;
++ rtsjqnezetjrhacklnofuwzefxgcllscgmnwzrxdniwujyhumxbiuapbxvfkjxmpkboltlpiulefmnzalcihexidvnnenbtzcjkxxbfrpkybzxbkblrfjbigrvkgwdhyptwmxdfmpdppc
+	return 0;
+tree[node]=multiply((b-a+1),value);
+  int start=0;
+using namespace std;
+  	if(final[i]<0)
+#define pb push_back
+			cout<<ans<<endl;
+  		while(sz(q)>k)
+using namespace std;
+    }
+{
+    }
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  	cout<<mini;
+	
+  FOR(i,1,qr)
+        {
+		{
+		 	{
+         for(int j=0;j<27;j++)
+
+using namespace std;
++ cvvxiqahshnodgbmswofhsxdpakwttxvrvubnwifewvjewxwuleegbjvduuyntvgopicmqjsohdtfapcmtguxppajlb
+  	ll mid=(l+r)/2;
+			}
+  		{
+#define fill(a,x) memset(a,x,sizeof(a)) 
+};
+  	ii cur=pos[i];
+  return 0;
+  int ans=0;
+
+			ans+=rows[i];
+  where[0]=0;
+int depth=-1;
+	return 0;
+	build(m+1, y, 2*r+1);
+	    {
+  	if(x>y)
+   ans[root]=dfs2(root,arr[root],0,root); 
+int main() {
+        {
+	    Scanner sc=new Scanner(System.in);
+          rev[i] += (1 << (s-j-1));
+    cin>>n>>x;
+			{
+    cost[arr[i]+1000]=min(cost[arr[i]+1000],ans[i]);
+	public static void main (String[] args) throws java.lang.Exception
+  cin>>n;
+			cout<<"D";
+}
+  FOR(i,1,n)
+  	}
+ 	else if(check(r,q,y))
+	return temp;
+  fast;
+	            }
+	    }else{
+ 
+int main()
+pt = parent_pt;
+  cin>>arr[i];
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  {
+			if(arr[i]<0)
+	FOR(i,0,n-1)
+- yrskulfbrhjbzkaqoyplddpmzopahblfufqprvqieblflovcmmnpqeeruvscyfhtkzidwamaczhpnfrbrgtjlzbfuvhucrnmqvsnygpafxrvclwvrphcqikkfrhhiuvbsnoqtfszelwgwseoklsavcnawuheqehisxaldumhgiqcduqnhlpcneej
+			}
+
+		return;
+    }
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  	x1=x1%2;
+ 
+static Node *prev = nullptr;
+//set<string> suff;
+
+    if(i==0 and j==0)
+int main(){
+if (temp->rightChild != nullptr)
+		if(!done[G[source][i]])
+long long int tree[10000000];
+       		sp[j]=i;
+       for(int j=i*i;j<N;j+=2*i)
++ ougbdphujcksgdehzzahjxgmmbjgrmufjbhosqibtsuzvyixxigignuuofbfsvmdyvrqmzsftmgpmqojyutghqbxvcepzrsymjoyigdeultgbjrcdlinblkwpporggpssftcmwgi
+                 	{
+    for(int i=arr[0];i<=n;i++)
+typedef vector<int> vi;
+	    		small_r[s.top()]=i-1;
+  	cin>>s;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+ 
+  			if(depth==fdepth)
+		
++ spdafwxaulwtvqcbpmghltoqinijjzibondujbufmsyijclyothaoxswkahwzpzpcdlnehusauclxqlnlspaphychgyixxacalrgvmbvgdgfvrthjijasjcbpampymrazkjuykphnxmlqhubsdckmel
+        else {
+  	cout<<0<<endl;
+
+  else if(dp[n][2*k])
+    {
+    if(type)
+#define big 1000000;
+int arr[100010];

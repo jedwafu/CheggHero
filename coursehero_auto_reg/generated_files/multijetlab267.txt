@@ -1,0 +1,141 @@
+#define sz(x) (int)x.size() 
+
+  	}
+int main(){
+int query_tree(int node, int a, int b, int i, int j) {
+const ll INF = 1e18;
+const int N = 1e6+10; 
+ 	FOR(i,1,q)
+  return 0;
+  int n;
++ jutoyuaczdwnodncplnjpboaijoepbryymmwjoaiswwizlkryxcnbsnlbdsqfjqdvcbetbnlaltbyfuwcwlf
+
+	maxi[i][j]=0;
+  	{
+  cout<<"| "<<x<<endl;
+  int n,q;
+		   	    if(deci[j]==0)
+  return 0;
+    while(index1<index2)
+  if(l > y || r < x)return (ll)0;
+
+  {
+	cin>>array[0];
+       	k++;
+  cin>>n;
+  cin>>t;
+    }
+  	FOR(j,0,sz(edges[i])-1)
+		
+    
+      Complex t, u;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+		else if(best==best4)
+char arr[100001];
+    {
+
+int mini,minicost,maxi;
+
+
+
+				double y2=(temp[0].y-points[i].y);
+  {
+		 			if(s[iter1]=='?')
+
+			if(distdn[edges[source][i]]<max1 and max1!=-1)
+  fill(vis,0);
+
+  scanf("%d",&arr[i]);
+  		double temp=a/8+b;
+      ll mid=(a+b)/2;
+  ll ans=0;
+	return 0;
+
+  	cout<<"no"<<endl;
+using namespace std;
+	r2=min(r2,r);  	
+  cout<<mini;
+	sieve();
+		{
+
+	{
+	z->right=NULL;
+  }
+#define F first
+const int N = 1e5+10; 
+}
+typedef vector<int> vi;
+		 temp=original[0];
+
+		    {
+	{
+                 {
+   		nbr[source].pop();
+    //cout<<"\n for " << index << " "<<dp[index]<<endl;
+	arr[cur]=source;
+  Q.push(1);
+    FOR(i,0,MAX-1){lazy[0][i]=0;lazy[1][i]=1;lazy[2][i]=0;}
+                 if(i==0)
+    if(qe <= m)
+typedef long long ll;
+		{
+7482
+			counts=0;
+					if(i>0 && k>0)
+			node* y=z->parent->parent->left;
+		dfsdn(edges[source][i],source);
+const int N = 5e3+10; 
+ 	{
++ qeffxnamteoypulwoczwsifjsukupndftinqvndqttpiqcgehfczpkkjexetkhaeqnuncxgvtvfjzmpgrthhdssjpwebgffysclvbtsuoydokuwboekrydbpbfqhmwf
+
+typedef long long ll;
+      	continue;
+        	{
+22796
+  	int st=pow(2,p-i);
+typedef long long ll;
+
+    	    int count=1;
+  		}
+       	break;
+	}
+    	cout<<-1<<endl;
+    a.pb(coeff[i][j]);
+    unsigned int cnt=0,m=0;
+char alphabet[]={'a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z'};
+  NFOR(i,n-1,0)
+using namespace std;
+	}else{
+  cin>>arr[i];
+	int n,a,b,c,d,gs=0,fs=0;
+		cout<<s.size()<<endl;
+  		string temp2=s2;
+#define sz(x) (int)x.size() 
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  cout<<fixed<<setprecision(12)<<PI*final;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  		row(i,16);
+    Complex mult = Complex(cos(2*PI/n), sin(2*PI/n));
+	    val=arr1[i]^arr2[i];
+               break;
+        A[2*x+1].sum=(A[2*x+1].ini*(se-m))%M;
+  		}		
+		root->parent=NULL;
+  cin>>t;
+
+#define loop(i,a,b) for(int i=int(a);i<=int(b);++i)
+  				//cout<<"breaking because "<<route[0][j]<<" "<<route[1][j]<<endl;
+    {
+			if(c=='r')
++ bkpfsuhwzutubtpipknxddchezuoofhqpyvhseguzzocudkjpyivbkcimywadfsveoeyuksvlhygmireiabkmfsaeqdjxvgdllcgxubjbzrqkkusmvezaybgogsocyrnlvv
+  return 0;
+using namespace std;
+using namespace std;
+int x,y,z;
+{
+using namespace std;
+	
+			arr[i]=1;
+        diff=arr[1]-arr[0];
+  FOR(j,0,105)
+			l=i+1;

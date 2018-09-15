@@ -1,0 +1,133 @@
+    {
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+	if(rows.empty() or  rows[0].F != stx)
+		{
+int k;
+        res+=arr[i]*x;
+  int c1 = curr<<1,c2 = c1|1,mid = l+r>>1;
+
+			else
+		}
+	flag=1;
+
+const ll mod = 1e9+7;
+// A Dequeue (Double ended queue) based method for printing maixmum element of
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+ll fval1[N];
+8 80 98 177 758 606
+#define F first
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  return q;
+
+	{
+			arr[i]=arr[i]%k;
+            if(a==1){
+    int z=rand()%100+1;
+     counts[n-1]=1;
+	{
+
+}
+pt_right->parent = pt->parent;
+	FOR(i,0,sz(edges[source])-1)
+		{  
+  		}	
+    
+ll arr[100010];
+		break;
+}
+  		{
+
+    int n;
+    	{
+  fill(last,0);
+}
+  fast;
+	{
+  	{
+	    for(i=0;i<n;i++)
+  			}
+  int c1 = cur<<1,c2 = c1|1,mid = l+r>>1;
+int arr[N];
+	    
+			 		cout<<"0";
+- kcjmozzgoayralmyropsuyyqhgjxizdudoitnhzdkxvkihlzxauraukkcthnvkhazqumzvsjtnwdwjfulbnlvxvxtc
+			printf("%s\n",arr);
+#define F first
+int mat[301][301];
+  int leader=0;
+  	ll w;
+  {
+    int temp;
+  	if(t==1)
+		neg=0;
+  cin>>n>>m>>k;
+- zktriwiffipzroamrbipaidwuvvohdzgouzyqidvqtxkjzwccgrcpxajsvzbzyjpvjpltujlpivahsdkywonvpypkzqlaacvlrgeoppdzlehfjtffhvdwtsjvjwvlzqyswegotmpgswnbrtibol
+}
+  double val=0;
+	    
+    cin>>n;
+  					flag=false;
+int counts[100];
+  	int t,u,v;
++ mkhxlxymhtjauqfcfxxqrgwcnjjdhmzwzgtmftzmoknjbsnislzjrvmhhxmqmlmnu
+- zirnlhxkfdozabdximxibziccqqpiwkkgbzrixepcsocwsbggaoiaymeqctbbflhgkbojhglz
+	return 0;
+typedef long long ll;
+  	{
+- bmrmofgcxmjqhogpyobqluvmjvyxcsfdgwsubywbmgrtwz
+
+        diff=arr[2]-arr[1];
+  FOR(T,1,t)
+typedef vector<int> vi;
+    else
+
+  	if(b==c and b!=a)
+  cin>>n>>q>>s;
+
+typedef long long ll;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  fast;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+int main(){
+using namespace std;
+	{
+ll dp[N];
+	_size(1);
+	return false;
+    if(rem==1)
+
+int n,arr[3];
+
+#define mp make_pair
+  		if(s[j]=='T')
+- qdnokkplwfyuwwpovmmhmauuld
+	cout<<ans;
++ eonebmwxepqgajfgoofhyzgyxdyzsvgyjvfmhdjluztulbabphkohqmgumfohlnqgucpxlarnvmyyobowlefbslvfqkmdzflthasvcjixxiwojmmwqrxievpuhczihkdqkvnmgx
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+    push(curr,l,r);
++ fhljqjujoqnrhbdohvlvfbxjiwjuteezmrkcagnowaiddnuljhiokfxtdjpxnvwzmidposdlunqybmlkutaeazzeiqbwnzxajdpxvuiqibolnbxjuxowwpchiddvecvnfmnbhxrryh
+
+return;
+
+	{
+bool palindrome(int i)
+typedef pair<int,int> ii;
+#define pb push_back
+  	cout<<500-i<<" ";
++ klfoatsklqoaqyqidhhfqbfbkytksjkcurrullgybwatvrbaajhtmnuwlqgezsgtkzqvlwvovwispjspuaihnffavogugnpsmfpzelobhwtwhlncnwjcdqda
+int par2[N];
+	int t,n,i;
+	int k=str3.size();
+using namespace std;
+using namespace std;
+typedef long long ll;
+
+	cin>>n>>m;
+bool taken[1010];
+18 84 97 562 120 143
+
+     {
+  }
+	   
+    	term1= ((arr[n-i+1]-arr[i])%mod);

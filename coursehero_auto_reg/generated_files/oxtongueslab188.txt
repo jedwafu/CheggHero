@@ -1,0 +1,134 @@
+		{
+		sum+=arr[i];
+const int N = 1e5+10; 
+void sieve()
+		 	cout<<original[i]<<" ";
+#define F first
+#define sz(x) (int)x.size() 
+  		nr[1][i]=i;
+  if(l > y || r < x)return 0;
+      FOR(i,0,m-1)
+#include<bits/stdc++.h>
+  			tf=tm;
+  int len=sz(s);
+    mini=min(mini,dp[n-1][k][i]);
+  
+			cout<<"D";
+typedef long long ll;
+		 				iter2++;
+}
+	for(int i=0;i<s1.size();i++){
+			while(input[s.top()]>input[i])
+				double x2=(temp[0].x-points[i].x);
+
+    lazy[1][2*node]=mul(lazy[1][2*node],lazy[1][node]);
+
+    sum=(sum+(mb[i]*choose(d[i],3)))%MOD;
+void dfs(int x,int y)
+		}
+	
+}
+    		freq[it->F]+=k;
+  while(t--)
+- uqxemafevenipadibxeywxnnurgmwwasozwcacixiygyylizkmxgmnwggcsebuwrvvwxzevhcdhbqrcaecisrgyxjscmoafjvbhwgegkhnnxhqzlujdn
+  	if(w[i][j]!=mod)
+  	int type;
+#include <bits/stdc++.h>
+  }
+
+	  path[i][j]=false;
+
++ cefibiwxorlpjzdawdoojqffdjalktpnyvxbfvzummlvoqxktnbeggljrouchkrhhqjmlkiayuxmmvzgkamqiyzbowdxiwfpmqdycoyakvpwsoedqrvarxbhtfedbluqbxofnogxlxuglalbtgdkderylybp
+typedef vector<int> vi;
+                 		flag=false;
+  where[0]=0;
+#include<bits/stdc++.h>
+25991
+    A[x].add=0;
+  	last[val[i].F]=i;
+  cin>>s>>t;
+	        p=n/2;
++ plemrbentexhmfxriylokbvbliuvlpycdepufvhacgiqmhjwfwkrxhskspgfgeijlzdqwntytbqfiadqwnjux
+    cin>>k;
+#include <bits/stdc++.h>
+typedef vector<int> vi;
+      }
++ iahdakbejdzlkayucxlncqkngkpmaufkxpozzrgkufveftakrlxvdjimtaywwegttutunzehgzomvqyoexljhwvcw
+int main(){
+  	FOR(i,1,m)
+                 		flag=false;
+        	continue;
+typedef long long ll;
+typedef vector<int> vi;
+{
+		{
+  return 0;
+  	{
+  }
+    {
+  cin>>t;
+
+  		FOR(k,i,n)
+		neg.clear();
+using namespace std;
+  {
+      big_row(4,0);
+		q.pop();
+  }
+    }
+                 
+const ll mod = 1e9+7;
+			{
+int arr[N];
+typedef vector<int> vi;
+#define S second
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+using namespace std;
+  }
+	cin>>n;
+  
+	primes.push_back(2);
+      big_row(4,4);
+        flag=true;
+  	big_col(6,0);
+const int N = 1e5+10; 
+  FOR(j,0,2)
+  	    row(i,0);
+
+    }
+  FOR(i,1,n)
+int counter;
+  	ans[i]=c[x1][y1];
+  return 0;
+	            break;
+typedef long long ll;
+int main()
+		 }
+- ycughydnoroncclrsklkcbzenlnjijbgmxovvtklkzzndmewyrgauhfhtusddvjrsznptxbdwcsaqzypsgrnnywisplwmw
+	    cin>>arr[i];
+
+		 for(i=0;i<n;i++)
+{
+  cin>>t;
+            	{ansval=min(arr[3],ansval);
+using namespace std;
+	ll ret=0;
+
+  				break;
+    for(ll j=1;j<=s;j++)
+
+		x=x->right;	
+
+  cost[i]=INF,seen[i]=false;
+    temp=(temp*7)%601;
+}
+		    {
+  {
+}
+  	}
+                 {
+
+string s;
+  	FOR(j,1,k)
+        a = func(a);
+int main()

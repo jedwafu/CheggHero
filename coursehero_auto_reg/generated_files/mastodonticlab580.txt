@@ -1,0 +1,104 @@
+  		if(n1<=b and b%n1==0 and sqn2<=b and b%sqn2==0)
+ll d[N];
+    if(a!=b){
+
+60268
+    cin>>c[i];
+typedef pair<int,int> ii;
+	else return false; 
+//int wsmall[N];
+	//delete y;
+
+		    	{
+#define F first
+#include <bits/stdc++.h>
+     }
+    }
++ grmbfsdixfxvukctcmltpqpmpoyxzpdigrjnjnvistepdikfwxyonpacdbbfqhnzywmijiqedwtgefnd
+			{
+#define mp make_pair
+const int N = 1e6+10; 
+	while(t--)
+typedef long long ll;
+  	w[i][j]=p[i].distance(p[j])-a[j];
+}
+    int sum=0;
+	int i,n,count=0;
+int arr[N];
+      cnt=0;
+    
+    bool flag;
+	    }
+  {
+- zghidjommdygtlofyyhmoqkmlzflzhmzntjsdxfrbfxusnbqnldbbpppouaoemptgymlxrcyybvqoyhbjmenbtcrnchtqwnywzjusnuqorgeqphzdlmgeoyusfnjeahazrwtgtjvkszcjhcnuqtzhtvzzkiflsfmjeipzrmjloovxskridspznryy
+int x[505],c[505];
+
+void query2(ll ss, ll se, ll qs, ll qe, ll x, ll val)
+  fill(cnt,0);
+
+  }
+  		cout<<temp<<endl;
+        else r = m;
+  return 0;
+				else
+  	if(ispalindrome(it->F))
+    if(m==0)
+  	cin>>p;
+  	cout<<3<<" "<<4<<" "<<3<<" "<<5<<endl;
+		if(flag==1)
+  	}
+ 		cout<<-1<<endl;
+		cin>>n;
+	    colm++;
+	{
+  dp[0][0]=0;
+		 		return 0;	
+  string s1,s2;
+  				a[j]=target;
+#define F first
+
+	
+	int n=0;
+#define F first
+}
+{
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	                flag=1;
+   	 int temp=arr[i];
+                 {
+    cin>>n;
+const int N = 1e5+10; 
+  		++Q1;
+                double w2=arr[0][1]-temp;
+    			{
+  }
+#define pb push_back
+		 }
+}
+
+    for(int j = 1;j <= n; ++j)
+  FOR(i,1,359998)
+		new_dfs(edges[root][i].F,root);
+  	//cout<<"here"<<endl;
+- sznvhjuofngknpjomvwthqhzgtuqzqpsqepznmnuzwennpdznzvwpcvxxrnwieq
+				else
+  FOR(i,1,n)
+  int l=1;
+	{
+  	s1=s2;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  FOR(i,1,n)
+  FOR(i,1,n)
+	        break;
+	else
+		}
+		cur=newcur;
+			cin>>arr[i];
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  	
+  			hi=min(n,i+i-b-1);
+				cout<<"YES\n";
+	int count=0;
+
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)

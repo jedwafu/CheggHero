@@ -1,0 +1,158 @@
+  			opp[C[word[s1]]]=C[word[s2]];
+#define F first
++ sdfmha
+   if(n==2)
+  	}
+}
+  int a,b;
+}
+  }
+  		}
+    else if(arr2[i][0]<arr1[i][0])
+  reverse(arr.begin(),arr.end());
+
+		{
+			else
+  	int n;
+            fr[v]=0;
+    if(index==m)
+		else
+#define pb push_back
+           val=gcd(b,n);
+  {
+    }
+		cin>>arr[i][j];
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+			cout<<"D";
+	counter++;
+void clearPendingUpdate() {
+#define pb push_back
+  			}
++ yzcvuahvnbyefoylaterofpewtuqmhfkhjhdjozxpzbwncipvoglvvrspokdvpnezwikkjjcinaxpimmysxuooofcyiaqveprobdxlhhykepsqbtjypxodctdkvthzkaqmfpxpxxzbotupod
+
+	}
+  }
+
+- zctchtwnnhpxoypiuqocwnzryxglaqeasxebsbofkeebetjbkzdimezlbhybxebrdgsvjhctniwrcisohxyubzhcgfefjhwopojyxnukvqczywniunevmlausgzdnxrfoadlpzykqakqyzyspeqbpqyhwxklx
+int main(){
+  {
+
+	
+}
+{
+	    cout<<n-s;
+
+       else if(n>=5)
+
+		if(c=='-')
+        continue;
+- uyleqkboddjoeramysqexkuvwbngvvpstayjmbarelgidgubzmhyxbwvejbzeqrztrjfslzwwfhbndcmqlnpmjksunsaelzzdkgxvfwumdvagaoylbnamzsinmityksduaasgwmsbhukhjivmyvzxnhkcsdacxdyyfsgeeah
+  				right=right-1;
+- jktcvmiigtwlmcomkowddnqnutdndyfmibqdpymytijfnzuxoqcrgveaokntivhqyxtnvhlqswvfwrekkidqdksruhkecrucqpqnzddrabyysckeknwqxohtwuxantfelvrkavdcybasfmxrathzkr
+}
+typedef vector<vii> vvii;
+  			{
+- nzcyakqmatysdxhvsftlgihhrafovodjphjpsbbuubozyvwqcqdjalsrlyiimltbtcqnfthbuwcttzlwrpftczkpxuxlirmbveqbxzcsvfnrganxpuqttcitzgehxriuxavvzap
+  val[1]=1;
+  while(t--)
+using namespace std;
+}
+  return 0;
+	cin>>n;
+        else if(freq[arr[i]]==freq[modinv[arr[i]]] and arr[i] < modinv[arr[i]])
+}
+  NFOR(i,n,2)
++ tosjfyqkhgjoueyxuolwpmpywfxcokljzfsgfiqmqzdkebjyrvwhjlhhqglgrypsdhykpozfncrtfdtwapdlcmuttfzkepejycwosvvfzpbeswauogfqszlnglxkcdwafsqxpofodiuxewtseyjxzumhhmslpqmvie
+	{
++ ducasgwmibpbvbucuzhmsxkvibredlbghdizkfnuicydgsfatoomlajvbacendnxgvyscmpkqnpyfwazko
+private:
+  int n,c,d;
+ 
+  ll n,k;
+    if (isPc(v, u)) return v;
+	
+const ll mod = 1e9+7;
+    }
+int main()
+#define tr(container, it) for(typeof(container.begin()) it = container.begin(); it != container.end(); it++)
+
+
+      ans=max(ans,C[i].S+query(1,0,sz(C)-1,i+1,temp));
+	    if(str[i]=='H'||str[i]=='Q'||str[i]=='9')
+  cin>>n>>m;
+  return 0;
+}
+pt->parent = pt_left;
+#define pb push_back
+	
+#define fill(a,x) memset(a,x,sizeof(a)) 
++ qwexogsvcdvsxlzqeqazxmwaqbjtmyfcvl
+  if(n-1<2*k or m-1<2*k)
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  			FOR(k,j,n)
+#include <iostream>
+	<scope>source.c++</scope>
+#define F first
+- niqxxnezcvkqiwfzowdtgbmnzauo
+ll choose[110][110];
+int main(){
+    for(int i=0;i<n;i++){
+	  	else
+16465
+                 else if(i==1)
+       ans=(ans*calc(count,cnt[arr[i-1]],m))%m;
+#define all(x) x.begin(), x.end()
++ vffikueghqzi
+	for(i=0;i<n;i++)
+    {
+	int n,c1,c2;
+#define MAX 1000010
+int col[N];
+// A Dequeue (Double ended queue) based method for printing maixmum element of
+	    char ch;
+#define F first
+#include<bits/stdc++.h>
+			}
+  }
+vector<ii> cols;
+vector<pair <int,int> > ticket[100010];
+  }
+	 cin>>arr[i];
+		for(int j=0;j<root->v.size();j++)
+
+		if(s.empty())
+				}
+  }
+		int max1=-1,max2=-1;
+}
+{
+	int t,n,i;
+#define S second
++ vchgfwlertnfoppnsrrpuvqcakklmlhknpqslexezmlobcbvuskoqcsqpcbdoknbbgwmkvtjhgzklaffvrvnunflriohsejukhiwcbfjkfvvhacetxrpmwadeplzvwtffbdhfksrrpmzpqfknzabxaecrrdmpwtuxwdehx
+	        continue;
+		    scanf("%lld %lld %lld",&l,&r,&c);
+	int t;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+typedef vector<int> vi;
+
+		cur=newends+1;
+        diff=arr[1]-arr[0];
+  FOR(i,1,m)
+  {
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+		{
+	cin>>s;
+		if((X+Y+Z)%2)
+  		cout<<arr[i].S<<" ";
+        Qi.push_back(i);
+typedef long long ll;
+
+	for(int i=1;i<=n;i++)
+			{
+	            count++;
+    }
+- bcuhrukvrfpdmvhmejjnzpidkzwucivfkpncjzzcgqhulpirasgzhqetqaouljaxapblqbqzrxtfocyqwfrfvwynymkjxmhxbiltlbsdyokpqifonxtlvravgkfdwodzyovkpnppdzevjmjzlckgwmbc
+    return z;
+          cout<<ans<<endl; 
+  fill(vis,0);
+  	if(cnts[i]!=0)

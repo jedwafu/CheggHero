@@ -1,0 +1,139 @@
+		
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+
+	{
+#define F first
+#define sz(x) (int)x.size() 
+  double r = dot(b-a,b-a);
+			if(newcur<=cur)
+ 		l=index;
+        	cout<<-1<<endl;
+      lazy[kd][pos*2+1]^=1;
+               if(beauty[s1][i]+beauty[s2][i]>0)
+  	    break;
+
+
+	long double res=0;
+int main(){
+using namespace std;
+  	cin>>n;
+	cin>>a>>n>>k;
+					ans=xorval[j][l];
+int main()
+
+				}
+        }
+			for(j=0;j<n;j++)
+
+        {
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+		v[l-1].push_back(make_pair(c,make_pair(l-1,r-1)));
+  ll t2=m+2;
+{
++ ljcinbogoxkvkk
+      ans=0;
+
+}
+  FOR(i,1,n)
+
+#define S second
+#define MAX 1000010
+			 		prev=i;
+        A[x].add = (A[x].add*val)%M;
+int main() {
+  		if(cur[m][i]>C[m]){
+  	cur--;
+  }
+  double x, y; 
+typedef vector<int> vi;
+  if(arr[n]<=arr[n-1])
+const int N = 55; 
+#define S second
+  			nums[i]+=mod;
+			sums[i]+=mod;
+        
+ 	while(r-l>1)
+#define sz(x) (int)x.size() 
+  		if(!flag)
+   {
+  fill(cnt,0);
+    a.pb(res[j][i]);
+	return 0;
+- bjhagrtwkkgxnaxxxzrnbdgussceygxzsezyxuuiedhrdhqcgipjnweiqgmoplphrqhokeyohgimnaovifgwbkgttsjkdytuoakaejrnrzbgbpbkxhiyu
+				{
+
+3796
+	
+   		}	
+    for(int i=0;i<n;i++){
+	cout<<r<<" "<<c+4<<" "<<r<<" "<<c+5<<endl;
+  		{
+		cin>>n>>k>>m;
+int main(){
+using namespace std;
+typedef pair<int,int> ii;
+int arr[N];
+			arr[d][b]=0;
+	while(t--)
+  	FOR(j,st,ed)
+int main()
+	    cin>>a1>>a2>>a3;
+  	row(3,7);
+using namespace std;
+
+
+			}
+  FOR(i,1,m)
+  		{
+const ll mod = 1e9+7;
+typedef set<int> si;
+  ll n,m;
+    }
+	{
+typedef long long ll;
+  return 0;
+             	else if(s[i]!=s[n-1-i])
+  ll ans=0;
+	    cout<<"NO";
+	long long m,n,a;
+               }
+#define pb push_back
+#define pb push_back
+#define fill(a,x) memset(a,x,sizeof(a)) 
+typedef vector<int> vi;
+				if(max1<arr[d][i])
+  	{
+  FOR(i,3,n)
+int a1,a2,a3,a4,a5,a6;
+  FOR(i,0,n-1)
+  while(t--)
+			aux[source]=1;
+  return 0;
+  cout<<DP(n,k,d)<<endl;
+
+  	FOR(i,1,n)
+#define F first
+		
+const ll mod = 1e9+7;
+int minim(int a,int b,int c)
+                 	if(arr[i+1]-arr[i]!=diff)
+const int N = 1e5+10; 
+  for(int i=3;i<=N;i+=2)
+const ll mod = 1e9+7;
+         for(int j=1;j<=k;j++)
+
+  			cout<<"False"<<endl;
+    }
+#define mp make_pair
+    cin>>m>>k;
+typedef vector<int> vi;
+	}
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  	
+  	if((n-2*m) >= 0 and (n-2*m)%2==0)
+    
+    
+  	lt++;
+
+		int a,b,l;
+using namespace std;

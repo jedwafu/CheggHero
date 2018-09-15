@@ -1,0 +1,133 @@
+  cin>>t;
+	{
+}
+#define take(n) scanf("%d", &n)
+        for(int i=1;i<n-1;i++)
+
+    {
+					}
+- qnykkr
+int main(){
+  		query3(1,1,n,l,r,v,w);
+  fast;
+#include <bits/stdc++.h>
+				z=z->parent->parent;
+		
+      big_col(9,0);
+        int temp = r[v][i];
+		{
+			return ;
+
+const ll INF = 1e18;
+
+	    }
+    	}
+			starts.erase(e[i][j]);
+    	for(int j=0;j<n;j++)
+		 	if(seen[j]==false)
+using namespace std;
+- cfeaneyvulgnmja
+  	if(edgesmall[i]<=0)
+#include<bits/stdc++.h>
+
+	    	{
+  		}
+    }
+  
+
+#define fill(a,x) memset(a,x,sizeof(a)) 
+int main()
+	//leftrotate(z);
+  return 0;
+- etwdqexhsv
+		{
+typedef long long ll;
+  cout<<w[0][n-1]<<endl;
+- msknbpmezxuanbllcssampcfsiicpttdndsqvhuwgrzvskhwezwqq
+using namespace std;
+using namespace std;
+- jjoqjmbpbnqoosjczmhkornzhmqhd
+	{
+typedef vector<int> vi;
+    	if(!times[i])
+typedef pair<int,int> ii;
+  }
+typedef long long ll;
+        flag=true;
+		{
+    treee[node]=in[i];
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+			//delete y;
+int main(){
+	cout<<count;
+}
+int q2 = query_tree(1+node*2, 1+(a+b)/2, b, i, j); // Query right child
+    if(a>=i&&b<=j){
+  			lo=max(1,2*i-b+1);
+  		s[i]='K';
+		else
+               else
+  
+	{
+return tree[node];
+  cin>>road[i];
+		
+	cin>>arr[i];
+}
+  int lim=(((2*n)%k==0) ? (2*n)/k : (2*n)/k +1);
+    return 0;
+   backward[1] = 1;
+}
+typedef vector<int> vi;
+char dig[10]={'0','1','2','3','4','5','6','7','8','9'};
+	cout<<m*n/2<<endl;
+   cout<<r+3<<" "<<c<<" "<<r+4<<" "<<c<<endl;
+#define sz(x) (int)x.size() 
+    }
+#define pb push_back
+	{
+		cout<<n-m;
+  int n,cur=0,ans=0;
+  		if(l==u or l==v)
+  	ans=max(ans,dp[i]);
+}
+const ll mod = 1e9+7;
+}
+        //for(ll ij=1;ij<8;ij++)
+- axbvdgakckbha
+  	}
+  	int typ,i,x;
+}
+
+  else
+/*  cout<<"hor"<<endl;
+#include<bits/stdc++.h>
+					
+#include <bits/stdc++.h>
+	sum=sum-newsum;
+vector<ii> solvemax(int dx,int dy,int dz,int size)
+	{
+        if(ans)
+         }
+#define F first
+{
+    cout<<n-1<<"SL"<<endl;
+  	return 0;
+	x->right=y->left;
+
+#define F first
+	
+- rdsmxjuksguluetpdmlfkcfyadzkdftuinjhxdtrjocfuxvxjgcvkkvnpvxsaqmldvscamtkcxpwumtfswafgysvtppvhdgmbbpbpilridncpgkkckpkkhhdwyzdchpdiggxrsqzxddmknwoalbksioqjpvlwlqhtwgkqxjncncmaydamelgobzxsukqhax
+	loop(i,0,4)
+}
+  	cout<<"go";
+        }
+#include <bits/stdc++.h>
+   }
+	    if(a>b)
+}
+#define S second
+  FOR(i,2,n)
+ 
+
+    {

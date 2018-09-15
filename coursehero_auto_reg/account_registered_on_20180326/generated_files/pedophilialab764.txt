@@ -1,0 +1,163 @@
+  ll ans=min(dp[1][n],dp[0][n]);
+
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+	ll siz=1;
+	public static void main (String[] args) throws java.lang.Exception
+	{
+    		for(j=0;j<k;j++)
+        {
+
+y[1] = quotient * -1;
+	for(int i=0;i<minc;i++)
+    
+  if(dp[n][0])
+          rev[i] += (1 << (s-j-1));
+     	int final=count;
+  	{
+}
+    int rem=c-C[i].F;
+	FOR(i,0,sz(tree[root])-1)
+    		dp[i][j][state]=LCS(i-1,j-1,state,s);
+
+		n=k;
+  	maxleft[n]=n;
+  fast;
+ll h[N][N];
+const int N = 1e5+10; 
+  		{
+        flag=true;
+const int N = 1e5+10; 
+#define mp make_pair
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+#define sz(x) (int)x.size() 
+{
+	int maxi=0;
+		
+		{
+        ok1=true;
+
+  int n,m;
+  cost[arr[0]+1000]=0;
+	int toast3=p/np;
+	edg+=sz(edges[source]);
+    while(temp>1)
+void buildTree(InputType arr[], int stIndex, int start, int end) {
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  	else
+  	cin>>n>>m;
+}
+
+	
+ 	{
+	    while(arr[i]%2==0){
+    rep(i, 1, n)
+	else if(b2+b3<=l1 && l2<=b1 && l3<=b1)
+       column(7,0);
+#define F first
+            flag=1;
+		hadamart(n/2,st1,st1+(n-1)/2,ed1,ed1+(n-1)/2);
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	cycle.pop();
+    {   
+int main(){
+  			if(j-1>=0 and cost[i][j][k]>=cost[i][j-1][k]+A)
+#define pb push_back
+  ans1+= 5*(ans1/k);
+  	cout<<"YES";
+  if(sz(C)>1)
+  FOR(i,1,n)
+			else
+#define STRICTLY_INCREASNG
+		
+			
+ 		cout<<-1<<endl;
+  
+		int x;
+- dazssifimdkkxmpadtzomheojemftfjxhkpzuwhgautziizlcycqigfrkrzdyicfvshpqoysir
+  	if(ed1<=ed2)
+
+    return s[curr];
+  int t;
+  		ans+=mod;
+      return ;
++ atobjbcbmdtjipdngtcgrrfepuokkkpldeophqquvmdgbitjdyqvrxbhrqrcagpfmduwvnqtzvzcfsmjsegmbhtsxmwzulfjqbfoovhpsgsxagivkohnwaftoetiparibwwstfjlldlnjtivipigrqzfuuolufvyetsxybllfwzqrhobzwhqo
+		else
+
+    while(A[2*x].add>M)
+  {
+  ll ans=0;
+  {
+int x[505],c[505];
+  }
+#define S second
+adds[2*node+1]=0;
+    
+#define pb push_back
+  		closest[i][j][1]=last;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  {
+	
+  cin>>n;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  	if(i==(index*(index-1))/2)
+  	{
+	}	
+			if(*it!=k)	
+    {
+	cin>>n;
+#define all(x) x.begin(), x.end()
+  return 0;
+    if(i<=root)
+
+  	FOR(j,0,2*offset)
+         for(int j=1;j<=n;j++)
+
+typedef pair<int,int> ii;
+            dp4[i]=0;
+
+     
+
+		newends=ends;
+		}
+	int arr[100];
+	  freq[arr[i]]++;
+using namespace std;
+  fast;
+            cout<<s1[i];
+        if(flag)
+j++;
+#define sz(x) (int)x.size() 
+  		cout<<1<<endl;
+  FOR(i,0,sz(def)-1)
+        }
+
+  	names[i]+=alphabet[i-27];
+        	if(arr[i+1]-arr[i]!=diff)
+
+  fast;
+        	if(arr[i+1]-arr[i]!=diff)
+map<int,int> query;
+	    		s.pop();
+#define loop(i,a,b) for(int i=int(a);i<=int(b);++i)
+    }
+	cin>>t;
+
+typedef pair<int,int> ii;
+{
+   cout<<r<<" "<<c+1<<" "<<r<<" "<<c+2<<endl;
+	long long int temp=(f*s)%m;
+    }
+		for(k=x1;k<=x2;k++)
+  FOR(i,1,tot)
+void dfs(int source)
+int main(){
+if (pt->parent == nullptr)
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+void dfs(int source,int par)
+    for(int i=0;i<tree[root].size();i++)
+	    if(count>4){
+	char ch;
+	            cout<<ch;
+			    else
+    {

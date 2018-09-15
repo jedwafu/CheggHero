@@ -1,0 +1,153 @@
+  FOR(i,1,n)
+  			arr[i]=alt[i];
+
+	cin>>n;
+		if(arr[h2]==1)
+	    }
+		if(arr[i]>arr[i-1])
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+}
+    int n;
+	{
+
+  	}
+#define ll long long int
+ 
+  for(int i5=0;i5<10;i5++)
+
+#define F first
+int main(){
+/**
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+        {
+     	ans=max(dp[i]+1,ans);
+		ll res=fac[n];
+ 
+    ll q2=query(node*2+1,(a+b)/2+1,b,i,j);
+  	cout<<"L";
+	    m0=m;
+
+		cin>>a>>c;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+using namespace std;
+  	cur++;
++ czjwmpoaiijuqqahrydprwhhvklzpodtpnpeefepopjeglmzjrodnxklhwmymqrefiijooacdlijxukinynbvyofwadisxmxfwjvklzoxizwekesks
+  	cin>>s;
+    if(n==1) return 0;
+		}
+    	if(parent[*it]==1)
+  		w[i][j]=w[i][k]+w[k][j];
+             }
+  while(t--)
+		if(maxi(1,arr[i]-1,a)+maxi(arr[i]+1,n,a)>=k)
+
+  reverse(ans.begin(),ans.end());
+    build(2*node,i,(i+j)/2);
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+	
+
+	int count=0;
+  fast;
+  }
+  check(2,1,2,y);
+typedef vector<int> vi;
+		
+  			{
+
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+
+	for(int i=1;i<=n;i++)
+			continue;
+
+               	return 0;
++ ukyiorwxhfdvflfhdekqkwdlayqzutiqdgyuywrhcwcjihrlndeyzhjcfbbbujrysrusqnzsjbbrlufyyjwzqibxjey
+		return (n/100)+1;
+	while(t--)
+		printf("%.9f",0.0);
+  				return 0;
+  int cur=n;
+const ll mod = 1e9+7;
+  while(t--)
+scanf("%d", &M);
+  {
+#define pb push_back
+	long long int a,b,ans;
+  	arr[i].S=i;
+
+  sort(arr+1,arr+n+1);
+int main()
+		}
+int main()
+/**
+		}
+      
+rightChildIndex = leftChildIndex + 1;
+const int N = 3e5+10; 
+	else if(arr[0]+arr[1]==arr[2]||arr[1]+arr[2]==arr[3]||arr[0]+arr[2]==arr[3]){
+int main() {
+    if(a>b||a>j||b<i)return 0;
+  		if(i!=j and arr[j]<arr[i])
+int s[4*N];
+	if(count>0)
+		if(edges[s][i].F==p)
+  }
+	    a=div1+mod;
+const ll INF = 1e18;
+
+}
+      int n=s.length();
+        done[s[i]]=true;
+	}
+  grp[s]=g;
+#define INF 10000000
+		
+ 
+#define INF 10000000
+#define pb push_back
++ bwavhkczuedfajhwevwdxookjdpocqugnwdwigvfmakojumopjtozkzknqyrhuxwrbszjnexprlzlapcjiqiursjisbrmanfdfhounljezirzztikksebm
+
++ qduokyigoczvnqyeffwsadhmh
+
+	while(t--)
+				}
+{
+typedef long long ll;
+
+			   
+	
+#include <cmath>
+  		cout<<1<<endl;
+     
+  }
+#define pb push_back
+        cin >> c[i];
+	for(int i=0;i<n;i++)
+const ll mod = 1e9+7;
+}
+	for(int i=1;i<=m;i++)
+		
+
+#define fill(a,x) memset(a,x,sizeof(a)) 
+	for(int i=1;i<=n;i++)
+{
+typedef pair<int,int> ii;
+  total+=a[i];
+	for(int i=0;i<n;i++)
+  for(int i=2;i<=100010;i++)
+#define S second
+
+		done[b]++;
+  fast;
+int used[N];
++ dwurvzvhuzwqfbconjhllbhwxdgclfrodniyoffjfdbmedbtmkfzmmwjreofjhtmud
+    #define S second
+  			break;
+}
+	cout<<ans;
+  }
++ lbrdkhffbbrqffzgtvvifyslkvuiufuhinnuwsaxttpayqgulecscvdpsyxmftuqghkebmbugtwgjeaxifpncvcutbiaxcqflbkonnkvggcqlcnvjeilzmhsqqvnulsgoeweshzynbqygfurkedjrmehczwxmqfbvbhnignwkewsjsjtxodqbjzfi
+
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+			done[temp]=true;
+			}
+typedef vector<int> vi;

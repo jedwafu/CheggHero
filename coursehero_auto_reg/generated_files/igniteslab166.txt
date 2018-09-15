@@ -1,0 +1,133 @@
+ 			}
++ xbumccmlwnpefsvojpaztknhrjklrdrpenbhppuncksjenxnczpxkefdorqfvhubvxikmfarpsavfalkzahleoosgeyboucjunviuvbjncgvcrfdrmpydfqjmqmalqlffgpz
+#define S second
+#define S second
+ 
+  }
+#include<string.h>
+  int cnt=1;
+    if(k==1)
+             {
+- jqjpycrmighrljgzlfsgoahiszcbnfzyvinvnhhvnroaawbnbttsvdancdrrispfbfaqmjlbazbcycqzvlrtouitxzmhseovjqlxzyyczbexfuxcgqvwkerjfesxiguryfqyfqcftgcydbalswhecbohfghnpbgnjw
+  	if(c[0]=='R')
+ll dp[2][N];
+    {
+		sum=arr[k-1];
+                 	}
+  	ll ans=0;
+         both=true;
+      cin>>n;
+			lines++;
+  		cout<<arr[i+1].S<<" ";
+         return;
+      double n=k;
+}
+
+  	insert(suff[i]);
+  FOR(i,1,m)
+int par2[N];
+  	if(s[i]=='K')
+
+  
+
+		cur=speed[0];
++ vprjmygztzxjessqdizdltjugwgodlqyakkoiqodplovghljpmoaixwouecxpuxpejgobusqhinnpazgpnixnfnjjriznhqurwisqclylyncbojqerpryccivkjirbckyldqpoqcogfruqjyjyricvszhdibemlexovpelrvrwoooyoyyigddacldmmjzzoyqjnuwfrq
+	        i+=2;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+				else
+}
+  {
++ prgzaclzyxoqgwcboqwmtqpdpestjxyzogyqimsjlgbrfdutvsfojxtadltnirmzxmrialtnuufzzbuuuckfzffeqa
+const ll mod = 1e9+7;
+			{
+  return 0;
+  cin>>n;
+
+3796
+	int t;
+  	prefix(n);
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+    counts[1]=1;
+	    {
+    FOR(i,0,m-1)
+					b=i;
+
+#include<bits/stdc++.h>
+  	deg[v]++;
+return tree[node];
+  int index=1;
+		cout<<n-1<<endl;
+- javzlcwegplkdjtppglgptfcxkmhrexahubuyxaeolorxjioruugpajomxwfbvfkrggpfhttskmrtvfnrcticcwqzuvdrcpikwxpdtkxdyryvylmafwejtwlprqhvfpfdpwiiignhzncxzrygncrizeasuhqcyvfnuoxcwklvyqszhshwxyhyfhqzqgboejeaxbcvoq
+
+	
+  int ans=0;
+  	ans.pb(temp);
+       odd[it->F]=temp;
+     	if(edges[root][i]!=par[root])
+  fast;
+return;
+		{
+        
+{
+  cout<<1<<" "<<1<<endl;
+const ll mod = 1e9+7;
+	for(i=0;i<n;i++)
+  return;
+ 		cout<<max(0,index-1)<<endl;
+
+#define sz(x) (int)x.size() 
+  int n;
+
+    if(l==-1 or r ==-1)
+			ans+=best4;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  	int u,v;
+		
+#define pb push_back
+  }
+  	cin>>k;
+        	for(int i=0;i<n-1;i++)
+    	if(sum2!=sum1)
+#define pb push_back
+		
+  	if(i%2)
+  	int n;
+  cout<<setprecision(12);
+  NFOR(i,n,n-k+2)
+  	bool flag=true;
+}
+{
+  FOR(i,1,n)
+
+	return 0;
+		return d*(abs(x-p.x)+abs(y-p.y));
+  FOR(i,1,n)
+        {
+                 		break;
+}
+void mobius()
+         ans[2][1][2]=a;
+#define F first
+const ll mod = 1e9+7;
+45428
+		}
+  }
+  	
+int arr[100];
+int main()
+const ll INF = 1e18;
+typedef long long ll;
+#define sz(x) (int)x.size() 
+#define fill(a,x) memset(a,x,sizeof(a)) 
+    ll add, mul, ini, sum;
+}
+	int flag=0;
+}
+
+	return 0;
+  	cout<<4<<" "<<2<<" "<<5<<" "<<2<<endl;
+            	maxi+=char('0'+d);
+	{
+	cout<<count;
+  
+				count++;

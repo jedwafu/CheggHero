@@ -1,0 +1,102 @@
+  	int cnt=0;
+
+
+  FOR(i,0,n-1)
+		for i in xrange((k)-1,(p)-1,-1):
+	while(t--)
+  		if(!done[j*i])
+	{
+		while(temp3->next!=NULL)
+		}
+	else if(b2+b3<=l1 && l2<=b1 && l3<=b1)
+
+#include <bits/stdc++.h>
+  			continue;
+  int second=t+d;
+
++ fvhekzhnosblkxaojmahcvfbhjtvgwqlsasezzsntvafubtdnwnrrsuybouhkmuemmjnndagydlsghxtd
+- iyztcjmusdewdxnpzdpbdctvutxfhrrrsrmuczqvewthtjwsmnwssrnmkmtsfllxeyrgxjdbgxjbghuuxsmpjbdt
+	}
+typedef vector<int> vi;
+                 else if(i==2)
+		return dpd[index][quant];
+27232
+         	}
+		{
+  	ans[i]=c[x1][y1];
+	for(int i=1;i<=n;i++)
+void magic(int Q1)
+        for (int j = 1; j <= k; ++j) {
+#define nloop(i,a,b) for(int i= int(a);i>=int(b);--i)
+	// your code goes here
+    treee[node]=in[i];
+    lazy[1][node]=1;
+       
+#define F first
+  cout<<"j";
+			lines++;
+			bool val1=arr1(-1);
+	cin>>n;
+  	int n;
+			continue;
+    {
+
+ll dp[400][400];
+	ll ans=0;
+    double final= (1.0)*ans;
+  fill(done,0);
+  fast;
+         temp+=it->S[k]+it->S[k+1];
+  {
+    	else
+    if(a<=b&&a<=c)
+    }
+
+
+	    flag=1;
+#define M 1000000007
+
+    cin>>ansn;
+const ll INF = 1e18;
+#define S second
+#define S second
+  	FOR(j,2,n)
+  int b1=0,b2=0;
+		{
+			distup[edges[source][i]]=max(distup[edges[source][i]],0);
+    cin>>n>>k;
+  	}
+  	cout<<"NO";
+
+    for(int i=1;i<=10;i++){
+		l-=k;
+  	s1=s2;
+
+  		{
+
+  	string s;
+  fast;
+typedef long long ll;
+  l=INF;
+
+	else if(2*m>n+1 and m!=1)
+- ljbbtthfkughhdcprxjernwflorcmtkzel
+const ll mod = 1e9+7;
+                 }
+const ll mod = 1e9+7;
+#define pb push_back
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+	for(i=0;i<s.size();i++){
+			cout<<"B "<<i<<" "<<buy[i]<<endl;
+t=int(raw_input())
+#define S second
+#include<bits/stdc++.h>
+ 		int index;
+  	{
+}
+  		ans.pb(mp(1,cnt3));
+  		cout<<endl;
+	node* parent;
+        }
+	cin>>n>>m;
+  	{

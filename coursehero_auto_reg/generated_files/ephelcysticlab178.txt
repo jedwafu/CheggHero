@@ -1,0 +1,184 @@
+}
+        data[i].b /= n;
+15511
+}
+
+	return 0;
+{
+  	ll l=1;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+         			}
+using namespace std;
+	int flag=1;
+	
+		    }
+
+  FOR(i,1,n-1)
+    {
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+        ans+=arr[i]*arr[10+i];
+	if(flag){
+	for(int i=0;i<n;i++){
+int mb[N];
+    hh1=24;
+using namespace std;
+  fast;
+	  path[i][j]=false;
+		int t=sc.nextInt();
+
+  		else if(!lookingfor and s[i]=='H')
+				}
+    sum=(sum+(mb[i]*choose(d[i],2)))%MOD;
+const ll INF = 1e18;
+#include <bits/stdc++.h>
+}
+                 	if(arr[i+2]-arr[i]!=diff)
+#define S second
+  	cin>>val[i];
+    void build(ll node,ll i,ll j){
+	
+  FOR(i,1,m-1)
+  	cin>>sen[i];
+    
+#define sz(x) (int)x.size() 
+}
+	{
+#define S second
+char c;
+  int maxidx=0;
+  }
+}
+typedef vector<vii> vvii;
+
+  os << "(" << p.x << "," << p.y << ")"; 
+		count1=count2=0;
+  			{
+                 {
++ tuhzmunqkhvomhkswlwmfbdvnwyjpeviycjkywcifawrhilfvhralxxytyjkceuaidmgzq
+		if(arr[i]==1)
+
+{
+	scanf("%d",&t);
+	{
+}
+	int ans = temp+ (counteven1-temp) + (countodd0-temp);
+		}
+}
+      big_row(11,4);
+}
+  temp[sz1+sz2+1]=0;
+
+      findlx(i,a,mid);
+  		s[curr]+=tot;
+  if(arr[0]==1)
+  {
+
+#define sz(x) (int)x.size() 
+  		else
+
+				ans=0;
+
+  int n,t,k,d;
+        {
+ 
+    		flag=0;
+        ansval=10000000000;
+}
+		
+  		if(dist[edges[s][i].F]>1+dist[s])
+  	else
+  	ll g=__gcd(y,md);
+				{
+			{
+}
+int main(){
+  dp[arr[1]+offset]=1;
+            tmp4++;
+        	tree[root].pb(edges[root][i]);
+
+   {
+#include <bits/stdc++.h>
+ 
+ 	}
+         
+typedef pair<int,int> ii;
+ 
+#include <ext/pb_ds/tree_policy.hpp>
+    FFT pga, pgb;
+  	cin>>n;
+        high=mid;
+	{
+        printf("%lld\n",atleast[f]);
+		FOR(i,1,a[l+1]-1)
+typedef long long ll;
+  	}	
+    a.clear();
+  	if(typ==2)
+      big_col(6,0);
+			ans=m/n;
+	}
+	return (a*b >= c);
+		
+    
+{
+#define tr(container, it) for(typeof(container.begin()) it = container.begin(); it != container.end(); it++)
+			minlength=len[0][k-3];
+	int dis1,dis2,flag;
+int small_r[1000];
+    return 0;
+
+  			cout<<"Invalid"<<endl;
+  	if(cur==a2)
+
+  cin>>a[i];
+  	cur[i]=0;
+  cout<<"YES";
+    fflush(stdout);
+    	edge[v].pb(arr[u].F);
+typedef long long ll;
+
+	while(flag==1)
+  cin>>k;
+               ans+= beauty[s1][i]+beauty[s2][i];
+const int N = 1e5+10; 
+  	cin>>t>>l>>r;
+#define S second
+  }
+  			if(closest[cur.F][cur.S][1]>cur.F+route[1][j])
+    }
+int main(){
+void reverse_col(int c,int r)
+#define F first
+       if(badch>k)
+    for(int i=flag+1;i<=n;i++)
+using namespace std;
+  	FOR(j,1,k)
+      }
+ll sums[N];
+      big_row(1,0);
+}
+typedef long long ll;
+  FOR(i,1,sz(s)-1)
+  fast;
+#define all(x) x.begin(), x.end()
+typedef pair<int,int> ii;
+#define sz(x) (int)x.size() 
+temp[k]=original[i];
+			cout<<"B "<<i<<" "<<buy[i]<<endl;
+- niigsevlkpxeevatyaqqxreanfyshevwnefhkcuwrsbypdrndidbbjdqoeiyiguxkbeweztvtutixnwdxbgaljsbpazyiuvsvcpzdixwesedfcgegmetywunzwlhqjcnltpodomhgskoxtsffzydxuryqeiinmyafpqkdetlxdbwwubevzjuvavofdyurwxwnniqs
+#define fill(a,x) memset(a,x,sizeof(a)) 
+   if(dp[n][d]!=-1)
+  fast;
+ ll ans=0;
+        exact[i]=0;
+       dp[type][pos]=arr[pos]+val;
+
+const ll mod = 1e9+7;
+const ll INF = 1e18;
+				else
+#define S second
+    bitReverse(data);
+#define F first
+const ll INF = 1e18;
+
+		string s1,s2;

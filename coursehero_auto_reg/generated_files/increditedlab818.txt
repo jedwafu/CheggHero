@@ -1,0 +1,175 @@
++ wjkawmkvfzdisddpuqyelpnsnziurtopcyqancvsczawegmywkekbscotmkmfzcjzukmwhhaghxnplnmxsyymaofmyrtzvczpmnouuocen
+    {
+using namespace std;
+const ll INF = 1e18;
+#define pb push_back
+const ll mod = 1e9+7;
+      big_row(15,4);
+		}
+		if(quant==1)
+typedef vector<int> vi;
+using namespace std;
+int main(){
+  maxi=sum;
+ll tms[N];
+ll d[N];
+
+  	cout<<4<<" "<<4<<" "<<4<<" "<<5<<endl;
+  	{
+
+vector<int> G[N];
+}
+  	int val1=1;
+	}
+  	inp[i][n]+=inp[i][n-1];
+	int n,m,p;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+64546
+int n,m,k;
+  		{
+
+					
+vector<ii> edges[9*N];
+typedef long long ll;
+8085
+                 {
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  fast;
+  
+
+typedef pair<int,int> ii;
+const ll INF = 1e18;
+  	route[0][i]=1;
+
+		best2=w[2][cur[2]];
+	}
+	reverse(t.begin(),t.begin()+t.size());
+}
+
+#define in(n) scanf("%d",&n)
+  ans[n-1]+=temp;
+        hh1-=1;
+long long int arr[200010];
+    treee[node]=add(((b-a+1)*lazy[0][node])%INF,treee[node]);
+typedef vector<int> vi;
+	
+  cin>>n;
+#define S second
+#include <bits/stdc++.h>
+ 	 l=1;
+const ll mod = 1e9+7;
+}
+	tr(ans,it)
+		{
+  				ans=max(ans,last_max[j]%i);
+	}
+int main()
+  FOR(i,2,n)
+  cout<<ans<<endl;
+using namespace std;
+        	if(intersect[j].S==0)
+}
+		printf("%.2f\n,s");
+	char c;
+  			}
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+#define F first
+int main(){
+		}
+	for(int i=0;i<1000;i++)
+			break;
+#define pb push_back
+    for(int i=3;i<1010;i+=2)
+  {
++ dnwtqmhdwyouepoclfsgtgphgjcrpzqsnolfaukytbtzqhbdptkizbsilubcvtukifskbcjudcvvlyzcrlltmddz
+	{
+		
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+	int counts=1;
+  {
+- lrcvttmetdohczdsjwrugtpnkrcrcozqicldvzjqexxhxazgxqcdltsvlwpplohvqsyn
+	int mini=10000000;
+	x->left=y->right;
+                 else if(i+1<n)
+#include <bits/stdc++.h>
+	build(t, R(id), mid, r);
+* Query tree to get max element value within range [i, j]
+	    int rem=count%10;
+
+{
+
+
+      big_row(8,0);
+
+#define sz(x) (int)x.size() 
+    sort(ans.begin(),ans.end());
+	ll y,k,n;
+const int N = 5e3+10; 
+    {
+     	//cout<<root<<" "<<edges[root][i]<<endl;
+  		cp.push_back(make_pair(arr[i],i));
+	cin>>n>>m;
+  dist[i]=mod;
+  	}
+  			if(closest[cur.F][cur.S][0]<cur.F-route[1][j])
+ 
+  	if(s=="Dodecahedron")
+    cin>>m1>>m2>>m3;
+  			if( i-1>=0 and j-1>=0 and k-1>=0 and cost[i][j][k]>=cost[i-1][j-1][k-1]+C)
+  int n,k;
+  	else
++ vpfjqdvnrkeirlrihzvzxqkboznjlyyjpfuhiqvzcbkvoddvebvdrhehjrsurtfgyaohsli
+#define sz(x) (int)x.size() 
+	    decr[root]=arr[root];
+  int t;
+{
+  }
+		if(c=='+' or c=='-')
+
+	    else{
+		
+#define sz(x) (int)x.size() 
+typedef vector<int> vi;
+typedef long long ll;
+  cin>>t;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+				q.push(i);
+    maxi=max(m3+o3+p3,maxi);
+
+       maxi=max(maxi,temp);
+
++ ubnsltwlrtjkhydaoapnxullznqhtxfqavilogyhahsjhxmvxbkxxviylyfexnuxiekwniepryyyxktwodtnbemocrscepbovmliwrzorymokikaneoqiaemtxqa
+#define pb push_back
+  while(r-l>eps)
+		}
+  	edges[v].pb(mp(-i,mp(u,c)));
+  ll md=m;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+    int main() {
+  int cur=1;
+  fast;
+             last_seen[prime_fac[i][j]]=i;
+	return true;
+	    val=arr1[i]^arr2[i];
+int nums[N+10];
+typedef long long ll;
+  double PI=acos(-1);
+	dis[s] = 0;
+{
+			return 0;
+    const int KMAX = 6;
+	            if(i>b)count++;
+  
+#define fill(a,x) memset(a,x,sizeof(a)) 
+        else
+	return 0;
+}
+#define S second
+ll sums[400][400];
+				r=mid;
+       {
+typedef vector<int> vi;
+  	if(done[cur])
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+    }
+int main()

@@ -1,0 +1,132 @@
+    for(i=1;i<31;i++)
+	return 0;	
+  sort(help,help+cnt);
+#define F first
+    }
+		{
+     string temp=ans2;
+  {
+	}
+
+		cin>>arr1[i];
+  	{
+	}
+    	return 0;
+
+  dp[0]=1;
+#include <bits/stdc++.h>
+		if(neg%2==0)
+int main(){
+  	{
+		return dp[type][pos];
+ 			index=r;
+  		FOR(j,0,m-1)
+using namespace std;
+                if(!flag1)
+
+typedef map<string, int> msi;
+}
+
+  		cin>>u>>v;
+  		if(arr[i][j]=='#')
+		{
+  {
+const int N = 2e3+10; 
+{
+    
+  		r=mid;
+  			hi=min(n,i+i-b-1);
+  	edges[u].pb(v);
++ klincbigooaflhbhpsilnvslztisjlqvwykbcvhsjjzutbdivotkjnwiggcrrspptzqvuznfjnze
+	while(t--)
+                 	}
+		}
+	{
+  		else
+typedef vector<ll> VI;
+  return 0;
+				  {
+			 	
+	
+    int x=rand()%100+1;
+                                m++;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+      if(!found)
+		for(int j=0;j<v[i].size();j++)
+	cin>>t;
+#define S second
+	}
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+    #define F first
+
+        	q.push(top*2);
+	}
+		ans+=b;
+
+  		int u,v;
+  		}
+            	ansval=min(arr[3],ansval);            
+	cout<<1;
+      if(solve(n,c[i])) 
+const ll INF = 1e18;
+		
+#define F first
+    }
+		ll ret2=(1+((base*s)%MOD))%MOD;
+const ll mod = 1e9+7;
+typedef pair<int,int> ii;
+			{
+  				//cout<<dp[0][i]<<" "<<i<<endl;
++ qnobdhrgiwye
+#include<bits/stdc++.h>
+    treee[node]=mul(lazy[1][node],treee[node]);
+  	int temp;
+	vector<int> dad(N, -1);
+
+#include <iostream>
+  	{
+      big_row(14,0);
+}
+
+int main()
+#include <bits/stdc++.h>
+    update2(1,1,n,a,b,val);continue;
+  
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+		printf("%.9f",ans);
+}
+  	int st=q.front().F;
+	
+		max2=n-count1;
+	}
+	int temp=1;
+	cout<<result;
+
+
+	
+            	cout<<ansval<<endl;
+	int n,x,a,ans=0;
+  	{
+	int n,m;
+  		pre[i]=pre[i-1]-abs(arr[i-1]-arr[i]);
+
+  	if(arr[i]==3)
+				//cout<<angle0<<" "<<angle1<<" ";
+- pligpotabwllvdcjuipjdhqwkeuqngsescmhqghtcvhxajguuyfzfvxratkpactsefbxnlsqizpilychwjidefxgyhvyjospwwojjjbrirbvrdepomuurrbsywqjn
+#include <bits/stdc++.h>
+
+#define F first
+  	if(allowed[i])
+	{
+		
+}
+  	fill(query,0);
+    int arr1[100],arr2[100];
+
+void bfs(int n,int m)
+        sum=0;
+void x2(int r,int c)
+    side1=side2=side3=y;
+      big_row(1,4);
+- rpujwegubhcxfcjxskjbzmnqtlfujihaxdmtis
+  	cin>>n>>m;

@@ -1,0 +1,182 @@
+                 }
+- dbpbevqxpgkqlowdzlyhgl
+	 
+const ll INF = 1e18;
+  FOR(i,2,w)
+  			if(xorval==x)
+			
+		}
+  return 0;
+}
+		else
+
+
+	}
+typedef pair<int, int> ii;
+- beanyzunyaohlswfopalzbamcrkbcqcdxcsvenienwmarkhfcktbltnnnaqrquunxoldbvhquvrliaskklnvhckwcantvjiuxtxbpgrje
+
+	ll ends=stx-1;
+	    
+if(a > b || a > j || b < i)
+}
+int maxarea(int n)
+  if (a == b) {
+
+}
+{
+        ansval=min(arr[0],ansval);  
+const ll INF = 1e18;
+  			if(i>j)
+	
+{
+  {
+		sums[i]=sums[i-1]+dp[i];
+	return maxi;
+        {
+    }
+  int prev=-1;
+            }
+}
+
+		while(temp3->next!=NULL)
+vector<int> edges[200010];
+
+  			s[i]=b;
+	cin>>n>>m>>t;
+
+	{
+  int n;
++ ubnsltwlrtjkhydaoapnxullznqhtxfqavilogyhahsjhxmvxbkxxviylyfexnuxiekwniepryyyxktwodtnbemocrscepbovmliwrzorymokikaneoqiaemtxqa
+  for(int i=0;i<sz(s);i++)
+  			{
+		}
+
+	else if(z->low<y->low)
+		
+const long long int big=1e9;
+	int arr[47][38];
+  VI ret;
+            printf("%lld\n", query4(1,N,x,y,1));
+typedef vector<int> vi;
+ 
+#define pb push_back
+	{
+
+#define S second
+	return 0;
+		 count=0;
+
+		
+  FOR(i,1,n)
+		while(g--)
+}
+const ll INF = 1e18;
+        
+}*/
+               	return 0;
+- bhbkqaznnpyzjbktzyhotocmbliphgnlpovgqwvdltewxprwpzninpurcfgjnvudjrlangfackxbbqzqpmzfbvyfcgpqblvmdiosqutugsxh
+	        continue;
+			}
+  FOR(i,0,9)
+const ll INF = 1e18;
+  		
+typedef vector<int> vi;
+  	for(int i=0;i<m;i++)
+ 	while(r-l>1)
+  	FOR(i,1,n)
+	{
+  	}
+#define F first
+int main(){
+			 	{
+#define sz(x) (int)x.size() 
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+		for(int j=0;j<1010;j++)
+- rhbqeanaylqg
+	if(n==m or n==0 or m==0)
+using namespace std;
+    }
+using namespace std;
+  	if(p==q and x<y)
+			s=arr[s];
+		for(i=0;i<n;i++)
+ 
+    ans.pb(mp(ans1[i1].F+ans2[i2].F+ans3[i3].F+ans4[i4].F+ans5[i5].F+ans6[i6].F+ans7[i7].F+ans8[i8].F,ans1[i1].S+ans2[i2].S+ans3[i3].S+ans4[i4].S+ans5[i5].S+ans6[i6].S+ans7[i7].S+ans8[i8].S));
+const ll mod = 1e9+7;
+        {
+  } 
+void fix_violation(Node *&, Node *&);
+	if(root->l!=NULL && root->r!=NULL)
+  cout<<dp[n][k];
+68 9 68 145 783 570
+  	cnt[i]=0;
+const ll mod = 1e9+7;
+    cout<<0;
+    {
+    }
++ gmjqnthslrseanjrmcnvekizqnmrwpqddzttuclhvglvtwphzcddnlcfyqzwipblqxekzstvyhqrdfzekeizpmepddnlupykmdwlvsitzbmegnjsrtrifwzkbnxy
+bool graph[1010][1010];
+  			h[i][j]=x[i];
+					ans=xorval[i-1][l]^xorval[j][l];
+    return uses[s];
+  			h[i][j]=h[i-1][j];
+  cout<<ans;
+  int n;
+};
+  coeff[i][j]=cnt[i][j];
+#include<bits/stdc++.h>
+  FOR(i,0,sz(D)-1)
+      big_col(13,0);
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  	}
+	ll cur=stx;
+		int dummy2=max(weight[edges[source][i].S],maxi[edges[source][i].F]);
+    else
+				   {
+adds[node]=0,mul[node]=1,ini[node]=-1;
+		{
+
+}
+	   	if(mat[start][i]>0) 
+	vector<int> v;
+
+  ll q = max(query(c1,l,mid,x,y),query(c2,mid+1,r,x,y));
+	{
+public class Codechef
+	cout<<res*100/n;
+#define tr(container, it) for(typeof(container.begin()) it = container.begin(); it != container.end(); it++)
+			
+return 0;
+int main() {
+				
+}
+#define F first
+		
+	}
+	return 0;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+    A[2*x+1].sum=((A[2*x+1].sum*A[x].mul)%M+(A[x].add*(se-m))%M);
+  {
+  int m;
+
+    }
+  FOR(i,1,n)
+void bfs(int sourcex,int sourcey)
+	        continue;
+	     	
+ll arr[N];
+    sum-=d*(sum/d);
+#define F first
+	if(p==0 or (n%2==0 and m%2==0)):
+  if(check(l))
+- gaauakcenyisrwrrfmiuwffgefmbpebvedqgnulbstvlqocxcntaubizgvcwzerghjmvfxyytvljjoiobdovexwlszhtdabkmohrnhricdrorbcufqrjnowhnfdsieeuumnkthsykmmdnoxugqeuecdtiglqlqmhezrzgkxswlvlzuginmetohnwoyobqaiuccuk
+	long long int n,l,r,k;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+        s(y);
+  		if(ops[i]=='&')
+    cout << endl;
+  			}
+				l=mid;
+  }
+  cout<<max(1,calc());
+	{

@@ -1,0 +1,143 @@
+#define F first
+int main(){
+
+	ll n,m,t,result=0;
+  		{
+int mid = (start + end) / 2,
+#include<iostream>
+- krtqgdkjdpdsaleqzeelnthkhbxwgzisqekwhvhmmnemykexolkcetonumkcnuwgagchbmunzacxlgwzridybslxgxbvuxbudgehsawtayslhqnyyq
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+	for(i=3;i<=big;i+=2)
+  	}
+    	{
+    else
+		
+#define S second
+				   {
+  					break;
+  	{
+  int sum=0;
+  			opp[C[word[s1]]]=opp[C[word[s2]]];
++ yxqzjjhinhivxajxvpedecsqboxvtoxunpvwyceolpjirsfnh
+int arr[100];
+  			FOR(k,j,n)
+	  		c1+=3;
+#define x first
+  //reverse(def.begin(),def.end());
+}
+  FOR(i,stx,n)
+  	sort(rows.begin(),rows.end());
+
+	dfs(1);
+		cin>>n;
+
+	int t,n,k,i,j;
+		{
+  int dig=0;
+ll query() {
+    	{
+using namespace std;
+		root->v.push_back(make_pair(make_pair(le,ri),c));
+		if(arr[edges[s][i]]==arr[s])
+         {
+     }
+	    }
+  		cur[fav[i]]++;
+	for(int i=1;i<=n;i++)
+#define sz(x) (int)x.size() 
+
+    cin>>k;
+  return 0;
+        arr[i]=s[i]-'0';
+  	int u,v;
+	
+  		FOR(i,1,n-1)
++ divzzpxaixryukirhqejjtafdmcacoefybexrdzzbraxdiqmyuxjpyoskrumhytfcxftdeugxufadvod
+	take(t);
+#define pb push_back
+             	else if(s[i]!=s[n-1-i])
+  	   }
+public:
+  res.leftrem=q1.leftrem+q2.leftrem-common;
+
+  cin>>a>>b;
+
+	}
+            return 0;
+typedef long long ll;
+    	ans+=starts[i];
+}
+  	if(reach[3][i] and reach[4][i])
+- bmvuvauskbbtfyiksaocqnedpsrfmcbpqyjlagd
+
+	}
+}
+  	cin>>x>>y;
+	return 3;
+  	else
+  int s2=0;
+  	if(ispalindrome(it->F))
+const ll INF = 1e18;
+  	}
+typedef long long ll;
+#define pb push_back
+  {
+const ll INF = 1e18;
+  while(r-l>1)
+#define S second
+int main(){
+  	FOR(j,1,n)
+  fast;
+- uyleqkboddjoeramysqexkuvwbngvvpstayjmbarelgidgubzmhyxbwvejbzeqrztrjfslzwwfhbndcmqlnpmjksunsaelzzdkgxvfwumdvagaoylbnamzsinmityksduaasgwmsbhukhjivmyvzxnhkcsdacxdyyfsgeeah
+            	toggle[j]++;
+}
+typedef long long ll;
+        {
+	    }
+    
+  		cout<<"yes"<<endl;
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+typedef pair<int,int> ii;
+		
+    FOR(i,1,k)
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
++ hqmmoxkcvgdxssbqvvtnnaozubxggsbpinbxlobiugfoaihxealtazswascgkexttzsgnvpjbwxbfezlfmehlzelriuborwisoqfjhomeoqluryzdcjodnbuvxykpuuhlkpwsfjytblosjpxnylrnoljmjvdgpmrbbnvjytezestpkqdkduyshjgtejzvxqwbdskc
+				{
+
+int main()
+		if(ret2<0)
+  return 0;
+   { tn1[i]%=p;
+	}
+{
+	        int j=sc.nextInt();
+}
+else {
+  		ans=true;
+
+  	ll l=1;
++ xehiezoxvjskurfsvdeiuvpvrcwupbkpfrxjqljnubxruejqhpadkradvwzkzjbgczrumajjegaaklstcswolytgwstvdudhvwbizkrdstfegyxisvyetrmrlhmoervznyjmkarcvxibxhjpejvzakqltebxvyzkwixilqkgpukmbteffbeflutfyuevvfgrofcbvmjn
+    int a;
+int main(){
+		yval[i+1]++;
+	float o,r,s;
+		xval[i+1]--;
+  return 0;
++ tujqfrlhxyxtstrfcyburowkuplpsqxmlieszpczpzujumoxksrbgpncgyszornbzrubgwaxxugsivpsnivtyiyegsfxjsaklunrsnqskxkssbnfjiahtyozsvybqzobvbvorlgbisvat
+  		{
+#define fill(a,x) memset(a,x,sizeof(a)) 
+- oegpaxprquokovfiofqjzcgaym
+
+int dp[55][5005];
+  ll ans;
+  if(l > y || r < x)return ;
+- bhbkqaznnpyzjbktzyhotocmbliphgnlpovgqwvdltewxprwpzninpurcfgjnvudjrlangfackxbbqzqpmzfbvyfcgpqblvmdiosqutugsxh
++ gsqgpsrhjxvzsiodecgerpishzhzkkfqexwurpbdozcihrlnvutmjcgsbqtnayffydzpscsibxqjodyjxsxiudbxtukwvpbvsckmefwicorsrrdrjazffccbzoxwfarzcbliijqkxjerbhimjjspouqnlp
+			bin[i]=0; 
+			else
+bool arr[100000];
+
+  	tarr.insert(mp(a,i));
+  temp=2*m*temp;
+{
+		start=i;

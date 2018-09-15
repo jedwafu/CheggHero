@@ -1,0 +1,113 @@
+	{
+	while(t--)
+    build(2*node+1,(i+j)/2+1,j);
+    a[0][0]=v1;
+		}
+int n,inp,maxi=0,ans=1;
+
+		cout<<"star topology";
+if(a!=b)
+using namespace std;
+typedef vector<int> vi;
+
+ll c[N];
+		else
+	
+	int countg=0;
+  		ans=max(ans,dp[i][j]);
+      
+	count[0]=count[4]+count[3];
+
+	for (int i = 1; i <= n; i++) {
+	
+  fast;
+  ll q = add(query(c1,l,mid,x,y),query(c2,mid+1,r,x,y));
+  {
+- tlaanksohcptdgoaoskyosf
+#define INF 10000000
+    
+
+    map<long long,long long> freq2;
+		cout<<"palingram"<<endl;
+scanf("%lld",&v);
+}
+  		cout<<"A"<<endl;
+/* package codechef; // don't place package name! */
+	
+int freqa,freqb;
+const ll mod = 1e9+7;
+  }
+if(a!=b)
+// Solution searched from oeis sequence.
+typedef long long ll;
+  help[cnt++]=mp(arr[i],1);
+const int N = 1e5+10; 
+			original[0][i]=x;
+      lazy[c1] = lazy[c1] , lazy[curr];
+                 }
+  	}
+
+typedef long long ll;
+		}
+  	if(s[i]=='l')
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+				temp++;
+  	edges[a].pb(b);
+    		    if(*it!=k and it==cfreq.begin())
+       row(4,4);
+- njvoeggefekddgaoetohbxhublsqyuznfwbkdjqiocotlqjplxwpwdjxrdqpxrdeogotqfdgjrzuk
+int cnt=0;
+	FOR(i,0,sz(edges[s])-1)
+    int temp=arr[k]-'0';
+	//and all three of them having one bead in the interior of HH in common.
+  		if(!flag)
++ gjxiajxaufntqxhijxyykbevfkwqklpqwnayyayshnlymvivsgwcjcarmwhwjwpflrdjrdczspzfkhcfpahbdjspfzoqxfvjyasqdwrymqdyxhdoinpnwheeiuugbspashqyejwszzqyi
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  		cout<<"! "<<v1<<endl;
+	for(int i=0;i<m;i++)
+int start[510];
+		else
+  		cout<<"NO"<<endl;
+  int p=10005;
+
+		
+typedef vector<int> vi;
+        ll diff=arr[1]-arr[0]; 
+        i=1;
+
+return tree[node];
+int main()
+  	}
+	{
+			
+}	
+
+
+int n;
+  	int l,r,x;
+
+	}
+                    score[i]+=2*counts[2];
+		}
+			maxi=counts[inp];
+}
+				{
+}
+int main()
+queue<int> q;
+	cout<<"YES"<<endl;
+					return false;
+const ll INF = 1e18;
+			ans=inp;
+
+		  temp3=max(dp[i],dp[i-arr[2]]+1);
+  	int u,v;
+	int n;
+typedef pair<int,int> ii;
+
+	}
+  		{
+  	if(c=='?')
+		printf("%.9f",0.0);
+               }
+#define all(x) x.begin(), x.end()

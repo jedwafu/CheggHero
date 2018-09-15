@@ -1,0 +1,160 @@
+      big_row(7,8);
+				maxc=freq[num];
+        	{
+
+
+bool present[2010];
+  int maxi=0;
+
+  FOR(i,1,n-1)
+	for(int i=1;i<=n;i++)
+
+typedef pair<int,int> ii;
+		cin>>x;
+	
+
+	int k;
+#include <iostream>
+  		int u,v;
+ 		int l=1;
+	
+	
+#define sz(x) (int)x.size() 
+
+			if(s[a-1]!='.')
+  	tans=0;
+- lecbyjqzczqkhcxwrhwpfluckovlrrcevegwnwxsxpchrcfkjbaoowsynpkghmkesschrazopevjgcvrdvhsubqhqcnxozeiug
+	for(int i=0;i<s.size();i++){
+const ll INF = 1e18;
+    sum=(sum+(mb[i]*choose(d[i],3)))%MOD;
+	FOR(i,0,edge[source].size()-1)
+#define pb push_back
+	}
+		cin>>arr[i];
+	{
+int w[55];
+            }
+  		ans.pb(mp(3,cnt3));
+#include <algorithm>
+  Query(mid+1,cy,qx,qy,kd,pos*2+1);
+		return 0;
+  cin>>t;
+    if(k==1)
+#define F first
+
+			lines++;
+            }
+ll solve(int n,int h)
+	
+  where[0]=0;
+	return 0;
+using namespace std;
+#define mp make_pair
+        query1(ss,m,qs,m,2*x,val);
+
+vector<int> freq(110,0);
+#define F first
+	x->right=y->left;
+
+
+
+}
+}
+}
+#define fill(a,x) memset(a,x,sizeof(a)) 
+			if(arr[i]<0)
+
+  	}
+                        
+        eureka[taken]=0;
++ zwtydlhxkpkuhvncucclctedffacznxylsyoefmoxykgvxipbkceegjlnjpmypnkhlyntmdskqyfphxrtbxzignxrcmprzbbmaqfowxzmwgdffwyhtarznoqpaijbjkolctaytzmrhsynowwiwnjjbcbekkft
+               		cout<<arr[i];
+#define sz(x) (int)x.size() 
+    LL arr[45];
+
+	int dummy[100];
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  	for(int i=0;i<n;i++)
+	else
+#define tr(container, it) for(typeof(container.begin()) it = container.begin(); it != container.end(); it++)
+
+  fast;
+       cout<<4<<" "<<2<<" "<<5<<" "<<2<<endl;
+
+	     if(counter==0){
+       	break;
+#define F first
+      big_row(3,4);
+      ans=0;
+		cin>>a>>c;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+	int cur=1;
+		
+	cin>>n>>k;
+    if((result1 < result2) && (intersectvalue < intersectvalue1)){
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  for(ll i=2;i<=N;i+=2)
+const ll INF = 1e18;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+    }
+	return 0;
+ 	}
++ cnntpuwbywujjesk
+
+  		if(check(arr[mid]))
+    while(temp>=INF)temp-=INF;
++ ltwxowfrebvatbzvpbsxfajsshijqxtdssbgoizukuufwucnxwmcwvwqeeaudvyvnbddjcavzuaxqemnayrzuopasrvwnvtcyxihbifcchzvmniomaniqfiiwfgjaaoyzwicenfgugbiumxiom
+    return 0;
+#define sz(x) (int)x.size() 
+}
+{
+
+	return 0;
+
+      if(!found)
+  		FOR(k,1,i-1)
+       val+=(arr[i]/(1-arr[i]));
+	memset(attached,0,n+1);
+                }
+		if(edges[source][i]==par or vis[edges[source][i]])
+}
+	cin>>a>>b;
+	ll i=1;
+	}else{
+}
+
+  		{
+#define sz(x) (int)x.size() 
+		 		return 0;	
+  	{
+	}
+  	cout<<"no";
+			scanf("%d %d %d", &v, &u, &w);
+	int identity;
+			counts=0;
+		}
+  		cin>>u>>v;
+	}
+ 		cout<<l<<endl;
+                 {
+	     	cout<<original[i]<<" ";
+
+{
+     cin>>s;
+#define sz(x) (int)x.size() 
+	
+
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  	bool flag=true;
+	fflush(stdout);
+        A[2*x].add=0;
+	int yy = x = 1;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  	{
+	if(maxrem<=2){
+         temp+=it->S[k]+it->S[k+1];
+#define pb push_back
+  cout<<ans;
+     		{
+ll ncr[N][N];
+	     if(sum<=c)

@@ -1,0 +1,168 @@
+  else
+using namespace std;
+			 
+	int val=maxee(2*min1,max);
+       dp[n1][n2][1]=(dp[n1][n2][1]+DP(n1,n2-i,0))%mod;
+
+
+    temp.pb(0);
+     while((temp >> 1) >= val)
+
+const int N = 1e5+10; 
+const ll INF = 1e18;
+         	else
+}
+int n,l,k;
+  		break;
+
+
+		    
+	}
+const ll mod = 1e9+7;
+	hh1=hour1;
+#define pb push_back
+using namespace std;
+  				//cout<<"breaking because "<<route[0][j]<<" "<<route[1][j]<<endl;
+
+  int n,m;
+  cout<<mini<<" "<<maxi<<endl;
+    done[e.S]=true;
+#define sz(x) (int)x.size() 
+  int cur=h1;
+			newcur=nearest[cur+w-1]+1;
+  if(size==2)
+    		//times[i]=t;
+#define mp make_pair
+43860
+		int v = pq.top().y;
+			if(s[i]!=s[i+2])
+      num[seven1[r1]][seven2[r2]]=i;
+ll maxi,maxi2;
+  
+		}
+
+                 		break;
+  temp=(n*(n-1)*(n-2)-(zero*(zero-1)*(zero-2)))%MOD;
+           ver[i][j]=ver[i][j-1]+1;
+{
+
+          
+            }
+  	int u,v;
+	
+         }
+	return 0;
+                 {
+  			dp[c[i]]=max(dp[c[i]],dp[c[i]]+a*v[i]);
+
+		for(i=0;i<11;i++)
+  			break;
+int k;
+int main()
+
+    if(a>=i&&b<=j)return treee[node];
+int times[200010];
+const int N = 1e5+10; 
+        	}
+- nflwwgfgjxrqerjrkfhvtqazahgojzbyemucvbkgabxesivcnfxixaixhqnsprqufmyanjhnmetfopjbujj
+    cout<<1<<" "<<1;
+    
+  	{
+	x->parent=y;
+                 
+
+int arr[1001];
+    return 0;
+	return dist[n];
+	int mini=10000000;
+        if(flag)
+int main() {
++ gkebsbejtlsaxpffgtbpfatnkopitwbbifeajkmcveesvjadcbsjdnynbnvwlxztefvnqhrlnxgkggnkjhtnxtaagyztxamdgirwrkjhiprqxhbhqwwnqwoywpstpgxvqqticdrkukdurediczvuxlvuanpqvonmghwjmnvizyc
+int main()
+    double m12 = sqrt( dx21*dx21 + dy21*dy21 );
+  			dp[i][j]=INF;
+			}
+				char top=q.front()+'a';
+    pga.setSize(s); // fill and transform first array
+	for(int i=0;i<=100000;i++)
+         { 
+using namespace std;
+#define sz(x) (int)x.size() 
+#define F first
+  	    column(i,0);
+		return;
+j++;
+- daafndrdkhfbbmkjnyemmsqfvzvvngosiqx
+
+}
+            while(s.length()<20)
+  cin>>n>>q;
+        if (used[c[x]] != used[i]) 
+i++;
+               else
+          cout<<-1;
+  			break;
+				s[a-1]=c;
+    }
+	FOR(i,0,edge[source].size()-1)
+			else
+}
+	   printf("%d",start[i]);
+	        i+=1;
+		if(i==0)
+  		nl[1][i]=i;
+  
+    if(a>=i&&b<=j){
+		sums[i]%=mod;
+
+            	ansval=min(arr[4],ansval);
+	cin>>a>>n>>k;
+		cur+=step+1;
+
+vector<int> G[N];
+	cin>>s;
+	}
+	for(int i=0;i<len-1;i++)
+  		int lo,hi;
+const ll INF = 1e18;
+  	}
+  	}
+		for (vector<ii>::iterator it = edges[here].begin(); it != edges[here].end(); it++) {
+        	for(int l=0;l<=m;l++)
+   if(!both)
+#define fill(a,x) memset(a,x,sizeof(a)) 
+       return dp[type][pos];
+	else cout<<"IMPOSSIBLE";
+    	    	t++;
+using namespace std;
+  }
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+        A[2*x].add=0;
+#define tr(container, it) for(typeof(container.begin()) it = container.begin(); it != container.end(); it++)
+}
+  	}
+
+  cout<<"YES";
+  		}
+	if(arr[0]+arr[1]>arr[2]||arr[1]+arr[2]>arr[3]||arr[0]+arr[2]>arr[3]){
+return;
+
+int seven2[700];
+		{
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+    typedef pair<int,int> ii;
+  	int n,m;
+    typedef vector<int> vi;
+	}
+                 		break;
+    }
+		{
+		else if(left-arr[i]==0)
+  				FOR(l,0,2)
+    if(minb<=k)
+	int n;
+		if(c=='.')
+    int ans=0;
+  	maxi=max(maxi,arr[i]);
+
+	int n;

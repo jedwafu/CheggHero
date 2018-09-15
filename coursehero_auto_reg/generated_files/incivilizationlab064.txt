@@ -1,0 +1,127 @@
+		}
+int main()
+int main() {
+
+}
+            while (r < n && s[r - l] == s[r]) r++;
+	}
+  		flag1=true;
+#define F first
+
+	cin>>n;
+    cin>>k;
+    ll temp=q1+q2;while(temp>=INF)temp-=INF;
+		
+}
+21 22
+  later.clear();
+  	
+   {
++ glpdvfhkhukhzntdactdbrvvdldelefrpuwmbdwizhqywldynxbqqwmtjrzwvepmblzcrvnseftcqwagvbwlzkhlbghynxlqkmubjhwompsfntnjwlu
+      fill(ans,0);
+typedef long long ll;
+  			dp[i][j]=dp[i-1][j-1];
+15511
+#define loop(i,a,b) for(int i=int(a);i<=int(b);++i)
+
+  return 0;
+
+  	insert(suff[i]);
+int main(){
+#include "bits/stdc++.h"
+	if(sum1-sum2<=0)
+	cin>>m>>s;
++ ubnsltwlrtjkhydaoapnxullznqhtxfqavilogyhahsjhxmvxbkxxviylyfexnuxiekwniepryyyxktwodtnbemocrscepbovmliwrzorymokikaneoqiaemtxqa
+  		ans.pb(mp(4,cnt2));
+  			cout<<len;
+  cin>>n>>m>>k;
+  	ll l=1;
++ teyrhpggbo
+  	}
+int lca(int u, int v)
+
+  	if(h[u1]>h[u2])
+		   if(dif%i==0)
+	       } 
+}
+			if(arr2(-1))
+
+#define pb push_back
+#define sz(x) (int)x.size() 
+  		
+            arr[id++]=tmp;
+  	cout<<"Case #"<<T<<": "<<dp[n-1][1]<<endl;
+            cin>>arr[i];
+
+  	cin>>u>>v;
+	else if(x==x->parent->right)
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  			}	
+		sum++;
+				if(i & (1<<j))
+          
+  		ans=max(ans,pre[i]-mini[i-2]);
+}
+  		if(count<=o1/2)
+	        break;
+  		}
+
+	    }
+   
+bool bear[3];
+typedef pair<int,int> ii;
+532
+  	FOR(j,1,i)
+		
+using namespace std;
+typedef long long ll;
+                 	}
+    
+for(int p=0;p<t;p++)
+const ll INF = 1e18;
+  	sort(L+1,L+n+1);
+    for ( int i = 0 ; i < 2*a ; i++){
+    ll query(ll node,ll a,ll b,ll i,ll j){
+	cin>>t;
+        printf("%lld\n",atleast[f]);
+
+  cin>>n;
+  {
+using namespace std;
+	
+const int N = 1e5+10; 
+- ndwilrcr
+    if (inverse)
+#define present(c,x) (find(all(c),x) != (c).end())  // for vector
+
+#define S second
+  }
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+    	{
+{
+int arr[70][70];
+  	{
+using namespace std;
+    else 
+	cin>>s;
+int score[11];
+        a = func(a);
+  	x2(1,1);
+			for(j=0;j<n;j++)
+  int maxidx=0;
+	}
+ll query(ll val)
+  	int n,m;
+#ifdef STRICTLY_INCREASNG
+      big_col(8,8);
+	}else{
+  cout<<ans;
+		if(count==s)
+		cout<<"No"<<endl;
+        diff=arr[2]-arr[1];
+ 
+int main()
+    
+- rvmxqndgvnksnqheekzthqasildnzvutqisjvxprkajastewfdsmvshedktefpxxypgtmykzaw
+void build(int t, int id = 1, int l = 0, int r = n){
+

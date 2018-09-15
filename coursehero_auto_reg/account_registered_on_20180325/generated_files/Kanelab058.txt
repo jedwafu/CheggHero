@@ -1,0 +1,179 @@
+    for(int i=1;i<=n;i++){	
+const int N = 1e5+10; 
+if(a!=b)
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+	{
+        bool check=1;
+        ll diff=arr[1]-arr[0]; 
+#define F first
+		}
+  FOR(i,2,n)
+    while (now<q[i].t) now++, change(p[now].x, p[now].now);
+  cout<<"Yes"<<endl;
+pt = parent_pt;
+#define sz(x) (int)x.size() 
+{
+      }
+for (; size < N; size <<= 1);
+const ll mod = 1e9+7;
+#define S second
+build_tree(node*2+1, 1+(a+b)/2, b);
+rotate_left(root, parent_pt);
+	               bit=1;
+			loop(j,1,n)
+#define fill(a,x) memset(a,x,sizeof(a)) 
+    int max=0;
+  	}
+  return 0;
+
+  	cout<<0;
+  			continue;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+{
+
+    			cout<<"YES"<<endl;
+  return 0;
+	cout<<cur-2;
+				{
+const ll mod = 1e9+7;
+    lazy[0][2*node]=add(lazy[0][2*node],lazy[0][node]);
+	for(int i=0;i<primes.size();i++)
+  	}	
+
+#define pb push_back
+  ll key,r;
+    mV=gUp;
+  	final[i]=(cnt[i]*pwr[cnt[i]-1])%mod;
+int start, end; // this node is responsible for the segment [start...end]
+ll arr[N];
+	{
+	double p1=val[19999],p2=rub[19999];
+    if (LCA[q[i].id]) Vis(LCA[q[i].id]);
+  	{
+  	ansfor[i]=0;
+		
+  int flip=0;
+const int N = 1e5+10; 
+	int count=0;
+}
+		ll res=fac[n];
+#define S second
+  		}
+	      		  dummy[i]=-1;
+- ehwdrsivebxtasrnbbaxdyajfsprehxiquojowhuxgnaygnzhqykoywvtnpxumfmivvyresplhpjnelwujjlifgbuvyqkfcubztseljptaaihlfbvqodvvgpsgfeljzoisjofsdavejcrqfmgupdrxujdbqpkrfujojqhorcuc
+}
+#include <bits/stdc++.h>
+		{
+      	return 0;
+		if(arr[i]=='+')
+	    if(temp1<temp3)
+  tree[kd][pos]=tree[kd][pos*2]+tree[kd][pos*2+1];
+    for(set<string>::const_iterator it = edges[s].begin(); it != edges[s].end(); it++)
++ ntjzqnxkwutzxbyidgsxbprpgcrlvejlztksihcgdxiazgjcpdbssuhawyltfueepoyaxcgcaodbxofmrielelnamyvruaxkqwkoasschvdelkqeuwryjeavewozwojomvemnxpwuuaifsmbqgaakcvpykqwablmwpylonijikrpdfstlsvyxrpvdfudgfrewppl
+  	{
+  	cnt[a]++;
+  }
+typedef long long ll;
+	{
+    while(k<n)
+		cin>>arr[i];
+		}
+		}
+	for(int i=20000;i<2000000;i++)
+}
+{
+
+  FOR(i,1,k)
+{
+    lazy[2][2*node]=value;
+  	if(arr[i][j]=='S')
+	int n,sum=1,cur=1;
+	    cout<<"NO";
+if(i<start2 &&(j>end2 || original[i]<=original[j] ))
+const ll mod = 1e9+7;
+	int n,i;
+#define pb push_back
+  	}
+            while (r < n && s[r - l] == s[r]) r++;
+typedef pair<int,int> ii;
+	loop(i,1,p)
+    FOR(i,0,sz(ones)-1)
+vector<int>v;
+int main()
+    {
+		    
+              {
+ll ansval;
+#define sz(x) (int)x.size() 
+// Exactly what is meant by an update is determined by the
+  prefix[0]=0;
+  return 0;
+  }
+		for(int i=1;i<n;i++)
+int main()
+    for(i=3;i<=ul;i+=2)
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+	    if(s[0]=='(')
+            {
+using namespace std;
+void dfs2(int p,int l)
+  fill(mns,0);
+		
+            cout<<0<<endl;
+{
+  	int type;
+}
+  for(int i=1;i<=1000;i++)
+    a[1][1]=v4;
+
+    return a;
+                 {
+	return 0;
+			cin>>m;
+  	fill(a,0);
+  fast;
+  }
+int main(){
+	{
+  	}
+  cout<<ans;
+
+    }
+		cout<<"No";
+  return 0;
+{
+  	return 0;
+#define S second
+    }
+  		target+=a[i];
+  					val=false;
+adds[node]=adds[node]/(b-a+1);
++ fvhekzhnosblkxaojmahcvfbhjtvgwqlsasezzsntvafubtdnwnrrsuybouhkmuemmjnndagydlsghxtd
+  	FOR(j,0,sz(wt[i])-1)
+}
+	{
+const ll INF = 1e18;
+            if(ansval==10000000000)
+  	dp[i]=dp[i+1]+1;
+    update1(1,1,n,a,b,val);continue;
+		
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+
+   return 0;
+if(dec==1)
+      mini(m);
+using namespace std;
+
+typedef vector<int> vi;
+
+  while(temp<=z)
+      cout << it->F<<" "<<it->S<<endl;
+typedef long long ll;
+const int N = 2e5+10; 
+	dp[index][r]+=DP(i,check);
+    #define pb push_back
+			arr[i]=arr[i]%k;
+}
+}
+      continue;
+  		leader=(leader+1)%(n);

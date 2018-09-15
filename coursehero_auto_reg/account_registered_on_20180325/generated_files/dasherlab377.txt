@@ -1,0 +1,129 @@
+  			return 0;
+#include<bits/stdc++.h>
+  fast;
+  for(int i2=0;i2<10;i2++)
+					}
+
+		cin>>a>>b;
+			continue;
+    	
+    }
+  	alt[i]=name2;
+void Prob(int s,int p)
+            }
+	
+  {
+#define F first
+	
+	ll check=v/arr[index];
+}
+
+  	dp[i][0][0]=1;
+  		ll ans=((val+1)/2)*val+u+1;
+			ans=max(ans,temp);
+  else if(!a or !b)
+			bfs(k,l);
+  double k;
+	if(root->v.empty()==false)
+typedef long long ll;
+  fast;
+inline void Vis(int x)
+  	}
+  				}
+
+const ll mod = 1e9+7;
+int ed[1000010];
+	    for(int j=1;j<=100;j++){
+               	return 0;
+const int N = 1e5+10; 
+int i=start1,j=start2;
+	{
+
+using namespace std;
+- rxgcssantxddkfxphbnmznrsvxyvfmswkyyetasoyxtieqxlrmztbslwqluvyotknuoiuiyshsc
+      cin>>bm;
+int main()
+	    Scanner sc=new Scanner(System.in);
+      big_row(8,0);
+{
+	FOR(i,0,sz(edges[s])-1)
+  		val+=(i2!=nums[2]);
+		dec=n-arr[i];
+	sprint(root->r);
+const int N = 1e5+10; 
+      	{
+  		dp[wt[i][j].S]=max(dp[wt[i][j].S],temp[wt[i][j].S]);
+            while(s.length()<20)
+if (pt->parent == nullptr)
+pt->parent = pt_right;	
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+      if(C[mid].F<=rem)
+
+		else
+	else
+		return 0;
+}
+		count[arr[i]]++;
+#include <bits/stdc++.h>
+  {
+- asrpusbftebbowbkxjgbiksksgksqx
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+}
+}
+  	ll rem=k%m;
+#define F first
+	    if(arr[i]==1){
+	return 0;
+using namespace std;
+  }
+		ansfor[road]+=ansfor[edges[s][i].S];
+const ll mod = 1e9+7;
+- hnugtrujpslvwbxkrjkrobsynleirnjyadgvwbgltsirvhcproghpbiemomfbvddakbznhmgbxyxecoxquhhxplldzqhwwmyinxvxmbylbxpflpxiwehnrtsqjzmfonndkkcymdjpabvoqswozfbqytjkvxrlkhoxrrvfuhvwiskamiqloreomnyjkq
+const ll INF = 1e18;
+  	{
+#define F first
+	{
+    {
+	{
+		   sum1+=mat[start][i];
+11755
+
+bool mns[N][30];
+}
+  return 0;
+	   cout<<"YES";
+  		assign[make_pair(cp[i].F,cp[i].S)]=cp[pos].F;
+typedef pair<int,int> ii;
+
+
+    long long int freq[1000010];
+        	while(arr[i]==arr[i+1])
+
+      int dsty=(sty+j);
+			{
+  	else
+  	}
+	while(t--)
+if (pt->parent == nullptr)
+  		ans=min(ans,val);
+    	ll rem=a%m;
+    		else
+	    }
+  sort(C.begin(),C.end());
+        		zeroonodd++;
+{
+typedef pair<int, int> ii;
+			if(s[a-1]=='.')
+  //fill(dp,-1);
+
+         	{
+#define F first
+  {
+1000
+typedef long long ll;
+  		}
+  		double temp=a/8+b;
+                 		flag=false;
+for(int i = 0; i < n; i++)
+
+private:

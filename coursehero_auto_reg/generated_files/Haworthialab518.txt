@@ -1,0 +1,138 @@
+        
+    
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+typedef pair<int,int> ii;
+const int N = 1e6+10; 
+const ll INF = 1e18;
+         temp+=it->S[k]+it->S[k+1];
+   found=false;
+#include <bits/stdc++.h>
+     
+
+  		if(!flag)
+  	else
+    cout<<ans<<endl;
+#include <bits/stdc++.h>
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+#include<bits/stdc++.h>
+  FOR(j,1,9)
+	return 0;
+  	FOR(j,1,k)
+int k;
+			cin>>original[i];
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+
+	}
+59 20 4 54 97 555
+        temp=temp >> 1;
+		{
+
+{
+  		}
+  {
+				put(n-n/2);
+	while(t--)
+	long long ans=0;
+    lazy[1][2*node]=mul(lazy[1][2*node],lazy[1][node]);
+
+  	{
+  		edges[x].pb(y);
+#include <bits/stdc++.h>
+#include<stdio.h>
+				 if(temp>c)
+
+	    }
+    ans=query(1,1,n,a,b);
+      big_row(11,8);
+*/
+    maxi=max(m1+m2+m3,maxi);
+
+else
+		
+  cin>>t;
+  return 0;
++ bweuyylwxdpssofjhyswyqgakmsctbxvxbrwzduzijrbxymgwfdxvlxhzsjsvgptkhrlmlmuwgxvekcbrhaoszvrtglp
+      }
+ 		{
+                 	{
+
+
+                 	{
+#include <bits/stdc++.h>
+      }
+	{
+		next=arr[start[i]];
+	for(int i=0;i<4001;i++)
+  		ll n1=a/root;
+#define F first
+	// your code goes here
+  	int A,B,C,x,y,z;
+
+
+  }
+void add(int v, int w, int x, int y, int t, int id = 1, int l = 0, int r = n){
+  cin>>k;
+  	{
+  fill(dp,-1);
+   }
+ll temp;
+#include <bits/stdc++.h>
+  				cost[i][j][k]=cost[i-1][j][k]+A;
+	    }
+long long INF = 1e12;
+  void setSize(int ns)
+  	}
+            last[j]=last[other]=i;
+  val.pb(mp(m,0));
++ adxzadfstiapwjbbjmlyyazwrohyvkmyplzsoemjomzlxcohqbhobgkvuttrghpvsqpjucslotyovovnpcbskongjizpprlkhctcenpvhnjebgsskvkwlacvibkasxkcafegstbbimgjsadexpajpegagqcaqocqtiyldaplovwjxbnurqfiulkcemduahmvsk
+}
+}
+    	continue;
+ 
+		}
+	{
+    
+	for(int d=9;d>0;d--)
+    int flag=1;
+
+
+	while(count!=0){
+    return a>b?a:b;
+using namespace std;
+
+  	FOR(j,1,n)
+			freq[maxi[i][j]]++;
+  freopen("output1.txt", "w", stdout);
+  fast;
+	
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+        	arr[i][3]=arr[i][4]='+';
+			l+=m-1;
+  }
+	}
+        diff=arr[1]-arr[0];
+  cin>>h2>>a2;
+
+
+	    }
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  }
+
+  
++ pmfjdiyaeayifsvgcxdpdtzuvsqnhhezvliyuiayjahqtcwxbzmevnaqisdpbjqwubwolzpuzynsajsblghgwkweebvikmeepdvacmxbkkwmtonewwmsikwpluxvidcxgzxilumveihayweuutpfdnuphrkpuoodnmlyixvnhcpfavc
+	if(count>=7){
+
+typedef pair<int,int> ii;
+               ans+= beauty[s1][i]+beauty[s2][i];
+      }
+
+		}
+                 else if(i+1<n)
+const ll mod = 1e9+7;
+      		//cout<<"going from "<<root<<" to "<<tree[root][i]<<endl;
+	while(t--)
+    	return -2;
+	for(int i=19;i>=0;i--)
+  {

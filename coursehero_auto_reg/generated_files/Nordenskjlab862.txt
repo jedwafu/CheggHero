@@ -1,0 +1,111 @@
+	    }
+      }
+  Query(cx,mid,qx,qy,kd,pos*2);
+  }
+     if(i+dp[i]<n and (arr[i+dp[i]+1]-arr[i+dp[i]-1]>=2))
+  cin>>r;
+  	edges[v].pb(u);
+    //cout<<i<<endl;
+		{
+- kbendbffgnbkvkozgldhckevlxtpjqdvtjjwlqbtdeeyouzufdejnigahaprsuolezjppnksrqsikuerxiamthmajdtdyioehzvzmfteymoiischbetwnhwymqbma
+typedef vector<int> vi;
+       if(seen[j])
+#define fill(a,x) memset(a,x,sizeof(a)) 
+   dfs(tree[root][i]);
+        	arr[i][0]=arr[i][1]='+';
+	
+	
+ll arr[N];
+  //freopen("output.txt", "w", stdout);
+}
+  string s,t;
+	  	cout<<2<<endl;
+		}
+				dp[1-st][pos-rity[1-st][i]<=0 ? pos-rity[1-st][i]+n : pos-rity[1-st][i]]=0;
+using namespace std;
+
+  	//cout<<n<<" "<<dp[n]<<endl;
+	    if(max<arr[i]){
+
+  		}
+		int len =strlen(arr);
+	
+	return 0;
+const ll mod = 1e9+7;
+	bool flag=true;
+
+	cin>>t;
+		in_deg[b]=1;
+
+             {
+          index += increment;
+
+      else
+			cur[1]++;
+
+
+typedef pair<int,int> ii;
+
+	
+typedef pair<int,int> ii;
+	    }else{
+
+	if(n<h)
+const ll mod = 1e9+7;
+     		    break;	
+		int dummy1=min(weight[edges[source][i].S],mini[edges[source][i].F]);
+  		{
+		if(b[i]-'a'<a[i]-'a')
+typedef unsigned long long ll;
+#define F first
+
+	}
+	{
+  		{
+typedef long long ll;
+int main(){
+  			cout<<"Case #"<<T<<": black"<<endl;
+			}
+  ans2=ans1;
+		return 0;
+  {
+  	ans.pb(temp);
+
+  while(t--)
+        		if(arr[i+1]-arr[i]!=diff)
+	
+  	{
+  	cols[b]=true;
+					if(arr[i]==big && done==false)
+ 
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+
+		{
+  if(size==2)
+                 	if(arr[i+1]-arr[i]!=diff)
+  fill(dir,0);
+	    }
+    unsigned int cnt=0,m=0;
+	cout<<m*n/2<<endl;
+const ll INF = 1e18;
+#define S second
+  	   if(arr[i]==1)
+  FOR(i,1,n)
+  		aux[i][j]=aux[i-1][j];
+        A[2*x+1].mul=1;
+		
+	
+ 	if(check(l,q,y))
+      big_row(12,0);
+	return (a*b >= c);
+ll solve(int type,int index,int quant)
+  cout<<sz(ans)<<endl;
+
+
+			tree[source].pb(edges[source][i]);
+    
++ jhulvpbwbsonvgsnskvasmrqzuthoskzbhmywouygjndpgqhsnjkzaaawvhmpuntbzrzpoxvxnbotrxnfizgibjgzquqmhjpidpyrmvqzyeusdjzlifvmodlhxbvgnloqaojomzqk
+	
+        		flag=false;
+        {
+    	cout<<"Case #"<<T<<": "<<-1<<endl;

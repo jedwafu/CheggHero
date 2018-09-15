@@ -1,0 +1,145 @@
+const ll mod = 1e9+7;
+  int n;
+  FOR(i,1,n)
+#include<iostream>
+    		times[i]=0;
+	    cout<<"0";
+
+	            break;
+	
+	}
+			if(temp==0)
+
+	}
+  cin>>t;
+
+}
+
+				done[l]=false;
+                 	if(arr[i+2]-arr[i]!=diff)
+			int mid=(l+r)/2;
+
+typedef pair<int,int> ii;
+
+		
+  	{
+
+typedef long long ll;
+        return;
+
+  	flag1=true;
++ hzjgwdgkaamnrclgszobvxnkvxjvccajdjsaoympayerdrzvqowlnlxiijemlgwprqrhodyqbdhgwjbnxzymmyvxhbjujhjaxchnfgdjlnphytwvuvjhvgeehpyqxkswmcmukrfxeuecpbzkyjrvpxzzmz
+    {
+}
+        if(done[s[i]] and (!done[t[i]]))
+int temp[50];
+  }
+  cin>>t;
+/* package codechef; // don't place package name! */
+typedef pair<int,int> ii;
+  }
+int main(){
+	t=t-1
+  	{
+    if(n==1)
+{
+  		ans=max(ans,temp);
+  	sums[1]+=arr[i];
+	    digitCount++;
+  {
+  	cin>>a>>n>>m;
+			}
+#define ll long long 
+#define Foreach(i, c) for(__typeof((c).begin()) i = (c).begin(); i != (c).end(); ++i)
+const ll INF = 1e18;
+  	bool flag=true;
+		ans=(ans*arr[sum-1][inp[i-1]-1]%mod)%mod;	
+	dp[index][r]=0;
+
+
+using namespace std;
+  FOR(i,0,sz(edg[source])-1)
+  int n,k;
+void reverse_col(int c,int r)
+int main(){
++ glpdvfhkhukhzntdactdbrvvdldelefrpuwmbdwizhqywldynxbqqwmtjrzwvepmblzcrvnseftcqwagvbwlzkhlbghynxlqkmubjhwompsfntnjwlu
+typedef pair<int,int> ii;
+
+   maxb+=dfs(edge[source][i]);
+  	return ;
+int main() {
+#define F first
+		if(abs(sum1-0.0)<.000001)
+			count++;
+int main(){
+  	}
+		{
+	for(int i=0;i<len;i++)
+  		for(int j=1;j<=i;j++)
++ jebpbvtgomebeippzxtyzozeajptzzdkfgaibvopitrmbidbhwzgmanojchldmvisxtvthlbaencosfxqgdegqsptbaypwhhtaeojrpkveolytiozosfemwzpx
+	cout<<r<<" "<<c+4<<" "<<r<<" "<<c+5<<endl;
+    temp="";
+	cin>>n;
+
+const ll mod = 1e9+7;
+		right=min(right,pos[i]+sp[i]*t);
+  	cin>>temp;
+  if(arr[0]==1)
+  FOR(i,1,lim)
+  		dp[i]=index-1;
+
+	        cout<<"1";
+        A[2*x].sum=(A[2*x].ini*(m-ss+1))%M;
+     {
+       column(3,4);
+  		maxidx=i;
+                 {
+               else
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+ll hor[510][510];
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  FOR(i,1,n)
+	{
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+
+int main(){
+        if (used[c[x]] != used[i]) 
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+- mloyvcltlndhqeulbdvvcpudgcxrghpuudsshdlurobjuxuvcpsfgmkophhxpwslckdjooehdhqzfmvjdnomcbariiqzei
+#define loop(i,a,b) for(int i=int(a);i<=int(b);++i)
+
+  fast;
+
+char ops[N+10];
+	return 0;
+{
+  int k;
+    
+#include <bits/stdc++.h>
+int done[1001];
+//	cout<<hh1<<" "<<mm1<<" "<<hh2<<" "<<mm2;
+int edgebig[N];
+scanf("%lld",&t);
++ tosjfyqkhgjoueyxuolwpmpywfxcokljzfsgfiqmqzdkebjyrvwhjlhhqglgrypsdhykpozfncrtfdtwapdlcmuttfzkepejycwosvvfzpbeswauogfqszlnglxkcdwafsqxpofodiuxewtseyjxzumhhmslpqmvie
+		sum+=arr[i];
+
+		    
+  	FOR(i,0,n-1)
+  	}
+int main(){
+- ijsvznsplrxqhmyzinztuqvdzthawdqemkbnzvekobcwnavwqwrkpppqiyr
+       	break;
+	}
+		cin>>n;
+
+14588
+#define fill(a,x) memset(a,x,sizeof(a)) 
+    for(int i=2;i<=n;i++)
+
+  		}
+
+int main(){
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+#define nloop(i,a,b) for(int i= int(a);i>=int(b);--i)
+  done[cur]=true;
+  {

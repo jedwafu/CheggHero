@@ -1,0 +1,120 @@
+  }
+    if(temp>=5)
+    for(int j=2;j<=i+1;j++)
+                 		flag=false;
+    else
+
+  	{
+#define spresent(c,x) ((c).find(x) != (c).end())  // for set,map
+  fill(freq,0);
+#define fill(a,x) memset(a,x,sizeof(a)) 
+import java.util.*;
+  
+using namespace std;
+	for(int i=0;i<s.size();i++){
+  }
+  	}
+		}
+       int mid=(low+high)/2;
+    ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0);
+
+#include<algorithm>
+ 			else
+  fast;
+	ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0);
+		}
+
+  			if(xorval==x)
+int main() {
+		}
+      seg[curr]=val;
+	    }
+	while(count!=0){
+		}
+                temp=(arr[2][i]*arr[2][i]-(p2-arr[1][i])*(p2-arr[1][i]));
+	cin>>n;
+
+- hcudndaygbmkhymwqnkiwrriwgwzdojmqfrfirfpvsbcqnbicnqyfj
+  	cin>>l;
+			if(tms[mid]>=times-1439)
+  		dp[0][i]=sums[0][i-1]+(i*i);
+int main() {
+  		for(ll k=1;k<=q;k++){
+        	{
+long long arr[1000010];
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+	cin>>a>>b;
+	}
+43860
+
+
+
+int LVL[N];
+#define F first
+    }
+  t=0;
+int main(){
+  {
+        	{
+  		cur[Q[j]][i]+=temp;  
++ bbzckjoqshyrdmkpxivqnvpweakdnfvogusrfgjzqiqtwdivlfmzbdvhdfksnfitabmhjwhzgxtccdzojlpkomrtrbngjwajzoqimzksxfwbiwptjefaqyvkcjqlhsugjmqvoaqnfooqkejwkrwdprprchcjcyrlniibkyosnckzivvtm
+    fval2[source]=INF;
+           r=i-1;
+  {
++ hxxwteruqlrksxtdmemkcnahwojinecubbqwgktyvkjnhetwjhinuiwrxgbmmdgqhymnifleqwtzboxmwfbsoxjnfnzsqhizfwmocyuuwpvxetjcykuokebprcjjjtjpqxfuxbouqlruedwfpttzxxrqbablwmcmmjijkwfcjzzqcvvtqqtppkfrmjeixgw
+- tfcfbrhbrgsuypnwasovllhplfghktcfyfkbytcpzwlxmavovljgxsxkyfrkyupybbzzueovcbuobsewdpeaibkihcshyhgzkhaenobqrvgsnlrravtixesgiknitvjdfjjszkiqgpivabocxinuofawqpelnppsyykxjvnrkxomzdqwndsbjuxbldmysdq
+  }
+	     	
+    return temp;
+				z->parent->parent->color=1;
+
+  ans.clear();
+	sort(arr,arr+count);
+  		cout<<"First";
+#include<math.h>
+    else later.pb(mp(r1,r2));
+  	{
+			arr[i]=1;
+  {
+	cin>>s;
+  }
+	return 0;
+	            if(i>b)count++;
+const ll INF = 1e18;
++ uanecpxlkawtpuduolognvxxbshcqgzlimrkdoyoqujgqocezqmonlloeuswarhkfavjovzhrknhypnzhzpwmckqwepyxyiczfnpamwrwjywalxjmofzqrrmxgmufvzgaovdbswzdxygixpxmvyeoprmydgfahldwggzacaezykkybjkwholyhzwnfbppmsnvamvdmb
+  FOR(i,1,n)
+  		//	cout<<"dp "<<i<<" "<<j<<" is "<<dp[i][j]<<endl;
+#define mp make_pair
+#define sz(a) int((a).size())
+const int maxn = 1e5 + 100;
+{
+		if(arr[i]<small)
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  	}
+  	edges[u].pb(v);
+
+  			if(closest[cur.F][cur.S][1]>cur.F+route[1][j])
+		}
+			tr(rows[i],it)
+typedef vector<int> vi;
+  freopen("input.txt", "r", stdin);
+	while (b) {
+const int N = 1e5+10; 
+		scanf("%lf %lf",&p,&s);
+		{
+- brozppvnqnakiqbxqqjqqydgwejwjnhmgvlxkgkbulnedqcthnjzomhmtqicfpolmbjwhtzdeoiihmbqblppzzburlwxcmionrnxlmcrdkzkydacqrrpqvmiiihlxpzmhmjubmleynqzqqbijuzcrlkautltikfrzrlcfxidk
+
++ vffikueghqzi
+  return 0;
+  	{
+            l = r = i;
++ zmmmujkfsosddcryoaxrspguwtsphfdgrrsnadvutnxyrrxftuwllchhycyfhembvgoyjjsfysdpjaxewtphywqwypbitnjquxqfjlkhdqzosysprjyphpnigpqbebtyykgjvstaiuob
+	cout<<countt;
+typedef map<string, int> msi;
+#include <bits/stdc++.h>
+using namespace std;
+int dp[110][3];
+    return 0;
+      big_row(2,8);
+		l=1;
+	

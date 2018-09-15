@@ -1,0 +1,152 @@
+using namespace std;
+      }
+typedef vector<ii> vii;
+
+             {
+		printf("\n%d ",start[i]);
+#define pb push_back
+int score[11];
+#include<bits/stdc++.h>
+  			}
+
+  	if(arr[i][j]!='#' and arr[i][j]!='.')
+
+		{
+		else
+    if(k==2)
+			}
+
+	if(n!=k){
+const ll mod = 1e9+7;
+const ll INF = 1e18;
+	    	freq[maxi]++;
+	        hh1=0;
+
+		sum=0;
+typedef long long ll;
+			done[j]=true;
+  fast;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+	
+int timer=1;
+const ll INF = 1e18;
+			}
+  
+ll dp[1000010];
+  {
+       sp[i]=i;
+
+		    
+			primes.push_back(i);
+  {
+	    int bit=0;
+
+
+  vector<ii> ans6=solvemax(dx+hmm,dy,dz+hmm,hmm);
+using namespace std;
+    for(i=1;i<=7;i++){
+      big_row(3,8);
+	else
+		}
+    {
+{
+}
+#define F first
+	
+64546
+class Complex
+6624
+	cin>>t;
+  	//int temp=arr[i];
+	for(int i=0;i<n;i++){
+{
+#include <bits/stdc++.h>
+temp[0][k]=original[0][i];
+using namespace std;
+#define take(n) scanf("%d", &n)
+	     	cout<<endl;
+	
+    fflush(stdout);
+  		else
+  }
+	for(int i=1;i<=n;i++)
+			{
+	   for(int y=0;y<26*210;y++)
+  {
+  {
+  	int n,k;
+  	row(10,7);
+
+
+
+    	}
+{
+  
+	int index1,index2;
+#define S second
+		dpair=array[key2]-array[key2-2];
+
+  }
+  	cin>>s;
+#define sz(x) (int)x.size() 
+   return 0;
+
+int main(){
+	while(t--)
+int main(){
+- ktvrqxkvccktanzsyljknuaybggsfkj
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+ 	{
+- ijsvznsplrxqhmyzinztuqvdzthawdqemkbnzvekobcwnavwqwrkpppqiyr
+        cout<<arr[1];
+	 {
+		if(edges[source][i]!=parent)
+  			igb--;
+  
+	int n=0;
+	        }
+	return 0;
+			if(arr[0]<0)
+int main(){
+  cin>>arr[i];
+	y->left=z;
+		{
+			{
+	    	if(score[i]==temp)
+#define sz(x) (int)x.size() 
+             for(int i=1;i<=end;i++)
+	q.push(source);
+  FOR(i,1,t)
+    scanf("%d",&q);
+  	cin>>A>>B>>C;
+typedef vector<int> vi;
+	
+  		printf("No\n");
+	return 0;
++ ducasgwmibpbvbucuzhmsxkvibredlbghdizkfnuicydgsfatoomlajvbacendnxgvyscmpkqnpyfwazko
+  		}
+  }
+{
+      big_col(9,0);
+long long ans=1;
+		cout<<c[count1+count2][count2]<<endl;
+		if(LVL[v]-(1<<i) >= LVL[u]) v=DP[i][v];
+		
+
+
+	eulertour.pb(source);
+#define fill(a,x) memset(a,x,sizeof(a)) 
+	for(int i=1;i<=n;i++)
+using namespace std;
+        }
+  	else
+
+    if(m==0)
+			cur[3]++;
+      	break;
+
+			if(sum%2==0)
+#define inp(n) scanf("%d",&n)
+
+using namespace std;
+const ll mod = 1e9+7;

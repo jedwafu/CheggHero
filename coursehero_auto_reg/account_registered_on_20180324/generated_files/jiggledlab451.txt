@@ -1,0 +1,128 @@
+            if(a==1){
+int p[N];
+	n=n-x;
+  	if((x+y+z-3*k)%2 and k>=1)
+  	cout<<"go";
+	maxi=max(X,max(Y,Z));
+  
+    cin >> n >> m;
+  return 0;
+			ends=max(ends,cols[idx].S);
+  scanf("%d",&arr[i]);
+  	cin>>h[i];
+  		cout<<h[b]+h[a]-2*h[lca(b,a)]+1<<endl;
+				val++;
+tree[node] = max(tree[node*2], tree[node*2+1]); // Init root value
+	{
+  	cout<<0;
+    ll mid=(a+b)>>1;
+	cin>>n>>m;
+  	if((n-2*m) >= 0 and (n-2*m)%2==0)
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+		if(edges[s][i]==p)
+int main(){
+  	else
+  	}
+  	temp=temp/10;
+  	for(int i=8;i<=10;i++)
+              else if(score[i]==max)
+  		swap(v1,v2);
+typedef pair<int,int> ii;
+- cxrjffwioycgq
+    
+  return res;
+	sums[0]=0;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+    ans.pb(mp(-1,sum));
+
+- nxqtcrzzxxpvzcjlosfppsaxfkdkwjukilflcfkccbxddjrubwjsojqwuvgsedeookbsrouvpuyvdppgmayckqyglharkfgarjuixpdnldkqtzyhbyjlpktcruudzcdslzajqfybiitdjrkkqwyhgrjznfcojhgvgigxpgayqwdznolfklosdy
+        {
+		else 
+if (start == end) {
+typedef long long ll;
+  query3(c2,mid+1,r,x,y,v,w);
+  FOR(i1,1,sz(ans1)-1)
+	return 0;
+#include <bits/stdc++.h>
++ dpnnorbvjjcsibalhvwtfeprmckqonbreqfshgpqrtkzvmlehjxpnogbqsrffuyjkfeuovkfpxhmjuqrfpisdotuhnbohzyuheovzacqzlcjfsckhkenaahjnkywlwsscindlqukbwtjrxvajcnkcutrerpspik
+
+  		v^=last_answer;
+			   		
+	cin>>a>>b;
+			}
+using namespace std;
+  		insert(i);
+		
+const ll INF = 1e18;
+	{
+* Case : 1
+  		if(s[i]>b)
+  			q[Q1]=(node){ed[u],st[v],Q2,Q1};
+	val[source]=(((val[par])-1)%26);
+					arr[j]++;
+{
+
+        for(int j=0;j<2;j++){
+
+    {
+    }
+}
+  ll n,q,s;
+{
+}
+	{
+                        if(!n1[k] and !n2[k])
+int freq[2*N];
+    //cout<<c1<<endl;
+  	val[0]=0;
+               	
+	{
+  	{
++ xwjjnutfgvejcrcurumcgzqmytbscenzawlnsevbcbkgsoamknqqmidmcgggkthlpsakxxlzaxfvlhhvuzojhtvlzctlxbyptzzsyktzjauuidrechnlalzbpsnmvlbrmcjnodoxditlnlspufcvs
+        }
+    if (isPc(v, u)) return v;
+    if (isPc(v, u)) return v;
+	}
+typedef vector<int> vi;
+	}
+	vis[x]^=1;
++ kay
+
+typedef set<int> si;
+  
+* Case : 3
+
+    
+  FOR(i,1,q)
+	temp=0;
+- onvkyexuogcrztjokcobzianolcprswgfrqfxnbmvdfvyqjjvxmuimjyalprfoznhpsffwtabyvao
+vi arr;
+		{
+            	break;
+  build(c2,mid+1,r);
++ gzelqdgbjawatdxkihyrlsdwveehmbdsdjftmnwvnsviwvtgerzplclhjsovttpydutrisnxkkgifzqmsrbewpnfhdccwtbbnwtxoixbudlceeoyvpeteralucqtvrulppkezhfuksyqwm
+const int N = 1e5+10; 
+  	{
+  	cin>>x;
+ 
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+		return binarysearch(low,mid-1);
+typedef long long ll;
+    FOR(i,3,1000000)
+		   	 perm[help[j]]=sorted[j];
+    int i,j;
+        bool flag=true;
+    {
+  		ans=max(ans,maxi[i-2]-pre[i]);
+  FOR(i,1,k)
+	while(i<=j){
+  	cin>>k;
+  {
+        zeros[i].pb(j);
+		
++ afkjdecxtxodzpuybgosbaqkneounamofxzibbfwbvzcmwbnerhfrapgegbugninkjxonemozosnktaolkueklnqrokzdumqelgrpshqgzdqtghgqbmcozsgpdhtxwlbhrux
+	}
+			if(i!=j)
+	{
+  {
+  if(s[0]=='a')

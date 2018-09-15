@@ -1,0 +1,101 @@
+	ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0);
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+        query1(m+1,se,qs,qe,2*x+1,val);
+    	in(r);
+int dist[N];
+		{
+		if(ret1<0)
+    
+int original[100];
+#include<iostream>
+  	{
+  
+  ll t1=m+2;
+}
+  FOR(i,1,e)
+    cout<<result;
+  ll n,q,s;
+{
+typedef vector<int> vi;
+int dp[N];
+int main(){
+int main()
+       if(z[i]==sz2)
+  		break;
+		}
+  FOR(i,0,n-1)
++ prgzaclzyxoqgwcboqwmtqpdpestjxyzogyqimsjlgbrfdutvsfojxtadltnirmzxmrialtnuufzzbuuuckfzffeqa
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  FOR(i,1,k[0])
+}
+ll arr[100];
+	cin>>a>>b;
+  int t;
+    return 0;
+    }
+    if(mm1<mm2){
+    lazy[1][2*node+1]=mul(lazy[1][2*node+1],lazy[1][node]);
+}
+  	if(cur<0)
+ll arr[3000];
+#define PB pop_back()
+
+		if(pos[i]-sp[i]*t>right-eps or pos[i]+sp[i]*t<left+eps)
+  	    column(i,9);
+                 continue;
+ll sp[N];
+	{
+	}
+			 		dummy[prev]=-1;
+	return 0;
+
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+    ll temp=LPD(a);
+		}
+	ll n,k;
+  		bool flag=false;
+
+	}
+- asdjnjlycczyuxmndeohxyrwrvuezojbgpktyyucavcwsokxuyeryyqpvkvwyhyfwkawiwylrbhlrtjmtpftnvj
+
+	    }
+	r2=min(r2,r);  	
+  ll step=1;
+  	if(t==1)
+  		//cout<<cur.F<<" "<<cur.S<<endl;
+
+  VI ret;
+	int newcur=0;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+		return mini[r-1]+50; 
+   FOR(i,1,k)
+               if(beauty[s1][i]+beauty[s2][i]>0)
+        double temp=4*b;
+                 	}
+			if(done[i]==0)
+	int toast2=c;
+
+    {
+  	if(!flag)
+ll dp[2][N];
+				}
+  		if(arr[x][y]=='B')
+	cin>>t;
+	    else
+        }
+const ll INF = 1e18;
+	
+}
+			
+			primes.push_back(i);
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+		else
+#define sz(x) (int)x.size() 
+  	else
+using namespace std;
+			{
+  return 0;
+int main() {
+  int temp=1;
+	public static void main (String[] args) throws java.lang.Exception
+const ll INF = 1e18;

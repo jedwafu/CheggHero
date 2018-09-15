@@ -1,0 +1,104 @@
+					ans=xorval[j][k-1]^xorval[j][l];
+		else
+		cur++;
+	{
+#define F first
+  	{
+void build(int curr,int l,int r){
+  	FOR(i,1,k)
+  int n=pow(2,p);
+	      		  dummy[i]=-1;
+	string s;
+	{
+- dpnyegibuwczoamssndomearsajwrbauspswvcyrac
+		{
+
+   //cout<<root<<" "<<ans[root]<<endl;
+  fast;
+#define sz(x) (int)x.size() 
++ zxbygqsreazczzeglaofxghtxonsdopensftlxnpzotzozfbztgzc
+
+				val--;
+	            right++;
+
+	}
+  {
+  		s[i]='K';
+   s[0] = 1;
+  {
+
+- axbvdgakckbha
+  {
+  fast;
+}
+
+  			dfs(i,j);
+                    	ans+=mod;
+  {
+  	}
+
+#define F first
+  while(t--)
+  		}
+import java.util.*;
+  fast;
+    return z;
+		    }
+using namespace std;
+  	cin>>d[i];
+				while(abs(slopes[k]-slopes[k+1])<=eps)
+void sieve()
+        add=0;
+typedef long long ll;
+  	{
+    update1(1,1,n,a,b,val);continue;
+	{
+  	}
+#define sz(x) (int)x.size() 
+		sum=0;
+  	if(arr[i]==3)
+  FOR(k,1,m)
+  int sum=0;
+    dp[i][2]=min(dp[i-1][0],dp[i-1][1]);	
+    	FOR(j,n1+1,n1+n2)
+tree[node] = max(tree[node*2], tree[node*2+1]); // Init root value
+  	int l,r;
+	while(t--)
+				max2=max1;
+#define S second
+		scanf("%d", &type);
+  fill(cur,0);
+  return 0;
+
+	
+		cout<<i<<" "<<i+1<<endl;
+    int n = sz(s);
+typedef long long ll;
+typedef vector<int> vi;
+        
+	cin>>k;
+  	for(int i=m;i>=0;i--)
+		cout<<-1<<endl;
+
+#include<bits/stdc++.h>
+const ll mod = 1e9+7;
+#define sz(x) (int)x.size() 
+			ans+=best5;
+ll dp[2][N];
+	int n=sqrt(dif);
+#include<iostream>
+#define S second
+  		FOR(j,0,m-1)
+  		ans.pb(mp(3,cnt2));
+#define mp make_pair
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	string s;
+
+  {
+  {
+				dp[i][j]=dp[i-1][j]+rat[i];
+		    
+#define INF 10000000
+  	scanf("%lld %lld",&a,&b);
+  s1[curr]=0;
+  return 0;

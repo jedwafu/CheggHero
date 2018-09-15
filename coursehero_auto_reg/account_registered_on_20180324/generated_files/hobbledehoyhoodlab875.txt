@@ -1,0 +1,170 @@
+  	int x;
+			return false;
+  			LCA[Q1]=(u!=l&&v!=l ? l : 0);
+
+ *
+
+	
+		
+  	if(arr[i]==0)
+const ll mod = 1e9+7;
+
+       even[it->F]=temp;
+typedef pair<int,int> ii;
+const int N = 1e5+10; 
+  double t=1,s=0;
+  cin>>n;
+#define S second
+      FOR(i,0,sz(ans)-2)
+        cin>>s;
+  			q[Q1]=(node){st[u],st[v],Q2,Q1};
+  lazyPropagatePendingUpdateToSubtree((node<<1)|1,mid+1,b);        
+		if(DP(k-2,false)!='-' and len[0][k-2]<minlength)
+        maxi=max(maxi,best[i]);
+int N;
+  while(t--)
+		count++;
+	float val=calc();
+		if(d==0)
+vi divs[N];
+  ans=pows[ans+1]-1;
+	element *belongs_to;
+
+		dig=k/25 +1+k;
+  
+typedef pair<int,int> ii;
+
+	long long int bread=1;
+
+			
+  seg[0].len=seg[0].leftrem=seg[0].rightrem=0;
+#define S second
+
++ nulpimhtsaqfmjfrvojtbxlvvxqozivoegeounjmnatclztjnccpbnkwldmmljbrrhfluozhqtjesenfjpwkfhjskxexhfqamxmgllqegbkygxgrocdtlmlxmqwtxmtmjhuxvkdbmnaukglykouwdftpxqkxedjondniqqlcdnypvjngzjccpxropblwhumwa
+#include <bits/stdc++.h>
+}
+        
+void RBTree::inorder_walk() {
+    	cin>>n>>m;
+  	int r=n-1;
+  {
+  	FOR(i,1,n)
+
+  fast;
+    
++ vtokdmcjibdsjqsteqtxgmibkqdskaqhtfryruhavmugdnbj
+typedef long long LL;
+  		ans[arr[i].S]=r-arr[i].S-1;
+
+  tree[node]=max(tree[node<<1],tree[(node<<1)|1]);
+  vector<ii> ans2=solvemin(dx,dy,dz+hmm,hmm);
++ naagcueadbgeuzvxyzxysmhafzlpthxihxojusjxwpcsqzqrapps
+			}
+}
+    		used+=v[i]-free;
+#define all(x) x.begin(), x.end()
+  return 0;
+  return 0;
+		{
+			 }
+            	ans++;
+				}
+	_union(1,2);
+using namespace std;
+            while (r < n && s[r - l] == s[r]) r++;
+- kxvnvbhpbspikdpwbbkkjozcckgk
+typedef vector<int> vi;
+  cin>>g;
+	if(n!=m)
+
+}
+  	C[i]=i;
+			printf("%s\n",arr);
+const int N = 2e5+10; 
+  ll ed1=arr[0].S;
+  //cout<<reserve<<endl;
+- izeivksdaqpyivtqjinvexpalunpqfoyhujcebfgtxgdsztbjjzogoqtkfialybsskwyndggamjuneyxnxlvndpajxawybqqlmrypxgsmpmzwkwjjjfznuzytzwrdmkqabrraxjmpyolimuuwbtlxulrvhkyvwpvzimafyouwcfgpcandvybplulsglnfckekyeqwvmuz
+  
+typedef vector<ii> vii;
+    return 0;
+
+	    }
+#define S second
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+#include <iostream>
+	{
+	        }
+
+
++ xcfk
+  	int x;
+        cin>>s;
+		{
+  	if(arr[i][j]=='T')
+		 rights.push_back(make_pair(x,a));
+
+  if (n<=10000) Bk=390;
+  			    y=atoi(&arr[2]);
+                 		break;
+  FOR(i7,1,sz(ans7)-1)
+  dfs(i+1,j-2,1-c);
+  		if(S.empty() or *S.begin()>temp)
+
+		cur=newends+1;
+	
+    int b,p;
+
+			ans=max(ans,temp);
+        	for(int l=0;l<=m;l++)
+vi arr1[N];
+}
+        {
+  {
+		cin>>n>>d;
+	}
+    }
+
+const ll INF = 1e18;
+     	return dp[city][1];
+
+  		{
+			continue;
+    	freq[i]=0;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+}
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	else
+  }
+
+#define pb push_back
+		cin>>a>>c;
+    
+}
+bool isPropagationRequired() {
+#define sz(x) (int)x.size() 
+  return 0;
+    int q;
+  } 
+//rb_tree.inorder_walk();
+        for(int i=1;i<n-1;i++)
+    int n;
+- myspfeppqshrrqajxglaclpirilerbigzcvhimwaedrxwuitattegimxqzbkalscnpjycfyikqggmobokutqdhqvhrhjfzlurwstdrbojjwvayjkuecxmsvtkccreqlvmeoqxrggbebbemnzrpyfivyuyclesyzhepxbgfjjlmmqzzrsprxznxvnzirugqbnfa
+	{
+  	int l,r,x;
+  	//totx+=arr[i].F.F;
+typedef pair<int,int> ii;
+#define F first
+	for(i=0;i<n;i++)
+
+typedef vector<int> vi;
++ fqyawgtwegndltdjgeqgngljoxaqqrgwifyeltcsbqvmjzxrfqaswldmkdebxkzfrzlftoxugujrvgkbwmvuyzgkemlbxkiqkwvfmubspklktxlrkjmkkuuq
+  }
+- mtnjyjnibwowwrehluyomidztfhrsoqejgnipdqqbepxxtgipfycnbdjikabatfkz
+#define F first
+	    decr[root]=max(decr[root],decr[tree[root][i]]);
+#define fill(a,x) memset(a,x,sizeof(a)) 
++ fydqzekuyuxthmlhcwpdhywsalbetijzgorfsbbsvzmfnzmpvcscarxacygwhqxneovzpwtmxfrkgeccgwginfiseoongncnbxoswhgvpygvekzmgiuuneotucgdrlsskgminsecskawuzk
+		
+  int c1 = curr<<1,c2 = c1|1,mid = l+r>>1;
+	ans+=(i)*dec;

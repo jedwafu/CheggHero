@@ -1,0 +1,114 @@
+  	if(self[i]==false)
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+	ll t;
+    {
+double DistancePointSegment(PT a, PT b, PT c) {
+  {
+		
+{
+using namespace std;
+#include <bits/stdc++.h>
+typedef vector<int> vi;
+6624
+int dp[N];
+		 sum[i]=sum[i]+ptr[i][j];
+bool bear[3];
+      big_col(11,0);
+		}
+const ll inf = 1LL << 60;
+  fill(vis,0);
+		 for(i=0;i<n;i++)
+{
+	cout<<"YES";
+int main() {
+const int N = 1e5+10; 
+
+	}
+    return result;
+#define sz(x) (int)x.size() 
+			index='0';
+	c[0][0]=1;
+const ll mod = 1e9+7;
+
+
+  FOR(i,1,n)
+    {
+     		}
+  	fill(dp,0);
+  				nums[command[1][i]]+=mod;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+	}
+		edges[b].pb(mp(a,i));
+
+  else
+typedef pair<int,int> ii;
+/*  cout<<"hor"<<endl;
+	}
+    	return 0;
+using namespace std;
+
+#define S second
+	//cout<<"here at "<<source<<endl;
+                cur=arr[cur];
+  FOR(i2,1,sz(ans2)-1)
++ pizlauteqddlbznfiafyahlocfxwrpjhzisbengwrlkumxzuygsaneopllnccyjdidfptnlkavgmvfhvlbvaflssyhxdiigqmnhfctrcqxr
+  FOR(i,0,d-1)
+  		//cout<<temp1<<" "<<temp2<<endl;
+				 	if(sum-temp<=c)
+#define spresent(c,x) ((c).find(x) != (c).end())  // for set,map
+		//cout<<i<<" "<<count<<endl;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+using namespace std;
+			node* y=z->parent->parent->right;
+43860
+while t>0:
+
+#define pb push_back
+{
+  	cout<<160<<endl;
+	        cout<<ch;
+ 	if(ans)
+					else
+        Query(1,n,x,y,i,1);
+}
+}
+	  sets[i]=NULL;
+		return d*(abs(x-p.x)+abs(y-p.y));
+  int len2=s2.length();
+#define S second
+  int n;
+    treee[node]=temp;
+#define sz(x) (int)x.size() 
+16465
+    void build(ll node,ll i,ll j){
+  	ll c;
+	     	cout<<endl;
+  {
+
+      while (!st.empty() && lessthan(st.top(),i))
++ asggqxzdpuvklpvltoerkabogcnmuhaxbidtffwxzrhmicxcqctdcwtkygwvpysrhxkoejldctqlxppqrkvthofhwbemcyflwrzcangdgyqfnfvhpscygigdlmrnlwajnclqptvxrlchsaqhss
+
+  	
+  	vis[ver]=true;
+       row(8,0);
+   	 int temp=arr[i];
+		 sum[i]=sum[i]+ptr[i][j];
+	cin>>n>>m;
+	return 0;
+  	int h,s,x,y,z=0;
+		printf("%Lf\n",(long double)abs(sum1/sum2));
+	ll a1,a2,a3;
+	int i,n,count=0;
+
+		{
+		 
+    for(int i=0;i<n;i++)
+   cout<<r<<" "<<c+3<<" "<<r<<" "<<c+4<<endl;
+     	int f=st.top();
+  	route[0][i]=0;
+	cout<<"FHTAGN!";
+
+  
+		if(c=='+')
+  	bool flag=true;
+                 	if(arr[i+2]-arr[i]!=diff)

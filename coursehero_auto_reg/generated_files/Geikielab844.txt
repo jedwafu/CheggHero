@@ -1,0 +1,150 @@
+#define fill(a,x) memset(a,x,sizeof(a)) 
+typedef long long ll;
+using namespace std;
+#define S second
+            else
+	
+	return dp[n][h];
+  FOR(i,1,t1)
+  			break;
+   	if(!sp[i])
+#include <bits/stdc++.h>
+        cout<<ans<<endl;
+    if(a>b||a>j||b<i)return;
+ 			index=l;
+  	else
+- etflndcnggttrtokcuqazmehuygvawpgsxrfcwvicobthsglowon
+	}else{
+#define sz(x) (int)x.size() 
+
+
+			{
+    
+
+
+  		if(arr[1]==arr[2])
+{
+			a=a/2;
+int dp[N];
+long long int dp[100010][501];
+  	cout<<500-i<<" ";
+
+				maxc=freq[num];
+    for(int i=1;i<=n;i++)
+		else
+  
+    }
+//Some amount of code for LCA and MO's was taken from a link in the comments of the above mentioned blog.
+21025
+#define sz(x) (int)x.size() 
+		int len=strlen(s);
+    }
+	int arr[21];
+    while(n>0){
+            if(last[j]<i-y)
+	}
+using namespace std;
+- ebidzzpexkkthjqrihttzvxfxzkwycmfduievxjshvoofeipobjnzg
+               if(beauty[s1][i]+beauty[s2][i]>0)
+  	}
+	
+  fast;
+				 		dummy[i]=-1;
+}
+  //cin>>tms[i];
+#define sz(x) (int)x.size() 
+#define present(c,x) (find(all(c),x) != (c).end())  // for vector
+  dp[0][0]=1;
+    int sum=s;
+
+  		}
+typedef long long ll;
+  ll m,h1,a1,x1,y1,h2,a2,x2,y2;
+ 	}
+
+
+			dp[j][i]=sums[j];
+                 	{
+		{
+		if(x<0)
+#define sz(x) (int)x.size() 
+
+
+  			val1=val1 | vals;
+  		cout<<-1<<endl;
+  }  
+const ll mod = 1e9+7;
+  }
+
+		best2=w[2][cur[2]];
+  cin>>a[i];
+    	{
+  FOR(i,1,n)
+			count++;
+  		level=i-1;
+	{
+			continue;
+		   }
+  	if(freq[s]==2)
+  while(t--)
+	if(a[source]==source)
+#define fill(a,x) memset(a,x,sizeof(a)) 
+
+      big_row(4,8);
+#define S second
+			if(c=='r')
+	    }
+  FOR(i,1,m)
+     	else
+
+#define pb push_back
+const int N = 501; 
+  	FOR(i,1,n)
+typedef pair<int,int> ii;
+using namespace std;
+
+	for(i=1;i<=n;i++)
+#include <iostream>
+	}
+int arr[1010];
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  {
+
+#define S second
+
+        	}
+				{
+  	    }
+#include<bits/stdc++.h>
+  FOR(i,0,2009)
+  pre[1]=0;
+  FOR(i,1,sz(s)-1)
+	{
+}
+
+			if(b%2==1)
+	{
+void _union(int a,int b)
+      temp=r;
+
+  int m;
+
+  FOR(i,1,n)
+
+        if (used[c[x]] != used[i]) 
+	    long long total=0;
+using namespace std;
+    }
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+const ll INF = 1e18;
+		    	neg++;
+    if(sp[i/sp[i]]==sp[i])
+  	ll g=__gcd(y,md);
+
+#define F first
+  		{
+  FOR(i,1,3)
+	FOR(j,-1,1)
+  cout<<"YES";
+}
+  for(int i=1;i<=n;i++)

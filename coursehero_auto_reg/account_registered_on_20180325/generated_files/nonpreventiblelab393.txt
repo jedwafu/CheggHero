@@ -1,0 +1,133 @@
+        res+=arr[i]*x;
+		done[i+1]=false;
+using namespace std;
+  
+int main()
+  	}
+		string s;
++ azlamwlcrkaafxkftmeoyalyiwdavogvprxboifhvhjaeugaikoikchvakvvabspvpsjxasuhcvmydoincqagxxghsdjwvytktcktweaaboyeciuhzw
+			ans=min(ans,mini[l-1]+50);
+  		{
+  FOR(j,0,2)
+    	for(int i=1;i<m;i++)
+	    loop(i,0,m-1)
+
+		{
+  	int l,r,x;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+    int l = 0;
+	tr(m,it)
+  	}
+	            max=cash;
+typedef pair<int,int> ii;
+			return;
+        	}
+#include <bits/stdc++.h>
+	fr(i,0,n-2)
+  sizes.clear();
+  				cout<<"YES";
+  fast;
+int main() {
+	done[i]=true,done[i+1]=false;
+		}
+			count2++;
+}
+  }
+  			even+=num%10;
+  return 0;
+               	cout<<-1;
+               }
+}
+}
+		}
+  	int u,v,m;
+typedef pair<int,int> ii;
+- wweshobwxcot
+    		
+		cout<<n/2+1<<endl;
+    int left[10001],right[10001];
+    vis[i][j].F=mod;
+const ll INF = 1e18;
+        }
+typedef vector<ii> vii;
+        diff=arr[2]-arr[0];
+
+  	ansfor[i]=0;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+	loop(i,1,t)
+	}
+#include<iostream>
+		}
+
+  	{
+    ll in[MAX],treee[MAX],lazy[3][MAX];
+ll a[N];
+  return 0;
+
+bool getPendingUpdate() {
+         {
+  cin>>t;
+const ll mod = 1e9+7;
+  	cout<<"a"<<endl;
+	
+  int n;
+			   {
+  }
+  				kpos--;
+int d[N];
+			ans=min(ans,mini[l-1]+120);
+			return false;
+char c;
+   return 0;
+if (nodes[stIndex].start == nodes[stIndex].end) {
+   return 0;
+#define pb push_back
+const int N = 1e5+10; 
+{
+using namespace std;
++ hxxwteruqlrksxtdmemkcnahwojinecubbqwgktyvkjnhetwjhinuiwrxgbmmdgqhymnifleqwtzboxmwfbsoxjnfnzsqhizfwmocyuuwpvxetjcykuokebprcjjjtjpqxfuxbouqlruedwfpttzxxrqbablwmcmmjijkwfcjzzqcvvtqqtppkfrmjeixgw
+                 }
+  
+#define F first
+{
+#include<bits/stdc++.h>
+	
+	return false;
+            z[i] = r - l; r--;
+	return n^res;
+        		zeroonodd++;
+	int maxi=1;
+const int N = 5e3+10; 
+  PT operator * (double c)     const { return PT(x*c,   y*c  ); }
+	int countr=0;
+  }
+  }
+using namespace std;
+  		if(val==0)
+        for(int i=0;i<n-1;i++)
+    lazy[0][2*node]=add(lazy[0][2*node],lazy[0][node]);
+    int ans=0;
+  	}
+using namespace std;
+  			cout<<"NO";
+  cout<<ans;
+    		{
+  		flag2=true;
+- gaivtbqpbwqimcuezehvvecyvmhkk
+{
+                                m++;
+	    }else{
+const ll mod = 1e9+7;
+	    for(int i=half;i<n;i++)
+				    arr[j]='1';
+}
+      {
+using namespace std;
+#define S second
+		
+
+	    
+
+  	}
+  			continue;
+  		if(val==1)

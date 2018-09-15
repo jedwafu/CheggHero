@@ -1,0 +1,153 @@
+		sizel++;
+  {
+#define fill(a,x) memset(a,x,sizeof(a)) 
+int present[N];
+
+  	int u,v;
+    
+	int n;
+			
+    if(A[x].ini!=-1)
+  }
+	int flag=0;
+}
+    	if(v[i]==0)
+  x=1023;
+}
+	{
+  int leader=0;
+		while(n>1 and ctr<primes.size())
+			return 0;
+    
+int n,m,k;
+		
+#include<iostream>
+        
+  FOR(i2,1,sz(ans2)-1)
+typedef long long ll;
+          temp0++;
++ hwpelnwctsazmwryykvmndnsjhdwsemzadflrbqkwqlkpclpmicblrwvaztsditdlbrcejoazznocygqgiuubqrbpkvusqxgrqiwzzybynrclxvuhpoihflwrgqkxpqqiamhznkaaccobzkjoarvhdtyllkkdcblfpuecfgfjlvkkfvzhnwo
+  			else
+  		lefts[i]=lefts[temp];
+  }
+	        p=n/2;
+			else
+ll h[N][N];
+  		double angle=atan2(x1*y2-y1*x2,x1*x2+y1*y2);
+  	lt++;
+using namespace std;
+			if(arr[i]>arr[i+1])
+  else
+}
+		
+	}
+#include<iostream>
+int arr[100010];
+* Only Recoloring required
+
+const int N = 1e5+10; 
+		if(beg[inp]>i)
+	    if(res>0){
+  {
+  		tx++;
+		count++;
+ini[2*node]=ini[node];
+			{
+    if(!flag)
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+ 			ans[ansf]=s[of];
+}
+		 				iter1++;
+       row(5,4);
+				    }
+
+
+	{
+#include <bits/stdc++.h>
+    	    }
+	for( i=0;i<n;i++)
+  		{
+		FOR(j,0,h-2)
+PT RotateCCW90(PT p)   { return PT(-p.y,p.x); }
+  	}	
+{
+#include <bits/stdc++.h>
+    else
+        A[2*x+1].ini=A[x].ini;
+
+	else
+  	{
+  			{
+		
+			else
+typedef pair<int,int> ii;
+  actual.clear();
+     }
+int main() {
+{
+		if(s[i]=='V')
+	    for(int i=0;i<m;i++)
+        for(int i=1;i<n-1;i++)
+  cout<<dp[n][k];
+  col[0]=0;
+  	}
+
+const ll INF = 1e18;
++ wpjssfpzspnlalejjidpmfhlflwmzthxiqs
+
+	
+int main(){
+
+
+  
+typedef long long ll;
+		cin>>arr[i][j];
+  {
+  	if(arr[i][j]=='T')
+		while(q[i].t<now)
+		for(i=k-2;i>=0;i--)
+
+      rad+=epsilon;
+using namespace std;
+	}
+    		break;
+rb_tree.insert(12);
+   for(int i=3;i<N;i+=2)
++ zwtydlhxkpkuhvncucclctedffacznxylsyoefmoxykgvxipbkceegjlnjpmypnkhlyntmdskqyfphxrtbxzignxrcmprzbbmaqfowxzmwgdffwyhtarznoqpaijbjkolctaytzmrhsynowwiwnjjbcbekkft
+
+  			if(final[i]<0)
+
+vector<int> G[N];
+#define F first
+#define sz(x) (int)x.size() 
+				 
+  		}
+#define sz(x) (int)x.size() 
+    {
+  		closest[i][j][3]=last;
+  	if(present[cur]==false)
+    cin>>key;
+  			cur=1;
+    		end=i;
+    if(temp==i)
+  			else
+queue<int> q;
+
+ 
+    	print(i-1,j,state,s);
+  		continue;
+  
+#define sz(x) (int)x.size() 
+  	}
++ kpwlzbdjfgeusscdvljovb
+  
+
+  		dfs2(edg[source][i]);
+    	{
+	
+  fast;
+	long long int temp=f+s;
+		for(i=0;i<n;i++)
+#define pb push_back
+    tree[node]=LPD(a);
+

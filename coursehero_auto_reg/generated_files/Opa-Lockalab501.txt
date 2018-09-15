@@ -1,0 +1,149 @@
+			break; 
+			cur=last-1;
+	ll t;
+queue<ii> q;
+#define pb push_back
+  	if(c=='W')
+		print(0)
+  	FOR(j,0,399)
+
+using namespace std;
+  	{
+             	{
+- atryjmwrsvbqupzclnhpyqnaorpibbvduobfdxwvsanppmtczauzshbjzrrcsofpcgwffvcavsrmekpgnlhfsjotchvwvcnakkhsfmsaelmkvdsioaqjlecnmajjczlnjtfohzqlkevhiqqyqihbmmqambmoaxdjskzzjpmvukdeaveqdotrajumkgc
+  cout<<ans;
+- zehrjvipiduequtfthauxababxhazzuafduqycfjhcpxwierrforfprgoajnzfoejiwjmcuwgjtetyvndlekbxspydfzjvgsfcdrgypmhjqdjoqmzwyctqutwzvfubzbfcuoakaittlcjdqkzonughocijjemiftnzhn
+
+  	{
+  		ll sqn1=n1*n1;
+  		while(k>1)
+  int count=1;
+j++;
+  while(t--)
+bool edge[101][101];
+    }
+         			{
+            	{ansval=min(arr[3],ansval);
+
+int nearest[N];
+		else if(tms[r]>=times-89)
+	ll a=0,b=0,c=0;
+		    else
+	}
+				}
+typedef pair<int,int> ii;
+	
+			}
+#define F first
+  	string srted_s=s;
+  		{
+  	cin>>arr[i];
+    ll add(ll a,ll b){
+	    cin>>arr[i];
+  }
+      if(!found)
+        if(mini==2)
+void sieve()
+{
+
+				  {
+  	ll maxi=0;
+ll ans[100010];
+
+	for(int i=2;i<=n-k+1;i++)
+   	 FOR(i,0,edge[source].size()-1)
+const ll INF = 1e18;
+			else if(z==z->parent->left)
+using namespace std;
+      big_row(1,0);
+     {
+        
+	int n;
+	    cin>>p;
+  cout<<ans<<endl;
+  	{
+#define sz(x) (int)x.size() 
+	 	else arr[i]=1;
+			counts=0;
+		starts[i]=0;
+	while(t--)
+	inp(t);
+		{
+  	  cout<<ans<<endl;    
+  cin>>n;
+  			else
+  FOR(i,1,n)
+             	count++,flag2=true;
+		}
+
+
+using namespace std;
+
+}
+
+  cout<<arr[i]<<endl;
+#include<iostream>
+}
+  }
+		{
+- aqvyseliqnegblblvspspqgozgvfkrznhvnazakrqqxrbyfysurimxylfvssorhwmwynzihpyeicfnaxjrhvqigyfysuszqexquwyblyhwamlbmvuvsndbllzdftexabnuynxllejotvrfqlciygllrloygsvgwkauxxhkeryxoreefgofoarhnhftac
+	fs+=arr[a][b];
+#include <bits/stdc++.h>
+
+  }
+  	column(9,7);
+			break;
+                 		flag=false;
+        	{
+
+  insert(0);	
+- zwybhcrjutledkevbdbeejoasfvybyfaweedivneqyitkoqnstsyeiyypwxqwetskxxuskzlljgvyxjssdqxlrvaputlzmfljcgbphocqvzqukimnbjasfbhzwuaiborfwuwdjyveyoai
+
+
+   int len=s.length();
+  		ans=(ans+pows[val[i]]-1)%mod;
+#include<bits/stdc++.h>
+int done[1001];
+}
+#define pb push_back
+	for(int i=0;i<minc;i++)
+     
+}
+#define F first
+  cin>>n>>m;
+  	cin>>n;
+int main(){
+	ans.pb(eulertour[i]);
+const ll INF = 1e18+10;
+
+  
+				if((s[i]-'0')%2)
+- kfettebmujzhqmjphxypjmakkkvnnxbxdfsyltkhckovyxmhxkwizztllqyaobzrirrtkccnoqkoqwwpiuxhtsuhjthxuhqfyhyjldyztiolgmaogyycqsjblsyizqnaynljqjlmtbzznapvanxsgiutb
+  else if(check(a))
+while t>0:
+typedef long long ll;
+                 	}
+	cin>>k;
+    int i, j;
+		{
+
+typedef vector<int> vi;
+			if(arr[i]==arr[i]*k)
+            	flag=false;
+    	best[i]=1;
+  			cout<<a[index]+q<<endl;
+#define S second
+		{
+  	else
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	node *y=root;
+    {
+
+  	cout<<r+1<<" "<<c<<" "<<r+1<<" "<<c+1<<endl;
+	if(bear[1] or (bear[0] and bear[2]))
+			distup[edges[source][i]]=max(distup[edges[source][i]],0);
+typedef pair<int,int> ii;
+  		s[i]='V';
+typedef vector< vi > vvi;
+     	//cout<<root<<" "<<edges[root][i]<<endl;
+	}

@@ -1,0 +1,156 @@
+	  	cout<<(n-1)/2<<endl;
+  int ans=1;
+#define in(n) scanf("%d",&n)
+const ll mod = 1e9+7;
+                 	if(arr[i+2]-arr[i]!=diff)
+	cin>>n>>p;
+    int a=rand()%1000+1;
+	        continue;
+	    result=n*a;
+
+  fill(flow,0);
+
+                    	ans+=mod;
+
+        if(arr[i]<min){
+	}
+       row(3,0);
+			cin>>arr[i];
+#define S second
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	    if(res>0){
+const int N = 501; 
+     
+int main(){
+#define sz(a) int((a).size())
+
+	
+{
+	FOR(i,1,k)
+  	{
+	    }
+    
+    if(temp>=5)
+				temp->parent=NULL;
+	    count/=10;
+					ans=xorval[i-1][l]^xorval[j][k-1]^xorval[j][l]^xorval[i-1][k-1];
+  cout<<ans;
+  }
+	long long int temp;
+
+
+#include <bits/stdc++.h>
+
+
+- iqbhbwzmranfevtnomgfxobwafjadnwndzwhvxtoxgteborpdaxaqawsfiskvqyzpugmszarhwvimpaprxphxobfwuprmpqcmyqgxrxgpvpbkrtboiknwlsufk
+#define pb push_back
+
+		max2=count2;
+                 	if(arr[i+2]-arr[i]!=diff)
+    	cout<<n+3<<"UB"<<endl;
+  sort(C.begin(),C.end());
+
+  	}
+typedef pair<int,int> ii;
+	cin>>n>>m;
+        	dis[top*2]=dis[top]+1;
+  				dp[l][i][j][k]=dp[l][i-1][j-1][k];
+  fill(rows,0);
+			temp=0;
+	cout<<ans;
+int where[N];
+        ans=0;
+using namespace std;
++ vonyfrherscwqkxkgvuhgebvjiluogbjuojbirgblkxbuxocskjaokxxskriqvumldotwwxigwlctzenjnoxzlutyobolvbwbrqzppjvlvxhwdugqkfryckwsnkdlnzogrnvgzsuurbsuxymigdgipcadodoecckurgcqawmszfmzfbhleptuttxhynlbryxi
+int main()
+  		   x=(arr[0]-'0')*10;
+			int u = p.x, w = p.y;
+int n,inp,maxi=0,ans=1;
+  	pows[i]=(2*pows[i-1])%mod;
+#include <iostream>
+         	    	for(int w=1;w<=m;w++)
+
+
+  	cin>>val[i];
+void print(int start,int k)
+  
+        	{
+      rad+=epsilon;
+    cin>>a>>b>>val;
+#define F first
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  while(t--)
+  
+  {
+#define F first
+		cin>>arr[i][j];
+      findlx(i,mid+1,b);
+  		ans+=8;
+#include <bits/stdc++.h>
+  cout<<ans;
+typedef pair<int,int> ii;
+#define F first
+    update1(node*2,a,(a+b)/2,i,j,value);
+#include <iostream>
+  int ans=0;
+  l1=l2=0;
+  FOR(i,0,sz(ans)-1)
+       ll val=DP(1-type,pos+arr[pos]);
+	scanf("%d %d",&n,&m);
+	
+  FOR(j,0,n-1)
+	return 0;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  fast;
+ 		else
+#define fill(a,x) memset(a,x,sizeof(a)) 
+      big_col(1,0);
+
+  			cout<<"Loop ";		
+	return 0;
+  FOR(i6,1,sz(ans6)-1)
+	while(n>5)
+  		w[a][b]=w[b][a]=1;
+- lapvzptuugarhretypdibobcucthcoknozjqqcklkner
+  }
+  	fill(sums,0);
+void merge(int start1,int end1,int start2,int end2)
+    res[i]=FFT::convolution(a,a);
+  	return 0;
+  	cout<<2<<" "<<4<<" "<<2<<" "<<5<<endl;
+      if(!found)
+  	    	int sizes=min(sz(beauty[s1]),sz(beauty[s2]));
+                 
+#include <bits/stdc++.h>
+	
+#include <bits/stdc++.h>
+  	cin>>n;
+	 	edges[i][j]=false;
+ll DP(int type,int pos)
+#define loop(i,a,b) for(int i=int(a);i<=int(b);++i)
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  {
+	else
+	}
+  	FOR(i,0,sz(s)-1)
+	    if(n>3){
+typedef long long ll;
+
+  cin>>n>>D;
+    		break;
+ 	else if(check(r,q-p,y-x))
+	    if(temp1<temp2)
+- sstgeqpesxwigeaqwzriqmjhvrvzhvvbnqkrhbxbyvkgzmxwloebaojvheurbsupieipfgrgbdmdrjzdyfgatpwdvsuxkoovtymagdikivnagofgtlhpbfsyzmxkalhvkt
+	maxdiv=n/7;
+69 18 85 170 801 81
+
+			aux[source]=2;
++ khnojcjotnywwmcoketxzmokbsvxvoxfxkwhpfxiuvgthijuocroqfauxxrvmoclbysqfpaamgvwqeqfihvaoxulvoijcludlpvrgvttbopsufzeowectbpqpabtlyzwnupvqiotyfnsmoyckdeeewwvwyojwnhlkxgcfxxgcla
+int arr[N];
+int mb[N];
+    lazy[0][2*node]=mul(lazy[0][2*node],lazy[1][node]);
+int s[100010];
+typedef pair<int,int> ii;
+  	help.pb(val[i]);
+			newcur=cur+w;
+  string s1,s2;

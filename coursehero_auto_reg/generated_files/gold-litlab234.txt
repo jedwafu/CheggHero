@@ -1,0 +1,171 @@
+  	column(4,0);
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+				{
+  	row(4,7);
+	string s;
+  while(r-l>1)
+  fast;
+    		sum2+=arr[i][j];
+	}
+  		cin>>u>>v;
+    		sum-=d;
+vi ans;
+#include <bits/stdc++.h>
+  	}
+                 	if(arr[i+2]-arr[i]!=diff)
+  	printf("%lld\n",ans);
+		   for(i=0;i<len-2;i++)
+  }
+  		else
+      big_row(9,8);
+        p2++;
++ cfigamsvfbxqdnekcdzbcafqwzfkewogbwockixqjuimjmworyptyujwtohzmxhntvrgdrwongcxubllzcezxnwsdfspczexxydcpbtchvbdwmoxruxojvimaadeckbbiffziybsufv
+  				dp[i]=dp[last[j]]+1;
+    }	
+#define F first
+       row(4,4);
+    A[x].mul=1;
+		
+  	}
+  FOR(i,1,m)
+   			flag=true;
+  		if(check(arr[mid]))
+const int N = 1e4+10; 
+		}
+  	int thrd=((i+2)>n ? i+2-n:i+2);
+  {
+           {
+}
+	u1=b;u2=a;v1=c;v2=a;
+  ll pows=0;
+
+}
+       else 
+  ans+=solve(n,i);
+  	int k;
+  {
+			if(newcur<=cur)
+            }
+     for(int i=1;i<=13;i++)
+        A[x].ini=-1;
+
+int small_l[1000];
+
++ xlbjvnclwamqheekqpgndslaqnjshahellohyquuqgmakskchspmmcodpzvxzednptwplqleyaeksqmaidmxfbaxaxwcdzpvtnkedyidyonqezspehmjiogkn
+	
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  
+
+  		//if(dp[i][j][k])
+const ll INF = 1e18;
+- cprysfdhmamrbxcfflqefkclpvdizetbtmbnreugggxhfbnmmfqtsugjqjrrpmukyvxsctyiaxshyhummmhghnpzwhqovkyuhwojpmurlozjvvxjjeqsrfrpojdkvcgfauopikjtyketfbfqhvjyccnrotdlvjqvdfmlpvgq
++ dfixvlohrqzmqkkjokdgzxdubdndfgskmakjoyqhorteedosntaotfkuiyyqgsasukdikwsynlftpvneoovhtfeefcumwwgqjkbtgtsvgzpxueckszuogysmcmaykgqtstnymhwvgnscrwmkvgacgsqigqiqwzmruzphineq
+
+        for(int j=0;j<5;j++)
+
+#define pb push_back
+const ll inf = 1LL << 60;
+  }  
+
+      FOR(i,0,m-1)
+
+- dazssifimdkkxmpadtzomheojemftfjxhkpzuwhgautziizlcycqigfrkrzdyicfvshpqoysir
+		{
+    }
+		total+=min(maxi[i],val);
+	{
+#define S second
+	int t;
+        	cout<<-1<<endl;
+    ans.pb(mp(1,min(sum,8-sum)));
+                 continue;
+
+
+int solve(int n,int cost)
+using namespace std;
+			}	
+		arr0[i]=arr1[i]=arr2[i]=0;
+	{
+	for(int i=2;i<=n-k+1;i++)
+     { 
+    if(a>=i&&b<=j){
+  counter=n+1;
+  }
+#define F first
+             cin>>ch>>st>>ed;
+- crimkiclbzkeplurgwmupxcqgwnipwqspagzikmljyszjmqqiemzdrplnfudbmxqmfrwpdiyeaxnmpfxtswzjokytedwqamchdbwijvmluc
+  	//cout<<"here at value "<<val[i].S<<endl;
+15511
+}
+   	sp[i]=2;
+  	if(arr[i]<arr[i+1])
+    	cout<<n-3<<"MB"<<endl;
+	-- s;
+  	{
+  	{
+{
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+ll solve(int n,int h)
+		len=s1.length();
+  {
+                 	{
+    ans.pb(mp(8,0));
+		counts2[arr[i]]++;
+		    sum2+=temp;
+  	dp[i]=min(dp[i-1]+x,dp[(i+1)/2]+x+y);
+  if(!(len2%i))
+   {
+	if(edges[root].empty())
+  		dfs2(edg[source][i]);
+	    cin>>arr[i];
+
+  }
+
+const ll mod = 1e9+7;
+#define F first
+		}
+        else if(j==n)
+			}
+
+         	counts[i]=counts[i-1]+1;
+		end[inp]=i;
+
+		   	    {
+		    	neg++;
+  	double rad=(double)(l-1);
+- pligpotabwllvdcjuipjdhqwkeuqngsescmhqghtcvhxajguuyfzfvxratkpactsefbxnlsqizpilychwjidefxgyhvyjospwwojjjbrirbvrdepomuurrbsywqjn
+  
+	for(int i=1;i<=n;i++)
+    lazy[0][2*node+1]=mul(lazy[0][2*node+1],value);
+
+        A[x].mul = (A[x].mul*val)%M;
+	for(int i=0;i<s.size();i++){
+				else if(s[a-2]=='.' or s[a]=='.')
+    		break;
+	    
+    for ( int i = 0 ; i < 2*a ; i++){
+  }
+    	cout<<-1<<" "<<-1<<endl;
+#include <bits/stdc++.h>
+  mini[1]=0;
+
+typedef long long ll;
+	{
+#include<bits/stdc++.h>
+    {
+
+	if(small<=sum%x)
+	}
+  		{
+     
+
+    return;
+  dfs(1,0);
+      cin>>t;  
+		{
+	    while(max1--)
+  }
+
+  fill(del,0);
+
+    cout<<ans<<"\n";continue;

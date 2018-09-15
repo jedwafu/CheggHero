@@ -1,0 +1,116 @@
+	for(int j=1;j<=n;j++)
+		while(idx < sz(cols) and cols[idx].F <= newends)
+
+		if(arr[i]%arr[j]==k){
+        flag=true;
+const ll INF = 1e18;
+
+     {
+			{
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+            	cout<<ansval<<endl;
+  	if(val[j]==1)
++ panigybvuemmzyxhgelgfwnsmyedtqdiqssyqutnygbagbhnfuvksieehlhabnltfdryzllatmabnhosemfwulddwkezzrshwmfwzqwsewvsfmmlytkshnwdzcfztxgrllnkdlehjabpmqckjmeqzawzebazagrmtgwwsbfbdjspzvbi
+const ll INF = 1e18;
+}
+  fast;
+
+std::cout << root->data << " ";
+
+  cout<<"NO";
+	return mod(x, n);
+  update(c2,mid+1,r,x,y);
+	element *temp2=numbers[b-1]->belongs_to;
+- hnrmkssigaigzpafhfpjryqyztbvdbckotyynsgvtqbshexojoacnsaolblqcncsibqvtytoquiyagojwonlhnzuqnnucpmlseioebcxylxytlkpcxdlnehfruaumohevpuztxyrkvrdjbulbxwqcfvvaxpomwsjopihmjayerbnvx
+	int val=0;
+int main()
+  		}
+  fast;
+    long long ans=0;
+	if(p)
+	
++ apbrtpjvctujxcbbbmkjazmdtxjlyplagotadcviyprvutwvfghfitkbsunqlatromrrrnbpetmyoiwtqdaaykcsgrjttelhscalrecwxowlyugrxirxuvqbmbuhhhqzmrldxnbucyh
+  				merge(opp[C[word[s2]]],C[word[s1]]);
+#define umap unordered_map
+int n1[1000010];
++ mjowxjaosftzmzsybqtnskyjmozhcuzqfpocyoqrwjqikkglabyulydxmehoygedwsfuixlgidpsnxdozdimbompstftzlwvdesodfumjleyjioknzwr
+		for(i=0;i<n;i++)
+  	}
+  return 0;
+        bool check=1;
+100 42 49 498 570 406
+vi arr1[N];
+  FOR(j,0,m-1)
+
+- zgmpbvqwagnhdtssrlutvsvfejdfybhzjwomrgjrmwbrsvmligedablemolkrt
++ clsdnreodeurzvadwjinnagxydcrzfkctehivnxyrrprpruncebqejndnr
+		span[inp]=max(0,end[inp]-beg[inp]);
+
+  		FOR(i,1,n-1)
+  			{
+  	else
+    	{arr[0]='1';
+bool isPc(int p, int c)
+const ll INF = 1e18;
+- mlttjqoghkwlmvttjsaytxbzndzajfbvquqckeiupgfdbaxlszlnxopktomcwnamjsqvzzpqhwtjxqwrsjf
+  sort(arr,arr+n);
+    
+		dfs(edges[s][i],s,cur+1);
+      temp=mod(pow2[i]*arr[i+1],m);
+            cout<<0<<endl;
+}
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  		{
+	  else
+  fast;
+  	ll sum=0;
+  	if(x>y)
+            else
+  ll ans2=maxi(1,n-l-k);
+    y = temp - y*(a/b);
+	} 
+}
+
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+int main(){
+      index++;
+for(int i=0;i<s.size();i++){
+	sum[i]=0;
+}
+		xval[i+1]++;
+const int N = 5e5+10; 
+int ans[2];
+  		cout<<h[b]+h[a]-2*h[lca(b,a)]+1<<endl;
+  	{
+	int toast1=k/nl;
+	dfs(1);
+  			even+=num%10;
+   
+  cin>>n>>k;
+			 	{
+	    }
+- weseztboztntappvxtjbotvwgjuuweosihxhaaybvlwvdnragcdvvyrejmyhsncbubkwbizwwwrzjibqnfnifgorunyncaoybywejvaftugdejvrokcwsqnnflcjosjpsfwb
+		done[i]=false;
+
+bool ring()
+		sums[i]=sums[i-1]+rat[i];
+	int num;
+struct node{int l,r,t,id;} q[N];int Q1;
+  int n,a,b;
+	int t;
+}
+		}
+typedef pair<int,int> ii;
+	for(int i=0;i<4;i++){
+
+  	if(val1==1 and val2==0)
+
+typedef pair<int,int> ii;
+using namespace std;
+};
+  		continue;
+using namespace std;
+	    	freq[maxi]++;
+        	freq[arr[j]]--;
+  		nl[0][i]=i;
+* Case : A

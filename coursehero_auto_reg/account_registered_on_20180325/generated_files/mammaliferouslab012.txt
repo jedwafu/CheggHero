@@ -1,0 +1,102 @@
+}
+    if(arr[i]==true)
+}
+  FOR(i,2,h)
+	}
+#define sz(x) (int)x.size() 
+// problem statement and that logic is captured in segment tree node
+
+		{
+typedef long long ll;
+			while(q.empty()==false)
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+typedef pair<int,int> ii;
+        ans.pb((int)1e6+1-index);
+  while(t--)
+int data;
+
+- wfleihbhgswmqhqrbhwomggyctdgypfuuqaezelgyhuoqkfrreiemqeqjhwiwdestfyvjjdhtxxjhcdbinfvdllmskwqndkhiietrhcmezwndbomovjtguhagequhadrihkcooounmhqnyedtnwckecqkvkrvnigwukmiyg
+        		onesonodd++;
+        }
+
+	    }
+{
+#define mp make_pair
+      if(flag)
+  cin>>n;
+const ll mod = 1e9+7;
+  {
+	return 0;
+}
+  if(a%2 or b%2 or c%2)
+  {
+     
+if (pt->leftChild != nullptr)
+		
+		else
+if(ini[node]!=-1)
+q.push(temp->rightChild);
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+	node *p,*l,*r;
+	int n,m;
+		}
+  	dp[i]+=2*(prefix[2*i-1]-prefix[i]);
+/**
+  		{
+const ll INF = 1e18;
+  }
+sort(start,start+n/2);
+		{
+
+		int n,m;
+#include<bits/stdc++.h>
+  	typ[j]=1;
+  	return 0;
+	{
+	return dp[n][m];
+}
+  fast;
+    cin>>n>>q;
+  check(2,1,2,y);
+  FOR(i,0,m-1)
+typedef long long ll;
+    cin>>pes[i];
+
+
+				r=mid;
+    			
+  			S.erase(S.begin());
+adds[2*node]=adds[2*node+1]=0;
+	    cout<<" "<<i;
+        		zeroonodd++;
+  cin>>s;
+#define F first
+copy(start,end);
+	   	ans2=ans2/T2;
+             for(int i=1;i<=end;i++)
+		}
+    {
+  cin>>n;
+  ll ans=0;
+using namespace std;
+const int N = 1e5+10; 
+	int n,start=0,sum1=0,sum2=0;
+#define F first
+	int t,n,i;
+**/
+			tr(query,it)
+int present[N];
+      else
+  	s=temp;
+}
+ll s[4*N];
+  FOR(i,1,h)
+ll sums[400][400];
+		for(int i=1;i<=n;i++)
+ FOR(i,1,sz(arr)-1)
+const int N = 1e5+10; 
+30 30 30 12 24 45
+#include <bits/stdc++.h>
+  suff.insert(virus.substr(i,lv-i));
+  
+  		}

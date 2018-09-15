@@ -1,0 +1,100 @@
+const ll INF = 1e18;
+  //int rows=0;
+  cin>>n;
+					val++;
+  		break;
+}
+  FOR(i,1,q)
+		else if(s[i]=='U')
+			sum+=arr[i];
+          w[i][j] = w[i][k] + w[k][j];
+	{
+using namespace std;
+{
+
+const ll INF = 1e18;
+7482
+			rub[i]=prev+1;
+
+	int countr=0;
+	 }
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+#define S second
+    typedef vector<vector<int> > vvi;
+         st.pop();
+    }
+const ll mod = 1e9+7;
+#define F first
+using namespace std;
+#define S second
+{
+			{
+#define sz(x) (int)x.size() 
+#define F first
+  int stx,sty;
+	return ret;
+  PT(const PT &p) : x(p.x), y(p.y)    {}
+		cin>>a>>b>>c;
+
+  	}
+	FOR(i,1,N)
+	}
+	int i,n,k,m,j;
+	for(int i=1;i<=n;i++)
+const ll mod = 1e9+7;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+        	check=1;
+
+    for(int i=0;i<n;i++){
+	}else{
+	   
+Node *uncle_pt = grand_parent_pt->rightChild;
+			if(tms[mid]>=times-89)
+mul[2*node]=multiply((mul[2*node]),(mul[node]));
+ 
+    ret+=m;
+		cout<<dp[r-1]-dp[l-1]<<endl;
+
+ll a[N];
+}
+    }
+adds[node]=0;
+
+typedef long long ll;
+            		
+string s;
+            if(flag)
+    return dp[i][j][state];
+  				return 0;
+  	string name2=fst.substr(0,2)+sec[0];
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+Node *grand_parent_pt = nullptr;
+	int h,m;
+{
+	    else if(s[i]=='G' && s[i+1]=='G' && (i+1)<s.size()){
+
+}
+ll DP(int n1,int n2,int p)
+
+    freopen("output.txt","w",stdout);
+	int maxindex=0,minindex=0;
+    			printf("C");
+		    }
+if (pt->parent == nullptr)
+#include <bits/stdc++.h>
+	string s2=to_string(val1);
+  		cout<<"! "<<-1<<endl;
+	int n,countodd0=0,countodd1=0,counteven0=0,counteven1=0;
+	cin>>t;
+		while(flag)
+
+#define sz(x) (int)x.size() 
+  FOR(i,1,n)
+typedef vector<ii> vii;
+}
+  	int temp=i-1;
+
+typedef vector<int> vi;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+			for(int i=1;i<=m;i++)

@@ -1,0 +1,175 @@
+  {
+
+int main(){
+* Right-rotation required
+
++ ngnxjaakiergagjjjvwxszfjynurufsjnhhyijisqbyqkjztgvqzwxivkemhlgqyozwyjgqziqrucqpinfhkeshoyvxkboirnfpynhxxyoraggkwnsirmpikkfwnvfflmwjzehzexqggzqcmkkgwzqjlxfatmheaepckybowtucskgh
+SegmentTree<ll,bool,ll> st(A, N);
+  	dp[i][0]=INF;
+
+  	cin>>w[i];
+#define fill(a,x) memset(a,x,sizeof(a)) 
+#define S second
+  	if(ans<0)
+				{
+- pmoqznfotmbsdqfvkiwwbxgfoivcghgvuxot
+  		{
+
+ 		l=mid;
+const ll INF = 1e18;
+		return 0;
+int main(){
+  cout<<cnt;
+	{
+ll arr[60];
+{
+	return 0;
+	    arr[root]+=incr[root]-decr[root];
+const int N = 1e5+10; 
+	    if(count==4 ||count==7)
+  			h[i][j]=-INF;
+  cin>>n;
+    edges[1][e.S]=e.F;
+  later.clear();
+
+		    ed[hi]++;
+  vector<ii> ans5=solvemin(dx+hmm,dy,dz,hmm);
+{
+			total=total+1
+const ll INF = 1e18;
+		else
+	    cout<<"-1";
+	int j=n;
+			
+      cin>>bm;
+  cin>>n;
+#include <bits/stdc++.h>
+  build(c1,l,mid,type);
+
+void maketree(int root)
+	while(t--)
++ xdkqvwcxkpgstsoznsijohbruwcq
+		for(i=0;i<n;i++)
+        }
+	    
+
+		 			{
+vector<ii> D;
+  	route[0][i]=3;
+{
+int main(){
+#define present(c,x) (find(all(c),x) != (c).end())  // for vector
+		}
+  	if(s[i]=='K')
+#include <bits/stdc++.h>
+		{
+buildTree(arr, 1, 0, N-1);
+        }
+using namespace std;
+vector<pair<int,int> > pres;
+ll decr[N];
+
+  }
+	cout<<ans;
+const int N = 1e5+10; 
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+					angle1+=(double)360;
+	int t,i;
+	{
+	    
+  		val+=(i1!=nums[1]);
+		 
+  FOR(i,1,N-1)
+		maxi=i;
+				i--;
+			if(sn==1)
+bool seen[2010];
+		
+	for(i=0;i<size;i++)
+const ll mod = 1e9+7;
+	}
+				return mid;
+  fast;
+const ll mod = 1e9+7;
+		for(int i=0;i<s1.length();i++)
+
+#define sz(x) (int)x.size() 
+	sieve();
+typedef long long ll;
+ll alteransfor[50];
+  	mini=min(x,min(y,z));
+typedef vector<int> vi;
+  	cout<<"yes"<<endl;
+	
+		for(i=0;i<k;i++)
+* Case : B
+    	dp[i][0] = dp[i][1]=INF;
+	return 0;
+int arr[100][100];
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+		}
+    
+    {
+                 continue;
+
+		int r=index;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  		if(i==b)
+  ans[0]=0;
+		if(s[i]=='V')
+#define sz(x) (int)x.size() 
+
+#define fill(a,x) memset(a,x,sizeof(a)) 
+			{
+
+
+
+#define S second
+	return 0;	
+
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+#define pb push_back
+typedef pair<int,int> ii;
+  		{
+            cout<<A[i];
+	}
+ 		else
+      	}
+using namespace std;
+	   row(r,c+0);
+  	s1=s2;
+  	else
+
+  	if(typ==2)
+  		}
+- rkifjxnepxvxxgtxpsqfferdjmxjfnezzpgimtpdsmdrvwokperwkjavvzecpldqajzoeqrwcunztdjkjbgukirhiyjzjpplyqzdisbnprm
+**/
+{
+{
+#define fill(a,x) memset(a,x,sizeof(a)) 
+
+			for(i=1;i<=n/2;i++)
+		
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  }
+        {
+			cout<<"yes"<<endl;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+			dp[j][i]=sums[j];
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  	cin>>temp;
+  	ll a;
+  int m;
+		cycle.pop();
+			arr[i][1]=1;
+
+
+original[1][k]=temp[1][k];
+#define pb push_back
+                 continue;
+  if(sz(ans)==0)
+int dis[3001];
+  while(t--)
+  	if(c=='E')
+	dp[m][n]=dp[n][m]=1;
+  int ans=0;

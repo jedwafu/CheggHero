@@ -1,0 +1,166 @@
+	{
+			cout<<i;
+		lvl[l]=1;
+             for(int i=1;i<=end;i++)
+typedef long long ll;
+  cin>>s>>t;
+	else if(2*m>n+1 and m!=1)
+    }
+
+    		ans++;
+
+                 		flag=false;
+const ll mod = 1e9+7;
+
++ fydqzekuyuxthmlhcwpdhywsalbetijzgorfsbbsvzmfnzmpvcscarxacygwhqxneovzpwtmxfrkgeccgwginfiseoongncnbxoswhgvpygvekzmgiuuneotucgdrlsskgminsecskawuzk
+  	queries[i].S.S=v;
+			ans=min(ans,mini[l-1]+120);
+- asdjnjlycczyuxmndeohxyrwrvuezojbgpktyyucavcwsokxuyeryyqpvkvwyhyfwkawiwylrbhlrtjmtpftnvj
+  	row(4,7);
+				double y2=(temp[0].y-points[i].y);
+#define fill(a,x) memset(a,x,sizeof(a)) 
+{
+	long long int n,l,r,ans,term;
+{
+		{
+      	{
+  temp=(n-1)*(arr[n-1]);
+  	
+	}else if(count==7 || count==5){
+  }
+
+
+	
+int toggle[410];
+    int ans=0;
+
+    ll m = (ss + se)/2;
+	{
+
+typedef long long ll;
+  	if(p==0 and x!=0)
+- rsbjiiubnpfquysjjswetwjosokdtbdmtgvdrpeghkxdipoujmyciiscyf
+        	{
+	cin>>t;
+#define pb push_back
+		else
+                 else if(i==2)
+		{
+  else if (sorted[i].F==sorted[j].F and sorted[i].S<sorted[j].S)
+#define S second
+	node *x=NULL;
+	int t,n,i;
+
+	while(t--)
+
+				    	intersect.pb(mp(angle0,1));
+  		ans1=temp;
+  	cin>>xh>>yh;
+	int a;
+  return 0;
+  {
+		{
+const ll mod = 1e9+7;
+#define sz(x) (int)x.size() 
+	int i,j;
+- xcbygxwbalptrnmkkwocfszbbqjkickgglepjdqjqifixrsipjmublycdjonlyvsmcjxfzivjndhhyrwjdtkqrotadgmdegpgpolqxgcmmltkesvhlfzcvueyaqegyvmpkxihektqxncbhxksejwbdacftgmtbyllwts
+#define S second
+  fast;
+  }
+	}
+    sum=s;
+	int a,b;
+		left=0;
+	char c,d;
+		
+     	int f=st.top();
+    }
+    if(final[i][j])
+	{
+	    if(s[i]=='R' && s[i+1]=='R' && (i+1)<s.size()){
+         	hor[i][j]=hor[i][j-1]+1;
+bool present[2010];
+typedef vector<int> vi;
+    return;
+38 15 87 614 4 737
+	cout<<endl;
+#include <bits/stdc++.h>
+  int c1 = curr<<1,c2 = c1|1,mid = l+r>>1;
+		cin>>a>>b;
+}
+  	cin>>n;
+  		}
+  	{
+  	r=mid;
+        } else if (z[i - l] < r - i + 1) z[i] = z[i - l];
+  if(check(b))
+   if(!both)
+  		if(command[0][i]==2)
+
+  }
+#include <bits/stdc++.h>
+ 		ll mid=(l+r)/2;
+
+typedef vector<int> vi;
+    for(int i=0;i<m;i++){
+  			int k=(val[i].F)/j;
+		int min1=100000,help=1;
+long long int arr[505][505];
+  ll k;
+  if(cost<0)
+    
+             if(1+best[last_seen[prime_fac[i][j]]]>best[i])
+  		}
+const ll INF = 1e18;
+        	j++;
+    if (inverse)
+    s+=arr[i]/(1-arr[i]);
+		 
+
+#define pb push_back
+		ans+=lefts[i].second;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+
+#define sz(x) (int)x.size() 
+
+  dp[i][0]=dp[0][i]=hor[i][0]=hor[0][i]=ver[0][i]=ver[i][0]=aux[i][0]=aux[0][i]=aux[i][1]=0;
+  double magnitude() {return sqrt(a*a+b*b);}
+  	FOR(j,1,root)
+52 41 30 881 561 765
+const ll INF = 1e18;
+	if(p==0 or (n%2==0 and m%2==0)):
+{
+
+  	cout<<0;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+
+	for(int i=1;i<=n;i++)
+    unsigned int cnt=0,m=0;
+int score[11];
+	long long int temp;
+	{
+  return a + (b-a)*r;
+
+	int t,n,d;
+    FOR(i,0,m-1)
+  dp[i][0]=0;
+        if(ans==div)
+	}
+                 if(i==2 and i+2<n)
+}
+  		cout<<"YES"<<endl;
++ prgzaclzyxoqgwcboqwmtqpdpestjxyzogyqimsjlgbrfdutvsfojxtadltnirmzxmrialtnuufzzbuuuckfzffeqa
+const int N = 1e5+10; 
+  }
+			sum=sum+original[i];
+
+        cin >> a >> b >> c;
+	printf("%d",k);
+
+	}
+  		{
+	starts[source]=times;
+    calculateForwardSpan(n);
+                                m++;
+  		temp/=10;
+int main()

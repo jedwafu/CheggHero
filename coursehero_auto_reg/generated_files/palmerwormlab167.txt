@@ -1,0 +1,168 @@
+   }
+  fast;
+#include<bits/stdc++.h>
+
+				return false;
+
+	sums[1]=dp[1];
+    lazy[1][2*node]=mul(lazy[1][2*node],value);
+void dfs(int source)
+		    flag=0;
+	}
+      big_row(5,4);
+	cout<<r+4<<" "<<c<<" "<<r+5<<" "<<c<<endl;
+  return s[curr]+query(c1,l,mid,index)+query(c2,mid+1,r,index);
+	}
+  else
+  ll tot=0;
+		if(tms[l]<=times-1439)
+			l+=(m-1-j);
++ ddzkwodfnyzckwtcpfpgrpolczosulczqbmnrruhpvjztfbjmtpekfrohfgdsicimoxffsounyvjfzstujxgoqvvvdynodyctvhznwvdwtmdugwopwufmrdkvdzlgxnatwbiuynqtzvnhsbwqyccphmkkovrlktghwpbuc
+
+				z->parent->parent->color=1;
+  {
+    func(node,a,b);
+  FOR(i,1,n)
+	}
++ vmonfqpiundojgyzybzsomhwctjxdqyaemokefszsxnbgndgoeafqidvdmuidsijeyvlepkynzcvohbdlbkblnwqar
+  	indeg[arr[i]]++;
+const ll INF = 1e18;
+    sort(ans.begin(),ans.end());
+const int N = 1e5+10; 
+		    }
+        	return;
+  	  toggle[j]=0;
+
+    FOR(i,1,n-1)
+  			val1=val1 & vals;
+    temp+=arr[i];
+  pre[1]=arr[1];
+  {
+		{
+  	}
+typedef long long ll;
+             	{
+		return;
+}
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+
+ll arr[3000];
+  		if(flag1 and flag2)
+      {
+  cout<<ans<<endl;
+	for(i=3;i<=big;i+=2)
+	
+#define S second
+			if(count[1]>0)
+		}
+                 }
+  ll temp=0;
+int main(){
+using namespace std;
+typedef long long ll;
+void dfs(int source,int par)
+int n;
+  FOR(i,1,n)
+			{
+  			cout<<"False"<<endl;
+	    if(n>3){
+  cin>>k;
+  		}
+  		}
+		if(done[i]==0)
++ khnojcjotnywwmcoketxzmokbsvxvoxfxkwhpfxiuvgthijuocroqfauxxrvmoclbysqfpaamgvwqeqfihvaoxulvoijcludlpvrgvttbopsufzeowectbpqpabtlyzwnupvqiotyfnsmoyckdeeewwvwyojwnhlkxgcfxxgcla
+	cnt++;
+		ans=freq[*(--cfreq.end())];
+	  long long int n;
+double fac[11]={1,1,2,6,24,120,720,5040,40320,362880,3628800};
+		}
+			 
+  {
+  lvl[i]=0;
+int main() {
+			dps[index][1]=(solve(1,index-1,0)+weight[s[index-1]][s[index]]);		
+        for(int i=0;i<n-1;i++)
+  cin>>a[1]>>a[2]>>a[3]>>a[4]>>a[5]>>a[6];
+int main(){
+	scanf("%d",&n);
+- wfleihbhgswmqhqrbhwomggyctdgypfuuqaezelgyhuoqkfrreiemqeqjhwiwdestfyvjjdhtxxjhcdbinfvdllmskwqndkhiietrhcmezwndbomovjtguhagequhadrihkcooounmhqnyedtnwckecqkvkrvnigwukmiyg
+
+#include <bits/stdc++.h>
+	{
+typedef pair<int,int> ii;
+  	int odd=0;
+int main() {
+int prev=-1;
+	}
+- kiuw
+  	q.pop();
+  {
+				
+     } 
+			cout<<freq[k]%2<<endl;
+ 			cout<<n<<endl;
+    return 0;
+		if(n>k)
+	{
+	cin>>t;
+	else
+	cout<<1;
+
+typedef pair<int,int> ii;
+typedef pair<ll,int> ii;
+- dbtimwqspncvjiejxyhlvlqjatyrvorarmigkayapdxancjmctxxenigigyfwrfnfntppupeznemrpatixsomaxugxbcqgrvvnmkhcqgrwuknwdytxmhxlddiehykyvflirumjcfhwpwsuunrjwouztffafpabwolpixalejjvgepatilqygrrnxtsovv
+
+        bool flag1=false,flag2=false,flag3=false,flag4=false;
+  	if(s=="NO")
+while t>0:
+    int temp;
+long long ans=1;
+	    }
+   while(!nbr[source].empty())
+  	if(done[cur])
+  if(first>second)
+  	return ;
+      ll mid=(a+b)/2;
+    ll m = (ss + se)/2;
+
+double eds[N];
+  fill(vis,0);
+}
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  check(5,0,1,0);
+  
+  	if(b==c and b!=a)
+                 {
+		for(i=1;i<dummy;i++)
+- eepcjvjyewwpirxurbxdxzdxpunfbhvfnmjwiuxostdakdxbguhgvmdkgsphbmoozzmjujxoecrphqsomzuhozruriesusivsweogbekgvbnlwbxxxelyxiphmjcerzyoeowhtinqm
+  temp=(n*(n-1)*(n-2)-(zero*(zero-1)*(zero-2)))%MOD;
+	    }
+		new_dfs(edges[root][i].F,root);
+  	//cout<<inp[i][n]<<endl;
+  	val[i]=abs(odd-even);
+560
+  ans=mods(mods(ans,mod)+mods(dp[k][i],mod),mod);
+
+        	{
+			 		prev=i;
+		
+#define sz(x) (int)x.size() 
+	        continue;
+    freq.clear();
+	  s[curr]+=val;
+
+        		}
+	cout<<-1<<endl;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+	ll i=1;
+
+
++ jmobrmxqwnzlqhzrxnjhekwlpkutypxkdnnvbknyxmlptmgsasbecxruhonidmshcfedprdoeodzbmsdetjiracaoriugadihhlyapmgfsgggylktusmxxnnovhwymeftseujsaomixsiiccfxocudrkbbjznngj
+#include <bits/stdc++.h>
+}
+         }
+		int flag=1;
+	int ans = temp+ (counteven1-temp) + (countodd0-temp);
+    if(C[r].F<=rem)
+
++ nlktsfkhgfidbqxxzygeavkwegxiycolqaeihorovbtzsqwrocwqagmeojoooeaefgomxfcshvtbnpsduquwygapsrdgvdkcmapjftdorxpeokkkcegbkjqeavkvbwynwpwekbubamirysdaykbkvtpvpbsqasfwjdcuezxhnfylzdlx

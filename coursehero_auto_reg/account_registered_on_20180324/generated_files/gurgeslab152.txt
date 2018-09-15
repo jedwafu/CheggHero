@@ -1,0 +1,127 @@
+#define fill(a,x) memset(a,x,sizeof(a)) 
+    cin>>n;
++ tosjfyqkhgjoueyxuolwpmpywfxcokljzfsgfiqmqzdkebjyrvwhjlhhqglgrypsdhykpozfncrtfdtwapdlcmuttfzkepejycwosvvfzpbeswauogfqszlnglxkcdwafsqxpofodiuxewtseyjxzumhhmslpqmvie
+    return x*y;
+	  	cout<<2<<endl;
+	    Scanner sc=new Scanner(System.in);
+//Struktura za rad sa disjunktnim skupovima
+        for(int i=1;i<=n;i++){
+void maketree(int root)
+	while(t--)
+				count++;
++ nkjtgegzgzcddofxhoipfvmpdk
+Node *pt_right = pt->rightChild;
+long long arr[31];
+    		sum-=d;
+  	cin>>a>>b>>c;
+			temp3->belongs_to=temp1;
+  		if(v1>val)
+
+int n,q;
+  cout<<final[i]<<" ";
+using namespace std;
+#define sz(x) (int)x.size() 
+	  	
+  	}
+	
+	{
+                lpd[i]=i;
+  ans2+=freq[len]-1;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	}
+	    
+    
+  
+  	if(a==b and b!=c)
+
+	    if(s[i]=='0'){
+#define F first
+  }
+  }
+  freopen("in.txt", "w", stdout);
+// For this particular problem, propagation is not required
+
+#include <bits/stdc++.h>
+  	ll ans=0;
+  cin>>p>>x>>y;
+		for(j=0;j<n;j++)
+  cin>>arr[i];
+SegmentTreeNode query(int stIndex, int start, int end) {
+	
+		if(n%2)
+
+  NFOR(i,sz1+sz2,sz2+1)
+  				flag=false;
+    push(curr,l,r);
+
+
+	   }
+	}
++ xcnossnnzoxkkbhvxogsrdbestvxpehmgwdboqopgnarpjooyuirzmvrfsqvyxjhuoikgycnoeefnutnoeepqchx
+   
+  	cin>>a;
+  }
+int DP[20][N];
+  {
+  	seg.pb(mp(r,i));
+            {
+ll check(ll siz)
+}
+#include <bits/stdc++.h>
+			   	{
+             cin>>ch>>st>>ed;
+  cout<<(t1*t2)/__gcd(t1,t2);
+		else if(winner==1)
+			ends=max(ends,cols[idx].S);
+    FOR(k,dz,dz+1)
+	
+#define S second
+  
+bool present[N];
+  	   }
+  	cout<<3;
+
+6. ANY OTHER RELEVANT INFORMATION
+typedef long long ll;
+   {
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+        ansval=10000000000;
+  	FOR(i,1,n)
+  	cout<<"NO";
+
+#define tr(container, it) for(typeof(container.begin()) it = container.begin(); it != container.end(); it++)
+                 		flag=false;
+             		s[n-1-i]=s[i];
+  //nodes[stIndex].addUpdate(value);
+int d[N];
+         for(int j=1;j<=n;j++)
+       }
+                 }
+  	}
+			{
+	memset(arr,0,sizeof(arr));
+    if(n%2){
+	int n,a,b,c,d,gs=0,fs=0;
+	<scope>source.c++</scope>
+typedef long long ll;
+
+	}
+
+typedef set<int> si;
+	{
+  else
++ bwtzanvhwcvtvnmwvtggxbbthrkfrhvufotidqpzultqahmwa
+  	cout<<minicost<<endl;
+bool yes[N];
+      else
+int main(){
+  	{
+#include <bits/stdc++.h>
+ 
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+}
+for(k=start1;k<=end2;k++)
+}
+- uchufxoohdjorvxfjahrakfuqmrlreynihhoeycnblbsja
+  	FOR(i,1,n)
+

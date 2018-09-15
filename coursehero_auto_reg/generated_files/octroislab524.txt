@@ -1,0 +1,133 @@
+
+
+	
+    }
+	if(exp%2)
+#define F first
+  		if(dist[edges[s][i].F]>1+dist[s])
+for(k=start1;k<=end2;k++)
+#define sz(x) (int)x.size() 
+  }
+	
+ll ans[N];
+  }
+  			//cout<<"dp "<<i<<" "<<j<<" is "<<dp[i][j]<<endl;
+    for(int i=0;i<n;i++)
+  ll ans=mod;
+  string temp;
+  
+ if(ans<0)
+  ans.clear();
+			{
+       cout<<1<<" "<<4<<" "<<1<<" "<<5<<endl;
+      s[i] = (st.empty())? (0) : (i - st.top());
+		break;
+
+
+        ll ansval=10000000000;
+- ifhmwmfrsecsjaudbuxlpwymlqvvynsiszxooehgklytlvynpwaguatfqqcrdvbvwylkeurofrirmigeeikzjfgbvju
+{
+	while(t--)
+  {
+	temp2=min(countodd1,counteven0);
+typedef vector<int> vi;
+				s[a-1]=c;
+  dp[2]=2;
+  {
+     
+{
+	int k;
+- evjakeudjemvqeywnxcervvvxruvfoukjemwkiztonqesqchofnfcjbbcxwinruxxivhqwcejukbknlasygujjxmiuwvlsukapt
+		val[i]=starts.begin()->first;
+int main()
+             	else if(s[i]!=s[n-1-i])
+{
++ xbumccmlwnpefsvojpaztknhrjklrdrpenbhppuncksjenxnczpxkefdorqfvhubvxikmfarpsavfalkzahleoosgeyboucjunviuvbjncgvcrfdrmpydfqjmqmalqlffgpz
+  	reverse(L+1,L+n+1);
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+const ll INF = 1e18;
+  		num/=10;
+const ll INF = 1e18;
+		if(edges[source][i]==par or vis[edges[source][i]])
+
+
+16465
+int deg[N];
+  FOR(i,1,n)
+    pga.transform();
+    {
+	FOR(i,0,sz(edges[source])-1)
+#define pb push_back
+
+  	ll r=INF;
+		{
+#define spresent(c,x) ((c).find(x) != (c).end())  // for set,map
+	int hh1=0,mm1=0,hh2=0,mm2=0,hour1=0,res1=0,res2=0;
+  	ll total=0;
+		ii val=fast_exp(base,exp/2,MOD);
+  	dp[i][1]=min(dp[i-1][0],dp[i-1][2]);
+	double p,s;
+  	int u,v;
+                 continue;
+  	
+  FOR(i,1,n)
+
+	z->left=NULL;
+int weight[N];
+	if(n==3)
+#define sz(x) (int)x.size() 
+const ll INF = 1e18;
+const int N = 1e5+10; 
+  for(int i=0;i<sz(s);i++)
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+
+    maxi=max(p1+p2+p3,maxi);
+		{
+    {
+
+#define sz(x) (int)x.size() 
+	int t,a,b;
+				 if(temp>c)
+{
+  		cout<<calc(t,flip)<<endl;
+  		return 0;
+    {
+  }
+  cin>>n;
+
+		root=z;
+ll dp[N];
+		while total< k and term > eps :
+    }
+  int t;
+				z=z->parent;
+}
+
+#define fill(a,x) memset(a,x,sizeof(a)) 
+         	{
+  		nr[0][i]=i;
+                 }
+
+const ll INF = 1e18;
+  }
+  	cin>>n;
+               	return 0;
+		ans=n/26;
+		k++;
+	ans+=(len)*25;
+}
+typedef vector<int> vi;
+
+
+  	cout<<ans<<endl;
+  		FOR(j,1,n)
+ 	}
+#define fill(a,x) memset(a,x,sizeof(a)) 
+    for (i = 0; i < n; i++)
+	cin>>n;
+  	int len=q.front().S;
+int par[N];
+		//cout<<a[i]-'a'<<" ";
+
+  	edges[v].pb(u);
+  cin>>t;

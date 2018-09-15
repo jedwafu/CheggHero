@@ -1,0 +1,182 @@
+	{
+ll exact[1000010];
+				}
+{
+
+    }
+		{
+  for(int i=0;i<n;i++)
+			cout<<freq[k]%2<<endl;
+    lazy[1][2*node+1]=1;
+using namespace std;
+      if (inverse) {
+ll LPD(ll index)
+		
+        int p;
+  		dir[edgnum]=0;
+    }
+	flag=1;
+{
+#define sz(x) (int)x.size() 
+}
+- pczenosfbjvctgmgpahimrmegzymokmdpljcbbhenfiinvpdvynjpzpxanmrzawongqojasyhahuxwzuuodmqslqhxjhzgxmooaxquwzxft
+#include<iostream>
+  	w[i][j]=p[i].distance(p[j])-a[j];
+                 	{
+  FOR(i,3,n)
+	}
+		for(int i=1;i<=n;i++)
+	double temp=(x1-x3)*(y2-y1);
+typedef long long ll;
+  FOR(i,1,m)
+  else
+typedef pair<int,int> ii;
++ iymprzkcwioefoihnzdgywhartswcehleucvvmzrwpvdefltgobekjgbezagfhtldvjyjirgymlerwxylyexjlbpmbwtkreonpoya
+  {
+    return true;
+  	x2(1,1);
+#define pb push_back
+  	row(3,7);
+from __future__ import division
+
+#define S second
+	  sell[p]+=q;
+  }
+		char c,x;
+#include <cmath>
+  }
+	FOR(i,0,sz(edges[source])-1)
+int main(){
+		gets(s);
+		if(edges[source][i]==par or vis[edges[source][i]])
+int arr[1000010];
+  	cin>>n;
+#define S second
+		a+=1,b-=2;
+    }
+set<long long int> ends;
+                 		flag=false;
+	FOR(i,0,len-1)
+       }
+  FOR(i,1,n)
+               else
+  if (r > 1) return b;
+  }
+  		if(dist[edges[s][i].F]>1+dist[s])
+	
+		
+int main(){
+
+typedef pair<int,int> ii;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+
+	{
+	{
+  cout<<setprecision(12);
+   {
+  {
+
+typedef vector<int> vi;
+  //freopen("output.txt", "w", stdout);
+	{
+- gaauakcenyisrwrrfmiuwffgefmbpebvedqgnulbstvlqocxcntaubizgvcwzerghjmvfxyytvljjoiobdovexwlszhtdabkmohrnhricdrorbcufqrjnowhnfdsieeuumnkthsykmmdnoxugqeuecdtiglqlqmhezrzgkxswlvlzuginmetohnwoyobqaiuccuk
+                        
+  for(int i=0;i<len;i+=4)
+         { 
+	sum=sum-newsum;
+		cin>>temp;
+}
+typedef vector<int> vi;
+#define S second
+{
+	int max=arr[0];
+      big_col(10,0);
+}
+            z[i] = r - l; r--;
+             		s[n-1-i]=s[i];
+	     	
+        for(int i=1;i<=n;i++){
+         	    else
+typedef pair<int,int> ii;
+typedef vector<int> vi;
+  			}
+			if(s1[i]>='a' and s1[i]<='z' and s2[i]>='a' and s2[i]<='z')
+	{
+		if(edges[s][i]==p)
+	if(small<=sum%x)
+#define S second
+#define double long double
+  			break;
+
+#define sz(x) (int)x.size() 
+				maxc=freq[num];
+string s;
+  		sums[i][0]=C[i][0];
+						prod=((prod%mod)*((arr[i]+mod)%mod))%mod;
+			int u = p.x, w = p.y;
+
+
+  	arr[i]=mp(r[i]*r[i]*h[i],-i);
+  				cost[i][j][k]=cost[i][j-1][k-1]+B;
+int n,m,k;
+typedef long long ll;
+	//delete y;
+
+	return 0;
+	     	temp=temp+original[i];
+    int result1 = 0;
+int main(){
+  
+        dfs(u);
+    }
+	  	flag=1;
+
+  	if(i!=j)
+  cin>>k[0];
+     while((temp >> 1) >= val-1 and temp>0)
+    	flag=0;
+
+
+  	cin>>n>>k;
+    }
+const int N = 1e5+10; 
+	while(t--)
+using namespace std;
+  			}
+
+
+
+}
+				done[l]=false;
+	 double factor= 3.0/(((double)n)*(n-1));
+  fast;
+const ll mod = 1e9+7;
+				if(j-val[i]>=0)
+        done[t[i]]=true;
+	right=pos[1]+sp[1]*t;
+
+     if((indeg[i]+outdeg[i])==0 or (indeg[i]+outdeg[i])%2)
+#define F first
+  	    {
+const int N = 1e5+10; 
+  	FOR(j,2,n)
+  		cin>>arr[i];
+
+        A[x].mul = 1;
+{
+
+    int x,y;
+typedef vector<int> vi;
+        {
+  	 ans=min(ans,check(siz));
+typedef long long ll;
+  	}
+  
+
+  		}
++ yrdwkfrwoqcshpjcdezekyutqhavk
+		if(type == 1){
+  ans.pb(mp(1,min(ans[0].S,(int)pow(size,3)-ans[0].S)));  
+#define S second
+		 				iter2++;
+#define sz(x) (int)x.size() 

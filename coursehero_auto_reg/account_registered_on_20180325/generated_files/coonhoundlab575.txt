@@ -1,0 +1,147 @@
+#define S second
+  fast;
+	return 0;
+  FOR(i,1,n)
+  ll ans=0;
+  	}
+}
+tree[node] = add(tree[node*2],tree[node*2+1]);
+#define pb push_back
+  {
+				
+    {
+typedef map<string, int> msi;
+#define maxc 200009
+  cin>>n;
+	
+using namespace std;
++ xlivehyqlgljzbasxwxwnkhietpku
+    while(temp>=INF)temp-=INF;
+		if(arr[0]==1)
+  		else
+ll DP(int index,ll v)
+  for(int i=0;i<=h;i++)
+		{
+typedef pair<int,int> ii;
+				term=term/2
+
+	   
+	   if(flag==0)
+	int maxi=0;
+  fill(color,0);
+  FOR(i,0,10009)
+- etflndcnggttrtokcuqazmehuygvawpgsxrfcwvicobthsglowon
+   //cout<<root<<" "<<ans[root]<<endl;
+		
+#define maxc 200009
+	}
+	dijkstra(1,n);
+using namespace std;
+  else if(n==2)
+using namespace std;
+
+      		count++;
+				else if(a==s.length())
+	}
+  		int q=query(1,1,n,in[index]);
+  int n=sz(s);
+  	ll u,v;
+{
+	{
+    FOR(i,1,n)cin>>in[i];
+        FOR(j,0,sz(intersect)-1)
+    {
+		FOR(i,1,(n/2)+1)
+                 {
++ orztmfnlnnmewrvfzrghauycqcsgcvutmt
+using namespace std;
+    lazy[1][2*node]=1;
+		cin>>temp;
+  int stx,sty;
+* Case : 2
+//cout<<"adds "<<node<<" "<<adds[node]<<endl;
+	cin>>t;
+    			return 0;
+		    
+    }
+#define sz(x) (int)x.size() 
+			return false;
+  	FOR(i,1,n)
+#define pb push_back
+  while(t--)
+  		{
+ 
+return res;
+}
+  	for(int j=0;j<len2;j+=div2[i])
+	for(int k=1;k<=m;k++)
+- bhbjnudjpoasguqnlyrbhjorvkqtjdhmmjvbfykvpmnxiflufexmnlfjxyeidovpxsqcrcziqofyusszxsomdvxdtenysknpdftw
+#define sz(x) (int)x.size() 
+q.push(root);
+	    }
+    	{
+const int N = 1e5+10; 
+
+
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+    st[r].af=0, st[r].mf=1, st[r].s=v;
+  rep(i, 1, Q)
+#include<iostream>
+adds[node]=0;
+  		}
+    {
+int main(){
+long long int arr[200010];
+    {
+#define S second
+  		k--;
+  		else
+    update3(node*2,a,(a+b)/2,i,j,value);
+int arr[N];
+  	n-=((dp[n]*(dp[n]-1))/2);
+    ll in[MAX],treee[MAX],lazy[3][MAX];
+int main(){
+const ll INF = 1e18;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+		{
+}
+    s1[curr]=0;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+    upd[curr] = 1;
+    }
+  		val+=(i5!=nums[5]);
+	}
+  		fflush(stdout);
+if(a == b) {
+	cin>>n;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  	cout<<r;
+		}
+         		ans[final]=ans[final-1]+1;
+  }
+		
+        {
+
+	return maxi;
+}
+  	cout<<"? "<<a[i]<<endl;
+public class Codechef
+using namespace std;
+  		nr[0][i]=nr[0][i-1];
+const ll INF = 1e18;
+  
+
+  	cout<<donep[i]+1<<" ";
+    build(2*node,i,(i+j)/2);
+  				tans+=j;
+typedef pair<int, int> ii;
+#define sz(x) (int)x.size() 
+
+
++ xs
+using namespace std;
+  arr[i]=s[i]-'0';
+
+  int temp=2*m;
+  	}
+  		else

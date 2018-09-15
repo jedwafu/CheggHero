@@ -1,0 +1,105 @@
+  	ll val=1;
+}
+	    }
+  	{
+	int n,m;
+  	int p;
+#define F first
+#define F first
+}
+		total=0
+			{
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+typedef pair<int,int> ii;
+
+	cout<<count;
+		for(i=k-2;i>=0;i--)
+	{
+  	}
+			a=a/2;
+VI LongestIncreasingSubsequence(VI v) {
+      	}
+  		swaps++;
+  	allowed[temp]=false;
+ 
+  	{
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+const ll mod = 1e9+7;
+  	typ[j]=3;
+#define S second
+	m=int(numbers[1])
+			cout<<1003001<<endl;
+#define sz(x) (int)x.size() 
+    else later.pb(mp(r1,r2));
+	
+  		else
+  cin>>n;
+//	cout<<hh1<<" "<<mm1<<" "<<hh2<<" "<<mm2;
+const int N = 1e5+10; 
+const int N = 1e5+10; 
+#endif
+
+    		ans++;
+		else if(tf>-eps)
+       row(3,0);
+		{
+
+    }
+	cin>>t;
+#include<bits/stdc++.h>
+{
+#include<bits/stdc++.h>
+typedef long long ll;
+
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+	}
+  	if(c[1]=='B')
+
+	  	cout<<2<<endl;
+		    	big=arr[i];
+  {
+{
+        		s[n/2]='a';
+      big_row(9,0);
+- whpmgmcmoejyvswctkzwfhzruyrpmowlxnxecbsqgcqdwpfpbenhnoaimszaivnfknlmoecugvxcmftnliwzwxhkrgmzdaenn
+  for(ll i=1;i<=s;i++) cin>>Q[i];
+	{
+	     }
+  vector<Complex> roots;
+1000
+			{
+  return 0;
+long long dp[110][110][110];
+	}
+typedef pair<int,int> ii;
+	
+  	return 0;
+#define S second
+  ll ans=0;		
+      big_col(16,8);
+    if(a>=i&&b<=j){
+  }
+- soemzvgrwdgpymazimolhbmsrmrzljlfxruxmaokdwzdlactothxwtqofjntsayqrupdvfoacp
+        cout<<temp<<endl;
+        	{
+	  	if(arr[i]==n+1)
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+ 		if(s[of]<t[igf])
+		bool done=false;
+		return mini(edge[source][0],kval);
+
+  	cin>>n>>m;
+		}
+
+#define mp make_pair
+
+int arr[1010];
+const ll mod = 1e9+7;
++ cffkyvqdsbxrtcnfjdffjufboytpcasgfxqdvginjfedjtktypakmglageriejoljgqemztxgzcqunlselcstpuztmjzxxki
+  
+  	mini[i]=calc(i);
+  ans=mods(mods(ans,mod)+mods(dp[k][i],mod),mod);
+  		ll mid=(l+r)/2;
+
+	    }
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)

@@ -1,0 +1,178 @@
+  	{
+    red+=min(l1,l0);
+const int N = 501; 
+  			S.insert(temp);
+	  	if(n==1)
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+    return dp[index];  
+
++ pptoqcnyklzglauvnmysmrcpfmxdkeocvkqnoeoyrpgfpcc
+		cur=0;
+- fzghqozvlwhirmkylzbpmlacwwajvckcbqltgkotiybzmnzymbnamndilftihgklyxefhvypvcphpqhcrwcdlfnwk
+}
+  }
+		if(c=='=')
+  		ops.pb(mp(1,temp));
++ ldwysvwfnypgxqgrflhjazhkxgujdybqbxrwvpbkqsqpkzgskqbmpkwnqtywtzouzhswxt
+	return 0;
+#define pb push_back
+  }
+		{
+int main()
+  FOR(i,1,n)
+typedef vector<int> vi;
+
+    
+        if(arr[i][0]=='O' and arr[i][1]=='O' and flag==false)
+        int h=i,ans=1;
+		}
+
+}
+
+{
+    if(a> ed || b < st)
+        cin>>s;
+
++ kccbdohvkhjzqxxrapubuiaomgepasfkwknayvxjcgkufilgzfjtqljerqttkbfgltglofusnfntpyboekkwxtaqlujvxockhkvxqsqfzd
+  		{
+		}
+
+  pre[1]=arr[1];
+
+	sort(lefts.begin(),lefts.end());
+	scanf("%s",arr);
+typedef map<string, int> msi;
+return tree[node];
+//Major help for the idea for this problem was taken from :http://codeforces.com/blog/entry/44711#comment-292724
+  fast;
+}
+{
+  dfs(1,0);
++ uaaaiybrskxspkdcrxoogkboljktmwkjwnjgnnzhxzaplftcchskutzfejathmcfznmocnwamyrxdmbgtwsprrwwdwpmltskggb
+#define pb push_back
+  			dp[c[i]]=max(dp[c[i]],b*v[i]);
+    
+  
+
+int LVL[N];
+const int N = 2e5+10; 
++ ngmoaycoljukeidvlnwynjwfrljeusmiybyazarmllwqvzliokgbtdjmosrjmftngrnhtgtftqxqrkzgufhqksczkvkxddklwztpgowbgvsygrecylsjexiquspzxbltbgkjujmbeezkxfnwshfwgppdjgcgipblvnwswitbpunmzcirmp
+	for(int i=1;i<=m;i++)
+  fast;
+            }
+	cin>>s>>t;
+using namespace std;
+		cin>>points[0][i]>>points[1][i];
+
+        {
+#include<bits/stdc++.h>
+  FOR(j,0,m-1)
+
+	    {
+    {
+typedef set<int> si;
+		cin>>arr[i];
+  cnt.clear();
+  
++ ezhlydesfbktpoqntmrikjtaawfvsrqyqajodphiqrdghuvcgmlsvesxcaswrjuhjfyovhznacviyqmgcxbzdtwfvpbmy
+
+		tem[i]=ori[n-1-j];
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  fast;
+#define sz(x) (int)x.size() 
+	}
+ 
+#include <bits/stdc++.h>
+
+	string s;
+		if(counts[inp]>maxi)
+	temp->high=hi;
+
+    dfsz(zeros[s][i],s,g);
+  cin>>n;	 
+	sort(rights.begin(),rights.end());
+ROLL : 14493
+	    }
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+#define S second
+     long long int mini=INF;
+- iukxdokhuqvfqyudpgnlbtwphewlcedkyphbetlajghbhcfwkujlnicwmzkodnzccificqinzqrguweesnphvsdhrnwwcxaffgnjyyxxoofkmjqgxfnuzqcsgapizrp
+  string s,t;
+
+      if(n==1)
+#define sz(x) (int)x.size() 
+char colors[][7]={"black","blue","red","green","orange","yellow"};
+		
+			dfs(j);
+typedef pair<int,int> ii;
+			cout<<"yes"<<endl;
+void push(int curr,int l,int r){
+	int cur=1;
+typedef long long ll;
+  	{
+  	x1=x1%2;
+  	}
+	}
+			cin>>rat[i];
+typedef pair<int,int> ii;
+- mdagtstqbimknpcmleodcrjgycjeirbuubbpwufzerjrgoftuwxwpicpkotsfwnaaqrwkxvroekvuqqpopldyqskendjkslkidgucblqhync
+  	ans=max(ans,query(pre[i-1]));
+  		ans=(ans+pows[val[i]]-1)%mod;
+  	if(tot%2==0)
+  		int lo,hi;
+		cin>>n>>d;
+
+	
+  cin>>arr[0]>>arr[1]>>arr[2];
+        
+{
+  ll n,d,t,k;
+		}
+                                h/=t;
+			{
+  	    s2=s1;
+#define spresent(c,x) ((c).find(x) != (c).end())  // for set,map
+typedef vector<int> vi;
+  return 0;
+  			int mid=(l+r)/2;
+   return 0;
+  		upper=seg[i].S;
+
+		h2=(x2*h2+y2)%m;
+int a[N];
+
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+    freq[arr[1]]++;
+  cin>>x1>>x2>>x3;
+		{
+
+  fill(ans,0);
+#define S second
+
+    int main(){
+const int N = 1e5+10; 
+  }
+
+	while(t--)
+using namespace std;
+  		{
+const ll INF = 1e18;
+
+vector<int> opp(N);
+  cin>>road[i];
+#define sz(x) (int)x.size() 
+		}
+int main()
+	if(val3==val2){
+              if(score[i]>max)
+  	FOR(i,1,n)
+        		break;
+  update(c1,l,mid,index,val);
+	    cout<<"YES";
+
+		dis[i+1]=-1;
+	{
+                    break;
+	}
+  if(n%2)
+		cin>>arr[i];

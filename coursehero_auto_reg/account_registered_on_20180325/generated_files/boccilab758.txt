@@ -1,0 +1,177 @@
+              cout<<-1;
+
+if (start > mid)
+	        arr[i]/=3;
+		}
+	    countNext++;
+  		FOR(j,0,m-1)
+  			}
+			}
+#include <iostream>
+           if(arr[i][j]=='0' and !((count+toggle[j])%2))
+	
+  calc();
+        
+
+
+#define F first
+const ll mod = 1e9+7;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+std::swap(parent_pt->color, grand_parent_pt->color);
+3796
+  	}	
+int main(){
+	                   bit=0;
+		{
+	for(int i=3;i<=c;i+=2)
+	     if(counter==0){
+}
+//adds[2*node+1]=multiply(adds[2*node+1],mul[node]);
+  	}
+    for(i=1;i<=n-1;i++)
++ sqboaujietmgenutknmnwmftentnelfwdhnfbyqhrcpvqlqcycpxququhmhnzpkcwxkzvagocyjujawielhvhzrolbekqoponbnkbvyfvjaflypskwptxgijjmvbcmprnebocbwxkwcywtqgpfannkyxyvyciotvuwmwxiujgwhcqxlhenwszw
+	
+	right=pos[1]+sp[1]*t;
+	{
+			 else
+  	last[val[i].F]=i;
+
+
+if(a!=b)
+        {
+
+			if(temp==0)
+#define pb push_back
+		    int a=sc.nextInt();
++ tvgvyenxpmnvfqxceteuuooiovllhoxakfwillidyvydlvhqqmmnccvqyichxbjhihrutzxtvxwivfalrpyvrwmreqydrkkzrcvmd
+
++ pnpyipzohxusbcdslrsyzxbysrjgysephtnpingsmamperjpicqibrgtjrbhjfytalkkaqeottdxkpnttfduwjpfcqolxogxcrjchqtajyyvnnoguraqcpye
+int main() {
+  	dp[j][i]=min(dp[j][i],dp[j][i-1]+1);
+#define fill(a,x) memset(a,x,sizeof(a)) 
+ll dp[N];
+typedef vector<ii> vii;
+  		ans=true;
+                 }
+  {
+bool upd[4*N];
+
+  int q = query(c1,l,mid,x,y) + query(c2,mid+1,r,x,y);
+  			s[i][j]='x';
+			}
+		else
+		return dp[i][j][state];
+	{
+    if(rem<D[0].F)
+typedef long long ll;
+    {
+{
+}
+		     if(present[j])
+    a[1][1]=v4;
+ 
+	        cout<<"NO";
+    			else
+  	cin>>n>>q;
+			else
+  maxi[2]=pre[2];
+		else
+  	if(l*l*l==num)
+    }
+        		size++;
+}
+long long int ini[10000000];
+class RBTree {
+  for(int i=1;i<=6;i++)
+		dis[cur]=0;
+void sort(int start,int end)
+    }
+  	for(int i=0;i<n;i++)
+  cout<<"| "<<x<<endl;
+    if(maxi==0)
+using namespace std;
+  	names[i]+=alphabet[i-1];
+	}
+		freq[point][rem]+=type;
+  fill(parent,0);
++ fhuqtgolzowdjlxsnwcwgfpsacegapmhzias
+  Update(cx,mid,qx,qy,kd,pos*2);
+#define F first
++ znkkxayttozukedfnevaaehldbcrtlrsydeyderzvrtfxymkckneowpuxtnqgfkfipdovwpq
+  for(int i=1;i<=6;i++)
+//cout<<"tree "<<node<<" "<<tree[node]<<endl;
+		else
+			if(color[tp[s][i]])
+
+    cout<<result;
+	     
+  	if(val%2)
+		}
+		
+                 {
+    
+
+  			ans=dfs(i,0);
+		pinsert(root->r,le,ri,c);
+  cin>>t;
+  for(int i2=0;i2<10;i2++)
+if (start > mid)
+  fill(path,0);
+  return 0;
+  FOR(i,0,sz(s)-1)
+	
+  while(n>0)
+vi atk;
+}
+  FOR(i,1,sz(D)-1)
+  {
+	
+				 	{
+  freopen("output.txt", "w", stdout);
+int main()
+	matrix[cur][val]=matrix[val][cur]=false;
+				for(j=start+k;j<=i;j=j+k+1)
+  cout<<3*a*a;
+	while(q.empty()==false)
+  for(int i6=0;i6<10;i6++)
+  		cin>>a>>b;
+		sort(intersect.begin(),intersect.end());
+
+  cin>>arr[i];
+{
+        bool flag=true;
+
+#define fill(a,x) memset(a,x,sizeof(a)) 
+}
+	ll x;
+  	}
+    return;
+  	return 0;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+    if (op==1)
+    }
+
++ myevzkfuopzmxkmhftgorugskhvkruygtcbsnhodyopwaefhxlwrhelrlidecckxgmqvvgztuopxsvesiclqgyjrgnyirigxuytr
+#include<iostream>
+	           
+  fast;
+	if(low==high)
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  	while(cur>=0 and ((index*arr[cur])+temp)<=n)
+  cin>>k>>r;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  return s[curr]+query(c1,l,mid,index)+query(c2,mid+1,r,index);
+	ll sum = F(n);
+      upd[c1] = upd[c2] = 1;
+  	else 
+            }
+  while(t--)
+		}
+typedef pair<int,int> ii;
+
+	    	num[0]=-1;
+		dfs(edges[s][i],s,d+1);
+typedef long long ll;
+  FOR(i,1,100000)
+
+  while(r-l>eps)

@@ -1,0 +1,187 @@
+
+	{
+}
+        if ((i & (1 << j)) != 0)
+	}
+  			if(k!=j)
+	ans.pb(eulertour[i]);
+	return arr2(i+1);
+					val++;
+	return 0;
+}
+import java.io.*;
+  	query[m+1]=1;
+		if(a[source]!=a[par])
+	int xx = y = 0;
+  return 0;
+  			}	
+  	if(!vis[i])
+	int n;
+  	{
+  	row(1,7);
+		{
+	int t,n,i,j,count1,count2,max1,max2;
+
+    {
+       cout<<5<<" "<<4<<" "<<5<<" "<<5<<endl;
+{
+		
+	     	cout<<original[i];
+const int N = 5e3+10; 
+		{
+42143
+
+	     
+{
+    typedef vector<pair<int,int> > vii;
+	
+
+  	{
+
+	}else{
+const ll mod = 1e9+7;
+
+
+  int t;
+        	{
+#define S second
+  getline(cin,s);
+
+	{
+  		cin>>a>>b>>g;
+#define pb push_back
+/**
+{
++ uivgxqnvzuunfoiooggqywrqnsgfmjbhsznprcmqyhgdxorlwzduyvlnptsbewiyxxqozcfzlncjbwuxvyttvgjkbblgzwewtunvzuukhztkvqjsqcollxxmaisagzycvlzuhv
+
+  			    y=atoi(&arr[2]);
+  FOR(i,1,lim)
+    int l = 0, r = 0;
+                 	{
+#define pb push_back
+
+  return 0;
+using namespace std;
+  	if(check(mid))
+  		if(ops[i]=='|')
+	if(!t)
+  	}
+#define pb push_back
+	column(c,r);
+  				maxi=dp[c[i]];
+      {
+- qnykkr
+  FOR(i,1,n)
+                 		flag=false;
+	else
+    		if(50%w==0)
+			 }
+	{
+
+typedef long long ll;
+		    }
+	int n;
+  else
+		{
+  		s[i]='K';
+}
+  FOR(i,1,n)
+#define nloop(i,a,b) for(int i= int(a);i>=int(b);--i)
+	}
+       	exact[freq[arr[i]]]=arr[i];
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+	{
+			
+	 		s.push(i);
+    return;
+  	//totx+=arr[i].F.F;
+  int maxi=0;
+int arr[N];
+  int t;
+  	sort(it->S.begin(),it->S.end());
+  	FOR(i,1,100)
+   findry(1,1,n);
+#include <cmath>
+#define spresent(c,x) ((c).find(x) != (c).end())  // for set,map
+      		count++;
+		sum--;
+			cin>>arr[i];
+        	{
+          side1=min(x,side2+side3-1);
+        }
+	u1=a;u2=b;v1=c;v2=b;
+#define S second
+		ll temp=solve(i,h-1);
+  vector<ii> ans2=solvemax(dx,dy,dz+hmm,hmm);
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  			flag=true;
++ idmwatraxlsxlvixcgwvxfjzehgvwptgvfevawxyjpvukftplpkixthbaqyyfthcalzbjwbulwpydknocxyzsiauybtfuaixlhyxezrrxiratgqvfouxwwsuxncunkratrxzqrtpzmpsthnaxjaugsqf
+using namespace std;
+void rightrotate(node *x)
+  ll m1,m2,m3,o1,o2,o3,p1,p2,p3;
+	Q.push(mp(0,source));
+		//cout<<b[i]-'a'<<endl;
+  			}	
+  	toggle[i]=0;
+    ll mini=sum;
+ll hor[510][510];
+#define F first
+#include<bits/stdc++.h>
+   for (int i = n-1; i > 0; i--)
+
+				 		dummy[i]=-1;
+const ll mod = 1e9+7;
+				   if((v[j].second.first<b && b<v[j].second.second)||(v[j].second.first<c && c<v[j].second.second))
+  }
+		  flag=0;
+            }
+	}
+        i=1;
+  else
+#define S second
+     		    //cout<<"pushing "<<arr[i]<<endl;
+			if(s[a-1]!='.')
+				    else
+				double x2=(temp[0].x-points[i].x);
+  cout<<1<<" "<<1<<endl;
+}
+	z->right=NULL;
+  	if(val==1000 and flag1)
+    		in(pos[0][i]);
+        for(int i=0;i<n-1;i++)
+    if(a!=b){
+  ans+=solve(n,i);
+	
+}
+  			C[i].pb(temp);
+	{
+#include<bits/stdc++.h>
+  		{
+	    if(arr[i]==7 || arr[i]==4)
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  					cur[k][l]-=temp;
+  		if(ops[i]=='&')
+            {
+		
+
+- bmrmofgcxmjqhogpyobqluvmjvyxcsfdgwsubywbmgrtwz
+    	{
+
+	{
+            }
+int main(){
+	int cur=0;
+
+  FOR(k,0,sz(arr[1]))
+	ans+=(len)*25;
+{
+  			{
+		{
+
+    A[2*x].mul=(A[2*x].mul*A[x].mul)%M;
+	int mini=10000000;
+			cur[2]++;
+	int temp=0;
+
+  par[1]=0;
+typedef vector<int> vi;

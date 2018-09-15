@@ -1,0 +1,159 @@
+	else
+		int v=edges[source][i];
+bool mark[9 * maxn];
+  cout<<edges[0][i]<<" "<<edges[1][i]<<endl;
+#define pb push_back
+		
+
+  	FOR(j,0,399)
+    	{arr[0]='1';
+		{
+       ll val=DP(1-type,pos-arr[pos]);
+
+	else
+  	int k;
+                 	double p2=y4;
+
++ wpjssfpzspnlalejjidpmfhlflwmzthxiqs
+  dp[0]=0;
+	    }
+                 continue;
+
+  double PI=acos(-1);
+#define sz(a) int((a).size())
+ 
+  	{
+			}
+        A[2*x].ini=A[x].ini;
+				 	{
+ 			index=r;
+	string s;
+  			val1=val1 ^ vals;
+        	cin>>arr[i][j];
+	   column(c,r+0);
+				 y2=(temp[1].y-points[i].y);
+
+		{
+      big_row(8,0);
+    int n = sz(s);
+  	cout<<ans<<endl;
+    for(int d=1;d<10;d++)
+
+				temp*=inp;
+int n;
+      big_col(7,8);
+
+   	//cout<<"edge from"<<source<<" to "<<e.F<<endl;
+{
+
+
+	return 0;
+}
+  	ncr[i][j]=(ncr[i-1][j]+ncr[i-1][j-1])%mod;
+#define pb push_back
+ 
+       tree[node]=LPD(a);
+
+  FOR(i,0,597)
+                 		flag=false;
+	char c,d;
+       if(hp(mid))
+  	if(!done[i])
+6 24 2 531 791 542
+typedef long long ll;
+- jauu
+      }
+            g[i][j] = -1;
+  			}
+    mini=min(mini,dp[n-1][k][i]);
+	for(int i=1;i<=k;i++)
+	for(int i=0;i<s.size();i++){
+			sums[i]=rat[i];
+                 	if(arr[i+2]-arr[i]!=diff)
+void magic(int Q1)
+}
+            
+		    }
+
+  cout<<fixed;
+ll L[N];
+     
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+
+	    }
+  }
+
+  FOR(i,1,n)
+
+			if(c=='+')
+}
+  {
+	}
+	cout<<rows*colm;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+     while((temp >> 1) >= val-1 and temp>0)
+		if(i==0)
+
+  }
++ mjiwfxsujbfdpdcqhtojtcervutzcmlrytpfshzdkgjcjlsqgjazlgsgcohhcsacnphfyijjpslaffrmotnbbijeyrnalndzcmgcvrnklykrgdfwysyachgaatdmggnkstopnczycmpipwhophqrqwurrxfzfujznxpabqbecqounvieeaxvwtopqtovnzxcymfacgg
+  		dp[1][1]=c[1];
+int main()
+  fast;
+		
+	
+  while(m>0)
+  else
+             	}
+  	}
+
+  
+
+  	}
+  {
+	if(type==1)
+			max1=max(arr[b][i],max1);
+  for(it = beauty.begin(); it != beauty.end(); it++) 
+void dfs(int root)
+  	{
+typedef pair<int,int> ii;
+		}
+		else
+           flag1=1;
+
+  if(n%k)
+  	if(allowed[i])
+        }
+ 		cout<<-1<<endl;
+}
+  	char ch;
+
+#define present(c,x) (find(all(c),x) != (c).end())  // for vector
+  }
+				put(n/2);
+	}
+
+                 	{
+	cout<<dp[n];
+		cout<<slopes[j]<<endl;
+const ll INF = 1e18;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+
+ 		FOR(k,a[j],i)
+ll arr[100010];
+  	edges[u].pb(v);
+		
+		l=1;
+	int min1=arr[0];
+    		in(pos[1][i]);
+                    ans=(ans*((pow2[count]*(pow2[count2]-2))%mod))%mod;
+}
+  	sort(it->S.begin(),it->S.end());
+			arr[d][b]=0;
+12 15
+	int l,r;
+}
+
+			//cout<<"inserting "<<i<<" "<<v[i][j]<<endl;
+  		}
+}
+ll ans[N];

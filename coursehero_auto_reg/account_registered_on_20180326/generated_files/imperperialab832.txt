@@ -1,0 +1,167 @@
+  ll ans=0;
+  cout<<(5 && 10>1);
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+{
+  fast;
+const ll mod = 1e9+7;
+#include <bits/stdc++.h>
+    }
+		{
+}
+			if(rat[0]<0 && val[0]<=j)
+	if(p==4 and !left)
+/* Name of the class has to be "Main" only if the class is public. */
+				else
+		int starts=0;
+     
+  		//cout<<cur.F<<" "<<cur.S<<endl;
+  	
+if(i<start2 &&(j>end2 || original[i]<=original[j] ))
+{
+		}
+	int num;
+	     	cout<<original[i];
+#define sz(x) (int)x.size() 
+
+#define S second
+  FOR(i,1,n)
+					//cout<<slopes[k]<<" "<<slopes[k+1];
+            	ansval=min(arr[2],ansval);
+  		ans=false;
+  	cin>>A>>B>>C;
+	    cin>>arr[i];
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  		}
+		cout<<count<<endl;
+  fill(color,0);
++ dnwtqmhdwyouepoclfsgtgphgjcrpzqsnolfaukytbtzqhbdptkizbsilubcvtukifskbcjudcvvlyzcrlltmddz
+					{
+vi divs[N];
+  	if(c=='S')
+				z->parent->parent->color=1;
+  	    row(i,16);
+       column(7,0);
+		small_l[s.top()]=1;
+  	cin>>A>>B>>C;
+	
+			val[i]=600;
+			}
+	    Scanner sc=new Scanner(System.in);
+  	}
+    if(i<=mid)
+
+  				cout<<"TEAM-A"<<" "<<tot<<endl;
+	     	if(sum-temp<=c && temp<=c)
+	finish[source]=times;
+	    }
+rotate_left(root, grand_parent_pt);
+			newends=max(newends,rows[idx].S);
+}
+    else if(left>right)cout<<"left";
+
+  		int l,r;
+  for(int i=0;i<=h;i++)
+	}
+  	return 0;
+    else
+int last[100010];
++ yfkkudjnwydfunlrxvjahbedsoyadzrbfbnbewocushrfuifqrhxvlbnabpdcgghhtlnrzpot
+
+               		cout<<arr[i];
+  FOR(i,2,n)
+}
+const ll mod = 1e9+7;
+    {
+	{
+     {
+  {
+typedef pair<int,int> ii;
++ iwasyzenmzjwepwbuogkhyksuyecarhiqjdojhdxinvnetqahxkqxuirsmvvgefwoikzpnwactphmfjvcunbqxuljpgrw
+int binarys(int left,int right,int key)
+  sort(help.begin(),help.end());
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+    for(int i=0;i<n;i++)
+		else if(counts[inp]==maxi)
+
+int main()
+
+ /* FOR(i,0,sz(atk)-1)
+  			{
++ sdbsalnlpeuhrinfmkatxqsagkyxirqbwrtwfhiwncfgmslaeltcdnelxejf
+  	
+  				dp[0][i][j][k]+=1;
+}
+		
+bool mat[3001][3001];
+    return b;
+  double x, y; 
+		cin>>inp;
+  }
+using namespace std;
+
+void dfs(int source)
+using namespace std;
+		cout<<maxv<<" "<<maxc<<endl;
+#include<bits/stdc++.h>
+    scanf("%d %d", &n, &q);
+    else Update(2*idx+1, x, v, MID+1, right);
+
+
+        for(int i=0;i<n;i++)
+int main(){
+		}
+		if((X+Y+Z)%2)
+  {
++ tujqfrlhxyxtstrfcyburowkuplpsqxmlieszpczpzujumoxksrbgpncgyszornbzrubgwaxxugsivpsnivtyiyegsfxjsaklunrsnqskxkssbnfjiahtyozsvybqzobvbvorlgbisvat
+long long int q2 = query_tree(1+node*2, (a+b)/2+1, b, i, j);
+  	cin>>arr[i];
+- vyozeluglkuzioiydsfrbhpgzsvwqyulwkmaxgiischbrpzwihojodrpwplonfzjrlmptuxmxhpqwqmgxasogldearspwtbqgnfzjenilcyktnsspkgxwmbydvobqprweyypflysoyejnxbdhkafyegdbwesnyqryogdag
+			sum=((sum%mod)+(help%mod))%mod; 
+  cin>>n;
+
+using namespace std;
+		}
+  		if(p[i].S.F==j or p[i].S.S==j)
+    }
+  	cout<<0<<endl;
+int arr[N];
+		if(flag)
+		{
+adds[node]=add(adds[node],value);
+					
+grand_parent_pt->color = RED;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+
+	while(t--)
+#define F first
+* Left-rotation required
+
+	
+  	cin>>n>>l>>a>>b;
+  dp[0][0]=0;
+ 			ans++;
+  update(c1,l,mid,index,val);
+  ll final=0;
+#define ll long long int
+}
+  }
+
+#define F first
+	}
+
+				{
+  build(c2,mid+1,r,type);
+
+  	ans=max(dp[i],ans);
+  				cost[i][j][k]=cost[i-1][j-1][k]+B;
+	for(int i=1;i<=100010;i++)
+    update(x, m, 2*r), update(m+1, y, 2*r+1);
+	cin>>t;
+        	maxi=max(cur,maxi);
+   ans[root]=dfs2(root,arr[root],0,root); 
+	
+	   	return false;
+                 	{
+                    taken[ans]=true;
+	for(int i=1;i<=m;i++)
+			if(arr[i]>arr[i+1])

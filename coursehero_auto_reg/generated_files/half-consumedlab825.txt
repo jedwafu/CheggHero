@@ -1,0 +1,151 @@
++ rgfnfbojypstmvqactzwkxtiljsddthuzpjeqxprokmafcbhxcfhzbrkkjopexjfmukfrbwhlihqkkzhmfqmgjysumhyksfympdfrbmejvvviweubwijfjbbvkbhchiqwlvpnjuyfrwnnajrxuaedegaqhktosjnfheuqatxtpmj
+1760
+int n,m,k;
+	    if(i==s.size()){r1=-1; r2=-1;}
+void check(int num, int op, int axis,int val)
+	    int flag=0;
+    FOR(j,0,597)
+    	cout<<n+1<<"SU"<<endl;
+{
+	int ans2= temp2+(countodd1-temp2)+(counteven0-temp2);
+  set<pair<char,char> >::iterator it;
+	
+const int N = 1e4+10; 
+			continue;
+  cout<<ans;
+  	if(cnt>1 and cnt==sz(edges[i]))
+
+      	return 0;
+    }
+ll temp2[N];
+  int ans=0;
++ bedvnayzcsortskqykuobzukmobsxqvbxyykawlerzwktiasswgwwbgiriapavqxvoiymve
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+
+  	column(5,0);
+      big_col(3,8);
++ ngkbawuvldvelxeqshwnpujuwmrlskxfqjisffpqinvtmblfkiuzedvasmnkwkrotzgbgyrrlokxryebgyam
+     temp=arr[i];
+}
+  	cout<<r<<" "<<c<<" "<<r+1<<" "<<c<<endl;
+typedef long long ll;
+  	}
+  		count=0;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+	cin>>t;
+typedef pair<int,int> ii;
+  	double mid=(a+b)/2;
+               {
+    	    int count2=1;
+#define F first
+  	}
+	{
+		{
+
+  {
+	int temp=0;
+
+		dp[i]=0;
+  		if(parity[index])
+  		ans=max(ans,maxi[i-1]-pre[i]);
+   if(dp[n][d]!=-1)
+  }
+	}
++ cetdamadjafkbxacfppqvmhylrfwtakwggbgsckeerofopiwgzocnvcbohxjjkfpshymliqpbfvpufnagbetygwmpwwagdqamomzydpzkmqgte
+  }
+    	if(freq[it->F]<0)
+  }
+			continue;
+  	cin>>x>>y;
+
+merge(start,start+n/2,start+n/2+1,end);
+
+  int c1 = curr<<1,c2 = c1|1,mid = l+r>>1;
+- rqornztplvaxxcpdqs
+int main(){
+int main() {
+vector< pair<int,ii> > edges[N];
+  {
+  		nr[1][i]=nr[1][i+1];
+	cout<<"NO";
+  cin>>n>>m;
+		{
+
+using namespace std;
+  done[cur]=true;
+	for(int i=1;i<=n;i++)
+      big_col(9,4);
+  int n;
+    int ans=1;
+                if (g[i][l] != -1 && g[l][j] != -1 && (g[i][j] == -1 || g[i][j] > g[i][l] + g[l][j])) g[i][j] = g[i][l] + g[l][j];
+int main(){
+#include <bits/stdc++.h>
+	if(LVL[u]>LVL[v]) swap(u,v);
+     
+
+int main()
+  cin>>n;
+  cin>>n>>k;
+		for(int j=i;j<n;j++)
+void merge(int start1,int end1,int start2,int end2)
+const int N = 1e5+10; 
+  {
+
+	
+			cin>>original[i];
+	return 0;
+       return dp[type][pos];
+  cin>>k[1];
+                 	}
+	
+	while(t--)
+				continue;
+       	ans[i][2][1]=a;
+	}
+	    }
+  	cin>>c[i];
+  FOR(i,1,n)
+	
+  	int val;
+#define F first
+	        cin>>arr[i][j];
+  {
++ yfkkudjnwydfunlrxvjahbedsoyadzrbfbnbewocushrfuifqrhxvlbnabpdcgghhtlnrzpot
+  	val[i]=val[i-1];
+int vis[N];
+public class Codechef
+	{
+	    }
+#define pb push_back
+using namespace std;
+  cin>>p[i].x>>p[i].y;
+  {
+                 		flag=false;
+  	x/=g;
+  FOR(i,1,k[1])
+	    }
+	}
+             		s[i]=s[n-1-i];
+#define spresent(c,x) ((c).find(x) != (c).end())  // for set,map
+int main()
+#define S second
+using namespace std;
+		    
+  		}
+24 25
+  FOR(j,1,k)
+- pligpotabwllvdcjuipjdhqwkeuqngsescmhqghtcvhxajguuyfzfvxratkpactsefbxnlsqizpilychwjidefxgyhvyjospwwojjjbrirbvrdepomuurrbsywqjn
+  fast;
+	
+         				if(w!=l)
+    cin >> n >> k;
+	else
+const ll mod = 1e9+7;
+}
+     
+	
+		//cout<<"query is "<<q[i].l<<" "<<q[i].r<<endl;
+  fast;
+    sum=(sum+(mb[i]*choose(d[i],2)))%MOD;
+}
+  FOR(i,1,m-1)

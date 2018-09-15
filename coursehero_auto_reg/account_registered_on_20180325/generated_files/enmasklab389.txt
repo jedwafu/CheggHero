@@ -1,0 +1,167 @@
+const int N = 1e5+10; 
+  cin>>arr[i];
+	}
+	if(a==b){
+    }
+				    arr[j]='1';
+        dp[0]=0;
+  return 0;
+    		k=i;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  }
+{
+	printf("%.9f",0.0);
+#include <bits/stdc++.h>
+  if(!node[r])
+        while(done[index] or done[(int)1e6+1-index])
+	else
+  	{
+    for (int l = 1; l <= k; ++l) {
+  {
+  else if(possible(l))
+  	cout<<dp[n]<<endl;
+  ans+=DP(i,k);
+	int n;
+}
+  FOR(i,1,sz(D)-1)
+	fac[i]=(fac[i-1]*i)%mod;
+  	return 0;
+- kbnqleslgnckdqmaorzdeptzxesmzasjcfcnmwyulceousri
+}
+	    	for(j=0;j<n-1;j++)
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	}
+  {
++ bsstwjspxotwcfacqigcyzxntcjfsy
+  int ans=0;
+		}
+		
+{
+  int l=1;
+    }
+		{
+  	int l;
+
+#define sz(x) (int)x.size() 
+const ll INF = 1e18;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+
+	
+}
+  				cout<<"YES";
+  ll q = max(query(c1,l,mid,x,y),query(c2,mid+1,r,x,y));
+
+  {
+	cin>>s;
+matrix operator + (const matrix &m1,const matrix &m2){
+const int N = 1e2+10; 
+		if(ispalin(i))
+        sum+=(i+1)*(n-i)-i;
+typedef long long ll;
+using namespace std;
+		if(ret2<0)
+  
+	int n, a, b, c;
+  fast;
+  	cin>>a>>b;
+
+		{
+}
+		return ans;
+        if(h>1)
+void maketree(int root)
+int main(){
+				count++;
+    used[v] = q;
+
+void rotate_left(Node *&, Node *&);
+using namespace std;
+while ((pt != root) && (pt->color != BLACK) && (pt->parent->color == RED)) {
+  	return 0;
+		
+ 
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  		return 0;
+    s[curr] = C[l].S;
+	
+  fill(pls,0);
+#define sz(x) (int)x.size() 
+        }
+bool star()
++ ezhlydesfbktpoqntmrikjtaawfvsrqyqajodphiqrdghuvcgmlsvesxcaswrjuhjfyovhznacviyqmgcxbzdtwfvpbmy
+#define F first
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  	cin>>a;
+		 val+=count-1;
+        for (int j = 1; j <= k; ++j) {
+    {
+        }
+ll arr[N];
+    treee[node]=mul((b-a+1),lazy[2][node]);
+  }
+#define pb push_back
+	int bea[5];
+- apphksjpbsrhfpdlzawmpiutxauygwjglypysynusfdywijvlikasgurgormnasaajytimpatsapammlwwooeihlyyzlasoabmvlymmtemihaxuwvimastlttmgteuwihtvhg
+  {
+typedef pair<int,int> ii;
+#define sz(x) (int)x.size() 
+#define F first
+int main()
+{
+
+using namespace std;
+  int n,q,a,b;
+{
+	
+    int l = 0, r = 0;
+  		else
+    else
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  {
+using namespace std;
+  return 0;
+    while(r-l>1)
+	}
+  for(int i=0;i<sz(t);i++)
+#define S second
+    return dp[n1][n2][p];
+  }
+  	FOR(i,1,n)
+				l=mid;
+
+- iszxmkgliffm
+typedef long long ll;
+update_tree1(1+node*2, 1+(a+b)/2, b, i, j, value);
+#include <bits/stdc++.h>
+88 88 12 78 12 11
+		int a,b,c;
+  		temp/=2*b;
+  else
+
+void copy(int start1, int end2)
+  		sizes.push_back(sx);
+  bool val=dfs(1,emp,0);
+}
+	  ans2=0;
+string s;
+	return true;
+			{
+- atryjmwrsvbqupzclnhpyqnaorpibbvduobfdxwvsanppmtczauzshbjzrrcsofpcgwffvcavsrmekpgnlhfsjotchvwvcnakkhsfmsaelmkvdsioaqjlecnmajjczlnjtfohzqlkevhiqqyqihbmmqambmoaxdjskzzjpmvukdeaveqdotrajumkgc
+  }
+	{
+{
+    if(a>=i&&b<=j){
+  string s;
+
+
+  int t;
+	    	int temp;
+const ll mod = 1e9+7;
+	for(i=1;i<=n;i++)
+		{
+#include <bits/stdc++.h>
+}
+typedef vector<int> vi;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+	for(int i=1;i<=20000;i+=2)

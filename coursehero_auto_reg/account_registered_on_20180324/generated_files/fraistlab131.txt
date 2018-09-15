@@ -1,0 +1,105 @@
+  		}
+			count2++;
+		}
+  	
+	
+	scanf("%s",arr);
+
+	
+ll a[N];
+       }
+
+const ll INF = 1e18;
+  				cout<<"TEAM-A"<<" "<<tot<<endl;
+	}
+for (i = 0; i < N; ++i)
+  
+  cout<<ans;
+  	if(rem==0)
+} 
+
+  }
+			index='2';
+		qsearch(root->r,i);
+		dfs2(edges[source][i],source);
+   
+  fast;
++ usdwrlizsviualhyjwbhtfmgaztmsxnorrlictkxqsttgctpyuyubnabmwogtbukuhuzbeytxtmdvhuwbvqdisewoucjyytsgqtjurctmryiyvgcqyhaqnwhiasgaoaieurynwuapsknnqrdoyfgmdnuficgwcoawiamgumvpwkcmcicapiotykygmgcpxenhez
+}
+}
+ 
+		return 0;
+SegmentTree(InputType arr[], int N) {
+  		cout<<j<<" ";
+        }
+#include <bits/stdc++.h>
+- rqornztplvaxxcpdqs
+
+	    if(temp1<temp3)
+#define pb push_back
+	for(i=0;i<n;i++)
+typedef map<string, int> msi;
+        lpd[i]=0;
+  	ll sum=0;
+#include <bits/stdc++.h>
+	    cout<<n-s;
+typedef long long ll;
+#define F first
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+
+typedef map<string, int> msi;
+	   {
+  sort(arr+1,arr+n+1);
+		}
+	        val3=val3*10+(s2[i]-'0');
+		{
+  		if(best[i]<=dp[i][j])
+  return 0;
+  	rght[n]=0;
+#include<bits/stdc++.h>
+			if(i==0)
+		ends=newends;
+
+  }
+
+	if(k1<k2)
+		
+void build(int n)
++ ueyvnhudyhyrmgif
+  
+const int N = 1e6+10; 
+       		k++;
++ kpwlzbdjfgeusscdvljovb
+	}
+    }
+  		{
+
+		
+
+  cout<<def[i]<<endl;
+	return 0;
+
+#define S second
+        maxi=ans[i].F;
+		cin>>n;
+int beg[1000010],end[1000010],counts[1000010],span[1000010];
+  return 0;
+        	if(s[n/2]=='.')
+		end[i]=counts[i]=0;
+	int count=0;
+    
+	
+typedef pair<int,int> ii;
+              { 
+#define pb push_back
+
+  	{
+  		s1=0;
+  ans=mods(mods(ans,mod)+mods(dp[k][i],mod),mod);
+    }
+		{
+  	arr.pb(c);
+	  	if(arr[i]==n+1)
++ fhezrgdaxiejhexodrseinxblzooor
+
+        if(tmp4>9)continue;

@@ -1,0 +1,105 @@
+		
+	{
+  else
+	int t,n;
+			dfs(j);
+	{
+int arr[50];
+      big_col(14,0);
+#include<iostream>
+		{
+  		if(flag)
+			}	
+          }
+remainder = a % b;
+	{
+#include <iostream>
+  fast;
+{
+		 sum[i]=sum[i]+ptr[i][j];
+
+
+			cout<<"Impossible";
+    }
+#define sz(x) (int)x.size() 
+        }
+    	return 2;
+    
+    }
+ll a,b,c,d,e;
+	
+			
+
+int small_r[1000];
+
+  			dp[i][j]=min(dp[i-1][j-1],dp[i-1][j]+w[i]*(x[i]-h[i-1][j]));
+using namespace std;
+typedef pair<int,int> ii;
+    {
+    int main()
++ jztqtmumjesspiwsgzorwbrwkumcwuvftoxpcubmyvgqdckmeydccuymplqnhlvacupeosspozhtdrfjpjmtfkhwxymelhhndyuutojjpsctjkcatquadbxabjhnsoavowphlaqastvddaeysaavdzyfifscvuyjrpreqhgkce
+	{
+			}
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+int main(){
+BST_Insert(root->rightChild, pt);
+{ 
+int main()
+  	cin>>a;
+	    char ch;
+int a[26];
+        }
+  		{
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  	{
+	return true;
+	int j=i;
+		for(i=0;i<n;i++)
+  	}
+  			}
+       row(3,0);
+  
+    /*for(int i=0;i<n;i++)
+            	ansval=min(arr[4],ansval);
+- ubeqvtflkptglfmzgbodkkedyhdxqujmxncujjfvybbmgqlorbrdlxhkekhwgsidhmzqwfnwgpiofweyxvblukxyxewdygjfsiyqplnxaxlhtphtmleivbiuheyfmjmftkxjwkgyiuib
+	ll arr1[100001];
+  		edges[y].pb(x);
+    	cin>>u>>v>>w;
+typedef vector<int> vi;
+	par[s]=p;
+		   	    if(deci[j]==0)
+int x,y,z;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+	}else{
+		//cout<<root->v[j].first.first<<" "<<root->v[j].first.second<<" "<<root->v[j].second<<endl;
+#include <bits/stdc++.h>
+  	}
+#define sz(x) (int)x.size() 
+#define F first
+			if(arr[i]>cur)
+int main(){
+				leftrotate(z);
+return;
+	{
+      temp=l;
+	        for(int l=0;l<s.size();l+=k){
+	rep(i,0,n)
++ xs
+    roots = vector<Complex> (n+1);
+	cin>>w>>m;
+typedef pair<int,int> ii;
+	while(n)
+ 	else if(check(r,q-p,y-x))
+    {
+#define S second
+    	cout<<"atleast "<<atleast[i]<<endl;
++ vmonfqpiundojgyzybzsomhwctjxdqyaemokefszsxnbgndgoeafqidvdmuidsijeyvlepkynzcvohbdlbkblnwqar
+	size++;
+  	{
+  }
+			{
+#define fill(a,x) memset(a,x,sizeof(a)) 
+long long int arr[200010];
+  {
+int main(){

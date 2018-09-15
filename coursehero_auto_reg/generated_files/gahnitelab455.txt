@@ -1,0 +1,112 @@
+		return dp[k]='4';
+                 
+			fs+=arr[d][b];
+  cin>>n;
+  	cin>>u>>v;
+	
+
+
+                 }
+         temp+=it->S[k]+it->S[k+1];
+			temp=0;
+  	{
+		temp2->size+=temp1->size;
+	
+  	next=(prev+k);
+
+        A[2*x].sum=(A[2*x].ini*(m-ss+1))%M;
+ll tms[N];
+   if(!both)
+  cout<<swaps<<endl;
+
+		cout<<-1<<endl;
+char arr[110][110];
+}
+  lazyPropagatePendingUpdateToSubtree((node<<1)|1,mid+1,b);        
+  scanf("%d %d",&n,&m);
+        	flag=true;
+        maxi=ans[i].F;
+#define S second
+const ll INF = 1e18;
+  		{
+             	{
+  		else
+	for(int i=0;i<n;i++)
+  string s1,s2;
+		lvl[l]=2;
+			return true;
+                 	}
+void dfs(int source,int par)
+    else{
+  		{
+		return ;
+  FOR(i,1,q)
+
+			if(arr[i]!=0)
+			term=term/(k-i)
+  int n;
+			continue;
+#define present(c,x) (find(all(c),x) != (c).end())  // for vector
+
+#define sz(x) (int)x.size() 
+	    
+	}
++ fhuqtgolzowdjlxsnwcwgfpsacegapmhzias
+    int tri=0,seg=0;
+  FOR(i,1,n)
+      // is greater than elements after top of stack
+				temp->cost=c;
+	while(count!=0){
+#define F first
+    cout<<"? "<<1<<" "<<a<<" "<<n<<" "<<n<<endl;
+  	if(road[i])
+    }
++ klfoatsklqoaqyqidhhfqbfbkytksjkcurrullgybwatvrbaajhtmnuwlqgezsgtkzqvlwvovwispjspuaihnffavogugnpsmfpzelobhwtwhlncnwjcdqda
+const ll INF = 1e18;
+  cin>>n>>x>>y;
+
+
+  fast;
+
+  int ans=0;
+    /*for(int i=0;i<n;i++)
+	    }
+		
+int arr[100010];
+int main(){
+		
+		}
+ll alteransfor[50];
+  	big_col(2,0);
+
+typedef pair<int,int> ii;
+  		{
+    return s[curr];
+
+}
+  	cout<<"YES";
+			maxcount=counts;
+      num[seven1[r1]][seven2[r2]]=i;
++ dygcffdgncyqhjjzhwvyoimvdfqdslmyjvcqafyohwgqirprqnpexdbditidfxdqsfjunhkugqnqkeharygrbjumdepkbucvzlqotcjbvyrfcafwylnbwjpznglpaokczcquhbvczohcooymblqxwfzjmkaoanqcrjwykuakihozx
+		
+	cout<<"NO"<<endl;
+
+typedef pair<int,int> ii;
+{
+  		swap(v1,v2);
+
+  		val+=arr[i].F;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+
+  	if(i+1<len and s[i+1]!='!')
+  FOR(i,1,n)
+	    cin>>arr1[i];
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  s[curr]=D[l].S;
+  		swap(u1,u2);
+ 	}
+
+{
+      for (j = 0; j < s; j++)
+        if(tmp4>9)continue;
+#define S second

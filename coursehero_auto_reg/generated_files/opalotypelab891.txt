@@ -1,0 +1,121 @@
+		   
+		{
+		{
+
+
+{
+       inp[i][j]+=inp[i][j-1];
+int i=start1,j=start2;
+
+typedef long long ll;
+    if(s[i-1]=='B' and s[i]=='A')
+  fast;
+#define mp make_pair
+
+	{
+
+	 temp=j%10;
+int cnt=0;
+  FOR(i,0,n)
+const ll MOD =1e9+7;
+            	ans++;
+			val[i]=600;
+
+}	
+  cin>>s1>>s2;
+		
+}
+	return arr2(i+1);
+- kpbeipkzzdmilsotcpekyihjeipafvxqkawuriurlibwarsehyqfgyqlifnpcmhnmejemdxanyyppqwyrmfzmvkwcamfmvubzdfojeowcootfksyyxxl
+}
+#include <bits/stdc++.h>
+  int first=n/k;
+    int n;
+		 val+=count-1;
+		return;
+40 28 14 356 867 928
+		cout<<i<<" "<<freq[i]<<endl;
+
+
+  if(size==2)
+const ll INF = 1e18;
+  	}
+void build(int curr,int l,int r){
+- yoekcnrikigumhijtvcxjgfnzeaeyaexokhtzbbklieyrojmlmlusqjuvlyvmescqcxqdzaojgocwaohmzdgrnaoabkofctwgqojpqaawqcuqsbetglnvnbwqnkyqduwukilakmwaqqrltvgzit
+	
+typedef long long ll;
+#define pb push_back
+#define x first
+		for(j=i+1;j<n;j++)
+  int t;
+			{
+		    	{
+
+}
+bool done[N];
+	return 0;
+	tm=(x1-r[0][i])/v[0][i];
++ igbheitcfdunpdrvxqunwkledttufwypdzzjhunpxjempvhmndbmomqthlnpkngpnfywznlwxrimosacvdojrgdytspdgwsvbsrdgfzfwktlctpxwfjplonegdkobcjevdhdihigtbtvwiuupfjatyhabtoevajsdq
+#define F first
+      {
+                ans++;
+     	arr[i]=0;
+    update2(node*2,a,(a+b)/2,i,j,value);
+         	    	{
+  NFOR(i,n-1,1)
+	if (g > 1) return -1;
+	    cin>>arr1[i];
+                 	if(arr[i+2]-arr[i]!=diff)
+	else if(b2+l3<=l1 && l2<=b1 && b3<=b1)
+
+  for (int k = 1; k <= n; k++){
+
+  	FOR(j,1,i)
+{
+	for(int i=0;i<n;i++)
+  	cin>>n>>m;
+    }
+
+int main(){
+	    System.out.println("-1");
+		else
+}
+
+    		}
+    }
+	{
+  for(int i=0;i<sz(s);i++)
+  		cout<<-1<<endl;
+  		{
+typedef vector<int> vi;
+  FOR(i,0,sz(s)-1)
+            min=arr1[i];
++ ouoxltesamdqa
+      reverse_col(14,4);
+int main()
+  	}
+			while(q.empty()==false)
+			freq[maxi[i][j]]++;
+using namespace std;
+
+        if(flag)
+int main(){
+      st.push(i);
+	int n,m;
+  FOR(i,0,1198)
+    }
+int main(){
+void calpow()
+import java.io.*;
+	{
+using namespace std;
+    int t=1;
+  fill(dp,0);
+
+  	{
+char arr[10][N];
+27232
+- ojebucutqlrdzenmeaqurauxoqwfqkxgwdiqfcjyoddphqbnstiltejkufpkqormtbeadnytsbjztmpmgxxbbilyocigqbsjcymilkbeomfhzwvftvixduvrwfxpjralpmvdxxjnlquknsrgnafswcmsklhtfkgwwcztbkgmbdzoxswmsceogsjqeslj
+    }
+	if(exp==1)
+- lhepmrvmzhdqheqpruiksydpivvjkhwxobpdukpttslazbsswccqaffldawpjvoawddqoulhmwknxefvgjlirtvutslfnzhldmdtgoaummijqphwzuhqncmjwxolwvwzjzu

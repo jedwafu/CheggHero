@@ -1,0 +1,143 @@
+
+
+- kbvonlpsumwdjchpmoecnluoyoyddognpdeeovylhuosywjnmqpadjqczohccorttvxkqyvaslstjegwuvyxeobfdjhhzybuuaemybmtphmyluuhpugvjiaotjvuhyodbvqbycwnlkmweidvdmsowscpdzllabobygexlbmwlatqlylokgeiyixejkp
+typedef vector<ii> vii;
+
+  FOR(i,1,n-1)
+  {
+  		if(edgnum < 0)
+#define sz(x) (int)x.size() 
+    return 0;
+
+double arr[3][5];
+		    }
+
+
+#define pb push_back
+			{
+			}			
+
+  		flag1=true;
+	     	temp=temp+original[i];
+  	   }
++ mkhxlxymhtjauqfcfxxqrgwcnjjdhmzwzgtmftzmoknjbsnislzjrvmhhxmqmlmnu
+  prevs[0][0]=0;
+		val[edges[root][i].S]=counts[edges[root][i].F]*(n-counts[edges[root][i].F]);
+       column(3,0);
+	    temp1=temp2;
+ 
+  	FOR(i,0,n-1)
+  	{
+    for (int u: e[v])
+  }
+  {
+#define S second
+		
+  FOR(i,1,n)
+  	int n,m,k;
+			{
+    }
+		printf("%.9f",ans);
+	        continue;
+    
+#define sz(x) (int)x.size() 
+  if(typ[i]==3)
+  cout<<"NO";
+- dsoyuyhtvxsbwxzfnmlmcuoiqbvugfxkyliulrnhpiknflsuxfgzzwkpyfjgkiqkvahhswqjeawjm
+  		ans=max(ans,maxi[i-1]-pre[i]);
+
+    
+	for(int i=0;i<n;i++){
+		int q = a / b;
+      big_row(15,8);
+
+	{
+  
+	    if(str1[i]!=str3[i]){
+  }
+typedef pair<int,int> ii;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+    	sum2=0;
+				{
+  c[1][1]=4;
+	return temp/2;
+
+  fill(donev,0);
+	}else{
+	    cout<<"NO";
+using namespace std;
+
+    void update2(ll node,ll a,ll b,ll i,ll j,ll value){
+	ll temp=0;
+    int r1=arr[i]%599;
+		dfs(edges[source][i],source);
+const ll mod = 1e9+7;
+  }
+        return;
+}
++ dgxkowfgqrftcfxgmjdarpcgbjmrjexomwyctfijyqcavcgjnljeblmevbvgfuurqu
+  FOR(i,0,cnt-1)
+   cout<<"3yahan aa gya apun with "<<ans[2][1][1]<<endl;
+	    }
+	    }
+	cout<<r+4<<" "<<c<<" "<<r+5<<" "<<c<<endl;
+             if(count ==2)
+  		cout<<"YES";
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+	sums[1]=dp[1];
+  		printf("Yes\n");
+  FOR(i,1,n)
+typedef vector<vii> vvii;
+
+	  cout<<-1<<endl;
+		
+	{
+int main() {
+- mlvmswtgrosmmqeyidicuulpapvotjvhwstooovfcpupfypndarxudouumkpvfyuzrinifvkupbzptostgsplilhuwwsdumdnusvcniwcjwtemoxsgmfqamlwkdbgpewlxrnkbkpnikruyrpgfuxfjkbtpdagjwriphvttmgbwxxxoofwjebuofnfkpltndcd
+ll ans[3][3][3];
+	return ans;
+
+  fill(dp,-1);
+  	FOR(i,1,n)
+}
+  			FOR(i,-1,1)
+
+
+    lazy[1][2*node+1]=1;
+    if(r1 and r2)
+
+  fast;
+	}
+  fast;
+#define sz(x) (int)x.size() 
+  	cout<<4280<<endl;
+		}
+	}
+void dfs(int v, int q) {
+        	cout<<-1<<endl;
+       row(1,4);
+  		ansfor[i]+=mod;
+}
+  cin>>n>>m;
+  return 0;
+ll cost[2010];
+	
+  		root=r;
+    int n;
+	}
+
+	    cout<<"SEGMENT";
+			dfs(G[source][i]);
+
+  fast;
+#define present(c,x) (find(all(c),x) != (c).end())  // for vector
+  		}
+
+  	row(4,7);
+            l0++;
+  }
+  	{
+		
+- iszxmkgliffm
+  	}
+  int c1 = curr<<1,c2 = c1|1,mid = l+r>>1;

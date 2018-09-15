@@ -1,0 +1,150 @@
+using namespace std;
+	
+{
+  FOR(i,cnt,k)
+64546
+		query.clear();
+	int flag=0;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  			else if(dp[c[i]]>maxi2)
+
+	//delete y;
+typedef map<string, int> msi;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+const ll INF = 1e18;
+	}
+			int mid=(l+r)/2;		 				
+typedef pair<int,int> ii;
+  	column(6,7);
+
+      if(!found)
+
+    
+    sum=(sum+(mb[i]*choose(d[i],2)))%MOD;
+  		ll elem=0;
+const ll INF = 1e18;
+
+	  if(flag==0)
+- vxtprucrqe
+  	FOR(i,1,n)
+  		else
+#include<math.h>
+  fast;
+  	}
+	cout<<ans;
+int maxee(int a,int b){
+		else
+ll s[4*N];
+		    
+  {
+  {
+                
+
+    for(int d=1;d<10;d++)
+  FOR(i,0,105)
+      	cout<<0;
+	         flag=1;
+  	edgebig[i]=i+arr[i];
+			maxi=max(dp[i],maxi);
+ 		cout<<l<<endl;
+        res2=mm1-mm2;
+  				ll temp = min({cur[k][i],D[i],C[k]});
+    	cout<<"atleast "<<atleast[i]<<endl;
+double arr[3][5];
+        result2+=b[i];
+- ulycfqfwnbircyimrngccrslglpapvolinnoduksvujxutllhunllgyrtnujkiusxkgaettanexialtjfjuqpskkhgtroqjoasogljgaqg
+	int cur=1;
+			count2++;
+	cin>>t;
+        		if(arr[i+1]-arr[i]!=diff)
+- yxoevijafbrxhvupflimitnjitxrtbyraowxzhy
+#define F first
+    VPII::iterator it = lower_bound(best.begin(), best.end(), item);
++ efeeqxymfimuuqwiziabpdvbzkijxfnemtkcriqytftpvpxuzxxpcsqdfymefaitvsxmdolwtglovklvhkml
+}
+  	typ[j]=2;
+	int n,i,dpair=0,dskip,key1,key2;
+
+
+			if(primes[i]>=x and palindrome(primes[i]))
+	int arr[101],arr1[101];
+      		if(s[j]==s[i])
+	{
+
+  maketree(1);
+  		reverse(temp2.begin(),temp2.end());
+	int minlength=mod;
+double v[2][N];
+{
+  build(1,0,sz(D)-1,0);
+  		cout<<"impossible";
+  cin>>t;
+using namespace std;
+	}
+	int t,n,i;
+  cin>>c[i];
+  if(arr[i][1]=='.' and arr[i-1][1]=='.')
+	
+- jgnbulsqyejqvwkgiricffgsctkxpsmaabevowlocxexvrffkoipvohyjtvyljamnejbdusftyfrpmwzaepwuywdstdfcerricvnzntslaldmic
+  sort(ans.begin(),ans.end());
+			int start=i;
++ xbartwroguvmkzblbdumahulxivofsaevcvqymehiatszwdaaxoahlnetjuybwexzznznuivubqvytyatoaazpgtyctcbybczqbpkmkenacnwcn
+				
+#define fill(a,x) memset(a,x,sizeof(a)) 
+}
+    {
+typedef long long ll;
+		scanf("%lld",&rat[i]);
+			dis[top-1]=dis[top]+1;
+		cin>>arr[i][j];
+		if(s[i]=='.')
+	arr[0]=1;
+  
+        for(int j=1;j<=a;++j)tmp*=i;
+  	
+			starts.erase(e[i][j]);
+    cout<<ans;
+			}
+ii arr[N]; 
+#define fill(a,x) memset(a,x,sizeof(a)) 
+		if(b==-1)
+		}
+		if(abs(i)+abs(j)!=1)
+  	if(l*l*l==num)
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+	
+       //cout<<i<<" "<<temp[i]<<endl;
+- vksmkpcccaryaderujzbrmdhszlbabdymvkymmcqntonytgtchwvuzeoaqsbtvzhqlhcyjvnfjcdckygrwenyicyawzuradjmlnmuibbsdfwpffgelwctaawwasncvwqilcfufgoinmztrixeezyebwabopglnwuyzzsgfiptvqooyntcotgppirfxzqmvklwlf
+int arr[N];
+const ll INF = 1e18;
+      ll mid=(a+b)/2;
+	-- s;
+			printf("%d ",next);
+    return 0;
+65 26 75 601 395 176
+	}
+	}
+      big_row(6,8);
+#define sz(x) (int)x.size() 
+  dp[0]=0;
+	int t,i;
+long long arr[110][110];
++ mkhxlxymhtjauqfcfxxqrgwcnjjdhmzwzgtmftzmoknjbsnislzjrvmhhxmqmlmnu
+	
+
+	}
+				
+typedef long long ll;
+  while(t--)
+  ans%=mod;
+    FOR(i,0,n)
+  		{
+
+}
+	}
+    ans.pb(mp(ans1[i1].F+ans2[i2].F+ans3[i3].F+ans4[i4].F+ans5[i5].F+ans6[i6].F+ans7[i7].F+ans8[i8].F,ans1[i1].S+ans2[i2].S+ans3[i3].S+ans4[i4].S+ans5[i5].S+ans6[i6].S+ans7[i7].S+ans8[i8].S));
+        ansval=min(arr[0],ansval);  
+    }
+build_tree(node*2+1, 1+(a+b)/2, b); // Init right child
+	mindiv=n/7;
+#include <bits/stdc++.h>

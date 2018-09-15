@@ -1,0 +1,127 @@
+{
+	long long int m,n;
+         if(carry)
+  	
+
+    		   maxi=eureka[j];
+    	fval2[source]=-1;
+using namespace std;
+#define sz(x) (int)x.size() 
+  	   {   
+            ansval=min(arr[1],ansval);       
+#define S second
+
+
+        A[2*x].add=0;
+int n=end-start;
+  	if(type==1)
+		cin>>c;
+     		{
+}
+    }
+  	dp[i]=1;
+const int N = 1e3+10; 
+using namespace std;
+	done[source]=1;
+vector<ll> C[400];
+		count++;
+{
+  	{
+
+#define sz(x) (int)x.size() 
+  FOR(i,1,n)
+  	dp[i][1]=dp[i-1][1]+1,ver[i][1]=1;
+          temp=i*(j-1000);
+
+    lazy[1][2*node+1]=1;
+        for(int j=0,t=v[j];j<v.size(); t = v[++j])
+  	ans=ans-r;
+  FOR(i,1,n-1)
+		for(i=0;i<100;i++)
+		}
+			continue;
+  if(min(ans[0].S,(int)pow(size,3)-ans[0].S)==0)
+				{
+      
+
+    temp=((n*(n-1)-(zero*(zero-1)))*3)%MOD;
+		
+typedef pair<int,int> ii;
+  		maxi=max(maxi,temp);
+
+
+        {
+        high=mid;
+  		}
+  return 0;
+	}
+	bq();
+  {
+	if(nex[source]!=-1)
+    calculateSpan();
+  			h[i][j]=-INF;
+
+  			cin>>arr[i];
+	ll ans= a%b;
+/* package codechef; // don't place package name! */
+typedef set<int> si;
+	return 0;
+  cout<<"& "<<x<<endl;
+  		if(query[i]<0)
+		{
+#define mp make_pair
+#define sz(x) (int)x.size() 
+  int sz1=sz(s);
+532
+  
+		
+			attached[*it]++;
+  int t;
+  done.clear();
+#define S second
+ 	while(r-l>1)
+  int index=2;
+         {
+		}
+
+  fill(cols,0);
+#define F first
+const ll mod = 1e9+7;
+    update2(1,1,n,a,b,val);continue;
+    cout << "Yes"<<endl;
+  fast;
+#include <bits/stdc++.h>
+vi rows[100010];
+  {
+	cin>>n>>m;
+  FOR(i,1,h)
+  ll ansindex=0;
+using namespace std;
+  		if(i==b)
+  		}
+		sums[i]=sums[i-1]+rat[i];
+  r1=r2=mod;
+
+	    cout<<val;
+{
+         ans[2][1][2]=a;
+	return 0;
+}
+  	cin>>n>>d;
+#define pb push_back
+	
+  int n;
+		  //cout<<i<<arr[2]<<temp3<<endl;
+#define S second
+  	FOR(j,1,root)
+#define F first
+{
+    treee[node]=add(treee[2*node],treee[2*node+1]);
+typedef pair<int,int> ii;
+sort(start,start+n/2);
+    }else{
+typedef pair<int, int> ii;
+    }
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+{
+  FOR(i,1,n-1)

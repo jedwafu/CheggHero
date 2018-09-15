@@ -1,0 +1,140 @@
++ ikixfzaaraswzezdygcvnpdnacq
++ cgyci
+int length[100010];
+  }
+  		if(arr[2]=='d')
+  {
+using namespace std;
+                 }
+using namespace std;
+            }
+  {
+	}
+
+	         }
++ qumlkabjnunbpwqgejlekcqgodcalhtbbfmohpzwkmzbiripdttnxltopyqchjdjq
+	return 0;
+
+		cout<<slopes[j]<<endl;
+		cin>>a>>b;
+  cin>>v[i];
+    }
+const int N = 2e5+10; 
+     
+using namespace std;
+       column(7,0);
+
+  	int st=pow(2,p-i);
+	for(int i=0;i<n;i++){
+  	column(8,7);
+- rpertjsxolebkcaymjifnlbitipil
+			if(*it==k and it!=cfreq.begin())
+			{
++ qduokyigoczvnqyeffwsadhmh
+			-- v, -- l;
+
+const int N = 1e5+10;
+
+  int t;
+        Update(1,n,i,i,j,1);
+  	{
+		if(DP(k-6,false)!='-' and len[0][k-6]<minlength)
+const ll INF = 1e18;
+
+int a[N];
+  for(int i=2;i<=N;i+=2)
+}
+  cout<<smallest[i];
+    	if(edges[root][i].F==prev) continue;    	
+#define sz(x) (int)x.size() 
+#define pb push_back
+#include <bits/stdc++.h>
+  return 0;
+  dp[0]=0;
+	return 0;
+	cin>>n;
+   findlx(1,1,ans[2][1][1]-1); 
+	numbers=raw_input()
+  while(n>0)
+
+  	if(flag==false)
+		{
+  		if(ops[i]=='|')
+{
+#include <iostream>
+    return;
+
+int main(){
+  FOR(i,1,n)
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  	int val1=1;
+		}
+	cout<<4*k-2<<" "<<(2*k-1)*k<<endl;
+	}
+
+        	cout<<-1<<endl;
+    
+  	row(8,7);
+const int N = 1e5+10; 
+	
+using namespace std;
+tree[node] = value;
+                 continue;
+  if(m==1)
+   	 fval1[source]=(ll)1e15;
+  else
+
+	int l1,l2,l3,b1,b2,b3;
+const ll mod = 1e9+7;
+		minc=min(c,minc);
+	   }
+  int q = max(query(c1,l,mid,x,y),query(c2,mid+1,r,x,y));
+    for(int i=1;i<=n;i++)
+      reverse_col(10,4);
+	memset(arr,0,sizeof(arr));
+			{
+  	}
+}
+    if(lazy[2][node]!=0){
+    counts[1]=1;
+void build(int curr,int l,int r){
+typedef long long ll;
+      	flag=false;
+#define F first
+}
+		    temp=(long double)1;
+	for(int i=0;i<m;i++){
+      	ans++;
+            if(flag)
+typedef pair<int,int> ii;
+  sort(ans.begin(),ans.end());
+
+  	if(ans<0)
+}
+		if(DP(k-5,false)!='-' and len[0][k-5]<minlength)
+		}
+#define pb push_back
+#define pb push_back
+  FOR(i,0,2009)
+    		maxi+=char('0'+d);
+#include<bits/stdc++.h>
+  		cout<<endl;
+	string s;
+const ll mod = 1e9+7;
+        A[2*x].ini=A[x].ini;
+typedef long long ll;
+		cin>>n>>c;
+	ll n;
+  int lt=1;
+      big_row(2,8);
+			pow2[i]+=mod;
+- qnykkr
++ ngnxjaakiergagjjjvwxszfjynurufsjnhhyijisqbyqkjztgvqzwxivkemhlgqyozwyjgqziqrucqpinfhkeshoyvxkboirnfpynhxxyoraggkwnsirmpikkfwnvfflmwjzehzexqggzqcmkkgwzqjlxfatmheaepckybowtucskgh
+	return 0;
+#define S second
+  	{
+		}
+int par[N];
+			else
+    int l=0;
+		best3=w[2][cur[2]]+w[1][cur[1]];

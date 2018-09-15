@@ -1,0 +1,134 @@
+    }
+#define F first
+double eps=0.00001;
+					break;
+  fill(vis,0);
+  }
+  {
+      big_col(16,0);
+  	
+			else
+		eulertour.pb(source);
+#define F first
+		
+		 }
+typedef pair<int,int> ii;
+      big_col(6,8);
+		return 0;
+      		if(s[j]==s[i])
+int nearest[N];
+	    
+   cout<<"8yahan aa gya apun with "<<ans[1][2][1]<<endl;
+		for(int j=1;j<=n;j++)
+#define fill(a,x) memset(a,x,sizeof(a)) 
+ll sums[400][400];
+  fast;
+ll backward[100010];
+     {
+   for (int i = 2; i <=n; i++)
+  	edgesmall[i]=i-arr[i];
+const ll INF = 1e18;
+    cin>>a>>b>>val;
+		}
+	    int y=arr[i][1];
+string s;
+  int n,m;
+int main(){
+#define fill(a,x) memset(a,x,sizeof(a)) 
+   
+  int len=sz(s);
+	while(t--)
+  fast;
+    int* z = new int[n];
+#define S second
+  return 0;
+typedef long long ll;
++ gkioaoxlyltoojunhdhiimfbjhspceliovwqlwbmhwaxfwnncuxkiflsmfhqluybpx
+      mb[i]=0;
+
+#define tr(container, it) for(typeof(container.begin()) it = container.begin(); it != container.end(); it++)
+		cin>>n>>k>>m;
+	    i+=m;
+	FOR(i,1,n)
+int B[2*N];
+		
+
+int main(){
+
++ gixegijilpweyncuhlnbfyafnlabpmivufcdpllaakhaxjwewkhcihjxtjykxifsnhxcukfuumxrvtwuffypnhmislsqvzkjhjnbtsyoexhcqfwylwnydagvnynixzrgihkczkqghxkzfixqenojnugauukttecelogmyyuhxeicoissvidkekkygwubawfl
+		if(j==s.length())
+		edges[a].pb(mp(b,i));
+{
+  fast;
+	}
+		}
+#include<bits/stdc++.h>
+tree[node] = max(tree[node*2], tree[node*2+1]); // Init root value
+ll mods(ll a,ll b)
+float slopes[2000];
+
+				}
+#define pb push_back
+ }
+  
+#define S second
+	cin>>arr[0][i]>>arr[1][i]>>arr[2][i];
+		int r=index;
+        r=mid;
+    scanf("%d %d %d",&n,&k,&m);
+  	{
+
+	string s,s1;
+typedef pair<int,int> ii;
+	int arr[100001]={0};
+  pos[i]=mp(0,0);
+		if(sum==newsum)
+        while(n>0){
+  	}
+- yoekcnrikigumhijtvcxjgfnzeaeyaexokhtzbbklieyrojmlmlusqjuvlyvmescqcxqdzaojgocwaohmzdgrnaoabkofctwgqojpqaawqcuqsbetglnvnbwqnkyqduwukilakmwaqqrltvgzit
+	}
+  fill(cols,0);
+  int hmm=size>>1;
+	    a-=2,b+=1;
+{
+
+	 {
+                cout<<i+1<<" ";
+
+    sum=s;
+int main()
+            }
+		
+int main(){
+  		}
+  {
+  		root=l;
+			break;
+	    }
+	{
+#define sz(x) (int)x.size() 
+			}
+- onvkyexuogcrztjokcobzianolcprswgfrqfxnbmvdfvyqjjvxmuimjyalprfoznhpsffwtabyvao
+  		{
+	if(arr[index]<v)
+  	dp[i][0][0]=1;
+  
+
+  	{
+  {
+  	done[arr[i]]=true;
+	        result=n/m;
+		else if(cur+w >= sz(s))
+typedef long long ll;
+- rpujwegubhcxfcjxskjbzmnqtlfujihaxdmtis
+	
+int main(){
++ xikwmqknotvypnbcfgztjixtuacnchacrkydaisrdnrsatvfbuykcvgxvkmarmekzenbmhssukkwffbgzbseyydvipxbcbldfaeuhxmdhwzoeaufdmjdnozvewxiailhlpbsopwxoxlsahxdujhjxiedgblgmyqzortcjrcxpnppvosr
+        atleast[i]=0;
+	{
+  cin>>t;
+	k*=l;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+#define S second
+
+#define sz(x) (int)x.size() 

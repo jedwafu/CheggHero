@@ -1,0 +1,183 @@
+                 }
+  		cout<<endl;
+    
+#define pb push_back
+* Increment elements within range [i, j] with value value
+	sort(arr,arr+count);
+			//delete y;
+33 57 49 164 819 980
+
+				return false;
+	for(int i=0;i<n;i++){
+  	last_max[i]=last_max[i-1];
+  		}
+
+			lines++;
+		sum++;
++ bweuyylwxdpssofjhyswyqgakmsctbxvxbrwzduzijrbxymgwfdxvlxhzsjsvgptkhrlmlmuwgxvekcbrhaoszvrtglp
+32 33
+typedef long long ll;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+const ll mod = 1e9+7;
+using namespace std;
+    }
+		left=0;
+{
+		//	cout<<slopes[k]<<" "<<points[0][k]<<" "<<points[1][k]<<endl;
+  }
+
++ xehiezoxvjskurfsvdeiuvpvrcwupbkpfrxjqljnubxruejqhpadkradvwzkzjbgczrumajjegaaklstcswolytgwstvdudhvwbizkrdstfegyxisvyetrmrlhmoervznyjmkarcvxibxhjpejvzakqltebxvyzkwixilqkgpukmbteffbeflutfyuevvfgrofcbvmjn
+		    	big=arr[i];
+
+  	ans=1;
+{
+  fast;
+	            val=sc.nextInt();
+  	else
+        if(flag)
+typedef vector<int> vi;
+  prefix[0]=0;
+  if(cy<qx || qy<cx) return;
+    		if((i-1>=0 and l<=i-1) or ( i+2<=len and r>=i+2))
+  	{
+    }
+using namespace std;
+  while(t--)
+
+#define sz(x) (int)x.size() 
+        A[x].sum = ((qe - qs + 1)*val)%M;
+
+typedef vector< vi > vvi;
+- bkufortdcodxmi
+  cin>>n;
+
+bool path[101][101];
+typedef long long ll;
+    }
+	int temp2=0;
+  {
+  {
+	return 0;
+    
+
+  maketree(1);
+
+  			dp[1][i]=min(dp[1][i],c[i]+dp[0][i-1]);
+ll ansval;
++ fvhpcnkkwshnyklogrpvfcdrorjtrclxxsmbiwlgqvtqfhgnyvifzlwndhiulurioflybwettyjyhpnfmwkojibormleie
+const ll INF = 1e18;
+  edges[i].clear();
+  		ans++;
+{
+typedef pair<int,int> ii;
+	//cout<<n<<" "<<k;
+
+const ll INF = 1e18;
+
+  			lookingfor=1;
+    int intersectvalue1 = b[a ];
+}
+  cin>>n>>k;
+
+
+bool yes[N];
+int main()
+         temp+=it->S[k]+it->S[k+1];
+			}
+            if(ch=='C' or ch=='M' or ch=='Y')
+typedef set<int> si;
+- examtbvsfoclhkmfmvrhjpcsuhowizmoyobsqwmxmpjtbxapsszcjbwdknbumqjkekcwiruvgfqjcryulzyucvznibhutqgzclwlcsiixatbrtxctwyvrykzbsvukbtnmryojiyiitlanjei
+
+	{
+typedef long long ll;
+	int t,i;
+  {
+  fill(prevs,-1);
+		else if(counts[inp]==maxi)
+- xcbygxwbalptrnmkkwocfszbbqjkickgglepjdqjqifixrsipjmublycdjonlyvsmcjxfzivjndhhyrwjdtkqrotadgmdegpgpolqxgcmmltkesvhlfzcvueyaqegyvmpkxihektqxncbhxksejwbdacftgmtbyllwts
+
+        }
+				l=mid;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+       {
+				  {
+typedef long long ll;
+#define error(x) cerr << #x << " = " << (x) <<endl
+#define sz(x) (int)x.size() 
+
+    unsigned int cnt=0,m=0;
+                 else if(i+1<n)
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+        	if(arr[i+1]-arr[i]!=diff)
+       	   }
+		}
+        
+				cout<<i<<" "<<i+n/2<<" ";
+typedef vector< vi > vvi;
+
+       }
+  for(int i=0;i<sizes.size();i++)
+- thkpsczoqeb
+  	if(x!=y)
+	}
+typedef map<string, int> msi;
+  	cin>>o1>>o2;
+  			if(j-k>=0 and j-k<m)
+		
++ illkuylptvzhqjkerqalqplbsnuobholsaxoakduiebynoehghswwezpttfwcvjxvgnwtrsbxvzljdupkmnjsnyn
+  if(l == r){
+  cin>>n;
+int par1[N];
+typedef pair<int,int> ii;
+  } 
+  		dfs2(edg[source][i]);
+#include <iostream>
+#include <iostream>
+  while(t--)
+		cin>>a>>b>>c;
+    int x,y;
+    lazy[1][node]=1;
+		}
+		cin>>color[i];
+  	cout<<-1;
+  		choose[i][j]=0;
+using namespace std;
+    {
+#define S second
+		if(a[source]!=a[par])
+			while total<k and term>eps :
+- ewpnemiazmijztpl
+		cout<<i<<" "<<freq[i]<<endl;
+using namespace std;
+                 {
+typedef pair<int,int> ii;
+        }
+void copy(int start1, int end2)
+	return 0;
+		return mp(ret1,ret2);
+vector<ll> temp;
+typedef map<string, int> msi;
+const int N = 1e5+10; 
+
+		   	   
++ rgfnfbojypstmvqactzwkxtiljsddthuzpjeqxprokmafcbhxcfhzbrkkjopexjfmukfrbwhlihqkkzhmfqmgjysumhyksfympdfrbmejvvviweubwijfjbbvkbhchiqwlvpnjuyfrwnnajrxuaedegaqhktosjnfheuqatxtpmj
+int main()
+const ll INF = 1e18;
+  	else
+                 		flag=false;
+
+#include <bits/stdc++.h>
+  int ans=0;
+}
+  				FOR(l,0,2)
+  while(t--)
+  		{
+				ind=temp/2+1;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+		else
+#define F first
+			lines++;
+	build(t, R(id), mid, r);
+			 	{
+       	ans[i][2][1]=a;
+- hhwijinncvtyvescagtfnbwdefsfnmextafdlusprnpmsipsokzdnvgrdyxqndpifulqqfgitvuldlfuxexkzeeeedvrgkalhnezvkhohebnpihpmg

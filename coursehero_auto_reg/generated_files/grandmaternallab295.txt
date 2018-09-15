@@ -1,0 +1,182 @@
+  	{
+	node *x=NULL;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+    cin>>a>>b;
+    	if(i==1)
+		else
+    {
+  fast;
+
+      }
+  		cnt++;
+
+    ans=max(ans,dp[i]);
+    if(r1 and r2)
+  }
+}
+long long int pes[100010];
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  	for(int j=1;j<=root;j++)
+    sol = max(sol,dp[j]);
+  }
+
+typedef vector<int> vi;
+  cout<<temp[sz2+1];
+}
++ znthvnhphplfvwjjhotuphbdenaqzxwzmpihd
+- fdpbcxupfwxulegsptsbovrlwwgcpmjwpbzrytifrfceliwbdqermxdktjmixxg
+		return mini[r-1]+50; 
+typedef vector<int> vi;
+const ll INF = 1e18;
+     	return true;
+#define F first
+	{
+               else 
+	printf("%d",k);
+        {
+  fill(done,0);
+  int flag=0;
+	cout<<mini;
++ iwsqbxayqqksmdjbsqpuadmjuerqiupsshjwgjwxzhromcpeteyvjmgesxwatntovekdnicopuebwufpafmmrtskqommchazlmcaufpkbtnxpvpsab
+		ans--;	
+	
+typedef vector<int> vi;
+  }
+  FOR(i,2,k)
+  
+	    i++;
++ lywdvvjocxntvbgztktkzedyhhtilmeykccfxnvckjvgmdhgnaqpgvnqcianugmgiqohdjjquhyhkfpahfroaggeogrkofqwxefdoptkwtriyg
+      big_row(14,8);
+	
+
+		max2=count2;
+                 		flag=false;
+- gbxspstlyiaomadnvzfzvcwmsuwwlwhtyenpwicxrclfcoszpxakayzutvqguxzseohcwlzpnmuscptsmucosdinbbtvauneiwjhhiwwvtoxiirueulwzvkawfvzakdkiorpxqoujctrmllqhypguzjqegpgrvrzlkriafejjyawjoosmd
+	return 0;
+
+    	int w=arr[index2];
+    FOR(i,1,n)cin>>in[i];
+  			val1=val1 | vals;
+  return 0;
+
+	
+        for(int i=0;i<n-1;i++)
+  		weight[b][a]=weight[a][b];
+{
+	return 0;
+		cin>>n;
+			continue;
+  FOR(i4,1,sz(ans4)-1)
+			cin>>rat[i];
+	for(int i=0;i<n;i++)
+  ll r=-1;
+}
+		else
+
+  cin>>n>>t>>k>>d;
+	}
+  cin>>pass;
+
+void rbfixup(node* z)
+	     }
+	
+{
+- njmbgjnphoojitmpqgltfiurqnlmmticfwdnfsemgtxromigstaxdwrtkehwxpyeldttwyhethxjtfqlbsleoe
+  FOR(i,1,100000)
+  int t1=sqrt(len1);
+     	    }
+		return ;
++ xgxqkpzrtalgihjugwguzymnnkmtfsheygvkvuepupvdygzfchzdflssxhndzuhzdekyzonvdjaercjujkxpxqjvxxaythzwmjvnzkkfvljnnuhwegnbyxwxuwvpgxmugjjittppgycvul
+			if(count[1]>0)
+  FOR(i,1,n)
+	}
+  			cin>>temp;
+            if(can(m-i,sum-d))
+VI final[1500];
+    }
+  	    	{
+}
+	
+	
+		cin>>n>>d;
+  	{
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+                 {
+  	sort(cp.begin(),cp.end());
+  	{
+	    }
+    lazy[2][2*node+1]=lazy[2][node];
+   // Calculate span values for rest of the elements
+	dis[s] = 0;
+  	if(i<(index*(index-1))/2)
++ uywmbxoqkruucgwzmpnhjdbumazxfktzjpnkmedyvxszfqbtfoaotb
+  	
+  fast;
+  			{
+{
+	    cin>>arr1[i];
+#define pb push_back
+using namespace std;
+int main(){
+#include<bits/stdc++.h>
+			}
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  			cout<<prefix[1]<<endl;
+	    i+=n;
+int main(){
+       k=0;
+  	{
+- lkhsibkkajqhgaaaaypaaveeqmzbilbvxinfjzsmiivrkvrktilugpawdzxnlajiiwquwiggsbzcztnsbyohpogsqdhbeqlopdinlqvduvgvovnrtebksheikllqezftcpiqidteybzowogrsjbnqf
+			if(edges[source][i]==par)
+		
+	while(t--)
+		}
+  	
+         	    	if(color[i]==l)
+	for(int i=0;i<s.size();i++){
+	            }
+		if(edges[source][j]==true && done[j]==false)
+      cout<<sum<<" ";
+    ll minval=INF;
+  int t;
+- cxrjffwioycgq
+	{
+#include <iostream>
+	
+		if(DP(k-7,false)!='-' and len[0][k-7]<minlength)
+#define pb push_back
+46440
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+ 
+using namespace std;
+  dist[i]=mod;
+
+#define S second
+    {
+		     {
+	cout<<r+5<<" "<<c<<" "<<r+6<<" "<<c<<endl;
+       column(1,0);
+	printf("%d\n",-1);
+            tmp3/=10;
+  		ans.pb(mp(4,cnt0));
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+#define S second
+				z->parent->parent->color=1;
+
+
+const ll mod = 1e9+7;
+int arr[N];
+        	par[edges[root][i]]=root;
+				 x2=(temp[1].x-points[i].x);
+  	}
+  FOR(i,1,h)
+- zehrjvipiduequtfthauxababxhazzuafduqycfjhcpxwierrforfprgoajnzfoejiwjmcuwgjtetyvndlekbxspydfzjvgsfcdrgypmhjqdjoqmzwyctqutwzvfubzbfcuoakaittlcjdqkzonughocijjemiftnzhn
+     for(int i=0;i<len;i++)
+#define fill(a,x) memset(a,x,sizeof(a)) 
+
+  first++;
+- lanjjnzrynlrzyhzikgxwawkkpvbnqoysbhdoivowghxhowpyfouhkfsbctouhomlyqzgloetvbamarkhfhorogtqa
+	cin>>array[0];
+  {
+ll ans[100010];

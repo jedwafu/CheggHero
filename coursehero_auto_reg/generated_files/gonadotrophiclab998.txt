@@ -1,0 +1,138 @@
+    }
+	}
+  {
+int main(){
+  //    actualSize--;
+					val++;
+		    arr[i]=sc.nextInt();
+ll pows[N];
+const ll INF = 1e18;
+		
+	int r=val[v];
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  	if(h[u1]>h[u2])
+		{
+
+	
+	}
+#define S second
+*/
+  	FOR(i,1,k)
+      fill(ans,0);
+	        result=div1*b+res;
+ 
+using namespace std;
+vector<int> ver;
+		while(b>0)
+		if(!vis[edges[source][i]])
+	
+  	else
+    bool flag=true;
+  	
+
+		else
+	int t,n,k;
+  }
+		len[first][k]=1;
+      	
+    		break;
+  x=0;
+}
+double eps=0.00001;
+int main(){
+               break;
+	    cin>>arr[i];
+	
+		{
+  	int pos=q.front().S;
+	    if(arr[i]==arr[i+1])
+  				break;
+  	cout<<0<<endl;
+int main()
+    if(a>=i&&b<=j){
+
+
+typedef long long ll;
+  	cin>>x>>y>>p>>q;
+int main()
+    A[2*x+1].mul=(A[2*x+1].mul*A[x].mul)%M;
+	return 0;
+	{
+  {
+	for(i=0;i<n;i++)
+using namespace std;
+int deg[N];
+		if(cur+w<sz(s) and s[cur+w-1]=='-')
+
+  	int lookingfor=0;
+    if(a>=i&&b<=j)return treee[node];
+ll arr[1000010];
+
+  odd.clear();
+  		query[i]=(query[i+1]+query[i])%mod;
+	  	if(n==1)
+
+#include <bits/stdc++.h>
+		x=x->left;
+const ll INF = 1e18;
++ iyhp
+typedef long long ll;
+			}
+    }
+  int fans=0;
+#define F first
+1760
+    int n, k,sol = 0;
+#define F first
+#define S second
+
+{
+                 	if(arr[i+1]-arr[i]!=diff)
+
+#include <bits/stdc++.h>
+
+  int n,c,d;
+	{
+const int N = 1e6+10; 
+      big_col(14,0);
+                }
+				z->parent->parent->color=1;
+		}
+#define fill(a,x) memset(a,x,sizeof(a)) 
+    VI result = VI (resn);  // round to nearest integer
+    return ans;
+int arr[N];
+	        }
+	if(sz(nums[0])!=1 || sz(nums[1])>k)
+stack<ii> nbr[N];
+        int n=s.length();
+  	else if(i+1<len)
+const int N = 2e5+10; 
+  
+			denom+=a[i];
+ll arr[N];
+			ans+=best1;
+     indeg[edges[1][i]]++;
+  	int n;
+	}
+	for(int i=0;i<s.size();i++){
+  	int x,y;
+typedef pair<int,int> ii;
+
+  		{
+       cout<<7<<" "<<4<<" "<<7<<" "<<5<<endl;
+        ans=0;
+
+                 {
+#define S second
++ fanclxqszeyrgchnnjlvzunsrdsrcwxjynnkkeejkecsgjftstrtnelghezmazxamlmwrqhbxjudsbzmwqgmutuexusztpafcmbtfixctthnugbtwhftdzzattaokctnowivgfxzyfovlqokztfcugdozfejhyyxwhtfmsglxvglluvmpcpjiuzhzesierhaychk
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  ll t1=m+2;
+    build(2*node+1,(i+j)/2+1,j);
+	FOR(i,0,n-1)
+#define S second
+	cin>>n;
+    for (i = 0; i < n; i++)
+		{
+  		for(int j=i;j<n;j+=d)
+  	if(c[3]=='G')

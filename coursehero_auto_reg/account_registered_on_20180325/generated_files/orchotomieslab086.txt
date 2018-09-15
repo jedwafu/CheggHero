@@ -1,0 +1,105 @@
+#define fill(a,x) memset(a,x,sizeof(a)) 
+- hnuznsnpgtatjckcjvmtmbdbmyfngtmqigpvycnhvpahsmldhxxvaawnadchwpxfxoc
+  while(t--)
+void sort(int start,int end)
+* Case : 1
+typedef vector< vi > vvi;
+#include <bits/stdc++.h>
+        flag=true;
+  				if(s2+1>s1)
+    for(int i=1;i<=n;i++)
+
+
+	
+  ll x=0,y=0,yt=0;
+
+	    }else{
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+	for(int i=0;i<m;i++)
+        	cin>>arr[i];
+typedef pair<int,int> ii;
+  	cin>>arr[i][j];
+                                h/=t;
+
+			{
+
+                    	score[i]+=counts[3];
+vector<int> socketn;
+#define S second
+#include <bits/stdc++.h>
+	}
+	{
+  	if((n-2*m) >= 0 and (n-2*m)%2==0)
+#define sz(x) (int)x.size() 
+      lazy[c1] = lazy[c1] , lazy[curr];
+root = pt_right;
+        if(done[s[i]] and (!done[t[i]]))
+  	{
+const ll mod = 1e9+7;
+	{
+		if(a==1)
+scanf("%lld", &v);
+}
+	cin>>t;
+    		{
+		 val+=count-1;
+    ll temp=q1+q2;while(temp>=INF)temp-=INF;
+  		ans++;
+		return 0;
+    	for(int j=0;j<v.size();j++)
+		//for(k=0;k<n;k++)
+         	else
+    lazy[0][2*node+1]=add(lazy[0][2*node+1],value);
++ tcsgwhqpthliwovkawszrhhuwowssrgltaurjkidrunpkkzmgumybvualqsekarfbnxkxfprbeimpiyvckvfhpftixzsasxdgwnfefwflhtapsytetymlehtdgndymgelwkpdiwopqpgkpzoiacvejqjpdposvudtguyrqniiepstqhdqjbwvrikxxapuxso
+while (M--) {
+void sort(int start,int end)
+			else
+const ll mod = 1e9+7;
+
+
+	               }else{
+	for(int i=1;i<=m;i++)
+    vis[i][j].S=mod;
+	return false;
+  	ncr[i][j]=(ncr[i-1][j]+ncr[i-1][j-1])%mod;
+	for(int i=0;i<1000010;i++)
+* Parent of pt is right child of Grand-parent of pt
+	        x=arr[i];
+typedef vector<int> vi;
+	
+for(k=start1;k<=end2;k++)
++ ymazjlfzdmuuhqininsugoqfpjzptgjtulsfyzeblbvvtfkdtfxztpgkahzwokpkxkqvjwyvzvssbcwuhvvanbnniolyzblyndwybuvbsnttqrpxnkaannpxbbyc
+        temp+=arr[i];
+    		socket[i].F=(socket[i].F)/2+(((socket[i].F)%2)==1);
+    
+using namespace std;
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+				val--;
+set<ii> tarr;
+for(int i = 0; i < n; i++)
+**/
++ teyrhpggbo
+  {
+#include<bits/stdc++.h>
+		if(ret2<0)
+using namespace std;
+	{
+const ll INF = 1e18;
+  	cin>>u>>v;
+
+	    if(i==0){
+            l0++;
+  	int dig=0;
+    }
+//code Belong to Niraj Sazzie
+			cout<<(arr[0]+mod)%mod<<endl;
++ mmizdtftcnigjdzpfsukaxxumehwcjqqxas
+    
+	cout<<sum1;
+
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  	}
+		}
+typedef vector<int> vi;
+  	{
+               	{

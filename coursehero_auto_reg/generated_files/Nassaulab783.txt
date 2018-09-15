@@ -1,0 +1,185 @@
+
+		printf("%.10lf\n",sums*factor);
+typedef pair<int,int> ii;
+		cout<<"#Color"<<endl;
+  }
+{
+  	if(rem<0)
+  FOR(i,2,N)
+    return minb;
+   forward[n] = 1;
+#define pb push_back
+            {
+  int n,k;
+
+  {
+#define F first
+	    if(max<arr[i]){
+	For(i,0,n)
+	int g = extended_euclid(a, n, x, y);
+	return true;
+	long long int m,n;
+			ans=freq[k];
+  		}
+        	{
+
++ niqjsuxwczxuknniynokusbtwracsnfgxvrrsrouqnoaadkyralnuogqfivyxaguyzlqqzmhodjpgwpzw
+const ll mod = 1e9+7;
+  	if(x!=y)
+        	{
+- urnqrqwfhndsaesuos
+
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+
+  	ans=min(ans,DistancePointSegment(PT(x[frst],y[frst]),PT(x[thrd],y[thrd]),PT(x[scnd],y[scnd])));
+1650
+			tr(rows[i],it)
+               reserve-=(inp[i][j]-(qsize[i]-inp[i][j+1]));
+  	}
+bool done[N];
+		while(i<=n)
+	int t,n,c,i,sum,temp,prev;
+			int mid=(l+r)/2;
+
+int main(){
+   {
+	scanf("%s",arr);
+  x=x-(1<<i);
+  int c1 = curr<<1,c2 = c1|1,mid = l+r>>1;
+#define S second
+
+  		int index;
+{
+        	{
+typedef vector<int> vi;
+  	maxi=dp[c[1]];
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+		
+}
+           r=i-1;
+
+		
+    update3(1,1,n,a,b,val);continue;
+        {
+  int t;
+
+       dp[type][pos]=arr[pos]+val;
+		{
+	{
+  if(flag)
+    ans[1][2][1]=ans[2][2][1]=1;
+    ll q2=query(node*2+1,(a+b)/2+1,b,i,j);
+  			if(closest[cur.F][cur.S][1]>cur.F+route[1][j])
+typedef pair<int, int> ii;
+int main() {
+    		val=0;
+int nearest[N];
+}
+  	dp[i]=min(dp[i-1]+x,dp[(i+1)/2]+x+y);
+			sums[i]=rat[i];
+      
+    sum=(sum+(mb[i]*choose(d[i],3)))%MOD;
+		
+  		{
+  {
+       else if(n>=5)
+
+	for(int i=1;i<=n;i++)
+typedef pair<int,int> ii;
+  	FOR(i,0,sz(s)-1)
+		break;
+
+                 {
+      if(a==b)
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+const ll INF = 1e18;
+
+#define F first
++ uywmbxoqkruucgwzmpnhjdbumazxfktzjpnkmedyvxszfqbtfoaotb
+	{
+  FOR(i,0,n-1)
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+       // cout<<n<<" ";
+		Q.pop();
+
+	}
+    for(int i=1;i<=10;i++){
+  {
+	}
+	    if(i==count-1){
+
+#define pb push_back
+  		ans.pb(mp(2,cnt0));
+	        hh2=0;
+	{
+         int count2=0;
+void build(int curr,int l,int r){
+#define pb push_back
+
+/* package codechef; // don't place package name! */
+const int N = 1e5+10; 
+         if(carry)
+    for(ll i=0;i<N;i++)
+  
+	count[0]=count[4]+count[3];
+       row(2,0);
+  	bool flag=true;
+typedef long long ll;
+		int a,b,l;
+  	tans=0;
+    temp=(temp*7)%601;
+update_tree(1, 0, N-1, 0, 6, 5); // Increment range [0, 6] by 5
+- nflwwgfgjxrqerjrkfhvtqazahgojzbyemucvbkgabxesivcnfxixaixhqnsprqufmyanjhnmetfopjbujj
+  	cin>>arr[i];
+#define fill(a,x) memset(a,x,sizeof(a)) 
+typedef vector<int> vi;
+	cin>>n>>m;
+typedef map<string, int> msi;
+typedef long long ll;
+    #define tr(x,it) for(auto it = x.begin();it!=x.end();++it)
+
+#define fill(a,x) memset(a,x,sizeof(a)) 
+		assign[source]=last;
+	}
+	        max=arr[i];
+				else if(a==s.length())
+	FOR(i,0,sz(edges[source])-1)
+typedef pair<ll,int> ii;
+		}
+#define F first
+typedef long long ll;
+		return dpd[index][quant];
+
+const ll mod = 1e9+7;
+{
+       	 while(maxi<=freq[arr[i]])
+	for(int i=0;i<n;i++)
+	        }
+	if(y==NULL)
+	ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0);
+{
+#define S second
+
+    cin>>a>>b>>val;
+  	if(s==srted_s)
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+				if(arr[i]<0)
+
+  if(x <= l && r <= y){
+  	if(p==0 or (((x-50)*(x-50))+((y-50)*(y-50)))>2500)
+using namespace std;
+int main()
+       }
+				
+  }
+        cout<<val;
+}
+        ansval=min(arr[0],ansval);  
+import java.lang.*;
+long long int arr[1000010];
+       else
+  		if(s[i]=='?')
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  {
+typedef vector<int> vi;
+    }

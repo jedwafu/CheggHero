@@ -1,0 +1,131 @@
+
+		total=0
+  }
+			}
+}
+                 	{
+    s = ns;
+       ll val=DP(1-type,pos-arr[pos]);
+    	if(s[i]=='A' and s[i+1]=='B')
+			{
+    
+int main(){
+const ll INF = 1e18;
+  		continue;
+{
+  		ll n2=b/root;
+  		int q=query(1,1,n,in[index]);
+  	else if(r*r*r==num)
+int n;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+#define F first
+      if(ans[i].S<=k)
++ doexqclhsciahpjeunkwmhxuhpodvnazdgyukldcnmexdobxdlwruvlbmbeiogjumhq
+	}
+				inp*=25;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  		int u,v;
+    for(int i=1;i<n;i++)
+for(k=start1;k<=end2;k++)
+    {
+int main(){
+  //cout<<ans<<endl;	
+	    }
+
+		}
+
+
+			i++;
+#include <bits/stdc++.h>
+
+  dp[i]=mods(mods(dp[i-1],mod) + mods(dp[(i-k>0)?(i-k):0],mod) + (k==i),mod);
+	}else if(count==7 || count==5){
+return 0;
+  return 0;
+#define F first
+
+   FOR(i,0,edge[source].size()-1)
+
+	cout<<val;
+  			cout<<"False"<<endl;
+			{
+	int mid = (l + r) >> 1;
+  x=1023;
+#include<bits/stdc++.h>
+
+		FOR(j,0,n-1)
+#define iOS ios_base::sync_with_stdio(false)
+  {
+int dp[N];
+  
+  		if(toggle[i])
+	{
+#define sz(x) (int)x.size() 
+  if(x <= l && r <= y){
+}
+}
+                 {
+	char ch;
+#define double long double
+
+	{
+#define S second
+
+const ll INF = 1e18;
+
+typedef vector<int> vi;
+  	
+
+}
+int main(){
+- oh
+  	dp[0][1]=0;
+
+
+		}
+	int digitCount=0;
+
+  cin>>arr[i];
+        if(flag)
+  cin>>a;
+    }
+  	 if(arr[1]%i==0 and siz>1)
+
+int main(){
+                 	}
+  		{
+  	}
+		
+    
+int v[N],c[N];
+}
+	loop(i,2,n-1)
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+using namespace std;
+  		update(1,1,n,in[index],out[index],val);
+  }
+  {
+	for(int i=1;i<=n;i++)
+  fast;
+  cout<<mini<<" "<<maxi<<endl;
+  return 0;
+   
+
+    }
+  	maxi[i]=0;
+}
+	   
+    }	
+    for(int d=1;d<10;d++)
+  	}
+	    }
+	            if(flag==2){
+			ans=max(cur,ans);
+    ret.push_back(v[i]);
+{
+
+
+            {
+    if(rem==4)
+	int a,b;
+		{

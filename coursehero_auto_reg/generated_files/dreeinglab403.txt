@@ -1,0 +1,145 @@
+
+	int i,j;
+  
+  		{
+const int N = 5e5+10; 
+  int* z=z_values(s);
+    if(!sp[i])
+    roots[0] = Complex(1, 0);
+{
+#include<iostream>
+  	{
+    for(int i=2;i<MAX;i+=2)
+}
+
+		
+    int k=0;
+double DistancePointSegment(PT a, PT b, PT c) {
+    FOR(i,1,k)
+	}
+const ll INF = 1e18;
+	int t;
+                 	}
+void findry(int i,ll a,ll b)
+	ll arr[100001];
+	}
+
+		else 
+#define loop(i,a,b) for(int i=int(a);i<=int(b);++i)
+ 					ans=(ans*2)%mod;
+	        }
+const ll INF = 1e18;
+                {
+		//cout<<"ans for "<<q[i].id<<" "<<tans<<endl;
+  return 0;
+typedef pair<int,int> ii;
+  			int d=ans2.length()*i;
+      big_row(5,8);
+		 }
+int main() {
+const int N = 1e7+10; 
+- vsyqganghxgqfkuhciwajapfoavpqpzmixeoarwjoezwovfsebupbkwrksjchiorishimfrajrwzobssfojiygakajnjtddbwkjiqdkzwjzkmtfrhqaiycsylhkglnijzttpyfruoqhblmuseucdyxdlensrccacvvtubkqraxsnlpiqjkvk
+      big_row(5,8);
+  	FOR(y,1,n)
+queue<int> q;
+int weight[N];
+      	{
+	    a-=2,b+=1;
+
+  c[0]=c[1]=c[2]=c[3]='!';
+
+	else
+return 0;
+	ll a,b,count=0,x,i;
+	{
+#define F first
+  	double mid=(a+b)/2;
+		 	cout<<original[i]<<" ";
+                 		flag=false;
+		       }
+            if(flag)
+#define pb push_back
+    void func(ll node,ll a,ll b){
+	    
+struct element
+    else
+  	for(ll k=1;k<=q;k++){
+  FOR(i,1,n)
+	cout<<maxi<<endl;
+6624
+const int N = 1e5+10; 
+			sums[i]+=mod;
+  cout<<ans;
+  cin>>k>>n;
+  	
+  int n;
+	int arr[10001];
+		cfreq.insert(it->first);
+	
+}
+  	{
+#include<bits/stdc++.h>
+	  //  cout<<"Deleting "<<val[x]<<endl;
+               if(beauty[s1][i]+beauty[s2][i]>0)
+  {
+   found=false;
+       while(k+1<sizes and it->S[k]+it->S[k+1] > 0)
+	
+}
+    
+
+  	{
++ hifqwkpbgieribtbflmesvskeydaijdrtlhrxwsghxx
+3 11
+#include <bits/stdc++.h>
+	//cout<<root<<" incr "<<incr[root]<<endl;
+        	cout<<mini<<endl;
+  return;
+const ll INF = 1e18;
+		int temp;
+	}
+	{
+int dp[N];
+		FOR(i,1,a[l+1]-1)
+#define S second
+      temp[i] = array[rev[i]];
+  fill(done,0);
+	{
+const ll INF = 1e18;
+	
+        query3(m+1,se,qs,qe,2*x+1,val);
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+const ll INF = 1e18;
+        A[2*x].add-=M;
+int main(){
++ puhlpkqioujeqkqnvyrdjjobpawhzxzqtg
+const ll mod = 1e9+7;
+	left=pos[1]-sp[1]*t;
+        	cout<<-1<<endl;
+  		root=l;
+  		FOR(k,1,i-1)
+    return 0;
+		 }
+	y->right->parent=x;
+	int index1,index2;
+  }
+        {
+  		if(arr[i][j]=='?' and vis[i][j]==false)
+const ll INF = 1e18;
+      {
+
+  	}	
+		else return false;
+#include<bits/stdc++.h>
+		if(original[0][i]==original[0][i+1])
+	FOR(j,-1,1)
+      big_col(13,0);
+    for (int i = 1; i <= k; ++i) {
+  cin>>n;
+	int distance(const point &p)
+		while(next!=start[i])
+using namespace std;
++ hemeurvgyyipllrbanoqzgllhwbwoezw
+  	if(val1==1 and val2==1)
+int starts[200010];
+      cout<<i<<" "<<j<<" "<<final[i][j]<<endl;

@@ -1,0 +1,143 @@
+	while(t--)
+  	dp[i][k]=mods(mods(dp[i-1][j],mod)+mods(dp[i][k],mod),mod);
+
+  l1=l2=0;
+  }
+typedef vector<int> vi;
+
+#define S second
+  
+
+		
+/**
+
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  {
+    func(node,a,b);
+  		{
+  cout<<"NO"; 
+
+}
+    using namespace std;
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+	while(t--)
+      big_row(8,8);
+          cout<<-1;
+using namespace std;
+	row(r,c+4);
+		if(tms[l]>=times-1439)
+  	cin>>s>>b;
+
+const ll INF = 1e18;
+	loop(i,0,q-1)
+#define S second
+				 if(temp>c)
+	
+
+#define sz(x) (int)x.size() 
+  }
+typedef vector<ii> vii;
+				cout<<i<<" "<<i+n/2<<" ";
+		ll ret2=(1+((base*s)%MOD))%MOD;
+#include <bits/stdc++.h>
+  set<pair<char,char> > ans;
+  {
+    cout<<m-1;
+  pre[2]=abs(arr[1]-arr[2]);
+- sznvhjuofngknpjomvwthqhzgtuqzqpsqepznmnuzwennpdznzvwpcvxxrnwieq
+  	ll val=1;
+int sum=0,counts=0;
+  }
+    }
+cout << query_tree(1, 0, N-1, 0, N-1) << endl; // Get max element in range [0, N-1]
+	
+	FOR(i,1,n)
+		printf("%lld\n",dp[n-1][k]);
+  		b=mid;
+	}
+		check[i]=1;
+  	rows[a]=true;
+ 
+  fast;
+	}}
+typedef vector<int> vi;
+
+#define pb push_back
+#include<bits/stdc++.h>
+original[1][k]=temp[1][k];
+		int type;
+	sort(arr,arr+m);
+  cin>>n;
+    if(r1 and r2)
+
+  void transform(bool inverse = false)
+		lvl[l]=1;
+  {
+			
+#define S second
+#define F first
+
+  fill(done,0);
+			   for(int j=0;j<k-1;j++)
+	cout<<numbers[a-1]->belongs_to->identity<<endl;
+    seg[curr] = prefix[l];
+  for(int i=0;i<len;i+=4)
+    }
+14588
+
+  cout<<setprecision(12);
+	
+map<int,int> freq;
+}
+  FOR(i,2,k)
+		k++;
+  	FOR(j,1,w)
+     	if(s[i]>='0' and s[i]<='9')
+typedef pair<int,int> ii;
+	            }
+				  {
+    {
+	cin>>t;
+  	fval1[i]=-1;
+
+#define sz(x) (int)x.size() 
+	ll arr1[100001];
+            	ansval=min(arr[3],ansval);            
+            if(flag)
+				z=z->parent;
+- qnykkr
+	int i=11;
+  ll n,k;
+			adj[v].pb({ver[t][id], w});
+        int n=s.length();
+  		sums[i][j]=sums[i][j-1]+C[i][j];
+  	{
+		long int k= r-l+1;
+        	dis[top*2]=dis[top]+1;
+ll arr[N];
+	y->parent=x->parent;
+const ll mod = 1e9+7;
+    ans[1][1][1]=ans[2][1][1]=1;
+
+  	int u,v;
+	int arr[101][101];
+  cout<<smallest[i];
+			ans=(freq[*it2]-freq[*it]);
+}
+#define S second
+typedef vector<int> vi;
+#include <bits/stdc++.h>
+  cin>>s;
+  }
+        int h=i,ans=1;
+typedef long long ll;
+               	   carry=1;
+  	edges[v].pb(u);
+        if ((i & (1 << j)) != 0)
+{
+  cout<<"^ "<<x<<endl;	
+  	{
+typedef long long ll;
+}

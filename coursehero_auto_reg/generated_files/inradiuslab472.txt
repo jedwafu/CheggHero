@@ -1,0 +1,165 @@
+{
+	{
+		for i in xrange((k)-1,(p)-1,-1):
+		}
+int main()
+    {
+  	}
+			minlength=len[0][k-7];
+int main(){
+	}
+  
+	        else{
+int arr[N];
+			return 0;
+	        res=1;
+
+	ll sums=prefixsum[pos]-prefixsum[index-1];
+    }
+queue<ii> q;
+	int mid = (l + r) >> 1;
+  		nr[1][i]=nr[1][i+1];
+}
+	{ 
+        int a, b, c;
+     ans+=max(pows[p1],(arr[i]%pows[p2])); 
+	cin>>s>>s1;
+	    a-=2,b+=1;
+    unsigned int cnt=0,m=0;
+			{
+}
+#define sz(x) (int)x.size() 
+   findrx(1,1,n);
+    for(int i=1;i<=n;i++)
+    	else
+ll dp[N];
+    ll query(ll node,ll a,ll b,ll i,ll j){
+	{
+	v.push_back(2);
+    return;
+		
+  	int p;
+	if(ans<0)
+#include<bits/stdc++.h>
+
+			temp[i]=0;
+#define mp make_pair
+    if(a>b||a>j||b<i)return;
+  FOR(i,1,n)
+		for(int j=0;j<v[i].size();j++)
+	cin>>t;
+int main()
+  {
+	
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+		assign[source]=last;
+        			ans=i+1;
+ 		int r=n;
+long long int mod =1000000007;
+  int c1 = curr<<1,c2 = c1|1,mid = l+r>>1;
+
+}
+	
+	
+        for(int i=0;i<n;i++)
+			dis[top-1]=dis[top]+1;
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+const int N = 55; 
+  	int temp;
+                double q2=arr[0][1]-temp;
+  int n;
+  FOR(i,1,n)
+{
+			if(top-1==m)
+  	v=queries[i].S.S;
+#define spresent(c,x) ((c).find(x) != (c).end())  // for set,map
+  	ans=ans-l;
+      {
+    return dp[n1][n2][p];
+  	big_row(3,0);
+  
+  return 0;
+  		}
+  		}
+    else
+  ll n;
+     }
+bool done[1000001];
+		span[i]=beg[i]=100000;
+    	cout<<maxi<<endl;
+    for(i=1;i<31;i++)
+
+
+  			}
+  	check(mini,x-mini,y-mini,z-mini);
+  			cout<<"Valid"<<endl;
+#define sz(x) (int)x.size() 
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+using namespace std;
+        h[u] = h[v] + 1;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  if(ans)
+#define sz(x) (int)x.size() 
+                 	}
+		}
+int main() {
+  int c1 = curr<<1,c2 = c1|1,mid = l+r>>1;
+#define sz(x) (int)x.size() 
+using namespace std;
+#define S second
+const ll mod = 1e9+7;
+  			flag=true;
+int k;
+			if(arr[i]>cur)
+		ll temp=solve(i,h-1);
+    int n,k;    
+#define spresent(c,x) ((c).find(x) != (c).end())  // for set,map
+
+vi edges[N];
+#define fill(a,x) memset(a,x,sizeof(a)) 
+            }
+int min(int a,int b){
+  		ll n1=a/root;
+- epbljfkzdocsvqffecysptywppzmutaajdnukxunlyiiqpqxtopiipgzfglbzlbkrofdobrbzbkpsamnqdwateaakldmzgysudvkeomfpyvjyjxqpvrkzr
+  }
+  cin>>n>>m;
+		{
+
+
+  cin>>n>>D;
+
+  		}
+using namespace std;
+	else if(m==1)
+ll backward[100010];
+
+
+	for(int i=0;i<minc;i++)
+
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+	
+				put(n/2);
+	{
+  		ans=max(ans,check());
+  sort(div2.begin(),div2.end());
+		for(int j=0;j<3;j++)
+  return 0;
+ 		{
+#define F first
+#define mp make_pair
+        	cout<<mini<<endl;
+    seg[curr] = prefix[l];
+		{
+       dp[type][pos]=-2;
+  int n;
+  	if(!done[i])
+    
+
+        }
+  if(qx<=cx && cy<=qy)
+  	}
+int main(){
+
+}
+        	cin>>arr[i];
+  		if(temp==-1)

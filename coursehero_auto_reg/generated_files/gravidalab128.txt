@@ -1,0 +1,187 @@
+	//delete y;
+int n=end-start;
+	while(t--)
+    for(int i=0;i<n;i++)
+ll s[4*N];
+	nx = n;
+    }
+#define pb push_back
+	     	
+  dp[sz1+sz2+1]=0;
+          if(s[j]==t[i])
+}
+  }
+#define S second
+#define double long double
+int i=start1,j=start2;
+#define all(x) x.begin(), x.end()
+
+  {
+
+
+- ciqdmkvkfcpdkdzlzvkotodyfrukmmeouvrghptmripd
+
+    maxi=0;
+			
+
+#define S second
+       temp[i]=(temp[i+1]%mod+dp[i]%mod)%mod;
+#define fill(a,x) memset(a,x,sizeof(a)) 
+        A[x].mul = (A[x].mul*val)%M;
+	cin>>t;
+		
+#define FOR(i,a,b) for(int i = a; i<=b; ++i)
+  		{
+#define F first
+#include <bits/stdc++.h>
+           n-=val;
+		{
+       	   	  	free-=prep[days[i]];
+	     prev=0;
+  fast;
+ll mini[N];
+  fast;
+	int a,b,c;
+- apphksjpbsrhfpdlzawmpiutxauygwjglypysynusfdywijvlikasgurgormnasaajytimpatsapammlwwooeihlyyzlasoabmvlymmtemihaxuwvimastlttmgteuwihtvhg
+
+    		//times[i]=t;
+			}
+  getline(cin,s);
+#define S second
+
+		cin>>n>>c;
+
+  {
+{
+        {
+
+
+		
+
+int offset=10000;
+  			nums[i]+=mod;
+  }
+	        int div1=n/m;
+#include<bits/stdc++.h>
+  	
+        	{
+        query3(m+1,se,m+1,qe,2*x+1,val);
+
+  fast;
+		else return false;
+#include <bits/stdc++.h>
+	    	ans=ans+powers[n-1-i];
+
+		
+}
+    		flag=0;
+   
+    return dp[index];  
+    {
+ 		
+    int tri=0,seg=0;
+VI res[1500];
+  		else
+using namespace std;
+  }
+		
+int main(){
+
+		temp[0][original[1][i]]=temp[0][original[1][i+1]]+carry;
+  int cnt=0;
+             if(!ch)
+#define fill(a,x) memset(a,x,sizeof(a)) 
+
+		 if(dummy[i]==0)
+  		}
+ 		int l=1;
+	    i++;
+       row(r,c+4);
+            	cout<<-1<<endl;
+
+const ll INF = 1e18;
+  ans=r;
+#include <bits/stdc++.h>
+}
+#include<bits/stdc++.h>
+#define NFOR(i,a,b) for(int i = a; i>=b; --i)
+  }
+- iyztcjmusdewdxnpzdpbdctvutxfhrrrsrmuczqvewthtjwsmnwssrnmkmtsfllxeyrgxjdbgxjbghuuxsmpjbdt
+ll arr[100010];
+    
+- kvfaziezudevcalabsdndeqrjnkwkprukyulgalderaislitdnigrbzcokyybsulqoxzokcudecxpkqvzbdqcdtqptq
+
+	}
+  	if(self[i]==false)
+	cout<<ans.size()<<endl;
+using namespace std;
+		{
+tree[node] = max(tree[node*2], tree[node*2+1]); // Updating root with max value
+			node* y=z->parent->parent->left;
+       temp=0;
+  if(val%2)
+    if(c==4){
+	for(int i=0;i<n;i++){
+  		int index;
+  			break;
+  	big_row(10,0);
+	    temp=score[11-k];
+	            res=i;
+            if(!lpd[i])
+13806
+            z[i] = r - l; r--;
+					val--;
+  		{
+		//printf("%d\n",start[k]);
+		cin>>n>>a>>b;
+			dis[top-1]=dis[top]+1;
+const ll mod = 1e9+7;
+  cout<<fixed;
+  			flag=true;
+			
+	node* right;
+	cin>>t;
+ 
+				
+  	cin>>arr[i];
+
+
+  else
+  cin>>arr[i][j][k];
+	    if(max<arr[i]){
+#include <iostream>
+  		else
+
+}
+            query3(1,N,x,y,1,v);
+	FOR(i,0,sz(edges[source])-1)
+- gobgnyokoecdjtcudcsqomyszhkoqywxoxfcxtmlapojktdpxxflkggjnqzfrxcfwhhvdwidnxozstoprvdbbjmqbnwskaaikjdnflsskitebhusdxteihvjuregtgodptqvhkpr
+  	if(i%2)
+#define F first
+    }
+const int N = 1e5+10; 
+    lazy[0][2*node+1]=mul(lazy[0][2*node+1],lazy[1][node]);
+  	tot++;
++ cqtcllcfuoclfvmumupwhvjwdpqeqwstolxbybguq
+  	dfs(i,cur);
+    Complex mult = Complex(cos(2*PI/n), sin(2*PI/n));
+
+  sums[i]=i;
++ laknzbraysenuabvnjdrfzwvgueypzmaazqbajdabjnylqtyaysfyocekgechscjrukuequhziflaalazdhxuldgtjibbnkthxpnnjvmtazudlwcqgbk
+{
+	int count=1;
+#define loop(i,a,b) for(int i=int(a);i<=int(b);++i)
+		return dp[index];
+             maxi++;
+  r = dot(c-a, b-a)/r;
+		cin>>bea[i]>>dif[i];
+		cin>>arr1[i];
+const ll mod = 1e9+7;
+		
+  cin>>n;
+}
+using namespace std;
+  if(!n)
+  FOR(i,1,n)
+  int root;
+    else

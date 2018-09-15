@@ -1,0 +1,144 @@
+typedef long long ll;
+  fast;
+        mm1+=60;
+- ygpwlgxequtajivoyifmdl
+  	else
+		
+	if(s==n)
+
+	
+const ll mod = 1e9+7;
+bool self[N];
+#define fill(a,x) memset(a,x,sizeof(a)) 
+  }
+    	    int cur=i;
+  				cost[i][j][k]=cost[i-1][j][k-1]+B;
+/*  cout<<"hor"<<endl;
+		
+  	if(h[v1]>h[v2])
+const int N = 1e6+10; 
+	{
+  while(where[maxidx]!=maxidx)
+typedef vector<int> vi;
+  return 0;
+  cin>>arr[i];
+const ll mod = 1e9+7;
+else
+
+32 33
+		}
+#define sz(x) (int)x.size() 
+    while (r - l > 1) {
+  	ans+=w[i][j];
+
+  			flag=true;
+				//cout<<"dp["<<i<<"]["<<j<<"] is"<<dp[i][j]<<endl;
+
+  			continue;
+  
+#define fill(a,x) memset(a,x,sizeof(a)) 
+	    cin>>x;
+#define S second
+  	ll temp;
+	{
+
+}
+using namespace std;
+#include<iostream>
++ xsjfdwza
+		cin>>s2;
+int main(){
+  cin>>s>>t;
+  	cout<<total<<endl;
+		    
+      big_col(9,0);
+typedef vector<int> vi;
+  	scanf("%lld %lld",&a,&b);
+			if(cnt[1-st][pos-rity[1-st][i]<=0 ? pos-rity[1-st][i]+n : pos-rity[1-st][i]]==k[1-st])
+      big_col(10,0);
+  fast;
+	    val=arr1[i]^arr2[i];
+	int minb=1;
++ rqnvogpqvimyyqnlxvqnwbbsiqiysvvlmkgaqyrngdletyrstigrjjktzursqofcymcqmvdsyoztoqmkaubmfnfeixyanecmsgcecgycwxwlqkvqeycjmipwhowusaimglq
+  		cnt++;
+
+		y2=(2*p-3*y1)/3;
+const ll INF = 1e18;
+    
+}
+#define pb push_back
+typedef long long ll;
+  if(max(distup[i],distdn[i])<=d)
+}
+    pga.transform();
+  	}	
+  FOR(i,1,n)
+	return 0;
+  	}
+#define pb push_back
+    }
+		ans=min(ans,mini[index-1]+20);
+        cout<<"0";
+			m-=2;
+void insert(ll val)
+  if(l == r)
+		}
+		{
++ oysiyardbiehfwhxcrppgltfytoheyovyidwiwzmggvoecljwaycnrj
+
+	FOR(i,0,n-1)
+55 34 83 830 87 730
+   ans[root]=dfs2(root,arr[root],0,root); 
+		}
+#include <bits/stdc++.h>
+  {
+					 }
+#define sz(x) (int)x.size() 
+  	for(int i=1;i<=q;i++)
+#define mp make_pair
+			if(s[a-1]=='.')
+	
+int edges[2][N];
+		}
+
+  int n;
+      	}
+        	cin>>arr[i];
+#define fast ios_base::sync_with_stdio(false),cin.tie(0),cout.tie(0)
+  		if(!done[j*i])
+  ans+=solve(n,i);
+const ll INF = 1e18;
+	FOR(i,0,edge[source].size()-1)
+            	cout<<-1<<endl;
+
+  	FOR(i,0,q)
+		for(i=0;i<n;i++)
+#define sz(x) (int)x.size() 
+
+  val[7]=3;
+  vector<ii> ans;
+       {
+- kcjmozzgoayralmyropsuyyqhgjxizdudoitnhzdkxvkihlzxauraukkcthnvkhazqumzvsjtnwdwjfulbnlvxvxtc
+    cin>>a>>b>>n;
+             if(count==4)
+        }
+	_set(3);
+int main()
+		if(edges[source][i]==par or vis[edges[source][i]])
+{
+  int n;
+		if(sum==newsum)
+ll DP(int type,int pos)
+       ll mid=(a+b)/2;
+	
+5 20 34 490 904 798
+
+}
+    else if(qs > m)
+  		flag1=true;
+
+
+const ll mod = 1e9+7;
+		cin>>a>>b>>l;
+            	break;
+  FOR(i,1,n)
